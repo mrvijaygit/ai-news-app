@@ -1,0 +1,6 @@
+node_modules/
+.env
+npm-debug.log*
+storage/seen-news.json
+coverage/
+.DS_Store

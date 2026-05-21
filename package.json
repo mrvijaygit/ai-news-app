@@ -1,0 +1,32 @@
+{
+  "name": "ai-news-monitoring-agent",
+  "version": "1.0.0",
+  "description": "Free Node.js AI news monitoring agent with RSS, email alerts, JSON storage, and optional bonus sources.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "RUN_ON_START=true node src/index.js",
+    "dry-run": "DRY_RUN=true RUN_ON_START=true EXIT_AFTER_RUN=true node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai-news",
+    "rss",
+    "monitoring",
+    "gmail",
+    "node-cron"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^8.0.7",
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+

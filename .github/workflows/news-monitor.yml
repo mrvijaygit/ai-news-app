@@ -1,0 +1,74 @@
+name: AI News Monitor
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: ai-news-monitor-state
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ensure storage directory exists
+        run: mkdir -p storage
+
+      - name: Run monitor once
+        env:
+          RUN_ON_START: "true"
+          EXIT_AFTER_RUN: "true"
+          DRY_RUN: "false"
+          MAX_ITEM_AGE_HOURS: ${{ vars.MAX_ITEM_AGE_HOURS || '48' }}
+          SEEN_STORE_PATH: storage/seen-news.json
+          EMAIL_ENABLED: "true"
+          SMTP_HOST: smtp.gmail.com
+          SMTP_PORT: "465"
+          SMTP_SECURE: "true"
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          REDDIT_ENABLED: ${{ vars.REDDIT_ENABLED || 'false' }}
+          HN_ENABLED: ${{ vars.HN_ENABLED || 'false' }}
+          TELEGRAM_ENABLED: ${{ vars.TELEGRAM_ENABLED || 'false' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm start
+
+      - name: Persist seen-news state
+        run: |
+          if [ ! -f storage/seen-news.json ]; then
+            echo "No seen-news.json file was created."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f storage/seen-news.json
+
+          if git diff --cached --quiet; then
+            echo "No seen-news state changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update AI news seen state [skip ci]"
+          git pull --rebase
+          git push
