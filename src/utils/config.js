@@ -40,12 +40,12 @@ function loadConfig(env = process.env) {
     },
     reddit: {
       enabled: bool(env.REDDIT_ENABLED, false),
-      query: env.REDDIT_QUERY || '(OpenAI OR Anthropic OR Gemini OR DeepMind)',
+      query: env.REDDIT_QUERY || '(OpenAI OR Anthropic OR Gemini OR DeepMind OR "Meta AI" OR Mistral OR xAI OR Grok OR "Hugging Face" OR Cohere OR Perplexity)',
       limit: int(env.REDDIT_LIMIT, 10)
     },
     hackerNews: {
       enabled: bool(env.HN_ENABLED, false),
-      query: env.HN_QUERY || 'OpenAI Anthropic Gemini DeepMind',
+      query: env.HN_QUERY || 'OpenAI Anthropic Gemini DeepMind Mistral xAI Grok Llama Hugging Face',
       limit: int(env.HN_LIMIT, 20)
     },
     telegram: {

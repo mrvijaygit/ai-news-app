@@ -1,12 +1,21 @@
 const { createStableId, summarizeText } = require('../utils/itemUtils');
 
 function classifyCompany(text) {
-  const value = text.toLowerCase();
-  if (value.includes('anthropic') || value.includes('claude')) return 'Anthropic';
-  if (value.includes('gemini') || value.includes('google')) return 'Google Gemini';
-  if (value.includes('deepmind')) return 'DeepMind';
-  if (value.includes('openai') || value.includes('chatgpt')) return 'OpenAI';
-  return 'Hacker News AI';
+  const v = text.toLowerCase();
+  if (v.includes('anthropic') || v.includes('claude')) return 'Anthropic';
+  if (v.includes('deepmind')) return 'Google DeepMind';
+  if (v.includes('gemini') || v.includes('google ai')) return 'Google AI / Gemini';
+  if (v.includes('openai') || v.includes('chatgpt') || v.includes(' gpt')) return 'OpenAI';
+  if (v.includes('meta ai') || v.includes('llama') || v.includes('meta llm')) return 'Meta AI';
+  if (v.includes('mistral') || v.includes('mixtral')) return 'Mistral AI';
+  if (v.includes('grok') || v.includes(' xai') || v.includes('x.ai')) return 'xAI';
+  if (v.includes('copilot') || v.includes('microsoft ai') || v.includes('azure ai') || v.includes(' phi-')) return 'Microsoft AI';
+  if (v.includes('hugging face') || v.includes('huggingface')) return 'Hugging Face';
+  if (v.includes('cohere')) return 'Cohere';
+  if (v.includes('perplexity')) return 'Perplexity AI';
+  if (v.includes('nvidia')) return 'NVIDIA AI';
+  if (v.includes('bedrock') || v.includes('aws ai')) return 'AWS AI';
+  return 'AI News';
 }
 
 function hackerNewsUrl(query, limit) {
