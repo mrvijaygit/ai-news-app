@@ -317,6 +317,7 @@ function createRssFetcher({ feeds = DEFAULT_FEEDS, logger = console } = {}) {
 
   return async function fetchRssNews() {
     const allItems = [];
+    const health = [];
 
     for (const feed of feeds) {
       try {
@@ -324,9 +325,11 @@ function createRssFetcher({ feeds = DEFAULT_FEEDS, logger = console } = {}) {
         const items = (parsed.items || []).map((item) => normalizeRssItem(item, feed));
         logger.info(`Fetched ${items.length} item(s) from ${feed.source}.`);
         allItems.push(...items);
+        health.push({ source: feed.source, status: 'ok', count: items.length });
       } catch (error) {
         if (!feed.htmlFallback) {
           logger.error(`Failed to fetch ${feed.source}: ${error.message}`);
+          health.push({ source: feed.source, status: 'error', error: error.message });
           continue;
         }
 
@@ -345,13 +348,15 @@ function createRssFetcher({ feeds = DEFAULT_FEEDS, logger = console } = {}) {
           const items = parseFn(html);
           logger.info(`Fetched ${items.length} item(s) from ${feed.source} via HTML fallback.`);
           allItems.push(...items);
+          health.push({ source: feed.source, status: 'ok', count: items.length, method: 'html-fallback' });
         } catch (fallbackError) {
           logger.error(`HTML fallback also failed for ${feed.source}: ${fallbackError.message}`);
+          health.push({ source: feed.source, status: 'error', error: fallbackError.message });
         }
       }
     }
 
-    return allItems;
+    return { items: allItems, health };
   };
 }
 

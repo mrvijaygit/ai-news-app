@@ -26,7 +26,7 @@ function buildFetchers(config, logger) {
 function buildNotifiers(config, logger) {
   const notifiers = [];
   if (config.email.enabled) {
-    notifiers.push((items) => sendEmailAlert(items, config, logger));
+    notifiers.push((items, meta) => sendEmailAlert(items, config, logger, meta));
   }
   if (config.telegram.enabled) {
     notifiers.push((items) => sendTelegramAlert(items, config, logger));
@@ -65,7 +65,8 @@ async function main() {
     notifiers,
     logger,
     maxItemAgeHours: config.maxItemAgeHours,
-    persistSeen: !config.dryRun
+    persistSeen: !config.dryRun,
+    config
   });
 
   if (config.runOnStart) {

@@ -12,11 +12,14 @@ class SeenStore {
       const parsed = JSON.parse(raw);
       return {
         seen: Array.isArray(parsed.seen) ? parsed.seen : [],
+        seenAt: (parsed.seenAt && typeof parsed.seenAt === 'object' && !Array.isArray(parsed.seenAt))
+          ? parsed.seenAt
+          : {},
         updatedAt: parsed.updatedAt || null
       };
     } catch (error) {
       if (error.code === 'ENOENT') {
-        const initial = { seen: [], updatedAt: null };
+        const initial = { seen: [], seenAt: {}, updatedAt: null };
         await this.save(initial);
         return initial;
       }
@@ -43,19 +46,42 @@ class SeenStore {
   async markSeen(items) {
     const data = await this.load();
     const seen = new Set(data.seen);
+    const now = new Date().toISOString();
 
     for (const item of items) {
       if (item && item.id) {
         seen.add(item.id);
+        data.seenAt[item.id] = now;
       }
     }
 
     const next = {
       seen: [...seen],
-      updatedAt: new Date().toISOString()
+      seenAt: data.seenAt,
+      updatedAt: now
     };
     await this.save(next);
     return next;
+  }
+
+  async prune(maxAgeDays = 60) {
+    const data = await this.load();
+    const cutoff = Date.now() - maxAgeDays * 24 * 60 * 60 * 1000;
+    const fallbackTs = data.updatedAt ? Date.parse(data.updatedAt) : 0;
+
+    const before = data.seen.length;
+    data.seen = data.seen.filter((id) => {
+      const ts = data.seenAt[id] ? Date.parse(data.seenAt[id]) : fallbackTs;
+      return ts >= cutoff;
+    });
+
+    for (const id of Object.keys(data.seenAt)) {
+      if (!data.seen.includes(id)) delete data.seenAt[id];
+    }
+
+    const pruned = before - data.seen.length;
+    if (pruned > 0) await this.save(data);
+    return pruned;
   }
 }
 

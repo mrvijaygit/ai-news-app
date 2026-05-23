@@ -51,6 +51,11 @@ jobs:
           TELEGRAM_ENABLED: ${{ vars.TELEGRAM_ENABLED || 'false' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AI_SUMMARIES_ENABLED: ${{ vars.AI_SUMMARIES_ENABLED || 'false' }}
+          RELEVANCE_FILTER_ENABLED: ${{ vars.RELEVANCE_FILTER_ENABLED || 'true' }}
+          RELEVANCE_MIN_SCORE: ${{ vars.RELEVANCE_MIN_SCORE || '0.5' }}
+          SEEN_MAX_AGE_DAYS: ${{ vars.SEEN_MAX_AGE_DAYS || '60' }}
         run: npm start
 
       - name: Persist seen-news state
@@ -63,6 +68,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -f storage/seen-news.json
+          git add -f storage/feed-health.json 2>/dev/null || true
 
           if git diff --cached --quiet; then
             echo "No seen-news state changes to commit."

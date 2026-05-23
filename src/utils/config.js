@@ -53,7 +53,15 @@ function loadConfig(env = process.env) {
       botToken: env.TELEGRAM_BOT_TOKEN,
       chatId: env.TELEGRAM_CHAT_ID
     },
-    aiSummariesEnabled: bool(env.AI_SUMMARIES_ENABLED, false)
+    aiSummariesEnabled: bool(env.AI_SUMMARIES_ENABLED, false),
+    anthropicApiKey: env.ANTHROPIC_API_KEY || null,
+    relevanceFilter: {
+      enabled: bool(env.RELEVANCE_FILTER_ENABLED, true),
+      minScore: Number.parseFloat(env.RELEVANCE_MIN_SCORE || '0.5') || 0.5
+    },
+    seenStore: {
+      maxAgeDays: int(env.SEEN_MAX_AGE_DAYS, 60)
+    }
   };
 
   return config;
