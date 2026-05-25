@@ -8,8 +8,11 @@ function filterRecentItems(items, maxItemAgeHours) {
   }
   const cutoff = Date.now() - maxItemAgeHours * 60 * 60 * 1000;
   return items.filter((item) => {
-    const value = Date.parse(item.publishedAt || '');
-    return !Number.isNaN(value) && value >= cutoff;
+    // Items with no publish date (common from HTML scrapers) are assumed recent
+    // and passed through — the seen-store deduplication handles them correctly.
+    if (!item.publishedAt) return true;
+    const value = Date.parse(item.publishedAt);
+    return Number.isNaN(value) || value >= cutoff;
   });
 }
 

@@ -112,7 +112,8 @@ function parseMistralNewsPage(html, feed) {
 function parseXaiPage(html, feed) {
   const items = [];
   const seen = new Set();
-  const linkRegex = /<a[^>]+href="(\/blog\/[^"?#]+)"[^>]*>([\s\S]*?)(?=<\/a>)/g;
+  // xAI uses /news/ paths (not /blog/) and unquoted hrefs in some cases
+  const linkRegex = /<a[^>]+href="(\/(?:news|blog)\/[^"?#]+)"[^>]*>([\s\S]*?)(?=<\/a>)/g;
   let match;
 
   while ((match = linkRegex.exec(html)) !== null) {
@@ -133,6 +134,233 @@ function parseXaiPage(html, feed) {
       publishedAt: normalizeDate(stripTags(dateMatch?.[1] || '')),
       summary: summarizeText(stripTags(summaryMatch?.[1] || title)),
       link: `https://x.ai${path}`
+    };
+
+    items.push({ ...normalized, id: createStableId(normalized) });
+  }
+
+  return items;
+}
+
+function parseDeepMindPage(html, feed) {
+  // DeepMind uses <article class="card card-blog ..."> with an unquoted href on
+  // the overlay-link anchor: href=/blog/slug or href=https://blog.google/...
+  const items = [];
+  const seen = new Set();
+
+  const articleRegex = /<article[^>]*card-blog[^>]*>([\s\S]*?)<\/article>/g;
+  let match;
+
+  while ((match = articleRegex.exec(html)) !== null) {
+    const block = match[1];
+
+    // The overlay anchor has an unquoted href attribute
+    const hrefMatch = block.match(/class=card__overlay-link[^>]+href=([^\s>"']+)/);
+    const titleMatch = block.match(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/);
+    const dateMatch = block.match(/<time[^>]*>([\s\S]*?)<\/time>/);
+    const summaryMatch = block.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+
+    const title = stripTags(titleMatch?.[1] || '');
+    if (!title) continue;
+
+    let rawHref = hrefMatch?.[1] || '';
+    const link = rawHref.startsWith('http')
+      ? rawHref
+      : `https://deepmind.google${rawHref}`;
+
+    if (seen.has(link)) continue;
+    seen.add(link);
+
+    const normalized = {
+      company: feed.company,
+      source: feed.source,
+      title,
+      publishedAt: normalizeDate(stripTags(dateMatch?.[1] || '')),
+      summary: summarizeText(stripTags(summaryMatch?.[1] || title)),
+      link
+    };
+
+    items.push({ ...normalized, id: createStableId(normalized) });
+  }
+
+  return items;
+}
+
+function parseMetaAIPage(html, feed) {
+  // Meta AI blog uses full absolute href="https://ai.meta.com/blog/…" links.
+  // The title text sits directly inside the <a> element (after stripping child tags).
+  const items = [];
+  const seen = new Set();
+
+  // Match <a href="https://ai.meta.com/blog/SLUG">…title text…</a>
+  const linkRegex = /<a[^>]+href="(https:\/\/ai\.meta\.com\/blog\/[^"?#]+)"[^>]*>([\s\S]*?)(?=<\/a>)/g;
+  let match;
+
+  while ((match = linkRegex.exec(html)) !== null) {
+    const [, url, innerHtml] = match;
+    if (seen.has(url)) continue;
+
+    const title = stripTags(innerHtml).trim();
+    // Skip navigation-style links (too short or containing only icons)
+    if (!title || title.length < 10) continue;
+    seen.add(url);
+
+    // Look for a nearby date in the ~2 KB following this link
+    const after = html.slice(match.index, match.index + 2000);
+    const dateMatch = after.match(/(\w+ \d{1,2},\s*\d{4}|\d{4}-\d{2}-\d{2})/);
+    const summaryMatch = after.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+
+    const normalized = {
+      company: feed.company,
+      source: feed.source,
+      title,
+      publishedAt: normalizeDate(dateMatch?.[1] || ''),
+      summary: summarizeText(stripTags(summaryMatch?.[1] || title)),
+      link: url
+    };
+
+    items.push({ ...normalized, id: createStableId(normalized) });
+  }
+
+  return items;
+}
+
+async function parseCohereFromSitemap(feed) {
+  // Cohere's RSS URL silently redirects to their HTML page (not valid XML) and their
+  // blog listing page is JS-rendered with only a single visible link.  The sitemap at
+  // /sitemap.xml contains every post URL plus a <lastmod> date and is reliably fetchable.
+  const SITEMAP_UA =
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+  const sitemapRes = await fetch('https://cohere.com/sitemap.xml', {
+    headers: { 'User-Agent': SITEMAP_UA }
+  });
+  if (!sitemapRes.ok) throw new Error(`Cohere sitemap returned ${sitemapRes.status}`);
+  const xml = await sitemapRes.text();
+
+  const items = [];
+  const seen = new Set();
+
+  // Parse <url> blocks that contain /blog/ paths
+  const urlBlockRegex = /<url>([\s\S]*?)<\/url>/g;
+  let block;
+
+  while ((block = urlBlockRegex.exec(xml)) !== null) {
+    const inner = block[1];
+    const locMatch = inner.match(/<loc>(https:\/\/cohere\.com\/blog\/[^<]+)<\/loc>/);
+    if (!locMatch) continue;
+    const link = locMatch[1].trim();
+    if (seen.has(link)) continue;
+    seen.add(link);
+
+    const lastmodMatch = inner.match(/<lastmod>([^<]+)<\/lastmod>/);
+    // Derive a human-readable title from the slug
+    const slug = link.split('/blog/')[1] || '';
+    const title = slug
+      .replace(/-/g, ' ')
+      .replace(/\b\w/g, (c) => c.toUpperCase());
+
+    const normalized = {
+      company: feed.company,
+      source: feed.source,
+      title,
+      publishedAt: normalizeDate(lastmodMatch?.[1] || ''),
+      summary: summarizeText(title),
+      link
+    };
+
+    items.push({ ...normalized, id: createStableId(normalized) });
+  }
+
+  // Sort by date descending and return the most recent 50
+  items.sort((a, b) => {
+    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+    return db - da;
+  });
+
+  return items.slice(0, 50);
+}
+
+async function parseMistralFromSitemap(feed) {
+  // Mistral's news listing is heavily JS-rendered (only 1 item visible in HTML).
+  // Their sitemap at /sitemap.xml enumerates all /news/* URLs with lastmod dates.
+  const SITEMAP_UA =
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+  const sitemapRes = await fetch('https://mistral.ai/sitemap.xml', {
+    headers: { 'User-Agent': SITEMAP_UA }
+  });
+  if (!sitemapRes.ok) throw new Error(`Mistral sitemap returned ${sitemapRes.status}`);
+  const xml = await sitemapRes.text();
+
+  const items = [];
+  const seen = new Set();
+
+  const urlBlockRegex = /<url>([\s\S]*?)<\/url>/g;
+  let block;
+
+  while ((block = urlBlockRegex.exec(xml)) !== null) {
+    const inner = block[1];
+    // Only English /news/ paths (skip /fr/, /it/, /de/ duplicates)
+    const locMatch = inner.match(/<loc>(https:\/\/mistral\.ai\/news\/[^<]+)<\/loc>/);
+    if (!locMatch) continue;
+    const link = locMatch[1].trim();
+    if (seen.has(link)) continue;
+    seen.add(link);
+
+    const lastmodMatch = inner.match(/<lastmod>([^<]+)<\/lastmod>/);
+    const slug = link.split('/news/')[1] || '';
+    const title = slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+    const normalized = {
+      company: feed.company,
+      source: feed.source,
+      title,
+      publishedAt: normalizeDate(lastmodMatch?.[1] || ''),
+      summary: summarizeText(title),
+      link
+    };
+
+    items.push({ ...normalized, id: createStableId(normalized) });
+  }
+
+  // Sort by date descending, keep the most recent 50
+  items.sort((a, b) => {
+    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+    return db - da;
+  });
+
+  return items.slice(0, 50);
+}
+
+function parsePerplexityPage(html, feed) {
+  // Perplexity's blog (hosted on Framer) uses <a href="/hub/blog/SLUG">
+  const items = [];
+  const seen = new Set();
+  const linkRegex = /<a[^>]+href="(\/hub\/blog\/[^"?#]+)"[^>]*>([\s\S]*?)(?=<\/a>)/g;
+  let match;
+
+  while ((match = linkRegex.exec(html)) !== null) {
+    const [, path, cardHtml] = match;
+    if (seen.has(path)) continue;
+    seen.add(path);
+
+    const titleMatch = cardHtml.match(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/);
+    const dateMatch = cardHtml.match(/<time[^>]*>([\s\S]*?)<\/time>/);
+    const summaryMatch = cardHtml.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+
+    // Also try to find the title directly as text when there is no <h*> tag
+    const rawText = stripTags(cardHtml).trim();
+    const title = stripTags(titleMatch?.[1] || '') || (rawText.length > 5 ? rawText.slice(0, 120) : '');
+    if (!title) continue;
+
+    const normalized = {
+      company: feed.company,
+      source: feed.source,
+      title,
+      publishedAt: normalizeDate(stripTags(dateMatch?.[1] || '')),
+      summary: summarizeText(stripTags(summaryMatch?.[1] || title)),
+      link: `https://www.perplexity.ai${path}`
     };
 
     items.push({ ...normalized, id: createStableId(normalized) });
@@ -220,6 +448,7 @@ const DEFAULT_FEEDS = [
     pageUrl: 'https://openai.com/news/'
   },
   {
+    // RSS URL is dead (404); fall straight through to the HTML parser.
     company: 'Anthropic',
     source: 'Anthropic News',
     feedUrl: 'https://www.anthropic.com/news/rss.xml',
@@ -234,28 +463,34 @@ const DEFAULT_FEEDS = [
     pageUrl: 'https://blog.google/technology/ai/'
   },
   {
+    // RSS URL is dead (404); fall through to the custom DeepMind HTML parser.
     company: 'Google DeepMind',
     source: 'Google DeepMind Blog',
     feedUrl: 'https://deepmind.google/blog/rss/',
     pageUrl: 'https://deepmind.google/blog/',
-    htmlFallback: true
+    htmlFallback: true,
+    parseHtml: parseDeepMindPage
   },
   {
+    // RSS URL is dead (404); fall through to the Meta AI HTML parser.
     company: 'Meta AI',
     source: 'Meta AI Blog',
     feedUrl: 'https://ai.meta.com/blog/rss/',
     pageUrl: 'https://ai.meta.com/blog/',
-    htmlFallback: true
+    htmlFallback: true,
+    parseHtml: parseMetaAIPage
   },
   {
+    // RSS URL is dead (404) and the news listing page is JS-rendered (only 1 item
+    // visible in static HTML).  Use the sitemap as a reliable post index instead.
     company: 'Mistral AI',
     source: 'Mistral AI News',
-    feedUrl: 'https://mistral.ai/news/rss.xml',
     pageUrl: 'https://mistral.ai/news/',
-    htmlFallback: true,
-    parseHtml: parseMistralNewsPage
+    fetchItems: parseMistralFromSitemap
   },
   {
+    // RSS URL is dead (404); blog page works with bot UA.
+    // parseXaiPage now matches /news/ paths (xAI moved from /blog/ to /news/).
     company: 'xAI',
     source: 'xAI Blog',
     feedUrl: 'https://x.ai/blog/rss.xml',
@@ -290,28 +525,39 @@ const DEFAULT_FEEDS = [
     pageUrl: 'https://huggingface.co/blog'
   },
   {
+    // RSS URL returns the HTML blog page (not XML); use sitemap-based custom fetcher.
     company: 'Cohere',
     source: 'Cohere Blog',
-    feedUrl: 'https://cohere.com/blog/rss.xml',
     pageUrl: 'https://cohere.com/blog',
-    htmlFallback: true
+    fetchItems: parseCohereFromSitemap
   },
   {
+    // Perplexity's blog is fully behind Cloudflare bot-mitigation.
+    // Both the RSS endpoint and all blog page URLs return 403/404 for any user-agent.
+    // The entry is kept so we attempt it and log the failure rather than silently
+    // dropping the source.  If Perplexity ever exposes a public RSS feed, update
+    // feedUrl here and remove the comment.
     company: 'Perplexity AI',
     source: 'Perplexity Blog',
     feedUrl: 'https://www.perplexity.ai/hub/blog/rss.xml',
     pageUrl: 'https://www.perplexity.ai/hub/blog',
-    htmlFallback: true
+    htmlFallback: true,
+    parseHtml: parsePerplexityPage
   }
 ];
 
 // ─── Fetcher factory ──────────────────────────────────────────────────────────
 
+// Browser-like UA avoids bot-blocking on most sites.
+// Some sites (e.g. xAI) respond fine to this UA but reject a generic bot string.
+const BROWSER_UA =
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+
 function createRssFetcher({ feeds = DEFAULT_FEEDS, logger = console } = {}) {
   const parser = new Parser({
     timeout: 15000,
     headers: {
-      'User-Agent': 'ai-news-monitoring-agent/1.0 (+personal use)'
+      'User-Agent': BROWSER_UA
     }
   });
 
@@ -320,6 +566,20 @@ function createRssFetcher({ feeds = DEFAULT_FEEDS, logger = console } = {}) {
     const health = [];
 
     for (const feed of feeds) {
+      // Feeds with a custom async fetcher (e.g. sitemap-based) bypass the RSS path
+      if (feed.fetchItems) {
+        try {
+          const items = await feed.fetchItems(feed);
+          logger.info(`Fetched ${items.length} item(s) from ${feed.source} via custom fetcher.`);
+          allItems.push(...items);
+          health.push({ source: feed.source, status: 'ok', count: items.length, method: 'custom' });
+        } catch (err) {
+          logger.error(`Custom fetcher failed for ${feed.source}: ${err.message}`);
+          health.push({ source: feed.source, status: 'error', error: err.message });
+        }
+        continue;
+      }
+
       try {
         const parsed = await parser.parseURL(feed.feedUrl);
         const items = (parsed.items || []).map((item) => normalizeRssItem(item, feed));
@@ -335,13 +595,26 @@ function createRssFetcher({ feeds = DEFAULT_FEEDS, logger = console } = {}) {
 
         try {
           logger.warn(`RSS failed for ${feed.source}; trying official page fallback.`);
-          const response = await fetch(feed.pageUrl, {
-            headers: { 'User-Agent': 'ai-news-monitoring-agent/1.0 (+personal use)' }
-          });
-          if (!response.ok) {
-            throw new Error(`Status code ${response.status}`);
+          // Some sites block the browser UA (Cloudflare, Meta, xAI) but accept a
+          // generic bot string, and vice versa. Try browser UA first; if the
+          // response is not OK (or blocked), retry with the bot string.
+          const BOT_UA = 'ai-news-monitoring-agent/1.0 (+personal use)';
+          const uasToTry = feed.fallbackUA
+            ? [feed.fallbackUA]
+            : [BROWSER_UA, BOT_UA];
+
+          let html = null;
+          for (const ua of uasToTry) {
+            const response = await fetch(feed.pageUrl, { headers: { 'User-Agent': ua } });
+            if (response.ok) {
+              html = await response.text();
+              break;
+            }
           }
-          const html = await response.text();
+          if (html === null) {
+            throw new Error('All user-agents blocked on HTML fallback');
+          }
+
           const parseFn = feed.parseHtml
             ? (h) => feed.parseHtml(h, feed)
             : (h) => parseGenericBlogPage(h, feed);
@@ -365,7 +638,12 @@ module.exports = {
   createRssFetcher,
   normalizeRssItem,
   parseAnthropicNewsPage,
+  parseCohereFromSitemap,
+  parseDeepMindPage,
   parseGenericBlogPage,
+  parseMetaAIPage,
+  parseMistralFromSitemap,
   parseMistralNewsPage,
+  parsePerplexityPage,
   parseXaiPage
 };

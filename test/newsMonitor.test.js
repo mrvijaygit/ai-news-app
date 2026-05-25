@@ -14,7 +14,8 @@ test('filterRecentItems keeps dated items inside the configured age window', () 
     { id: 'missing-date' }
   ], 48);
 
-  assert.deepEqual(items.map((item) => item.id), ['recent']);
+  // Items with no publishedAt are assumed recent and passed through
+  assert.deepEqual(items.map((item) => item.id), ['recent', 'missing-date']);
 });
 
 test('runNewsMonitor sends alerts only for unseen items and marks them seen', async () => {

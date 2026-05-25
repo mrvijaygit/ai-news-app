@@ -9,7 +9,8 @@ const PRODUCT_KEYWORDS = [
   'chatbot', 'assistant', 'copilot', 'reasoning', 'multimodal',
   'vision', 'gpt', 'claude', 'gemini', 'llama', 'mistral', 'grok',
   'phi', 'sonnet', 'opus', 'haiku', 'nova', 'titan', 'mixtral',
-  'deepseek', 'benchmark', 'parameter', 'billion', 'trillion',
+  'cohere', 'perplexity', 'deepmind', 'deepseek', 'xai', 'nvidia',
+  'benchmark', 'parameter', 'billion', 'trillion',
   'context window', 'fine-tun', 'embedding', 'diffusion',
   'text-to', 'research paper', 'breakthrough', 'state-of-the-art',
   'sota', 'function call', 'tool use'
