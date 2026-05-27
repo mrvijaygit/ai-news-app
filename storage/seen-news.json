@@ -84,7 +84,10 @@
     "nvidia ai:23c4a19fe015b850",
     "nvidia ai:e82c0ee00d2293d2",
     "nvidia ai:37af6c3234168e42",
-    "xai:202301d15429884f"
+    "xai:202301d15429884f",
+    "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "cohere:0ff4edcc1a4f3f98"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -137,7 +140,10 @@
     "nvidia ai:23c4a19fe015b850": "2026-05-26T21:41:58.910Z",
     "nvidia ai:e82c0ee00d2293d2": "2026-05-26T21:41:58.910Z",
     "nvidia ai:37af6c3234168e42": "2026-05-26T23:07:08.301Z",
-    "xai:202301d15429884f": "2026-05-27T08:00:48.059Z"
+    "xai:202301d15429884f": "2026-05-27T08:00:48.059Z",
+    "https://openai.com/index/building-self-improving-tax-agents-with-codex": "2026-05-27T16:35:31.408Z",
+    "https://huggingface.co/blog/delta-weight-sync": "2026-05-27T16:35:31.408Z",
+    "cohere:0ff4edcc1a4f3f98": "2026-05-27T16:35:31.408Z"
   },
-  "updatedAt": "2026-05-27T08:00:48.059Z"
+  "updatedAt": "2026-05-27T16:35:31.408Z"
 }
