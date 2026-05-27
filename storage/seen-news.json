@@ -87,7 +87,11 @@
     "xai:202301d15429884f",
     "https://openai.com/index/building-self-improving-tax-agents-with-codex",
     "https://huggingface.co/blog/delta-weight-sync",
-    "cohere:0ff4edcc1a4f3f98"
+    "cohere:0ff4edcc1a4f3f98",
+    "8a39bdaaca01ff281c876dd6f199d21b54b8a83c",
+    "d0b1371079177ae4116061428da47e9102c667ee",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "nvidia ai:e654db9853dddfe1"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -143,7 +147,11 @@
     "xai:202301d15429884f": "2026-05-27T08:00:48.059Z",
     "https://openai.com/index/building-self-improving-tax-agents-with-codex": "2026-05-27T16:35:31.408Z",
     "https://huggingface.co/blog/delta-weight-sync": "2026-05-27T16:35:31.408Z",
-    "cohere:0ff4edcc1a4f3f98": "2026-05-27T16:35:31.408Z"
+    "cohere:0ff4edcc1a4f3f98": "2026-05-27T16:35:31.408Z",
+    "8a39bdaaca01ff281c876dd6f199d21b54b8a83c": "2026-05-27T19:22:32.755Z",
+    "d0b1371079177ae4116061428da47e9102c667ee": "2026-05-27T19:22:32.755Z",
+    "https://huggingface.co/blog/ibm-research/itbench-aa": "2026-05-27T19:22:32.755Z",
+    "nvidia ai:e654db9853dddfe1": "2026-05-27T19:22:32.755Z"
   },
-  "updatedAt": "2026-05-27T16:35:31.408Z"
+  "updatedAt": "2026-05-27T19:22:32.755Z"
 }
