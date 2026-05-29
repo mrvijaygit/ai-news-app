@@ -84,6 +84,7 @@ async function runNewsMonitor({
       fetchedCount: fetched.length,
       recentCount: recentItems.length,
       newCount: 0,
+      relevantItems,
       feedHealth
     };
   }
@@ -106,6 +107,7 @@ async function runNewsMonitor({
     newCount: newItems.length,
     persisted: persistSeen,
     items: newItems,
+    relevantItems,
     feedHealth
   };
 }

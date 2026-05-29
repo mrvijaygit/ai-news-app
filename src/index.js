@@ -71,9 +71,9 @@ async function main() {
       persistSeen: !config.dryRun,
       config
     });
-    if (result.items?.length > 0 && !config.dryRun) {
-      const added = await feedStore.addItems(result.items);
-      if (added > 0) logger.info(`Saved ${added} new item(s) to news feed store.`);
+    if (result.relevantItems?.length > 0 && !config.dryRun) {
+      const added = await feedStore.addItems(result.relevantItems);
+      if (added > 0) logger.info(`Saved ${added} item(s) to news feed store.`);
     }
     return result;
   };
