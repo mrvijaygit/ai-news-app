@@ -114,7 +114,8 @@
     "xai:a1e6fcd31f7e65d4",
     "3ebe0c6408072a34c4ad72fea1b55ffc0a0817b3",
     "nvidia ai:8101109908d01c46",
-    "https://openai.com/index/endava"
+    "https://openai.com/index/endava",
+    "https://openai.com/index/mufg"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -197,7 +198,8 @@
     "xai:a1e6fcd31f7e65d4": "2026-05-28T21:06:43.929Z",
     "3ebe0c6408072a34c4ad72fea1b55ffc0a0817b3": "2026-05-28T23:13:28.555Z",
     "nvidia ai:8101109908d01c46": "2026-05-29T02:54:20.657Z",
-    "https://openai.com/index/endava": "2026-05-29T02:54:20.657Z"
+    "https://openai.com/index/endava": "2026-05-29T02:54:20.657Z",
+    "https://openai.com/index/mufg": "2026-05-29T06:53:41.018Z"
   },
-  "updatedAt": "2026-05-29T02:54:20.657Z"
+  "updatedAt": "2026-05-29T06:53:41.018Z"
 }
