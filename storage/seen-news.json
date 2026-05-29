@@ -138,7 +138,10 @@
     "mistral ai:b0067d3b420ff0a7",
     "mistral ai:bfb0553159972df8",
     "mistral ai:4b0609d8e153533e",
-    "mistral ai:74b62b5ed529ce9a"
+    "mistral ai:74b62b5ed529ce9a",
+    "nvidia ai:1ef47746cab269d1",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "cohere:470ad06e41642bfd"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -245,7 +248,10 @@
     "mistral ai:b0067d3b420ff0a7": "2026-05-29T13:58:29.459Z",
     "mistral ai:bfb0553159972df8": "2026-05-29T13:58:29.459Z",
     "mistral ai:4b0609d8e153533e": "2026-05-29T13:58:29.459Z",
-    "mistral ai:74b62b5ed529ce9a": "2026-05-29T13:58:29.459Z"
+    "mistral ai:74b62b5ed529ce9a": "2026-05-29T13:58:29.459Z",
+    "nvidia ai:1ef47746cab269d1": "2026-05-29T17:36:45.070Z",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": "2026-05-29T17:36:45.070Z",
+    "cohere:470ad06e41642bfd": "2026-05-29T17:36:45.070Z"
   },
-  "updatedAt": "2026-05-29T13:58:29.459Z"
+  "updatedAt": "2026-05-29T17:36:45.070Z"
 }
