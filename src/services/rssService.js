@@ -283,10 +283,10 @@ async function parseCohereFromSitemap(feed) {
 
 async function parseMistralFromSitemap(feed) {
   // Mistral's news listing is heavily JS-rendered (only 1 item visible in HTML).
-  // Their sitemap at /sitemap.xml enumerates all /news/* URLs with lastmod dates.
+  // Their sitemap at /sitemap-0.xml enumerates all /news/* URLs with lastmod dates.
   const SITEMAP_UA =
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
-  const sitemapRes = await fetch('https://mistral.ai/sitemap.xml', {
+  const sitemapRes = await fetch('https://mistral.ai/sitemap-0.xml', {
     headers: { 'User-Agent': SITEMAP_UA }
   });
   if (!sitemapRes.ok) throw new Error(`Mistral sitemap returned ${sitemapRes.status}`);
