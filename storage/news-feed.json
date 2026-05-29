@@ -1,6 +1,213 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-05-29T03:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:4724f35f442e729f",
+      "title": "About Mistral Ai/",
+      "summary": "About Mistral Ai/",
+      "link": "https://mistral.ai/news/about-mistral-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:cc8a62a9a002c9f0",
+      "title": "Agentic Workflows From Meetings To Dev Tickets/",
+      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
+      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:e149a7820e21119f",
+      "title": "Agents Api/",
+      "summary": "Agents Api/",
+      "link": "https://mistral.ai/news/agents-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:0e09c6a8c54494af",
+      "title": "Announcing Mistral 7b/",
+      "summary": "Announcing Mistral 7b/",
+      "link": "https://mistral.ai/news/announcing-mistral-7b/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:a3f9ce3884c9a824",
+      "title": "Batch Api/",
+      "summary": "Batch Api/",
+      "link": "https://mistral.ai/news/batch-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:052daf1b4aee87fd",
+      "title": "Debugging Memory Leak In Vllm/",
+      "summary": "Debugging Memory Leak In Vllm/",
+      "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:7ab92d6eb42cfef0",
+      "title": "Introducing Physics Ai At Mistral/",
+      "summary": "Introducing Physics Ai At Mistral/",
+      "link": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9bcf0cc6af22ad14",
+      "title": "Le Chat Mistral/",
+      "summary": "Le Chat Mistral/",
+      "link": "https://mistral.ai/news/le-chat-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:ed0f3c7a49cb1d48",
+      "title": "Llm As Rag Judge/",
+      "summary": "Llm As Rag Judge/",
+      "link": "https://mistral.ai/news/llm-as-rag-judge/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:2d44d3d0e4478e9b",
+      "title": "Mistral 3/",
+      "summary": "Mistral 3/",
+      "link": "https://mistral.ai/news/mistral-3/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9c4486fa7f8829eb",
+      "title": "Mistral Afp/",
+      "summary": "Mistral Afp/",
+      "link": "https://mistral.ai/news/mistral-afp/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9381c49eba11863b",
+      "title": "Mistral Ai And Nvidia Partner To Accelerate Open Frontier Models/",
+      "summary": "Mistral Ai And Nvidia Partner To Accelerate Open Frontier Models/",
+      "link": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:d2b5856114602010",
+      "title": "Mistral Ai Non Production License Mnpl/",
+      "summary": "Mistral Ai Non Production License Mnpl/",
+      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:eab853c3204c205e",
+      "title": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
+      "summary": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
+      "link": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:8407a1d5853bc4ec",
+      "title": "Mistral Chat/",
+      "summary": "Mistral Chat/",
+      "link": "https://mistral.ai/news/mistral-chat/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9ab8214220082473",
+      "title": "Mistral Code/",
+      "summary": "Mistral Code/",
+      "link": "https://mistral.ai/news/mistral-code/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:7a4bc16c95c68640",
+      "title": "Mistral Compute/",
+      "summary": "Mistral Compute/",
+      "link": "https://mistral.ai/news/mistral-compute/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:4b83c867c1110099",
+      "title": "Mistral Large 2407/",
+      "summary": "Mistral Large 2407/",
+      "link": "https://mistral.ai/news/mistral-large-2407/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:b0067d3b420ff0a7",
+      "title": "Mistral Large/",
+      "summary": "Mistral Large/",
+      "link": "https://mistral.ai/news/mistral-large/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:bfb0553159972df8",
+      "title": "Mistral Medium 3/",
+      "summary": "Mistral Medium 3/",
+      "link": "https://mistral.ai/news/mistral-medium-3/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:4b0609d8e153533e",
+      "title": "Mistral Moderation/",
+      "summary": "Mistral Moderation/",
+      "link": "https://mistral.ai/news/mistral-moderation/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:74b62b5ed529ce9a",
+      "title": "Mistral Nemo/",
+      "summary": "Mistral Nemo/",
+      "link": "https://mistral.ai/news/mistral-nemo/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/endava",
       "title": "How Endava builds an agentic organization with Codex",
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
@@ -595,5 +802,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-05-29T09:20:36.628Z"
+  "updatedAt": "2026-05-29T13:58:29.461Z"
 }
