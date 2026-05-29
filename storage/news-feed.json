@@ -1,0 +1,599 @@
+{
+  "items": [
+    {
+      "id": "https://openai.com/index/endava",
+      "title": "How Endava builds an agentic organization with Codex",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "link": "https://openai.com/index/endava",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-05-28T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/mufg",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "link": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "anthropic:2e3a1963c6081dc5",
+      "title": "Introducing Claude Opus 4.8",
+      "summary": "An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-05-28T15:00:00.000Z"
+    },
+    {
+      "id": "xai:ae67cdc2e5ac21a4",
+      "title": "Grok Build 0.1 on API",
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "link": "https://x.ai/news/grok-build-0-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:202301d15429884f",
+      "title": "Use Grok in Kilo Code",
+      "summary": "Use Grok in Kilo Code",
+      "link": "https://x.ai/news/grok-kilocode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9d5659da9528b35d",
+      "title": "Introducing Grok Build",
+      "summary": "Introducing Grok Build",
+      "link": "https://x.ai/news/grok-build-cli",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:fee1e6ce5633dfad",
+      "title": "Use Grok in OpenCode",
+      "summary": "Use Grok in OpenCode",
+      "link": "https://x.ai/news/grok-opencode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f48d7b7c6e59faeb",
+      "title": "Use Grok in OpenClaw",
+      "summary": "Use Grok in OpenClaw",
+      "link": "https://x.ai/news/grok-openclaw",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a1e6fcd31f7e65d4",
+      "title": "Skills in web, iOS, and Android",
+      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
+      "link": "https://x.ai/news/grok-skills",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4de6c4fbb944a39a",
+      "title": "Connect Grok to Hermes Agent",
+      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:58667f1086bc597d",
+      "title": "New Compute Partnership with Anthropic",
+      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
+      "link": "https://x.ai/news/anthropic-compute-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2a3af01c46c0903e",
+      "title": "Connectors in web, iOS, and Android",
+      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:b6d4ab19daa61b89",
+      "title": "Grok Imagine Quality Mode API",
+      "summary": "Higher realism. Stronger text rendering. Better creative control.",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a9be3438a26bba29",
+      "title": "Custom Voices and Voice Library",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f1d270907ee198a8",
+      "title": "Grok Voice Think Fast 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:533a462be2cea991",
+      "title": "Grok Speech to Text and Text to Speech APIs",
+      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
+      "link": "https://x.ai/news/grok-stt-and-tts-apis",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cf57fe0bf7fb2ed6",
+      "title": "xAI joins SpaceX",
+      "summary": "SpaceX announced today that it has acquired xAI.",
+      "link": "https://x.ai/news/xai-joins-spacex",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6bb0a0c96a2a6ec2",
+      "title": "Grok Imagine API",
+      "summary": "State-of-the-art video generation across quality, cost, and latency.",
+      "link": "https://x.ai/news/grok-imagine-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e73b074ce809ee",
+      "title": "xAI Raises $20B Series E",
+      "summary": "xAI is rapidly accelerating its progress in building advanced AI.",
+      "link": "https://x.ai/news/series-e",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:dc4c15bc25a49149",
+      "title": "Introducing Grok Business and Grok Enterprise",
+      "summary": "The best assistant in the world is now Enterprise ready.",
+      "link": "https://x.ai/news/grok-business",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ca490edf223f2ebf",
+      "title": "Grok Collections API",
+      "summary": "State-of-the-art RAG system built directly into our API.",
+      "link": "https://x.ai/news/grok-collections-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1fb88c3b251902a2",
+      "title": "Supporting the DOW's mission with AI",
+      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
+      "link": "https://x.ai/news/us-gov-dept-of-war",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3a1d72b884b69902",
+      "title": "Grok Voice Agent API",
+      "summary": "Bringing the power of Grok Voice to all developers.",
+      "link": "https://x.ai/news/grok-voice-agent-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e0e2c8f7889b9ed7",
+      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
+      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
+      "link": "https://x.ai/news/el-salvador-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e8261a0b7d99f9",
+      "title": "Grok 4.1 Fast and Agent Tools API",
+      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
+      "link": "https://x.ai/news/grok-4-1-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:03b62e9ad296bc89",
+      "title": "Grok goes Global with KSA",
+      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
+      "link": "https://x.ai/news/grok-goes-global",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cb89379e9df365fb",
+      "title": "Grok 4.1",
+      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
+      "link": "https://x.ai/news/grok-4-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:792ef6ba62d36e10",
+      "title": "Expanding xAI for Government with GSA OneGov",
+      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
+      "link": "https://x.ai/news/onegov",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:349feed19ac68219",
+      "title": "Grok 4 Fast",
+      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
+      "link": "https://x.ai/news/grok-4-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:07bfdcfb3e2da3ae",
+      "title": "Grok Code Fast 1",
+      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
+      "link": "https://x.ai/news/grok-code-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:01e3b8304d8cac5f",
+      "title": "Announcing xAI for Government",
+      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+      "link": "https://x.ai/news/government",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:0b42cd3858907903",
+      "title": "Grok 4",
+      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
+      "link": "https://x.ai/news/grok-4",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5a8f9dcef91affc",
+      "title": "Grok 3 Beta — The Age of Reasoning Agents",
+      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+      "link": "https://x.ai/news/grok-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2eb1be0eab97116d",
+      "title": "xAI raises $6B Series C",
+      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+      "link": "https://x.ai/news/series-c",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8ed876cc63c6ba10",
+      "title": "Bringing Grok to Everyone",
+      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-1212",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5423ee5e4457fb03",
+      "title": "Grok Image Generation Release",
+      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-image-generation-release",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9689f95a1df38884",
+      "title": "Grok-1.5 Vision Preview",
+      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
+      "link": "https://x.ai/news/grok-1.5v",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f58ce5a98926f521",
+      "title": "Announcing Grok-1.5",
+      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
+      "link": "https://x.ai/news/grok-1.5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:eb3235d954e50c16",
+      "title": "Open Release of Grok-1",
+      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
+      "link": "https://x.ai/news/grok-os",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9c5cd59fc5d31e7d",
+      "title": "Announcing PromptIDE",
+      "summary": "Integrated development environment for prompt engineering and interpretability research.",
+      "link": "https://x.ai/news/prompt-ide",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "3ebe0c6408072a34c4ad72fea1b55ffc0a0817b3",
+      "title": "Training Azerbaijani language models on Amazon SageMaker AI",
+      "summary": "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-28T21:54:06.000Z"
+    },
+    {
+      "id": "a2e3233fda9f86af267a34801a3ceda19e5ebff4",
+      "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
+      "summary": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-28T20:35:44.000Z"
+    },
+    {
+      "id": "37f895230623a9ba6612ab5198baebbb2f9a0a11",
+      "title": "Evaluating Deep Agents using LangSmith on AWS",
+      "summary": "This post combines learnings from LangChain’s work on evaluating deep agents and Anthropic’s guide to demystifying evals for AI agents into a practical guide. In this post, you will learn how to: 1) apply five...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-28T20:32:23.000Z"
+    },
+    {
+      "id": "29a59ea88284d19cb7e6ca6c796e291bf5ff11d6",
+      "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
+      "summary": "Agent evaluation is most powerful when you combine fast-moving online signals with stable offline baselines. To understand whether your agent is truly improving over time, you need a fixed benchmark alongside your...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-28T18:10:47.000Z"
+    },
+    {
+      "id": "368e3e77762abd47aa70f3875e5cbd9622010d5a",
+      "title": "Claude Opus 4.8 is now available on AWS",
+      "summary": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-28T17:51:32.000Z"
+    },
+    {
+      "id": "f4a3590f6bc8b3272df157882e15fb74869d0f7e",
+      "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
+      "summary": "In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-27T20:06:34.000Z"
+    },
+    {
+      "id": "0b1c36d906945b3a2f7ba41575b6808fdf29ebc0",
+      "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
+      "summary": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-27T20:01:06.000Z"
+    },
+    {
+      "id": "8a39bdaaca01ff281c876dd6f199d21b54b8a83c",
+      "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
+      "summary": "In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Marketing and Global Services) organization. You will learn about: the...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-27T18:51:45.000Z"
+    },
+    {
+      "id": "d0b1371079177ae4116061428da47e9102c667ee",
+      "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
+      "summary": "As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, but without orchestration, users carry the cognitive load of choosing...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-27T18:00:07.000Z"
+    },
+    {
+      "id": "nvidia ai:8101109908d01c46",
+      "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI",
+      "summary": "AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and... AI applications are moving beyond text generation to multimodal...",
+      "link": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-05-29T00:07:11.000Z"
+    },
+    {
+      "id": "nvidia ai:d43cc423db013ba1",
+      "title": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
+      "summary": "The cold-start problem In production inference deployments, demand fluctuates over time, requiring inference replicas to scale elastically. However,... In production inference deployments, demand fluctuates over time,...",
+      "link": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-05-27T23:09:52.000Z"
+    },
+    {
+      "id": "nvidia ai:c893e38e5e7333de",
+      "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
+      "summary": "Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to... Large language models (LLMs) are revolutionizing the...",
+      "link": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-05-27T20:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:e654db9853dddfe1",
+      "title": "What’s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters",
+      "summary": "NVIDIA RTX provides game developers with direct paths to AI-driven characters, frame generation, and ray-traced rendering. This post walks through a meaningful... NVIDIA RTX provides game developers with direct paths to...",
+      "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-05-27T16:59:58.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "summary": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-05-27T17:20:29.000Z"
+    },
+    {
+      "id": "cohere:a861e058f8340285",
+      "title": "Enterprise Ai Maturity Model",
+      "summary": "Enterprise Ai Maturity Model",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:06898d4c6e0531e1",
+      "title": "Cohere Alephalpha Join Forces",
+      "summary": "Cohere Alephalpha Join Forces",
+      "link": "https://cohere.com/blog/cohere-alephalpha-join-forces",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:738ef75a75382b73",
+      "title": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
+      "summary": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
+      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:69aa5fe61540ebf9",
+      "title": "Cohere Releases Command A Plus",
+      "summary": "Cohere Releases Command A Plus",
+      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:67d3e1bdfbeee427",
+      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
+      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
+      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:aef4809ade84eace",
+      "title": "Enterprise Ai Maturity Model Pt2",
+      "summary": "Enterprise Ai Maturity Model Pt2",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:cdf2791bc30478eb",
+      "title": "Rws And Cohere Build Ai Language Intelligence",
+      "summary": "Rws And Cohere Build Ai Language Intelligence",
+      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-05-28T00:00:00.000Z"
+    }
+  ],
+  "updatedAt": "2026-05-29T09:20:36.628Z"
+}
