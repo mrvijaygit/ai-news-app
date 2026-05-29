@@ -3,7 +3,7 @@ import styles from './App.module.css'
 
 const FEED_URL =
   import.meta.env.VITE_FEED_URL ||
-  'https://raw.githubusercontent.com/mrvijaygit/ai-news-app/main/storage/news-feed.json'
+  'https://raw.githubusercontent.com/mrvijaygit/ai-news-app/master/storage/news-feed.json'
 
 const COMPANY_COLORS = {
   'openai': '#10a37f',
