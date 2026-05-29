@@ -1,6 +1,7 @@
 const { loadConfig, validateConfig } = require('./utils/config');
 const { createLogger } = require('./utils/logger');
 const { SeenStore } = require('./storage/seenStore');
+const { NewsFeedStore } = require('./storage/newsFeedStore');
 const { createRssFetcher } = require('./services/rssService');
 const { createRedditFetcher } = require('./services/redditService');
 const { createHackerNewsFetcher } = require('./services/hackerNewsService');
@@ -49,6 +50,7 @@ async function main() {
         markSeen: async () => {}
       }
     : new SeenStore(config.seenStorePath);
+  const feedStore = new NewsFeedStore(config.newsFeedStorePath);
   const fetchers = buildFetchers(config, logger);
   const notifiers = buildNotifiers(config, logger);
 
@@ -59,15 +61,22 @@ async function main() {
     logger.warn('No notifiers enabled. The agent will fetch and store seen IDs but will not send alerts.');
   }
 
-  const task = () => runNewsMonitor({
-    fetchers,
-    store,
-    notifiers,
-    logger,
-    maxItemAgeHours: config.maxItemAgeHours,
-    persistSeen: !config.dryRun,
-    config
-  });
+  const task = async () => {
+    const result = await runNewsMonitor({
+      fetchers,
+      store,
+      notifiers,
+      logger,
+      maxItemAgeHours: config.maxItemAgeHours,
+      persistSeen: !config.dryRun,
+      config
+    });
+    if (result.items?.length > 0 && !config.dryRun) {
+      const added = await feedStore.addItems(result.items);
+      if (added > 0) logger.info(`Saved ${added} new item(s) to news feed store.`);
+    }
+    return result;
+  };
 
   if (config.runOnStart) {
     await task();

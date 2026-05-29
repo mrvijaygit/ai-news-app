@@ -68,6 +68,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -f storage/seen-news.json
+          git add -f storage/news-feed.json 2>/dev/null || true
           git add -f storage/feed-health.json 2>/dev/null || true
 
           if git diff --cached --quiet; then

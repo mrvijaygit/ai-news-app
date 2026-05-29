@@ -25,6 +25,7 @@ function loadConfig(env = process.env) {
     dryRun: bool(env.DRY_RUN, false),
     maxItemAgeHours: int(env.MAX_ITEM_AGE_HOURS, 48),
     seenStorePath: path.resolve(process.cwd(), env.SEEN_STORE_PATH || 'storage/seen-news.json'),
+    newsFeedStorePath: path.resolve(process.cwd(), env.FEED_STORE_PATH || 'storage/news-feed.json'),
     officialFeedsEnabled: bool(env.OFFICIAL_FEEDS_ENABLED, true),
     email: {
       enabled: bool(env.EMAIL_ENABLED, true),
