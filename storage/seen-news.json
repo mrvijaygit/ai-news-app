@@ -144,7 +144,9 @@
     "cohere:470ad06e41642bfd",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-    "https://openai.com/index/braintrust"
+    "https://openai.com/index/braintrust",
+    "e9638f6dde6eb511cb0d3380be63a779737316a6",
+    "nvidia ai:9a8550a743fe33b9"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -257,7 +259,9 @@
     "cohere:470ad06e41642bfd": "2026-05-29T17:36:45.070Z",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/": "2026-05-29T20:21:16.998Z",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/": "2026-05-29T20:21:16.998Z",
-    "https://openai.com/index/braintrust": "2026-05-29T20:21:16.998Z"
+    "https://openai.com/index/braintrust": "2026-05-29T20:21:16.998Z",
+    "e9638f6dde6eb511cb0d3380be63a779737316a6": "2026-05-30T00:07:37.929Z",
+    "nvidia ai:9a8550a743fe33b9": "2026-05-30T00:07:37.929Z"
   },
-  "updatedAt": "2026-05-29T20:21:16.998Z"
+  "updatedAt": "2026-05-30T00:07:37.929Z"
 }

@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "e9638f6dde6eb511cb0d3380be63a779737316a6",
+      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+      "summary": "This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity for LLMs served on Amazon SageMaker AI endpoints with...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-05-29T23:36:58.000Z"
+    },
+    {
+      "id": "nvidia ai:9a8550a743fe33b9",
+      "title": "DynoSim: Simulating the Pareto Frontier",
+      "summary": "Modern LLM serving is hard to tune because each deployment is a stack of interacting choices: model backend, tensor-parallel shape, prefill/decode split, worker... Modern LLM serving is hard to tune because each...",
+      "link": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-05-29T22:31:03.000Z"
+    },
+    {
       "id": "https://openai.com/index/braintrust",
       "title": "How Braintrust turns customer requests into code with Codex",
       "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
@@ -856,5 +874,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-05-29T20:21:17.000Z"
+  "updatedAt": "2026-05-30T00:07:37.931Z"
 }
