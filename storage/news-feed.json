@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:365615c13e11ceb5",
+      "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
+      "summary": "AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale... AI is now essential infrastructure, powered by AI factories...",
+      "link": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-01T03:36:52.000Z"
+    },
+    {
       "id": "e9638f6dde6eb511cb0d3380be63a779737316a6",
       "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
       "summary": "This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity for LLMs served on Amazon SageMaker AI endpoints with...",
@@ -874,5 +883,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-05-30T00:07:37.931Z"
+  "updatedAt": "2026-06-01T03:42:39.798Z"
 }
