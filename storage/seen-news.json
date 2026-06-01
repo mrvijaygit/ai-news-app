@@ -162,7 +162,12 @@
     "051c6c4bf608e1da89c0693ffc37c155c4e35882",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
     "cohere:8ce8c357758787a3",
-    "xai:4126c5521b9e1336"
+    "xai:4126c5521b9e1336",
+    "522d8f9e769a522edf4722e21949ac3e5df9e7b1",
+    "nvidia ai:c6f3b547faa763b3",
+    "d503a1df1651c125d69885aaf137eef6b6f68154",
+    "2fecd39b5e19602790e6b02fc5e977377ee92cae",
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -293,7 +298,12 @@
     "051c6c4bf608e1da89c0693ffc37c155c4e35882": "2026-06-01T20:15:31.756Z",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/": "2026-06-01T20:15:31.756Z",
     "cohere:8ce8c357758787a3": "2026-06-01T20:15:31.756Z",
-    "xai:4126c5521b9e1336": "2026-06-01T20:15:31.756Z"
+    "xai:4126c5521b9e1336": "2026-06-01T20:15:31.756Z",
+    "522d8f9e769a522edf4722e21949ac3e5df9e7b1": "2026-06-01T23:00:31.327Z",
+    "nvidia ai:c6f3b547faa763b3": "2026-06-01T23:00:31.327Z",
+    "d503a1df1651c125d69885aaf137eef6b6f68154": "2026-06-01T23:00:31.327Z",
+    "2fecd39b5e19602790e6b02fc5e977377ee92cae": "2026-06-01T23:00:31.327Z",
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": "2026-06-01T23:00:31.327Z"
   },
-  "updatedAt": "2026-06-01T20:15:31.756Z"
+  "updatedAt": "2026-06-01T23:00:31.327Z"
 }

@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can...",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-01T10:00:00.000Z"
+    },
+    {
+      "id": "522d8f9e769a522edf4722e21949ac3e5df9e7b1",
+      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
+      "summary": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-01T22:16:28.000Z"
+    },
+    {
+      "id": "d503a1df1651c125d69885aaf137eef6b6f68154",
+      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+      "summary": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-01T21:54:16.000Z"
+    },
+    {
+      "id": "2fecd39b5e19602790e6b02fc5e977377ee92cae",
+      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+      "summary": "GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy them in production applications and agents today, on Bedrock’s high performance inference engine.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-01T21:31:12.000Z"
+    },
+    {
+      "id": "nvidia ai:c6f3b547faa763b3",
+      "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+      "summary": "The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent... The rise of autonomous, long-running AI agents has...",
+      "link": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-01T22:00:00.000Z"
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "title": "How we used Gemini to build Google I/O 2026",
       "summary": "Learn how Googlers used AI to produce Google I/O 2026.",
@@ -1018,5 +1063,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-01T20:15:31.758Z"
+  "updatedAt": "2026-06-01T23:00:31.330Z"
 }
