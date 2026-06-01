@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "nvidia ai:8eb890c58f5b6af7",
+      "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
+      "summary": "Developing autonomous vehicle (AV) policies requires bridging an important gap between training and deployment. Vision-language-action (VLA) models that can... Developing autonomous vehicle (AV) policies requires...",
+      "link": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-01T04:49:15.000Z"
+    },
+    {
+      "id": "nvidia ai:0a36cf27aa00de41",
+      "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+      "summary": "Physical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what's... Physical AI systems must understand the real world before they...",
+      "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-01T04:43:58.000Z"
+    },
+    {
+      "id": "nvidia ai:ed0e4fc1fe48636a",
+      "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
+      "summary": "The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented... The AI era is driving a new class of infrastructure: AI...",
+      "link": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-01T04:21:42.000Z"
+    },
+    {
+      "id": "nvidia ai:6d20d8c8e70677e9",
+      "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+      "summary": "Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems.... Each wave of AI has created a new scaling law. Pretraining...",
+      "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-01T03:59:15.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "summary": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-01T04:44:55.000Z"
+    },
+    {
       "id": "nvidia ai:365615c13e11ceb5",
       "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
       "summary": "AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale... AI is now essential infrastructure, powered by AI factories...",
@@ -883,5 +928,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-01T03:42:39.798Z"
+  "updatedAt": "2026-06-01T09:24:06.751Z"
 }

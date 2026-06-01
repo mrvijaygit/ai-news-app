@@ -147,7 +147,12 @@
     "https://openai.com/index/braintrust",
     "e9638f6dde6eb511cb0d3380be63a779737316a6",
     "nvidia ai:9a8550a743fe33b9",
-    "nvidia ai:365615c13e11ceb5"
+    "nvidia ai:365615c13e11ceb5",
+    "nvidia ai:8eb890c58f5b6af7",
+    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "nvidia ai:0a36cf27aa00de41",
+    "nvidia ai:ed0e4fc1fe48636a",
+    "nvidia ai:6d20d8c8e70677e9"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -263,7 +268,12 @@
     "https://openai.com/index/braintrust": "2026-05-29T20:21:16.998Z",
     "e9638f6dde6eb511cb0d3380be63a779737316a6": "2026-05-30T00:07:37.929Z",
     "nvidia ai:9a8550a743fe33b9": "2026-05-30T00:07:37.929Z",
-    "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z"
+    "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
+    "nvidia ai:8eb890c58f5b6af7": "2026-06-01T09:24:06.748Z",
+    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": "2026-06-01T09:24:06.748Z",
+    "nvidia ai:0a36cf27aa00de41": "2026-06-01T09:24:06.748Z",
+    "nvidia ai:ed0e4fc1fe48636a": "2026-06-01T09:24:06.748Z",
+    "nvidia ai:6d20d8c8e70677e9": "2026-06-01T09:24:06.748Z"
   },
-  "updatedAt": "2026-06-01T03:42:39.796Z"
+  "updatedAt": "2026-06-01T09:24:06.748Z"
 }
