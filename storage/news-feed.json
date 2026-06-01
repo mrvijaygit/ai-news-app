@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "summary": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-01T15:45:17.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "summary": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-01T13:51:18.000Z"
+    },
+    {
       "id": "nvidia ai:8eb890c58f5b6af7",
       "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
       "summary": "Developing autonomous vehicle (AV) policies requires bridging an important gap between training and deployment. Vision-language-action (VLA) models that can... Developing autonomous vehicle (AV) policies requires...",
@@ -928,5 +946,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-01T09:24:06.751Z"
+  "updatedAt": "2026-06-01T15:54:27.085Z"
 }

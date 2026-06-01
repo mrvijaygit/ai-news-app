@@ -152,7 +152,9 @@
     "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
     "nvidia ai:0a36cf27aa00de41",
     "nvidia ai:ed0e4fc1fe48636a",
-    "nvidia ai:6d20d8c8e70677e9"
+    "nvidia ai:6d20d8c8e70677e9",
+    "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -273,7 +275,9 @@
     "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": "2026-06-01T09:24:06.748Z",
     "nvidia ai:0a36cf27aa00de41": "2026-06-01T09:24:06.748Z",
     "nvidia ai:ed0e4fc1fe48636a": "2026-06-01T09:24:06.748Z",
-    "nvidia ai:6d20d8c8e70677e9": "2026-06-01T09:24:06.748Z"
+    "nvidia ai:6d20d8c8e70677e9": "2026-06-01T09:24:06.748Z",
+    "https://huggingface.co/blog/JetBrains/mellum2-launch": "2026-06-01T15:54:27.083Z",
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T15:54:27.083Z"
   },
-  "updatedAt": "2026-06-01T09:24:06.748Z"
+  "updatedAt": "2026-06-01T15:54:27.083Z"
 }
