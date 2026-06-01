@@ -154,7 +154,15 @@
     "nvidia ai:ed0e4fc1fe48636a",
     "nvidia ai:6d20d8c8e70677e9",
     "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "b0369da4151ce057ae0309484ffeea0fa2c72c15",
+    "dfc63fb856bec3991d59b35f4c57957d22e61c82",
+    "ee307cbcff7480c6f7c96068d3223af5afc58d46",
+    "b31182d2eea63ca1e742d74eb5599ad33aa30115",
+    "051c6c4bf608e1da89c0693ffc37c155c4e35882",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "cohere:8ce8c357758787a3",
+    "xai:4126c5521b9e1336"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -277,7 +285,15 @@
     "nvidia ai:ed0e4fc1fe48636a": "2026-06-01T09:24:06.748Z",
     "nvidia ai:6d20d8c8e70677e9": "2026-06-01T09:24:06.748Z",
     "https://huggingface.co/blog/JetBrains/mellum2-launch": "2026-06-01T15:54:27.083Z",
-    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T15:54:27.083Z"
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T15:54:27.083Z",
+    "b0369da4151ce057ae0309484ffeea0fa2c72c15": "2026-06-01T20:15:31.756Z",
+    "dfc63fb856bec3991d59b35f4c57957d22e61c82": "2026-06-01T20:15:31.756Z",
+    "ee307cbcff7480c6f7c96068d3223af5afc58d46": "2026-06-01T20:15:31.756Z",
+    "b31182d2eea63ca1e742d74eb5599ad33aa30115": "2026-06-01T20:15:31.756Z",
+    "051c6c4bf608e1da89c0693ffc37c155c4e35882": "2026-06-01T20:15:31.756Z",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/": "2026-06-01T20:15:31.756Z",
+    "cohere:8ce8c357758787a3": "2026-06-01T20:15:31.756Z",
+    "xai:4126c5521b9e1336": "2026-06-01T20:15:31.756Z"
   },
-  "updatedAt": "2026-06-01T15:54:27.083Z"
+  "updatedAt": "2026-06-01T20:15:31.756Z"
 }
