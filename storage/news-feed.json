@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:da372a3bc8075e22",
+      "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+      "summary": "AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with... AI agents are changing how you interact with your PC. Creators,...",
+      "link": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-02T19:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/travelers",
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -1153,5 +1162,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-02T18:37:48.797Z"
+  "updatedAt": "2026-06-02T21:46:23.894Z"
 }
