@@ -167,7 +167,8 @@
     "nvidia ai:c6f3b547faa763b3",
     "d503a1df1651c125d69885aaf137eef6b6f68154",
     "2fecd39b5e19602790e6b02fc5e977377ee92cae",
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "cohere:f4e6dcd13632a82d"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -303,7 +304,8 @@
     "nvidia ai:c6f3b547faa763b3": "2026-06-01T23:00:31.327Z",
     "d503a1df1651c125d69885aaf137eef6b6f68154": "2026-06-01T23:00:31.327Z",
     "2fecd39b5e19602790e6b02fc5e977377ee92cae": "2026-06-01T23:00:31.327Z",
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": "2026-06-01T23:00:31.327Z"
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": "2026-06-01T23:00:31.327Z",
+    "cohere:f4e6dcd13632a82d": "2026-06-02T00:21:57.213Z"
   },
-  "updatedAt": "2026-06-01T23:00:31.327Z"
+  "updatedAt": "2026-06-02T00:21:57.213Z"
 }

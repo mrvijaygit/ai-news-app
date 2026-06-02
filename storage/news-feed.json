@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "cohere:f4e6dcd13632a82d",
+      "title": "Embedding Models",
+      "summary": "Embedding Models",
+      "link": "https://cohere.com/blog/embedding-models",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-01T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can...",
@@ -1063,5 +1072,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-01T23:00:31.330Z"
+  "updatedAt": "2026-06-02T00:21:57.215Z"
 }
