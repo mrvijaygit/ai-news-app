@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/Hcompany/holo31",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "summary": "Holo3.1: Fast & Local Computer Use Agents",
+      "link": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-02T14:13:23.000Z"
+    },
+    {
       "id": "2ef82eaf0119e3f981e51c5df4bda9cc3ec30414",
       "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
       "summary": "This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock AgentCore Gateway. By the end of this guide, you will have a...",
@@ -1090,5 +1099,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-02T05:28:25.791Z"
+  "updatedAt": "2026-06-02T14:50:27.631Z"
 }
