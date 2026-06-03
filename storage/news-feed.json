@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "summary": "Direct Preference Optimization Beyond Chatbots",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-03T12:55:11.000Z"
+    },
+    {
       "id": "cohere:9b17116250c4477b",
       "title": "Ensemble Cohere Custom Healthcare Llm For Rcm",
       "summary": "Ensemble Cohere Custom Healthcare Llm For Rcm",
@@ -1252,5 +1261,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-03T03:46:08.697Z"
+  "updatedAt": "2026-06-03T13:14:40.525Z"
 }

@@ -188,7 +188,8 @@
     "cohere:d96c34a88879d375",
     "cohere:67059f591aa7ab96",
     "cohere:8ec24f0ff5cf3a65",
-    "cohere:9b84569d1eed84bc"
+    "cohere:9b84569d1eed84bc",
+    "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -345,7 +346,8 @@
     "cohere:d96c34a88879d375": "2026-06-03T03:46:08.695Z",
     "cohere:67059f591aa7ab96": "2026-06-03T03:46:08.695Z",
     "cohere:8ec24f0ff5cf3a65": "2026-06-03T03:46:08.695Z",
-    "cohere:9b84569d1eed84bc": "2026-06-03T03:46:08.695Z"
+    "cohere:9b84569d1eed84bc": "2026-06-03T03:46:08.695Z",
+    "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": "2026-06-03T13:14:40.523Z"
   },
-  "updatedAt": "2026-06-03T03:46:08.695Z"
+  "updatedAt": "2026-06-03T13:14:40.523Z"
 }
