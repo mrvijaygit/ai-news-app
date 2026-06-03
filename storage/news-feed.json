@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "de22639bed6185d9adbdb395e6b153abecc7209d",
+      "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
+      "summary": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-03T17:55:37.000Z"
+    },
+    {
+      "id": "c71acc97e8909137d930f33e3f37d666f8241532",
+      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+      "summary": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-03T15:56:50.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
       "title": "Direct Preference Optimization Beyond Chatbots",
       "summary": "Direct Preference Optimization Beyond Chatbots",
@@ -1261,5 +1279,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-03T13:14:40.525Z"
+  "updatedAt": "2026-06-03T18:21:48.526Z"
 }
