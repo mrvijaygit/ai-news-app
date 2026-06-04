@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "nvidia ai:bf1ddaa58dbea9ab",
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+      "summary": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete... Single-turn chatbots are evolving into long-running agents...",
+      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-04T13:02:49.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "summary": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "link": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-04T12:59:35.000Z"
+    },
+    {
       "id": "https://openai.com/index/endava-frontiers",
       "title": "How Endava is redesigning software delivery around AI agents",
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
@@ -1333,5 +1351,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-04T11:50:25.731Z"
+  "updatedAt": "2026-06-04T14:53:01.449Z"
 }
