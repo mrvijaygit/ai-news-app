@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:35425ef3f910664b",
+      "title": "Grok Becomes the Voice of Vapi",
+      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
+      "link": "https://x.ai/news/grok-vapi",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7f96b684a449083b",
+      "title": "Grok Imagine 1.5 Preview",
+      "summary": "Grok Imagine 1.5 Preview",
+      "link": "https://x.ai/news/grok-imagine-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/wasmer",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
@@ -1306,5 +1324,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-03T23:40:55.321Z"
+  "updatedAt": "2026-06-04T03:41:31.627Z"
 }
