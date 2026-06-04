@@ -199,7 +199,10 @@
     "xai:7f96b684a449083b",
     "https://openai.com/index/endava-frontiers",
     "nvidia ai:bf1ddaa58dbea9ab",
-    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr"
+    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+    "3c59132d34807765ea69ea90bc87801eb0233363",
+    "https://openai.com/index/chatgpt-memory-dreaming",
+    "https://huggingface.co/blog/hf-cli-for-agents"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -367,7 +370,10 @@
     "xai:7f96b684a449083b": "2026-06-04T03:41:31.625Z",
     "https://openai.com/index/endava-frontiers": "2026-06-04T11:50:25.729Z",
     "nvidia ai:bf1ddaa58dbea9ab": "2026-06-04T14:53:01.447Z",
-    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr": "2026-06-04T14:53:01.447Z"
+    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr": "2026-06-04T14:53:01.447Z",
+    "3c59132d34807765ea69ea90bc87801eb0233363": "2026-06-04T17:43:58.689Z",
+    "https://openai.com/index/chatgpt-memory-dreaming": "2026-06-04T17:43:58.689Z",
+    "https://huggingface.co/blog/hf-cli-for-agents": "2026-06-04T17:43:58.689Z"
   },
-  "updatedAt": "2026-06-04T14:53:01.447Z"
+  "updatedAt": "2026-06-04T17:43:58.689Z"
 }
