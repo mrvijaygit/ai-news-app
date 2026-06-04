@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-04T18:57:45.000Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-memory-dreaming",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
@@ -1378,5 +1387,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-04T17:43:58.691Z"
+  "updatedAt": "2026-06-04T20:01:53.070Z"
 }
