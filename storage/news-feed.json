@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/endava-frontiers",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "link": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-04T12:00:00.000Z"
+    },
+    {
       "id": "xai:35425ef3f910664b",
       "title": "Grok Becomes the Voice of Vapi",
       "summary": "Bringing frontier voice quality to millions of Vapi agents.",
@@ -1324,5 +1333,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-04T03:41:31.627Z"
+  "updatedAt": "2026-06-04T11:50:25.731Z"
 }
