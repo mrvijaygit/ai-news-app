@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "Here are Google’s latest AI updates from May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-06-05T14:45:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "summary": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
@@ -1387,5 +1396,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-04T20:01:53.070Z"
+  "updatedAt": "2026-06-05T15:51:24.363Z"
 }
