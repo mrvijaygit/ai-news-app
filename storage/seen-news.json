@@ -206,7 +206,8 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
+    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "https://huggingface.co/blog/build-small-hackathon/her-blog"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -381,7 +382,8 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety": "2026-06-04T20:01:53.068Z",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": "2026-06-05T15:51:24.361Z",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim": "2026-06-06T02:50:46.210Z",
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": "2026-06-06T19:17:37.129Z"
+    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": "2026-06-06T19:17:37.129Z",
+    "https://huggingface.co/blog/build-small-hackathon/her-blog": "2026-06-07T11:07:33.542Z"
   },
-  "updatedAt": "2026-06-06T19:17:37.129Z"
+  "updatedAt": "2026-06-07T11:07:33.542Z"
 }

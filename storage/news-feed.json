@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "title": "Her · हेर — a detective for your Claude Code sessions",
+      "summary": "Her · हेर — a detective for your Claude Code sessions",
+      "link": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-07T10:13:41.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
       "title": "Five labs, five minds: building a multi-model finance drama on small models",
       "summary": "Five labs, five minds: building a multi-model finance drama on small models",
@@ -1414,5 +1423,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-06T19:17:37.131Z"
+  "updatedAt": "2026-06-07T11:07:33.545Z"
 }
