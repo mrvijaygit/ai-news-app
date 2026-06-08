@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "title": "Built to benefit everyone: our plan",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-08T01:30:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/economic-research-exchange",
       "title": "Introducing the OpenAI Economic Research Exchange",
       "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
@@ -1513,5 +1522,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-08T20:10:52.493Z"
+  "updatedAt": "2026-06-08T22:24:08.853Z"
 }
