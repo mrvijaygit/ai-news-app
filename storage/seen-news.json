@@ -207,7 +207,15 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-    "https://huggingface.co/blog/build-small-hackathon/her-blog"
+    "https://huggingface.co/blog/build-small-hackathon/her-blog",
+    "17e996e65a7677699abc1a14b0fedfaebca86e0b",
+    "8e2e04441e2a0fae689261a13579714ba0fda515",
+    "db4588276b02155b2991d805a0cbac35981677f6",
+    "852de2bb0ac0250fed3f523281c9951df25d8d68",
+    "02dfe819c602e587ba2cab43c2a0b55ad4b3c283",
+    "73519a46681f0673f12b8211eacb5e7bdf708380",
+    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+    "https://huggingface.co/blog/openenv-agentic-rl"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -383,7 +391,15 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": "2026-06-05T15:51:24.361Z",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim": "2026-06-06T02:50:46.210Z",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": "2026-06-06T19:17:37.129Z",
-    "https://huggingface.co/blog/build-small-hackathon/her-blog": "2026-06-07T11:07:33.542Z"
+    "https://huggingface.co/blog/build-small-hackathon/her-blog": "2026-06-07T11:07:33.542Z",
+    "17e996e65a7677699abc1a14b0fedfaebca86e0b": "2026-06-08T17:21:30.245Z",
+    "8e2e04441e2a0fae689261a13579714ba0fda515": "2026-06-08T17:21:30.245Z",
+    "db4588276b02155b2991d805a0cbac35981677f6": "2026-06-08T17:21:30.245Z",
+    "852de2bb0ac0250fed3f523281c9951df25d8d68": "2026-06-08T17:21:30.245Z",
+    "02dfe819c602e587ba2cab43c2a0b55ad4b3c283": "2026-06-08T17:21:30.245Z",
+    "73519a46681f0673f12b8211eacb5e7bdf708380": "2026-06-08T17:21:30.245Z",
+    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3": "2026-06-08T17:21:30.245Z",
+    "https://huggingface.co/blog/openenv-agentic-rl": "2026-06-08T17:21:30.245Z"
   },
-  "updatedAt": "2026-06-07T11:07:33.542Z"
+  "updatedAt": "2026-06-08T17:21:30.245Z"
 }
