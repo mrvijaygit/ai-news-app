@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/economic-research-exchange",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "link": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:a94ef3c05779ff63",
+      "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+      "summary": "Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step... Pre-training frontier LLMs comes down to throughput. When...",
+      "link": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-08T18:18:06.000Z"
+    },
+    {
       "id": "17e996e65a7677699abc1a14b0fedfaebca86e0b",
       "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
       "summary": "With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and capacity across multiple AWS Regions,...",
@@ -1495,5 +1513,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-08T17:21:30.247Z"
+  "updatedAt": "2026-06-08T20:10:52.493Z"
 }

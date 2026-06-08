@@ -215,7 +215,9 @@
     "02dfe819c602e587ba2cab43c2a0b55ad4b3c283",
     "73519a46681f0673f12b8211eacb5e7bdf708380",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-    "https://huggingface.co/blog/openenv-agentic-rl"
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "nvidia ai:a94ef3c05779ff63",
+    "https://openai.com/index/economic-research-exchange"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -399,7 +401,9 @@
     "02dfe819c602e587ba2cab43c2a0b55ad4b3c283": "2026-06-08T17:21:30.245Z",
     "73519a46681f0673f12b8211eacb5e7bdf708380": "2026-06-08T17:21:30.245Z",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3": "2026-06-08T17:21:30.245Z",
-    "https://huggingface.co/blog/openenv-agentic-rl": "2026-06-08T17:21:30.245Z"
+    "https://huggingface.co/blog/openenv-agentic-rl": "2026-06-08T17:21:30.245Z",
+    "nvidia ai:a94ef3c05779ff63": "2026-06-08T20:10:52.491Z",
+    "https://openai.com/index/economic-research-exchange": "2026-06-08T20:10:52.491Z"
   },
-  "updatedAt": "2026-06-08T17:21:30.245Z"
+  "updatedAt": "2026-06-08T20:10:52.491Z"
 }
