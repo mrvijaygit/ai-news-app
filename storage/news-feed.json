@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "summary": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-09T15:56:23.000Z"
+    },
+    {
       "id": "https://openai.com/index/nextdoor",
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
@@ -1639,5 +1648,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-09T20:18:59.582Z"
+  "updatedAt": "2026-06-09T22:22:10.814Z"
 }

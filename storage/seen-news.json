@@ -231,7 +231,8 @@
     "https://huggingface.co/blog/ServiceNow-AI/code-switching",
     "nvidia ai:45cb058e561d43e1",
     "nvidia ai:8fd7e86448350ddf",
-    "https://openai.com/index/nextdoor"
+    "https://openai.com/index/nextdoor",
+    "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -431,7 +432,8 @@
     "https://huggingface.co/blog/ServiceNow-AI/code-switching": "2026-06-09T20:18:59.580Z",
     "nvidia ai:45cb058e561d43e1": "2026-06-09T20:18:59.580Z",
     "nvidia ai:8fd7e86448350ddf": "2026-06-09T20:18:59.580Z",
-    "https://openai.com/index/nextdoor": "2026-06-09T20:18:59.580Z"
+    "https://openai.com/index/nextdoor": "2026-06-09T20:18:59.580Z",
+    "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": "2026-06-09T22:22:10.811Z"
   },
-  "updatedAt": "2026-06-09T20:18:59.580Z"
+  "updatedAt": "2026-06-09T22:22:10.811Z"
 }
