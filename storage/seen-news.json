@@ -226,7 +226,12 @@
     "nvidia ai:11a26028119d7065",
     "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74",
     "anthropic:06de4edb4c5f7469",
-    "xai:3eb98dee9829b630"
+    "xai:3eb98dee9829b630",
+    "9c5e30c4c32932fd704366ee1ae231cfbc1ac5de",
+    "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "nvidia ai:45cb058e561d43e1",
+    "nvidia ai:8fd7e86448350ddf",
+    "https://openai.com/index/nextdoor"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -421,7 +426,12 @@
     "nvidia ai:11a26028119d7065": "2026-06-09T18:00:06.518Z",
     "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74": "2026-06-09T18:00:06.518Z",
     "anthropic:06de4edb4c5f7469": "2026-06-09T18:00:06.518Z",
-    "xai:3eb98dee9829b630": "2026-06-09T18:00:06.518Z"
+    "xai:3eb98dee9829b630": "2026-06-09T18:00:06.518Z",
+    "9c5e30c4c32932fd704366ee1ae231cfbc1ac5de": "2026-06-09T20:18:59.580Z",
+    "https://huggingface.co/blog/ServiceNow-AI/code-switching": "2026-06-09T20:18:59.580Z",
+    "nvidia ai:45cb058e561d43e1": "2026-06-09T20:18:59.580Z",
+    "nvidia ai:8fd7e86448350ddf": "2026-06-09T20:18:59.580Z",
+    "https://openai.com/index/nextdoor": "2026-06-09T20:18:59.580Z"
   },
-  "updatedAt": "2026-06-09T18:00:06.518Z"
+  "updatedAt": "2026-06-09T20:18:59.580Z"
 }

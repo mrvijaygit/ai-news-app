@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/nextdoor",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "link": "https://openai.com/index/nextdoor",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-09T12:00:00.000Z"
+    },
+    {
+      "id": "9c5e30c4c32932fd704366ee1ae231cfbc1ac5de",
+      "title": "Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI",
+      "summary": "In this post, we show how to train robot policies for the Unitree H1 humanoid with NVIDIA Isaac Lab on Amazon SageMaker AI across two compute options: Amazon SageMaker HyperPod and Amazon SageMaker Training Jobs.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-09T20:07:24.000Z"
+    },
+    {
+      "id": "nvidia ai:45cb058e561d43e1",
+      "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
+      "summary": "As AI infrastructure scales, enterprise expectations for operational maturity are increasing. Organizations expect these systems to be provisionable,... As AI infrastructure scales, enterprise expectations for...",
+      "link": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-09T19:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:8fd7e86448350ddf",
+      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
+      "summary": "Converting a quantized checkpoint into an NVIDIA TensorRT engine bridges the gap between model optimization and production deployment, enabling faster... Converting a quantized checkpoint into an NVIDIA TensorRT engine...",
+      "link": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-09T18:27:52.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "summary": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-09T19:38:28.000Z"
+    },
+    {
       "id": "anthropic:06de4edb4c5f7469",
       "title": "Claude Fable 5 and Claude Mythos 5",
       "summary": "Our next generation of intelligence for the hardest knowledge work and coding problems.",
@@ -1594,5 +1639,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-09T18:00:06.520Z"
+  "updatedAt": "2026-06-09T20:18:59.582Z"
 }
