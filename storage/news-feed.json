@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:c94711f877abe625",
+      "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+      "summary": "Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,... Training a speech AI model to correctly recognize or...",
+      "link": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-09T15:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
       "summary": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
@@ -1540,5 +1549,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-09T12:34:35.902Z"
+  "updatedAt": "2026-06-09T15:53:04.155Z"
 }
