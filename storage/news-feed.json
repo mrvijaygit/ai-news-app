@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+      "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+      "summary": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+      "link": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-09T09:04:58.000Z"
+    },
+    {
       "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "title": "Built to benefit everyone: our plan",
       "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
@@ -1522,5 +1531,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-08T22:24:08.853Z"
+  "updatedAt": "2026-06-09T09:37:42.181Z"
 }
