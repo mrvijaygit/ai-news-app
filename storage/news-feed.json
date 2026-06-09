@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "anthropic:06de4edb4c5f7469",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "summary": "Our next generation of intelligence for the hardest knowledge work and coding problems.",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-06-09T00:00:00.000Z"
+    },
+    {
+      "id": "xai:3eb98dee9829b630",
+      "title": "Powering Gopuff's Go agent",
+      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
+      "link": "https://x.ai/news/grok-gopuff",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "ea8d5dfaa5a40a9341dacf4afadd40b10d76a591",
+      "title": "Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake",
+      "summary": "In this post, we demonstrate how a hands-free FNOL intake system combines agents built with the Strands Agents SDK for domain reasoning with Amazon Bedrock AgentCore Browser Tool for live portal interaction. This...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-09T16:43:28.000Z"
+    },
+    {
+      "id": "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74",
+      "title": "Build an agentic incident triage assistant with Amazon Quick and New Relic",
+      "summary": "This post shows engineering teams how to apply that principle to one of the most time-sensitive workflows in engineering: incident triage. You will build a custom incident triage assistant agent using Amazon Quick that...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-09T16:10:37.000Z"
+    },
+    {
+      "id": "nvidia ai:11a26028119d7065",
+      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+      "summary": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a... Federated learning (FL) research often begins with a...",
+      "link": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-09T16:35:08.000Z"
+    },
+    {
       "id": "nvidia ai:c94711f877abe625",
       "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
       "summary": "Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,... Training a speech AI model to correctly recognize or...",
@@ -1549,5 +1594,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-09T15:53:04.155Z"
+  "updatedAt": "2026-06-09T18:00:06.520Z"
 }

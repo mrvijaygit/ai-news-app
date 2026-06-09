@@ -221,7 +221,12 @@
     "https://openai.com/index/built-to-benefit-everyone-our-plan",
     "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
     "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "nvidia ai:c94711f877abe625"
+    "nvidia ai:c94711f877abe625",
+    "ea8d5dfaa5a40a9341dacf4afadd40b10d76a591",
+    "nvidia ai:11a26028119d7065",
+    "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74",
+    "anthropic:06de4edb4c5f7469",
+    "xai:3eb98dee9829b630"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -411,7 +416,12 @@
     "https://openai.com/index/built-to-benefit-everyone-our-plan": "2026-06-08T22:24:08.851Z",
     "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd": "2026-06-09T09:37:42.179Z",
     "https://huggingface.co/blog/mishig/spaces-agents-md": "2026-06-09T12:34:35.899Z",
-    "nvidia ai:c94711f877abe625": "2026-06-09T15:53:04.153Z"
+    "nvidia ai:c94711f877abe625": "2026-06-09T15:53:04.153Z",
+    "ea8d5dfaa5a40a9341dacf4afadd40b10d76a591": "2026-06-09T18:00:06.518Z",
+    "nvidia ai:11a26028119d7065": "2026-06-09T18:00:06.518Z",
+    "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74": "2026-06-09T18:00:06.518Z",
+    "anthropic:06de4edb4c5f7469": "2026-06-09T18:00:06.518Z",
+    "xai:3eb98dee9829b630": "2026-06-09T18:00:06.518Z"
   },
-  "updatedAt": "2026-06-09T15:53:04.153Z"
+  "updatedAt": "2026-06-09T18:00:06.518Z"
 }
