@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "summary": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-09T10:46:19.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
       "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
       "summary": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
@@ -1531,5 +1540,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-09T09:37:42.181Z"
+  "updatedAt": "2026-06-09T12:34:35.902Z"
 }
