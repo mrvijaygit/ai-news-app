@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:7ec12ab2e0fe97fc",
+      "title": "Bringing real-time market sentiment to Tori, from eToro",
+      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
+      "link": "https://x.ai/news/grok-etoro",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "8c909e8c55a38a67515c9c8459441dccd019c247",
       "title": "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
       "summary": "Today, we’re announcing the Neuron Agentic Development capabilities: a collection of AI agents and skills that make this possible for developers building on AWS Trainium and AWS Inferentia. In this post, we explain how...",
@@ -1684,5 +1693,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-10T16:34:04.328Z"
+  "updatedAt": "2026-06-10T19:32:56.523Z"
 }
