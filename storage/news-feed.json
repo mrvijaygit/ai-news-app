@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/lseg",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "link": "https://openai.com/index/lseg",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-10T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
       "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
       "summary": "Introducing North Mini Code: Cohere’s First Model For Developers",
@@ -1648,5 +1657,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-09T22:22:10.814Z"
+  "updatedAt": "2026-06-10T09:53:58.254Z"
 }
