@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "8c909e8c55a38a67515c9c8459441dccd019c247",
+      "title": "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
+      "summary": "Today, we’re announcing the Neuron Agentic Development capabilities: a collection of AI agents and skills that make this possible for developers building on AWS Trainium and AWS Inferentia. In this post, we explain how...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-10T15:26:45.000Z"
+    },
+    {
+      "id": "ce26d4b04bd4ba7761816536eb670c6cfa40035d",
+      "title": "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore",
+      "summary": "In this post, you build an AI-powered equipment repair assistant using Amazon Bedrock AgentCore that helps farmers and field technicians diagnose equipment problems, identify required parts, and access...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-10T15:21:35.000Z"
+    },
+    {
+      "id": "nvidia ai:58ee35b3e5871839",
+      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+      "summary": "Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This... Developers building real-time AI—such as chat assistants,...",
+      "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-10T16:16:30.000Z"
+    },
+    {
       "id": "https://openai.com/index/lseg",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
       "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
@@ -1657,5 +1684,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-10T09:53:58.254Z"
+  "updatedAt": "2026-06-10T16:34:04.328Z"
 }

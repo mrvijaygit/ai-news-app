@@ -233,7 +233,10 @@
     "nvidia ai:8fd7e86448350ddf",
     "https://openai.com/index/nextdoor",
     "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "https://openai.com/index/lseg"
+    "https://openai.com/index/lseg",
+    "nvidia ai:58ee35b3e5871839",
+    "8c909e8c55a38a67515c9c8459441dccd019c247",
+    "ce26d4b04bd4ba7761816536eb670c6cfa40035d"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -435,7 +438,10 @@
     "nvidia ai:8fd7e86448350ddf": "2026-06-09T20:18:59.580Z",
     "https://openai.com/index/nextdoor": "2026-06-09T20:18:59.580Z",
     "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": "2026-06-09T22:22:10.811Z",
-    "https://openai.com/index/lseg": "2026-06-10T09:53:58.251Z"
+    "https://openai.com/index/lseg": "2026-06-10T09:53:58.251Z",
+    "nvidia ai:58ee35b3e5871839": "2026-06-10T16:34:04.326Z",
+    "8c909e8c55a38a67515c9c8459441dccd019c247": "2026-06-10T16:34:04.326Z",
+    "ce26d4b04bd4ba7761816536eb670c6cfa40035d": "2026-06-10T16:34:04.326Z"
   },
-  "updatedAt": "2026-06-10T09:53:58.251Z"
+  "updatedAt": "2026-06-10T16:34:04.326Z"
 }
