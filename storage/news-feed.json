@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/bbva",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "link": "https://openai.com/index/bbva",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-11T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/openai-to-acquire-ona",
       "title": "OpenAI to acquire Ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
@@ -1756,5 +1765,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-11T16:52:24.248Z"
+  "updatedAt": "2026-06-11T19:33:43.474Z"
 }

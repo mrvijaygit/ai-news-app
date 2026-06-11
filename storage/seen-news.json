@@ -244,7 +244,8 @@
     "78859b08a8eb05c15f71c0a82c2cc266ab6bb15e",
     "https://openai.com/index/openai-to-acquire-ona",
     "anthropic:3a96d62ac473f5cb",
-    "xai:337b3f5c095a2baa"
+    "xai:337b3f5c095a2baa",
+    "https://openai.com/index/bbva"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -457,7 +458,8 @@
     "78859b08a8eb05c15f71c0a82c2cc266ab6bb15e": "2026-06-11T16:52:24.244Z",
     "https://openai.com/index/openai-to-acquire-ona": "2026-06-11T16:52:24.244Z",
     "anthropic:3a96d62ac473f5cb": "2026-06-11T16:52:24.244Z",
-    "xai:337b3f5c095a2baa": "2026-06-11T16:52:24.244Z"
+    "xai:337b3f5c095a2baa": "2026-06-11T16:52:24.244Z",
+    "https://openai.com/index/bbva": "2026-06-11T19:33:43.472Z"
   },
-  "updatedAt": "2026-06-11T16:52:24.244Z"
+  "updatedAt": "2026-06-11T19:33:43.472Z"
 }
