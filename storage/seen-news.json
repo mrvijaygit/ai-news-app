@@ -245,7 +245,18 @@
     "https://openai.com/index/openai-to-acquire-ona",
     "anthropic:3a96d62ac473f5cb",
     "xai:337b3f5c095a2baa",
-    "https://openai.com/index/bbva"
+    "https://openai.com/index/bbva",
+    "nvidia ai:4f36512f0c2c7976",
+    "cohere:8ee5671f8b5be88f",
+    "cohere:f22999d8ff42d578",
+    "cohere:ea005a381ccc9a69",
+    "cohere:5da61177a3c48f4e",
+    "cohere:2490701ccf0a41b0",
+    "cohere:422f1de4eb6dc3d7",
+    "cohere:ea726d85644cb6a1",
+    "cohere:db82182769c016ee",
+    "cohere:ed5a66cc7f29f43d",
+    "cohere:825fab38105fedce"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -459,7 +470,18 @@
     "https://openai.com/index/openai-to-acquire-ona": "2026-06-11T16:52:24.244Z",
     "anthropic:3a96d62ac473f5cb": "2026-06-11T16:52:24.244Z",
     "xai:337b3f5c095a2baa": "2026-06-11T16:52:24.244Z",
-    "https://openai.com/index/bbva": "2026-06-11T19:33:43.472Z"
+    "https://openai.com/index/bbva": "2026-06-11T19:33:43.472Z",
+    "nvidia ai:4f36512f0c2c7976": "2026-06-11T22:00:31.595Z",
+    "cohere:8ee5671f8b5be88f": "2026-06-11T22:00:31.595Z",
+    "cohere:f22999d8ff42d578": "2026-06-11T22:00:31.595Z",
+    "cohere:ea005a381ccc9a69": "2026-06-11T22:00:31.595Z",
+    "cohere:5da61177a3c48f4e": "2026-06-11T22:00:31.595Z",
+    "cohere:2490701ccf0a41b0": "2026-06-11T22:00:31.595Z",
+    "cohere:422f1de4eb6dc3d7": "2026-06-11T22:00:31.595Z",
+    "cohere:ea726d85644cb6a1": "2026-06-11T22:00:31.595Z",
+    "cohere:db82182769c016ee": "2026-06-11T22:00:31.595Z",
+    "cohere:ed5a66cc7f29f43d": "2026-06-11T22:00:31.595Z",
+    "cohere:825fab38105fedce": "2026-06-11T22:00:31.595Z"
   },
-  "updatedAt": "2026-06-11T19:33:43.472Z"
+  "updatedAt": "2026-06-11T22:00:31.595Z"
 }
