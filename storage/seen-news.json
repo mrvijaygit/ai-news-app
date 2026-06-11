@@ -239,7 +239,12 @@
     "ce26d4b04bd4ba7761816536eb670c6cfa40035d",
     "xai:7ec12ab2e0fe97fc",
     "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "https://openai.com/index/openai-on-oracle-cloud"
+    "https://openai.com/index/openai-on-oracle-cloud",
+    "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe",
+    "78859b08a8eb05c15f71c0a82c2cc266ab6bb15e",
+    "https://openai.com/index/openai-to-acquire-ona",
+    "anthropic:3a96d62ac473f5cb",
+    "xai:337b3f5c095a2baa"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -447,7 +452,12 @@
     "ce26d4b04bd4ba7761816536eb670c6cfa40035d": "2026-06-10T16:34:04.326Z",
     "xai:7ec12ab2e0fe97fc": "2026-06-10T19:32:56.520Z",
     "https://openai.com/index/prc-linked-influence-operations-ai-debates": "2026-06-10T21:58:43.206Z",
-    "https://openai.com/index/openai-on-oracle-cloud": "2026-06-10T23:39:35.174Z"
+    "https://openai.com/index/openai-on-oracle-cloud": "2026-06-10T23:39:35.174Z",
+    "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe": "2026-06-11T16:52:24.244Z",
+    "78859b08a8eb05c15f71c0a82c2cc266ab6bb15e": "2026-06-11T16:52:24.244Z",
+    "https://openai.com/index/openai-to-acquire-ona": "2026-06-11T16:52:24.244Z",
+    "anthropic:3a96d62ac473f5cb": "2026-06-11T16:52:24.244Z",
+    "xai:337b3f5c095a2baa": "2026-06-11T16:52:24.244Z"
   },
-  "updatedAt": "2026-06-10T23:39:35.174Z"
+  "updatedAt": "2026-06-11T16:52:24.244Z"
 }

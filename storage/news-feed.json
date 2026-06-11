@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-11T00:00:00.000Z"
+    },
+    {
+      "id": "anthropic:3a96d62ac473f5cb",
+      "title": "Introducing Claude Corps",
+      "summary": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-06-11T00:00:00.000Z"
+    },
+    {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe",
+      "title": "Evaluate AI agents systematically with Agent-EvalKit",
+      "summary": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-11T15:49:47.000Z"
+    },
+    {
+      "id": "78859b08a8eb05c15f71c0a82c2cc266ab6bb15e",
+      "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+      "summary": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for controls. In this post, we walk through both features,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-11T15:36:31.000Z"
+    },
+    {
       "id": "https://openai.com/index/openai-on-oracle-cloud",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
@@ -1711,5 +1756,5 @@
       "publishedAt": "2026-05-28T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-10T23:39:35.176Z"
+  "updatedAt": "2026-06-11T16:52:24.248Z"
 }
