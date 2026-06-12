@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/preply",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "link": "https://openai.com/index/preply",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-12T00:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:4f36512f0c2c7976",
       "title": "One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand",
       "summary": "NVIDIA Quantum InfiniBand now offers intent-based security profiles in Unified Fabric Manager (UFM) that enable multi-tenant fabric security in a single... NVIDIA Quantum InfiniBand now offers intent-based security...",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-05-27T16:59:58.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "summary": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-05-27T17:20:29.000Z"
     }
   ],
-  "updatedAt": "2026-06-11T22:00:31.597Z"
+  "updatedAt": "2026-06-12T10:06:20.355Z"
 }
