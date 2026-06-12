@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "b1919d1f9b442a21587d936141e9bfbe66e31144",
+      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
+      "summary": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-12T20:43:56.000Z"
+    },
+    {
+      "id": "nvidia ai:70833a5e73a545e3",
+      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+      "summary": "AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how... AI agents have fundamentally changed the complexity of...",
+      "link": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-12T21:12:40.000Z"
+    },
+    {
       "id": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "title": "New OpenAI Academy courses for the next era of work",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-05-27T20:01:06.000Z"
-    },
-    {
-      "id": "8a39bdaaca01ff281c876dd6f199d21b54b8a83c",
-      "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
-      "summary": "In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Marketing and Global Services) organization. You will learn about: the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-27T18:51:45.000Z"
-    },
-    {
-      "id": "d0b1371079177ae4116061428da47e9102c667ee",
-      "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
-      "summary": "As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, but without orchestration, users carry the cognitive load of choosing...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-27T18:00:07.000Z"
     }
   ],
-  "updatedAt": "2026-06-12T17:35:55.544Z"
+  "updatedAt": "2026-06-12T22:23:12.655Z"
 }

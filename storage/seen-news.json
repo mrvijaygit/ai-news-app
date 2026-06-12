@@ -261,7 +261,9 @@
     "https://huggingface.co/blog/allenai/olmo-eval",
     "2b628693f2ca8d22060204d32957c9280592f76b",
     "nvidia ai:cf39a145b90b7227",
-    "https://openai.com/index/academy-courses-applying-ai-at-work"
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "nvidia ai:70833a5e73a545e3",
+    "b1919d1f9b442a21587d936141e9bfbe66e31144"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -491,7 +493,9 @@
     "https://huggingface.co/blog/allenai/olmo-eval": "2026-06-12T17:35:55.542Z",
     "2b628693f2ca8d22060204d32957c9280592f76b": "2026-06-12T17:35:55.542Z",
     "nvidia ai:cf39a145b90b7227": "2026-06-12T17:35:55.542Z",
-    "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-12T17:35:55.542Z"
+    "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-12T17:35:55.542Z",
+    "nvidia ai:70833a5e73a545e3": "2026-06-12T22:23:12.652Z",
+    "b1919d1f9b442a21587d936141e9bfbe66e31144": "2026-06-12T22:23:12.652Z"
   },
-  "updatedAt": "2026-06-12T17:35:55.542Z"
+  "updatedAt": "2026-06-12T22:23:12.652Z"
 }
