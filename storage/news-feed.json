@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-14T17:00:00.000Z"
+    },
+    {
       "id": "b1919d1f9b442a21587d936141e9bfbe66e31144",
       "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
       "summary": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution...",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-05-27T20:06:34.000Z"
-    },
-    {
-      "id": "0b1c36d906945b3a2f7ba41575b6808fdf29ebc0",
-      "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
-      "summary": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-27T20:01:06.000Z"
     }
   ],
-  "updatedAt": "2026-06-12T22:23:12.655Z"
+  "updatedAt": "2026-06-15T03:56:45.844Z"
 }

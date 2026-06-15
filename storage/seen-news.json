@@ -263,7 +263,8 @@
     "nvidia ai:cf39a145b90b7227",
     "https://openai.com/index/academy-courses-applying-ai-at-work",
     "nvidia ai:70833a5e73a545e3",
-    "b1919d1f9b442a21587d936141e9bfbe66e31144"
+    "b1919d1f9b442a21587d936141e9bfbe66e31144",
+    "https://openai.com/index/introducing-openai-partner-network"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -495,7 +496,8 @@
     "nvidia ai:cf39a145b90b7227": "2026-06-12T17:35:55.542Z",
     "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-12T17:35:55.542Z",
     "nvidia ai:70833a5e73a545e3": "2026-06-12T22:23:12.652Z",
-    "b1919d1f9b442a21587d936141e9bfbe66e31144": "2026-06-12T22:23:12.652Z"
+    "b1919d1f9b442a21587d936141e9bfbe66e31144": "2026-06-12T22:23:12.652Z",
+    "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z"
   },
-  "updatedAt": "2026-06-12T22:23:12.652Z"
+  "updatedAt": "2026-06-15T03:56:45.842Z"
 }
