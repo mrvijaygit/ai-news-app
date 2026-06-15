@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-06-15T15:00:00.000Z"
+    },
+    {
+      "id": "xai:6dad33007ff48b3f",
+      "title": "Agent Dashboard in Grok Build",
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "link": "https://x.ai/news/agent-dashboard",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
+      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
+      "summary": "In this post, you'll build a competitive research agent that demonstrates this pattern end to end. This walkthrough targets developers building multi-step AI workflows who need isolated execution environments for their...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-15T13:56:33.000Z"
+    },
+    {
+      "id": "nvidia ai:ca12f58ddcdf431b",
+      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
+      "summary": "Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it... Quick glossary for readers new to VLA/WAM terminology...",
+      "link": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-15T12:00:00.000Z"
+    },
+    {
+      "id": "cohere:676c16e90288fb6c",
+      "title": "Foi Systems With Ai Agents",
+      "summary": "Foi Systems With Ai Agents",
+      "link": "https://cohere.com/blog/foi-systems-with-ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-15T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:1a50e34106801d3a",
+      "title": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
+      "summary": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
+      "link": "https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-15T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-openai-partner-network",
       "title": "Introducing the OpenAI Partner Network",
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "3ebe0c6408072a34c4ad72fea1b55ffc0a0817b3",
-      "title": "Training Azerbaijani language models on Amazon SageMaker AI",
-      "summary": "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-28T21:54:06.000Z"
-    },
-    {
-      "id": "a2e3233fda9f86af267a34801a3ceda19e5ebff4",
-      "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
-      "summary": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-28T20:35:44.000Z"
-    },
-    {
-      "id": "37f895230623a9ba6612ab5198baebbb2f9a0a11",
-      "title": "Evaluating Deep Agents using LangSmith on AWS",
-      "summary": "This post combines learnings from LangChain’s work on evaluating deep agents and Anthropic’s guide to demystifying evals for AI agents into a practical guide. In this post, you will learn how to: 1) apply five...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-28T20:32:23.000Z"
-    },
-    {
-      "id": "29a59ea88284d19cb7e6ca6c796e291bf5ff11d6",
-      "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
-      "summary": "Agent evaluation is most powerful when you combine fast-moving online signals with stable offline baselines. To understand whether your agent is truly improving over time, you need a fixed benchmark alongside your...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-28T18:10:47.000Z"
-    },
-    {
-      "id": "368e3e77762abd47aa70f3875e5cbd9622010d5a",
-      "title": "Claude Opus 4.8 is now available on AWS",
-      "summary": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-28T17:51:32.000Z"
-    },
-    {
-      "id": "f4a3590f6bc8b3272df157882e15fb74869d0f7e",
-      "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
-      "summary": "In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-27T20:06:34.000Z"
     }
   ],
-  "updatedAt": "2026-06-15T03:56:45.844Z"
+  "updatedAt": "2026-06-15T16:15:41.260Z"
 }

@@ -264,7 +264,13 @@
     "https://openai.com/index/academy-courses-applying-ai-at-work",
     "nvidia ai:70833a5e73a545e3",
     "b1919d1f9b442a21587d936141e9bfbe66e31144",
-    "https://openai.com/index/introducing-openai-partner-network"
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
+    "nvidia ai:ca12f58ddcdf431b",
+    "cohere:676c16e90288fb6c",
+    "cohere:1a50e34106801d3a",
+    "xai:6dad33007ff48b3f"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -497,7 +503,13 @@
     "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-12T17:35:55.542Z",
     "nvidia ai:70833a5e73a545e3": "2026-06-12T22:23:12.652Z",
     "b1919d1f9b442a21587d936141e9bfbe66e31144": "2026-06-12T22:23:12.652Z",
-    "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z"
+    "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/": "2026-06-15T16:15:41.257Z",
+    "cb7aad4c1804e8d7d81a4454c42962ae28d631e1": "2026-06-15T16:15:41.257Z",
+    "nvidia ai:ca12f58ddcdf431b": "2026-06-15T16:15:41.257Z",
+    "cohere:676c16e90288fb6c": "2026-06-15T16:15:41.257Z",
+    "cohere:1a50e34106801d3a": "2026-06-15T16:15:41.257Z",
+    "xai:6dad33007ff48b3f": "2026-06-15T16:15:41.257Z"
   },
-  "updatedAt": "2026-06-15T03:56:45.842Z"
+  "updatedAt": "2026-06-15T16:15:41.257Z"
 }
