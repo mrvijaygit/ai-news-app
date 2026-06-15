@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:f58ce5a98926f521",
+      "title": "Announcing Grok-1.5",
+      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
+      "link": "https://x.ai/news/grok-1.5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:eb3235d954e50c16",
+      "title": "Open Release of Grok-1",
+      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
+      "link": "https://x.ai/news/grok-os",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9c5cd59fc5d31e7d",
+      "title": "Announcing PromptIDE",
+      "summary": "Integrated development environment for prompt engineering and interpretability research.",
+      "link": "https://x.ai/news/prompt-ide",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "095a11831dc2d12393669df01b1fde1455267c2b",
+      "title": "Introducing Gemma 4 models on Amazon Bedrock",
+      "summary": "Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the Apache 2.0 license, Gemma 4 is a family of open-weight models designed with a focus on...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-15T20:24:15.000Z"
+    },
+    {
       "id": "xai:c8e543b0022f670e",
       "title": "Use Grok in Warp",
       "summary": "Use Grok in Warp",
@@ -1754,52 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:653374155ddf34e4",
-      "title": "API Public Beta",
-      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
-      "link": "https://x.ai/news/api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5eec09fcb832980",
-      "title": "Series B funding round",
-      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
-      "link": "https://x.ai/news/series-b",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9689f95a1df38884",
-      "title": "Grok-1.5 Vision Preview",
-      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
-      "link": "https://x.ai/news/grok-1.5v",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-15T20:23:22.646Z"
+  "updatedAt": "2026-06-15T23:00:50.175Z"
 }
