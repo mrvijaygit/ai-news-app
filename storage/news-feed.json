@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:c8e543b0022f670e",
+      "title": "Use Grok in Warp",
+      "summary": "Use Grok in Warp",
+      "link": "https://x.ai/news/grok-warp",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "73a07b2595b53de69a7cc5f3c60790b57b634eae",
+      "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
+      "summary": "In this post, we walk you through calling the detector functions to diagnose real agent failures. You learn how to interpret their structured output: categorized failures with confidence scores, causal chains linking...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-15T18:07:59.000Z"
+    },
+    {
+      "id": "nvidia ai:c8f3cee60b76c873",
+      "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
+      "summary": "Foundation models are reshaping computational biology. Pretrained on massive corpora of protein or genomic sequences, models such as ESM2 (a protein language... Foundation models are reshaping computational biology....",
+      "link": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-15T18:07:31.000Z"
+    },
+    {
+      "id": "nvidia ai:9faebe697d7046a8",
+      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
+      "summary": "Mixture-of-experts (MoE) models have quickly become a foundational component of modern, large-scale AI systems. They are widely adopted because they enable... Mixture-of-experts (MoE) models have quickly become a...",
+      "link": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-15T16:45:41.000Z"
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:f58ce5a98926f521",
-      "title": "Announcing Grok-1.5",
-      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
-      "link": "https://x.ai/news/grok-1.5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:eb3235d954e50c16",
-      "title": "Open Release of Grok-1",
-      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
-      "link": "https://x.ai/news/grok-os",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-15T16:15:41.260Z"
+  "updatedAt": "2026-06-15T20:23:22.646Z"
 }
