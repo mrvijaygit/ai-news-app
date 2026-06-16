@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/deployment-simulation",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "link": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-16T00:00:00.000Z"
+    },
+    {
+      "id": "xai:95e9b6d90fc1fb24",
+      "title": "Grok for PowerPoint",
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "link": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ca490edf223f2ebf",
+      "title": "Grok Collections API",
+      "summary": "State-of-the-art RAG system built directly into our API.",
+      "link": "https://x.ai/news/grok-collections-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1fb88c3b251902a2",
+      "title": "Supporting the DOW's mission with AI",
+      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
+      "link": "https://x.ai/news/us-gov-dept-of-war",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3a1d72b884b69902",
+      "title": "Grok Voice Agent API",
+      "summary": "Bringing the power of Grok Voice to all developers.",
+      "link": "https://x.ai/news/grok-voice-agent-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e0e2c8f7889b9ed7",
+      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
+      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
+      "link": "https://x.ai/news/el-salvador-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e8261a0b7d99f9",
+      "title": "Grok 4.1 Fast and Agent Tools API",
+      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
+      "link": "https://x.ai/news/grok-4-1-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "69902708fb3d875dac63deee451bde43d0b5e0fa",
+      "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+      "summary": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-16T17:47:09.000Z"
+    },
+    {
+      "id": "nvidia ai:6beee7cd82e57678",
+      "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+      "summary": "NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This... NVIDIA RTX technologies are deeply integrated into...",
+      "link": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-16T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:44b312f254969a0b",
+      "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+      "summary": "Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU... Transformer architectures are the backbone of many...",
+      "link": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-16T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:86aadb793471c374",
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "summary": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium.... NVIDIA delivered a clean sweep in MLPerf Training v6.0,...",
+      "link": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-16T15:11:13.000Z"
+    },
+    {
+      "id": "cohere:6abaeb256ddaec51",
+      "title": "Ai Agents",
+      "summary": "Ai Agents",
+      "link": "https://cohere.com/blog/ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-16T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:a76f2c355713439b",
+      "title": "Agentic Workflows",
+      "summary": "Agentic Workflows",
+      "link": "https://cohere.com/blog/agentic-workflows",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-16T00:00:00.000Z"
+    },
+    {
       "id": "xai:03b62e9ad296bc89",
       "title": "Grok goes Global with KSA",
       "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
@@ -1682,124 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:f48d7b7c6e59faeb",
-      "title": "Use Grok in OpenClaw",
-      "summary": "Use Grok in OpenClaw",
-      "link": "https://x.ai/news/grok-openclaw",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a1e6fcd31f7e65d4",
-      "title": "Skills in web, iOS, and Android",
-      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4de6c4fbb944a39a",
-      "title": "Connect Grok to Hermes Agent",
-      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
-      "link": "https://x.ai/news/grok-hermes",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:58667f1086bc597d",
-      "title": "New Compute Partnership with Anthropic",
-      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
-      "link": "https://x.ai/news/anthropic-compute-partnership",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2a3af01c46c0903e",
-      "title": "Connectors in web, iOS, and Android",
-      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
-      "link": "https://x.ai/news/grok-connectors",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:b6d4ab19daa61b89",
-      "title": "Grok Imagine Quality Mode API",
-      "summary": "Higher realism. Stronger text rendering. Better creative control.",
-      "link": "https://x.ai/news/grok-imagine-quality-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a9be3438a26bba29",
-      "title": "Custom Voices and Voice Library",
-      "summary": "Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.",
-      "link": "https://x.ai/news/grok-custom-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f1d270907ee198a8",
-      "title": "Grok Voice Think Fast 1.0",
-      "summary": "Our most capable voice agent is now available via API.",
-      "link": "https://x.ai/news/grok-voice-think-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:533a462be2cea991",
-      "title": "Grok Speech to Text and Text to Speech APIs",
-      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
-      "link": "https://x.ai/news/grok-stt-and-tts-apis",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:cf57fe0bf7fb2ed6",
-      "title": "xAI joins SpaceX",
-      "summary": "SpaceX announced today that it has acquired xAI.",
-      "link": "https://x.ai/news/xai-joins-spacex",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6bb0a0c96a2a6ec2",
-      "title": "Grok Imagine API",
-      "summary": "State-of-the-art video generation across quality, cost, and latency.",
-      "link": "https://x.ai/news/grok-imagine-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:10e73b074ce809ee",
-      "title": "xAI Raises $20B Series E",
-      "summary": "xAI is rapidly accelerating its progress in building advanced AI.",
-      "link": "https://x.ai/news/series-e",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:dc4c15bc25a49149",
-      "title": "Introducing Grok Business and Grok Enterprise",
-      "summary": "The best assistant in the world is now Enterprise ready.",
-      "link": "https://x.ai/news/grok-business",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-16T15:01:57.113Z"
+  "updatedAt": "2026-06-16T19:31:23.549Z"
 }
