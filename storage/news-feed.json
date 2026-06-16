@@ -1,6 +1,141 @@
 {
   "items": [
     {
+      "id": "xai:f48d7b7c6e59faeb",
+      "title": "Use Grok in OpenClaw",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
+      "link": "https://x.ai/news/grok-openclaw",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a1e6fcd31f7e65d4",
+      "title": "Skills in web, iOS, and Android",
+      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
+      "link": "https://x.ai/news/grok-skills",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4de6c4fbb944a39a",
+      "title": "Connect Grok to Hermes Agent",
+      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:58667f1086bc597d",
+      "title": "New Compute Partnership with Anthropic",
+      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
+      "link": "https://x.ai/news/anthropic-compute-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2a3af01c46c0903e",
+      "title": "Connectors in web, iOS, and Android",
+      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:b6d4ab19daa61b89",
+      "title": "Grok Imagine Quality Mode API",
+      "summary": "Higher realism. Stronger text rendering. Better creative control.",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a9be3438a26bba29",
+      "title": "Custom Voices and Voice Library",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f1d270907ee198a8",
+      "title": "Grok Voice Think Fast 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:533a462be2cea991",
+      "title": "Grok Speech to Text and Text to Speech APIs",
+      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
+      "link": "https://x.ai/news/grok-stt-and-tts-apis",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cf57fe0bf7fb2ed6",
+      "title": "xAI joins SpaceX",
+      "summary": "SpaceX announced today that it has acquired xAI.",
+      "link": "https://x.ai/news/xai-joins-spacex",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6bb0a0c96a2a6ec2",
+      "title": "Grok Imagine API",
+      "summary": "State-of-the-art video generation across quality, cost, and latency.",
+      "link": "https://x.ai/news/grok-imagine-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e73b074ce809ee",
+      "title": "xAI Raises $20B Series E",
+      "summary": "xAI is rapidly accelerating its progress in building advanced AI.",
+      "link": "https://x.ai/news/series-e",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:dc4c15bc25a49149",
+      "title": "Introducing Grok Business and Grok Enterprise",
+      "summary": "The best assistant in the world is now Enterprise ready.",
+      "link": "https://x.ai/news/grok-business",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "45998be9fc18ed01687fad71ff74cc8866b5386e",
+      "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+      "summary": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-16T20:16:02.000Z"
+    },
+    {
+      "id": "nvidia ai:e1f4adf8eae5510a",
+      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+      "summary": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an... Every swipe, transfer, and payment on a modern financial network...",
+      "link": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-16T20:30:08.000Z"
+    },
+    {
       "id": "https://openai.com/index/deployment-simulation",
       "title": "Predicting model behavior before release by simulating deployment",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
@@ -1664,142 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "mistral ai:9ab8214220082473",
-      "title": "Mistral Code/",
-      "summary": "Mistral Code/",
-      "link": "https://mistral.ai/news/mistral-code/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:7a4bc16c95c68640",
-      "title": "Mistral Compute/",
-      "summary": "Mistral Compute/",
-      "link": "https://mistral.ai/news/mistral-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:4b83c867c1110099",
-      "title": "Mistral Large 2407/",
-      "summary": "Mistral Large 2407/",
-      "link": "https://mistral.ai/news/mistral-large-2407/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:b0067d3b420ff0a7",
-      "title": "Mistral Large/",
-      "summary": "Mistral Large/",
-      "link": "https://mistral.ai/news/mistral-large/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:bfb0553159972df8",
-      "title": "Mistral Medium 3/",
-      "summary": "Mistral Medium 3/",
-      "link": "https://mistral.ai/news/mistral-medium-3/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:4b0609d8e153533e",
-      "title": "Mistral Moderation/",
-      "summary": "Mistral Moderation/",
-      "link": "https://mistral.ai/news/mistral-moderation/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:74b62b5ed529ce9a",
-      "title": "Mistral Nemo/",
-      "summary": "Mistral Nemo/",
-      "link": "https://mistral.ai/news/mistral-nemo/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/endava",
-      "title": "How Endava builds an agentic organization with Codex",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "link": "https://openai.com/index/endava",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-05-28T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/mufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "link": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-05-28T00:00:00.000Z"
-    },
-    {
-      "id": "anthropic:2e3a1963c6081dc5",
-      "title": "Introducing Claude Opus 4.8",
-      "summary": "An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
-      "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-05-28T00:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-05-28T15:00:00.000Z"
-    },
-    {
-      "id": "xai:ae67cdc2e5ac21a4",
-      "title": "Grok Build 0.1 on API",
-      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
-      "link": "https://x.ai/news/grok-build-0-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:202301d15429884f",
-      "title": "Use Grok in Kilo Code",
-      "summary": "Use Grok in Kilo Code",
-      "link": "https://x.ai/news/grok-kilocode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9d5659da9528b35d",
-      "title": "Introducing Grok Build",
-      "summary": "Introducing Grok Build",
-      "link": "https://x.ai/news/grok-build-cli",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fee1e6ce5633dfad",
-      "title": "Use Grok in OpenCode",
-      "summary": "Use Grok in OpenCode",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-16T19:31:23.549Z"
+  "updatedAt": "2026-06-16T22:08:39.205Z"
 }

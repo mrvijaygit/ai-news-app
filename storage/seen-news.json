@@ -283,7 +283,9 @@
     "https://openai.com/index/deployment-simulation",
     "cohere:6abaeb256ddaec51",
     "cohere:a76f2c355713439b",
-    "xai:95e9b6d90fc1fb24"
+    "xai:95e9b6d90fc1fb24",
+    "nvidia ai:e1f4adf8eae5510a",
+    "45998be9fc18ed01687fad71ff74cc8866b5386e"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -535,7 +537,9 @@
     "https://openai.com/index/deployment-simulation": "2026-06-16T19:31:23.547Z",
     "cohere:6abaeb256ddaec51": "2026-06-16T19:31:23.547Z",
     "cohere:a76f2c355713439b": "2026-06-16T19:31:23.547Z",
-    "xai:95e9b6d90fc1fb24": "2026-06-16T19:31:23.547Z"
+    "xai:95e9b6d90fc1fb24": "2026-06-16T19:31:23.547Z",
+    "nvidia ai:e1f4adf8eae5510a": "2026-06-16T22:08:39.203Z",
+    "45998be9fc18ed01687fad71ff74cc8866b5386e": "2026-06-16T22:08:39.203Z"
   },
-  "updatedAt": "2026-06-16T19:31:23.547Z"
+  "updatedAt": "2026-06-16T22:08:39.203Z"
 }
