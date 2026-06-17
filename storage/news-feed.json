@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "link": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-17T00:00:00.000Z"
+    },
+    {
+      "id": "xai:000376eced0f7685",
+      "title": "Grok on Amazon Bedrock",
+      "summary": "Grok models are now available via Amazon Bedrock.",
+      "link": "https://x.ai/news/grok-amazon-bedrock",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "6071082886fecd4bbf0b392be615d8751f9f12eb",
+      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+      "summary": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-17T20:56:36.000Z"
+    },
+    {
+      "id": "6b08d80b1bb401fe91c0af0339f8b2e32d9406da",
+      "title": "Get back hours every day with autonomous agents in Amazon Quick",
+      "summary": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-17T20:35:39.000Z"
+    },
+    {
       "id": "https://openai.com/index/ai-chemist-improves-reaction",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "b0369da4151ce057ae0309484ffeea0fa2c72c15",
-      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
-      "summary": "While deploying Model Context Protocol (MCP) servers in production, enterprises need fine-grained access control across servers, observability into which teams use which tools, security guarantees against data...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-01T18:35:03.000Z"
-    },
-    {
-      "id": "dfc63fb856bec3991d59b35f4c57957d22e61c82",
-      "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
-      "summary": "In this post, we use a lakehouse data agent to demonstrate how you can use Policy for deterministic access control and Lambda interceptors for dynamic validation. We then show how to combine Lambda interceptors and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-01T17:54:22.000Z"
-    },
-    {
-      "id": "ee307cbcff7480c6f7c96068d3223af5afc58d46",
-      "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
-      "summary": "In this post, we address several key risks that surface when designing an agentic payment system, and how to address them with the capabilities of AgentCore payments.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-01T17:30:12.000Z"
-    },
-    {
-      "id": "b31182d2eea63ca1e742d74eb5599ad33aa30115",
-      "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
-      "summary": "When you build agentic AI solutions, you face unique operational challenges. Agents make unpredictable decisions, costs spiral unexpectedly, and debugging non-deterministic failures seems impossible. Agentic AI...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-01T16:12:18.000Z"
     }
   ],
-  "updatedAt": "2026-06-17T18:12:48.959Z"
+  "updatedAt": "2026-06-17T21:02:42.729Z"
 }

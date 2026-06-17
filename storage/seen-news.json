@@ -293,7 +293,11 @@
     "31f102ff202da7a1d7f28522d921743dcf39776f",
     "af29741e1b609d97137038ce98e464c22ddaf506",
     "https://openai.com/index/ai-chemist-improves-reaction",
-    "https://huggingface.co/blog/agentic-resource-discovery-launch"
+    "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "6071082886fecd4bbf0b392be615d8751f9f12eb",
+    "6b08d80b1bb401fe91c0af0339f8b2e32d9406da",
+    "https://openai.com/index/introducing-life-sci-bench",
+    "xai:000376eced0f7685"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -555,7 +559,11 @@
     "31f102ff202da7a1d7f28522d921743dcf39776f": "2026-06-17T18:12:48.956Z",
     "af29741e1b609d97137038ce98e464c22ddaf506": "2026-06-17T18:12:48.956Z",
     "https://openai.com/index/ai-chemist-improves-reaction": "2026-06-17T18:12:48.956Z",
-    "https://huggingface.co/blog/agentic-resource-discovery-launch": "2026-06-17T18:12:48.956Z"
+    "https://huggingface.co/blog/agentic-resource-discovery-launch": "2026-06-17T18:12:48.956Z",
+    "6071082886fecd4bbf0b392be615d8751f9f12eb": "2026-06-17T21:02:42.726Z",
+    "6b08d80b1bb401fe91c0af0339f8b2e32d9406da": "2026-06-17T21:02:42.726Z",
+    "https://openai.com/index/introducing-life-sci-bench": "2026-06-17T21:02:42.726Z",
+    "xai:000376eced0f7685": "2026-06-17T21:02:42.726Z"
   },
-  "updatedAt": "2026-06-17T18:12:48.956Z"
+  "updatedAt": "2026-06-17T21:02:42.726Z"
 }
