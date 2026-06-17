@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "mistral ai:4724f35f442e729f",
+      "title": "About Mistral Ai/",
+      "summary": "About Mistral Ai/",
+      "link": "https://mistral.ai/news/about-mistral-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:cc8a62a9a002c9f0",
+      "title": "Agentic Workflows From Meetings To Dev Tickets/",
+      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
+      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-17T10:18:05.000Z"
+    },
+    {
       "id": "mistral ai:e149a7820e21119f",
       "title": "Agents Api/",
       "summary": "Agents Api/",
@@ -1772,34 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-01T13:51:18.000Z"
-    },
-    {
-      "id": "nvidia ai:8eb890c58f5b6af7",
-      "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
-      "summary": "Developing autonomous vehicle (AV) policies requires bridging an important gap between training and deployment. Vision-language-action (VLA) models that can... Developing autonomous vehicle (AV) policies requires...",
-      "link": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-01T04:49:15.000Z"
-    },
-    {
-      "id": "nvidia ai:0a36cf27aa00de41",
-      "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
-      "summary": "Physical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what's... Physical AI systems must understand the real world before they...",
-      "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-01T04:43:58.000Z"
-    },
-    {
-      "id": "nvidia ai:ed0e4fc1fe48636a",
-      "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
-      "summary": "The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented... The AI era is driving a new class of infrastructure: AI...",
-      "link": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-01T04:21:42.000Z"
     }
   ],
-  "updatedAt": "2026-06-17T06:07:42.155Z"
+  "updatedAt": "2026-06-17T11:44:54.332Z"
 }
