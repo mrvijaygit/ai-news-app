@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "mistral ai:e149a7820e21119f",
+      "title": "Agents Api/",
+      "summary": "Agents Api/",
+      "link": "https://mistral.ai/news/agents-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:0e09c6a8c54494af",
+      "title": "Announcing Mistral 7b/",
+      "summary": "Announcing Mistral 7b/",
+      "link": "https://mistral.ai/news/announcing-mistral-7b/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:a3f9ce3884c9a824",
+      "title": "Batch Api/",
+      "summary": "Batch Api/",
+      "link": "https://mistral.ai/news/batch-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:052daf1b4aee87fd",
+      "title": "Debugging Memory Leak In Vllm/",
+      "summary": "Debugging Memory Leak In Vllm/",
+      "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:7ab92d6eb42cfef0",
+      "title": "Introducing Physics Ai At Mistral/",
+      "summary": "Introducing Physics Ai At Mistral/",
+      "link": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9bcf0cc6af22ad14",
+      "title": "Le Chat Mistral/",
+      "summary": "Le Chat Mistral/",
+      "link": "https://mistral.ai/news/le-chat-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:ed0f3c7a49cb1d48",
+      "title": "Llm As Rag Judge/",
+      "summary": "Llm As Rag Judge/",
+      "link": "https://mistral.ai/news/llm-as-rag-judge/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:2d44d3d0e4478e9b",
+      "title": "Mistral 3/",
+      "summary": "Mistral 3/",
+      "link": "https://mistral.ai/news/mistral-3/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9c4486fa7f8829eb",
+      "title": "Mistral Afp/",
+      "summary": "Mistral Afp/",
+      "link": "https://mistral.ai/news/mistral-afp/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9381c49eba11863b",
+      "title": "Mistral Ai And Nvidia Partner To Accelerate Open Frontier Models/",
+      "summary": "Mistral Ai And Nvidia Partner To Accelerate Open Frontier Models/",
+      "link": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:d2b5856114602010",
+      "title": "Mistral Ai Non Production License Mnpl/",
+      "summary": "Mistral Ai Non Production License Mnpl/",
+      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:eab853c3204c205e",
+      "title": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
+      "summary": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
+      "link": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:8407a1d5853bc4ec",
+      "title": "Mistral Chat/",
+      "summary": "Mistral Chat/",
+      "link": "https://mistral.ai/news/mistral-chat/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:9ab8214220082473",
       "title": "Mistral Code/",
       "summary": "Mistral Code/",
@@ -1673,133 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-01T04:21:42.000Z"
-    },
-    {
-      "id": "nvidia ai:6d20d8c8e70677e9",
-      "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
-      "summary": "Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems.... Each wave of AI has created a new scaling law. Pretraining...",
-      "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-01T03:59:15.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "summary": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-01T04:44:55.000Z"
-    },
-    {
-      "id": "nvidia ai:365615c13e11ceb5",
-      "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
-      "summary": "AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale... AI is now essential infrastructure, powered by AI factories...",
-      "link": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-01T03:36:52.000Z"
-    },
-    {
-      "id": "e9638f6dde6eb511cb0d3380be63a779737316a6",
-      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
-      "summary": "This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity for LLMs served on Amazon SageMaker AI endpoints with...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-05-29T23:36:58.000Z"
-    },
-    {
-      "id": "nvidia ai:9a8550a743fe33b9",
-      "title": "DynoSim: Simulating the Pareto Frontier",
-      "summary": "Modern LLM serving is hard to tune because each deployment is a stack of interacting choices: model backend, tensor-parallel shape, prefill/decode split, worker... Modern LLM serving is hard to tune because each...",
-      "link": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-05-29T22:31:03.000Z"
-    },
-    {
-      "id": "https://openai.com/index/braintrust",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "link": "https://openai.com/index/braintrust",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-05-29T12:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-05-29T19:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-05-29T17:30:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-05-29T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:1ef47746cab269d1",
-      "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
-      "summary": "As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including California’s AB-2013 and the EU AI Act, software teams... As AI models grow in complexity and regulatory scrutiny...",
-      "link": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-05-29T16:00:00.000Z"
-    },
-    {
-      "id": "cohere:470ad06e41642bfd",
-      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-05-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-05-29T03:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:4724f35f442e729f",
-      "title": "About Mistral Ai/",
-      "summary": "About Mistral Ai/",
-      "link": "https://mistral.ai/news/about-mistral-ai/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:cc8a62a9a002c9f0",
-      "title": "Agentic Workflows From Meetings To Dev Tickets/",
-      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
-      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-17T00:13:36.834Z"
+  "updatedAt": "2026-06-17T06:07:42.155Z"
 }
