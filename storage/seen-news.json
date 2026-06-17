@@ -289,7 +289,11 @@
     "be3b2966e30bd6b9ecf8c5fe631e9336f36449b6",
     "nvidia ai:0a8ab90935f03a25",
     "xai:ab219090a4ec5ef2",
-    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "31f102ff202da7a1d7f28522d921743dcf39776f",
+    "af29741e1b609d97137038ce98e464c22ddaf506",
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://huggingface.co/blog/agentic-resource-discovery-launch"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -547,7 +551,11 @@
     "be3b2966e30bd6b9ecf8c5fe631e9336f36449b6": "2026-06-17T00:13:36.832Z",
     "nvidia ai:0a8ab90935f03a25": "2026-06-17T00:13:36.832Z",
     "xai:ab219090a4ec5ef2": "2026-06-17T06:07:42.153Z",
-    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": "2026-06-17T11:44:54.330Z"
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": "2026-06-17T11:44:54.330Z",
+    "31f102ff202da7a1d7f28522d921743dcf39776f": "2026-06-17T18:12:48.956Z",
+    "af29741e1b609d97137038ce98e464c22ddaf506": "2026-06-17T18:12:48.956Z",
+    "https://openai.com/index/ai-chemist-improves-reaction": "2026-06-17T18:12:48.956Z",
+    "https://huggingface.co/blog/agentic-resource-discovery-launch": "2026-06-17T18:12:48.956Z"
   },
-  "updatedAt": "2026-06-17T11:44:54.330Z"
+  "updatedAt": "2026-06-17T18:12:48.956Z"
 }
