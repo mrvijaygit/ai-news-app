@@ -297,7 +297,11 @@
     "6071082886fecd4bbf0b392be615d8751f9f12eb",
     "6b08d80b1bb401fe91c0af0339f8b2e32d9406da",
     "https://openai.com/index/introducing-life-sci-bench",
-    "xai:000376eced0f7685"
+    "xai:000376eced0f7685",
+    "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "https://huggingface.co/blog/peft-beyond-lora",
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "xai:950769d2f630ca6f"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -563,7 +567,11 @@
     "6071082886fecd4bbf0b392be615d8751f9f12eb": "2026-06-17T21:02:42.726Z",
     "6b08d80b1bb401fe91c0af0339f8b2e32d9406da": "2026-06-17T21:02:42.726Z",
     "https://openai.com/index/introducing-life-sci-bench": "2026-06-17T21:02:42.726Z",
-    "xai:000376eced0f7685": "2026-06-17T21:02:42.726Z"
+    "xai:000376eced0f7685": "2026-06-17T21:02:42.726Z",
+    "https://openai.com/index/diagnose-rare-childhood-diseases": "2026-06-18T16:27:44.807Z",
+    "https://huggingface.co/blog/peft-beyond-lora": "2026-06-18T16:27:44.807Z",
+    "https://huggingface.co/blog/is-it-agentic-enough": "2026-06-18T16:27:44.807Z",
+    "xai:950769d2f630ca6f": "2026-06-18T16:27:44.807Z"
   },
-  "updatedAt": "2026-06-17T21:02:42.726Z"
+  "updatedAt": "2026-06-18T16:27:44.807Z"
 }
