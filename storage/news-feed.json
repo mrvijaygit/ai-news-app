@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-18T17:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "title": "Improving health intelligence in ChatGPT",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-18T11:00:00.000Z"
+    },
+    {
+      "id": "xai:6fb78d5fa6c818ae",
+      "title": "Grok for Word",
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "link": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "be9a03852fc0c60a62e1fc0565d44b2b17381671",
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+      "summary": "Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you have an agent running in seconds. The agent runs in its own isolated...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-18T17:32:22.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "summary": "MosaicLeaks: Can your research agent keep a secret?",
+      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-18T18:13:13.000Z"
+    },
+    {
       "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
@@ -1745,61 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-02T14:13:23.000Z"
-    },
-    {
-      "id": "2ef82eaf0119e3f981e51c5df4bda9cc3ec30414",
-      "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
-      "summary": "This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock AgentCore Gateway. By the end of this guide, you will have a...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-02T03:23:35.000Z"
-    },
-    {
-      "id": "nvidia ai:620578f64344ea4f",
-      "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
-      "summary": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized... As AI agents move from the digital world to the physical...",
-      "link": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-02T02:00:00.000Z"
-    },
-    {
-      "id": "cohere:f4e6dcd13632a82d",
-      "title": "Embedding Models",
-      "summary": "Embedding Models",
-      "link": "https://cohere.com/blog/embedding-models",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-01T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can...",
-      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-01T10:00:00.000Z"
-    },
-    {
-      "id": "522d8f9e769a522edf4722e21949ac3e5df9e7b1",
-      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
-      "summary": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-01T22:16:28.000Z"
-    },
-    {
-      "id": "d503a1df1651c125d69885aaf137eef6b6f68154",
-      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
-      "summary": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-01T21:54:16.000Z"
     }
   ],
-  "updatedAt": "2026-06-18T16:27:44.809Z"
+  "updatedAt": "2026-06-18T19:25:17.081Z"
 }
