@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7",
+      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+      "summary": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-18T23:31:58.000Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "title": "New usage analytics and updated spend controls for enterprises",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-02T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/Hcompany/holo31",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "summary": "Holo3.1: Fast & Local Computer Use Agents",
-      "link": "https://huggingface.co/blog/Hcompany/holo31",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-02T14:13:23.000Z"
     }
   ],
-  "updatedAt": "2026-06-18T19:25:17.081Z"
+  "updatedAt": "2026-06-19T00:24:10.159Z"
 }
