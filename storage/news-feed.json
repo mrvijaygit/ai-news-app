@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/patch-the-planet",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "link": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-22T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-22T10:00:00.000Z"
+    },
+    {
+      "id": "xai:ea7ad631cd2df309",
+      "title": "Introducing /goal",
+      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
+      "link": "https://x.ai/news/introducing-goal",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "feae5d9d32840b5cd91ba2baf9be1daf82e1283d",
+      "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
+      "summary": "In this post, we walk through the problem space, our architecture on Amazon Bedrock and Amazon OpenSearch Serverless, the evaluation methodology we built on OpenStreetMap ground truth, four experiments that compared...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-22T16:32:15.000Z"
+    },
+    {
+      "id": "nvidia ai:a973c8b9122d342c",
+      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+      "summary": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel... The NVIDIA CUDA Core Compute Libraries (CCCL) provides...",
+      "link": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-22T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:1cb97b498b695bdb",
+      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+      "summary": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional... Physical AI—robots working autonomously alongside people in...",
+      "link": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-22T13:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-22T13:18:56.000Z"
+    },
+    {
       "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
@@ -1736,70 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:67059f591aa7ab96",
-      "title": "Enterprise Ai Maturity Model Pt2",
-      "summary": "Enterprise Ai Maturity Model Pt2",
-      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:8ec24f0ff5cf3a65",
-      "title": "Mixture Of Experts Models Get More From Speculative Decoding",
-      "summary": "Mixture Of Experts Models Get More From Speculative Decoding",
-      "link": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:9b84569d1eed84bc",
-      "title": "Rws And Cohere Build Ai Language Intelligence",
-      "summary": "Rws And Cohere Build Ai Language Intelligence",
-      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:da372a3bc8075e22",
-      "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
-      "summary": "AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with... AI agents are changing how you interact with your PC. Creators,...",
-      "link": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-02T19:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/travelers",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "link": "https://openai.com/index/travelers",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-02T12:00:00.000Z"
-    },
-    {
-      "id": "03c94dd9be4411cedfaa179ddf0fa555a76415d3",
-      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
-      "summary": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-02T17:39:03.000Z"
-    },
-    {
-      "id": "021729c96076a0da5df567811d8cb3814da1feee",
-      "title": "Object detection with Amazon Nova 2 Lite",
-      "summary": "In this post, we'll walk through implementing object detection with Amazon Nova 2 Lite. You'll learn how to deploy an object detection application using Amazon Bedrock, AWS Lambda, and Amazon API Gateway. You'll also...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-02T17:31:11.000Z"
     }
   ],
-  "updatedAt": "2026-06-22T00:08:51.234Z"
+  "updatedAt": "2026-06-22T17:29:17.111Z"
 }

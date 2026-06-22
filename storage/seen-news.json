@@ -310,7 +310,14 @@
     "eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7",
     "1e6011feb7a9539e025946c40b2ccf72108b05ae",
     "c7547b285777b009f8bb60f1abb1888be2f1e73a",
-    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "feae5d9d32840b5cd91ba2baf9be1daf82e1283d",
+    "nvidia ai:a973c8b9122d342c",
+    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "nvidia ai:1cb97b498b695bdb",
+    "https://openai.com/index/patch-the-planet",
+    "https://openai.com/index/daybreak-securing-the-world",
+    "xai:ea7ad631cd2df309"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -589,7 +596,14 @@
     "eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7": "2026-06-19T00:24:10.156Z",
     "1e6011feb7a9539e025946c40b2ccf72108b05ae": "2026-06-19T14:58:21.408Z",
     "c7547b285777b009f8bb60f1abb1888be2f1e73a": "2026-06-19T14:58:21.408Z",
-    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z"
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
+    "feae5d9d32840b5cd91ba2baf9be1daf82e1283d": "2026-06-22T17:29:17.108Z",
+    "nvidia ai:a973c8b9122d342c": "2026-06-22T17:29:17.108Z",
+    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": "2026-06-22T17:29:17.108Z",
+    "nvidia ai:1cb97b498b695bdb": "2026-06-22T17:29:17.108Z",
+    "https://openai.com/index/patch-the-planet": "2026-06-22T17:29:17.108Z",
+    "https://openai.com/index/daybreak-securing-the-world": "2026-06-22T17:29:17.108Z",
+    "xai:ea7ad631cd2df309": "2026-06-22T17:29:17.108Z"
   },
-  "updatedAt": "2026-06-22T00:08:51.232Z"
+  "updatedAt": "2026-06-22T17:29:17.108Z"
 }
