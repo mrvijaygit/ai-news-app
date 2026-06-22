@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-21T23:00:00.000Z"
+    },
+    {
       "id": "1e6011feb7a9539e025946c40b2ccf72108b05ae",
       "title": "Introducing Web Search on Amazon Bedrock AgentCore",
       "summary": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of...",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-02T17:31:11.000Z"
-    },
-    {
-      "id": "6b8b9a50ecee365036b0065bad09a8208c1d2ce3",
-      "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
-      "summary": "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-02T15:45:11.000Z"
     }
   ],
-  "updatedAt": "2026-06-19T14:58:21.410Z"
+  "updatedAt": "2026-06-22T00:08:51.234Z"
 }
