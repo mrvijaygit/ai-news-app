@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "52be35df08b05af08b291c3c21eae9e9df45e6a0",
+      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+      "summary": "In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomously route tasks to the most effective model, pay per request, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-22T17:53:40.000Z"
+    },
+    {
       "id": "https://openai.com/index/patch-the-planet",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:d96c34a88879d375",
-      "title": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "summary": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-03T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-22T17:29:17.111Z"
+  "updatedAt": "2026-06-22T20:42:14.240Z"
 }
