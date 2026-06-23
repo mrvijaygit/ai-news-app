@@ -320,7 +320,11 @@
     "xai:ea7ad631cd2df309",
     "52be35df08b05af08b291c3c21eae9e9df45e6a0",
     "nvidia ai:c2ea807d96f83e51",
-    "https://huggingface.co/blog/local-models-pr-triage"
+    "https://huggingface.co/blog/local-models-pr-triage",
+    "nvidia ai:17128b6299583a0b",
+    "nvidia ai:aac0bac97952a5ab",
+    "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "cohere:a2f299e5469bc81a"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -609,7 +613,11 @@
     "xai:ea7ad631cd2df309": "2026-06-22T17:29:17.108Z",
     "52be35df08b05af08b291c3c21eae9e9df45e6a0": "2026-06-22T20:42:14.237Z",
     "nvidia ai:c2ea807d96f83e51": "2026-06-23T08:30:35.022Z",
-    "https://huggingface.co/blog/local-models-pr-triage": "2026-06-23T08:30:35.022Z"
+    "https://huggingface.co/blog/local-models-pr-triage": "2026-06-23T08:30:35.022Z",
+    "nvidia ai:17128b6299583a0b": "2026-06-23T15:11:20.824Z",
+    "nvidia ai:aac0bac97952a5ab": "2026-06-23T15:11:20.824Z",
+    "https://huggingface.co/blog/ibm-research/cuga-apps": "2026-06-23T15:11:20.824Z",
+    "cohere:a2f299e5469bc81a": "2026-06-23T15:11:20.824Z"
   },
-  "updatedAt": "2026-06-23T08:30:35.022Z"
+  "updatedAt": "2026-06-23T15:11:20.824Z"
 }
