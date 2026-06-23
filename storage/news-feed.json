@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "anthropic:0c02939755bef0f3",
+      "title": "Introducing Claude Tag",
+      "summary": "Claude Tag is a new way for teams to work with Claude.",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-06-23T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/gpt-5-immunology-mystery",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-03T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-03T13:15:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-23T17:49:54.810Z"
+  "updatedAt": "2026-06-23T19:58:42.460Z"
 }
