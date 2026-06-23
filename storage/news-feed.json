@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/gpt-5-immunology-mystery",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-23T17:00:00.000Z"
+    },
+    {
+      "id": "a65ba055bb41fa9b00170b01a872633b24c9741c",
+      "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
+      "summary": "This post shows you how to build a conversational protein research assistant that combines three capabilities: Natural language query parsing to extract structured search parameters, vector similarity search over...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-23T16:39:34.000Z"
+    },
+    {
+      "id": "78965789e8e2a82a105cf681e9dac7d46cae2995",
+      "title": "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
+      "summary": "In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-23T15:43:59.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/cross-origin-storage",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-23T00:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:17128b6299583a0b",
       "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
       "summary": "As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs... As AI systems move from single-turn interactions to...",
@@ -1763,43 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-03T13:15:00.000Z"
-    },
-    {
-      "id": "30ad631313e8e37126316f1efe5196505e5e1fad",
-      "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
-      "summary": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-03T20:14:16.000Z"
-    },
-    {
-      "id": "de22639bed6185d9adbdb395e6b153abecc7209d",
-      "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
-      "summary": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-03T17:55:37.000Z"
-    },
-    {
-      "id": "c71acc97e8909137d930f33e3f37d666f8241532",
-      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-      "summary": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-03T15:56:50.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "summary": "Direct Preference Optimization Beyond Chatbots",
-      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-03T12:55:11.000Z"
     }
   ],
-  "updatedAt": "2026-06-23T15:11:20.828Z"
+  "updatedAt": "2026-06-23T17:49:54.810Z"
 }
