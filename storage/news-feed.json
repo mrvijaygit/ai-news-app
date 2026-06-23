@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "nvidia ai:c2ea807d96f83e51",
+      "title": "How Telcos Build Autonomous Networks with Agentic AI",
+      "summary": "Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In... Telecom operators are adopting AI across network...",
+      "link": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-23T06:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/local-models-pr-triage",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "summary": "We got local models to triage the OpenClaw repo for FREE!*",
+      "link": "https://huggingface.co/blog/local-models-pr-triage",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-22T00:00:00.000Z"
+    },
+    {
       "id": "52be35df08b05af08b291c3c21eae9e9df45e6a0",
       "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
       "summary": "In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomously route tasks to the most effective model, pay per request, and...",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:b022515179b21110",
-      "title": "Cohere Releases Command A Plus",
-      "summary": "Cohere Releases Command A Plus",
-      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:6efa6054752ebe39",
-      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-03T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-22T20:42:14.240Z"
+  "updatedAt": "2026-06-23T08:30:35.024Z"
 }
