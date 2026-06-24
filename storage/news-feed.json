@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-24T16:00:13.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ffasr-leaderboard",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "link": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-24T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:b0e8d2f6847a1809",
+      "title": "Cohere Aston Martin Formula One Generative Ai Partner",
+      "summary": "Cohere Aston Martin Formula One Generative Ai Partner",
+      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-24T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
@@ -1772,34 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-04T12:59:35.000Z"
-    },
-    {
-      "id": "https://openai.com/index/endava-frontiers",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "link": "https://openai.com/index/endava-frontiers",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-04T12:00:00.000Z"
-    },
-    {
-      "id": "xai:35425ef3f910664b",
-      "title": "Grok Becomes the Voice of Vapi",
-      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
-      "link": "https://x.ai/news/grok-vapi",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "Grok Imagine 1.5 Preview",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-24T13:19:20.239Z"
+  "updatedAt": "2026-06-24T16:17:17.724Z"
 }
