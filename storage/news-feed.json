@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:7f96b684a449083b",
+      "title": "Grok Imagine 1.5 Preview",
+      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+      "link": "https://x.ai/news/grok-imagine-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:35425ef3f910664b",
+      "title": "Grok Becomes the Voice of Vapi",
+      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
+      "link": "https://x.ai/news/grok-vapi",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "1d2ea05ede59ced27e2539d9d423a21734963e2f",
+      "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
+      "summary": "In this post, you will learn how to build a voice agent that handles appointment reminder conversations using Amazon Nova 2 Sonic and Amazon Bedrock AgentCore. The agent authenticates patients by voice, manages...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-24T18:20:27.000Z"
+    },
+    {
+      "id": "1dc7723ff4e6ee2d06a80f8861b8d24f05532975",
+      "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
+      "summary": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang up, damaging brand reputation and driving up support costs.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-24T16:56:24.000Z"
+    },
+    {
+      "id": "nvidia ai:475ec74fd205afb5",
+      "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+      "summary": "An increasingly common design pattern for autonomous vehicles (AVs), robotics, and spatial AI systems is bird's-eye-view (BEV) perception. BEV models project... An increasingly common design pattern for autonomous...",
+      "link": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-24T16:30:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
@@ -1754,52 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-04T18:57:45.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-memory-dreaming",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "link": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-04T09:00:00.000Z"
-    },
-    {
-      "id": "3c59132d34807765ea69ea90bc87801eb0233363",
-      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
-      "summary": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-04T16:59:08.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/hf-cli-for-agents",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "summary": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "link": "https://huggingface.co/blog/hf-cli-for-agents",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-04T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:bf1ddaa58dbea9ab",
-      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
-      "summary": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete... Single-turn chatbots are evolving into long-running agents...",
-      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-04T13:02:49.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
-      "summary": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
-      "link": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-04T12:59:35.000Z"
     }
   ],
-  "updatedAt": "2026-06-24T16:17:17.724Z"
+  "updatedAt": "2026-06-24T18:49:28.487Z"
 }
