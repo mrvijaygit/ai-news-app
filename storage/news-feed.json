@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-25T02:00:00.000Z"
+    },
+    {
       "id": "xai:8a057b2058898150",
       "title": "Explore the markets with Interactive Brokers and Grok",
       "summary": "Explore the markets with Interactive Brokers and Grok",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-05T22:18:46.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Here are Google’s latest AI updates from May 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-06-05T14:45:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-25T05:02:43.297Z"
+  "updatedAt": "2026-06-25T11:40:23.105Z"
 }
