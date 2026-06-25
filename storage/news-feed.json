@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "summary": "Run a vLLM Server on HF Jobs in One Command",
+      "link": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-26T00:00:00.000Z"
+    },
+    {
       "id": "eda3331addbbed45b312b41d1b282123a9d1d3b5",
       "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
       "summary": "In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper layers that transform traditional REST-based services into agents capable...",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-08T01:30:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/economic-research-exchange",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "link": "https://openai.com/index/economic-research-exchange",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-08T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-25T19:55:49.928Z"
+  "updatedAt": "2026-06-25T21:41:23.963Z"
 }

@@ -350,7 +350,8 @@
     "nvidia ai:9b885878ddd249c4",
     "nvidia ai:5e81c49c697bbc25",
     "eda3331addbbed45b312b41d1b282123a9d1d3b5",
-    "cohere:0da566de6b4fa245"
+    "cohere:0da566de6b4fa245",
+    "https://huggingface.co/blog/vllm-jobs"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -669,7 +670,8 @@
     "nvidia ai:9b885878ddd249c4": "2026-06-25T19:55:49.926Z",
     "nvidia ai:5e81c49c697bbc25": "2026-06-25T19:55:49.926Z",
     "eda3331addbbed45b312b41d1b282123a9d1d3b5": "2026-06-25T19:55:49.926Z",
-    "cohere:0da566de6b4fa245": "2026-06-25T19:55:49.926Z"
+    "cohere:0da566de6b4fa245": "2026-06-25T19:55:49.926Z",
+    "https://huggingface.co/blog/vllm-jobs": "2026-06-25T21:41:23.961Z"
   },
-  "updatedAt": "2026-06-25T19:55:49.926Z"
+  "updatedAt": "2026-06-25T21:41:23.961Z"
 }
