@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "eda3331addbbed45b312b41d1b282123a9d1d3b5",
+      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
+      "summary": "In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper layers that transform traditional REST-based services into agents capable...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-25T17:55:10.000Z"
+    },
+    {
+      "id": "nvidia ai:9b885878ddd249c4",
+      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+      "summary": "Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This... Developers building real-time AI—such as chat assistants,...",
+      "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-25T18:56:34.000Z"
+    },
+    {
+      "id": "nvidia ai:5e81c49c697bbc25",
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "summary": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium.... NVIDIA delivered a clean sweep in MLPerf Training v6.0,...",
+      "link": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-25T18:11:00.000Z"
+    },
+    {
+      "id": "cohere:0da566de6b4fa245",
+      "title": "Automating Fork Maintenance With Ai Agents",
+      "summary": "Automating Fork Maintenance With Ai Agents",
+      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
       "id": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "title": "Our latest Google Finance upgrades, including a new app",
       "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
@@ -1763,43 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-08T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:a94ef3c05779ff63",
-      "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
-      "summary": "Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step... Pre-training frontier LLMs comes down to throughput. When...",
-      "link": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-08T18:18:06.000Z"
-    },
-    {
-      "id": "17e996e65a7677699abc1a14b0fedfaebca86e0b",
-      "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
-      "summary": "With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and capacity across multiple AWS Regions,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-08T16:40:34.000Z"
-    },
-    {
-      "id": "8e2e04441e2a0fae689261a13579714ba0fda515",
-      "title": "It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore",
-      "summary": "Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, and built-in observability—so you can run Claude Code, Codex, Kiro, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-08T16:35:02.000Z"
-    },
-    {
-      "id": "db4588276b02155b2991d805a0cbac35981677f6",
-      "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
-      "summary": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has partnered with customers to deliver...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-08T16:31:17.000Z"
     }
   ],
-  "updatedAt": "2026-06-25T17:10:02.827Z"
+  "updatedAt": "2026-06-25T19:55:49.928Z"
 }
