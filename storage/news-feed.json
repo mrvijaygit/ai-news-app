@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed",
+      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
+      "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-26T14:38:01.000Z"
+    },
+    {
+      "id": "nvidia ai:de8efd6a1291ad7e",
+      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+      "summary": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an... As context windows grow longer, moving large model weights...",
+      "link": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-26T16:00:35.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/vllm-jobs",
       "title": "Run a vLLM Server on HF Jobs in One Command",
       "summary": "Run a vLLM Server on HF Jobs in One Command",
@@ -1781,25 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-09T10:46:19.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
-      "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
-      "summary": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
-      "link": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-09T09:04:58.000Z"
-    },
-    {
-      "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "title": "Built to benefit everyone: our plan",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-08T01:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-25T21:41:23.963Z"
+  "updatedAt": "2026-06-26T16:13:32.464Z"
 }
