@@ -353,7 +353,10 @@
     "cohere:0da566de6b4fa245",
     "https://huggingface.co/blog/vllm-jobs",
     "nvidia ai:de8efd6a1291ad7e",
-    "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed"
+    "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed",
+    "https://openai.com/index/previewing-gpt-5-6-sol",
+    "cohere:98a4fc63a74acd22",
+    "nvidia ai:c9028166df68641f"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -675,7 +678,10 @@
     "cohere:0da566de6b4fa245": "2026-06-25T19:55:49.926Z",
     "https://huggingface.co/blog/vllm-jobs": "2026-06-25T21:41:23.961Z",
     "nvidia ai:de8efd6a1291ad7e": "2026-06-26T16:13:32.462Z",
-    "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed": "2026-06-26T16:13:32.462Z"
+    "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed": "2026-06-26T16:13:32.462Z",
+    "https://openai.com/index/previewing-gpt-5-6-sol": "2026-06-26T18:29:39.948Z",
+    "cohere:98a4fc63a74acd22": "2026-06-26T18:29:39.948Z",
+    "nvidia ai:c9028166df68641f": "2026-06-26T18:29:39.948Z"
   },
-  "updatedAt": "2026-06-26T16:13:32.462Z"
+  "updatedAt": "2026-06-26T18:29:39.948Z"
 }

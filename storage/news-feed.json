@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:c9028166df68641f",
+      "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+      "summary": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI... AI companions in games have long been constrained by...",
+      "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-25T16:38:18.000Z"
+    },
+    {
+      "id": "cohere:98a4fc63a74acd22",
+      "title": "Building Ai Agents",
+      "summary": "Building Ai Agents",
+      "link": "https://cohere.com/blog/building-ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-06-26T00:00:00.000Z"
+    },
+    {
       "id": "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed",
       "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
       "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a...",
@@ -1772,34 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-09T16:10:37.000Z"
-    },
-    {
-      "id": "nvidia ai:11a26028119d7065",
-      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
-      "summary": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a... Federated learning (FL) research often begins with a...",
-      "link": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-09T16:35:08.000Z"
-    },
-    {
-      "id": "nvidia ai:c94711f877abe625",
-      "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
-      "summary": "Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,... Training a speech AI model to correctly recognize or...",
-      "link": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-09T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "summary": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-09T10:46:19.000Z"
     }
   ],
-  "updatedAt": "2026-06-26T16:13:32.464Z"
+  "updatedAt": "2026-06-26T18:29:39.950Z"
 }
