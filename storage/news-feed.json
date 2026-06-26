@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:98d218afe497aee6",
+      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+      "summary": "AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep... AI agents have changed a lot in the last two years. The...",
+      "link": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-26T19:00:45.000Z"
+    },
+    {
       "id": "https://openai.com/index/previewing-gpt-5-6-sol",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-09T16:43:28.000Z"
-    },
-    {
-      "id": "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74",
-      "title": "Build an agentic incident triage assistant with Amazon Quick and New Relic",
-      "summary": "This post shows engineering teams how to apply that principle to one of the most time-sensitive workflows in engineering: incident triage. You will build a custom incident triage assistant agent using Amazon Quick that...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-09T16:10:37.000Z"
     }
   ],
-  "updatedAt": "2026-06-26T18:29:39.950Z"
+  "updatedAt": "2026-06-26T20:45:06.709Z"
 }
