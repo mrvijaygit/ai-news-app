@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "75ff6f3c82b0059dac1623c26b94c453f2dbffa5",
+      "title": "Debugging production agents with Amazon Bedrock AgentCore Observability",
+      "summary": "In this post, you learn how to debug production agent failures using built-in observability capabilities. We walk through common failure patterns, show how to analyze agent behavior with traces and metrics, and provide...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-29T17:25:21.000Z"
+    },
+    {
+      "id": "nvidia ai:9d29fbe6a6905733",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories ",
+      "summary": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on... AI agents are quickly moving beyond chat. They inspect...",
+      "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-29T15:50:13.000Z"
+    },
+    {
       "id": "https://openai.com/index/hp-frontier-partnership",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
@@ -1781,25 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-09T19:38:28.000Z"
-    },
-    {
-      "id": "anthropic:06de4edb4c5f7469",
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "summary": "Our next generation of intelligence for the hardest knowledge work and coding problems.",
-      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-06-09T00:00:00.000Z"
-    },
-    {
-      "id": "xai:3eb98dee9829b630",
-      "title": "Powering Gopuff's Go agent",
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "link": "https://x.ai/news/grok-gopuff",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-06-29T00:05:38.577Z"
+  "updatedAt": "2026-06-29T17:33:41.148Z"
 }
