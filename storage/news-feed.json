@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-06-28T17:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:98d218afe497aee6",
       "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
       "summary": "AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep... AI agents have changed a lot in the last two years. The...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "ea8d5dfaa5a40a9341dacf4afadd40b10d76a591",
-      "title": "Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake",
-      "summary": "In this post, we demonstrate how a hands-free FNOL intake system combines agents built with the Strands Agents SDK for domain reasoning with Amazon Bedrock AgentCore Browser Tool for live portal interaction. This...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-09T16:43:28.000Z"
     }
   ],
-  "updatedAt": "2026-06-26T20:45:06.709Z"
+  "updatedAt": "2026-06-29T00:05:38.577Z"
 }
