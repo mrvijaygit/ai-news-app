@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "anthropic:94b70c1c175c4f44",
       "title": "Introducing Claude Sonnet 5",
       "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:ed5a66cc7f29f43d",
-      "title": "Mixture Of Experts Models Get More From Speculative Decoding",
-      "summary": "Mixture Of Experts Models Get More From Speculative Decoding",
-      "link": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-30T19:50:53.199Z"
+  "updatedAt": "2026-06-30T21:25:59.155Z"
 }
