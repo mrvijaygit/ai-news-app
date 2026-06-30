@@ -373,7 +373,12 @@
     "nvidia ai:3752f453de1cce0c",
     "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "https://openai.com/index/introducing-genebench-pro",
-    "cohere:de05d72501268a33"
+    "cohere:de05d72501268a33",
+    "990284443dcdbd44e2886dc2de82d05f3818fc51",
+    "https://huggingface.co/blog/ibm-research/scarfbench",
+    "nvidia ai:fb68dedc4d7dab25",
+    "anthropic:94b70c1c175c4f44",
+    "anthropic:d034ec2ce4c1455b"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -715,7 +720,12 @@
     "nvidia ai:3752f453de1cce0c": "2026-06-30T17:05:01.212Z",
     "https://openai.com/index/how-chatgpt-adoption-has-expanded": "2026-06-30T17:05:01.212Z",
     "https://openai.com/index/introducing-genebench-pro": "2026-06-30T17:05:01.212Z",
-    "cohere:de05d72501268a33": "2026-06-30T17:05:01.212Z"
+    "cohere:de05d72501268a33": "2026-06-30T17:05:01.212Z",
+    "990284443dcdbd44e2886dc2de82d05f3818fc51": "2026-06-30T19:50:53.196Z",
+    "https://huggingface.co/blog/ibm-research/scarfbench": "2026-06-30T19:50:53.196Z",
+    "nvidia ai:fb68dedc4d7dab25": "2026-06-30T19:50:53.196Z",
+    "anthropic:94b70c1c175c4f44": "2026-06-30T19:50:53.196Z",
+    "anthropic:d034ec2ce4c1455b": "2026-06-30T19:50:53.196Z"
   },
-  "updatedAt": "2026-06-30T17:05:01.212Z"
+  "updatedAt": "2026-06-30T19:50:53.196Z"
 }

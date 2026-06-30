@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "anthropic:94b70c1c175c4f44",
+      "title": "Introducing Claude Sonnet 5",
+      "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-06-30T00:00:00.000Z"
+    },
+    {
+      "id": "anthropic:d034ec2ce4c1455b",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-06-30T00:00:00.000Z"
+    },
+    {
+      "id": "xai:7ec12ab2e0fe97fc",
+      "title": "Bringing real-time market sentiment to Tori, from eToro",
+      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
+      "link": "https://x.ai/news/grok-etoro",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "990284443dcdbd44e2886dc2de82d05f3818fc51",
+      "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
+      "summary": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-06-30T18:40:09.000Z"
+    },
+    {
+      "id": "nvidia ai:fb68dedc4d7dab25",
+      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+      "summary": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA... GPU-accelerated query engines are often constrained by memory...",
+      "link": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-06-30T17:36:43.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-30T18:32:50.000Z"
+    },
+    {
       "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "title": "How ChatGPT adoption has expanded",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
@@ -1745,61 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:825fab38105fedce",
-      "title": "Rws And Cohere Build Ai Language Intelligence",
-      "summary": "Rws And Cohere Build Ai Language Intelligence",
-      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/bbva",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "link": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/openai-to-acquire-ona",
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "link": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "anthropic:3a96d62ac473f5cb",
-      "title": "Introducing Claude Corps",
-      "summary": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-      "link": "https://www.anthropic.com/news/claude-corps",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "xai:337b3f5c095a2baa",
-      "title": "Grok Build Plugin Marketplace",
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "link": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe",
-      "title": "Evaluate AI agents systematically with Agent-EvalKit",
-      "summary": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-11T15:49:47.000Z"
     }
   ],
-  "updatedAt": "2026-06-30T17:05:01.214Z"
+  "updatedAt": "2026-06-30T19:50:53.199Z"
 }
