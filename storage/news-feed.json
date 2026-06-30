@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/eee-community-evals",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "link": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-06-30T00:00:00.000Z"
+    },
+    {
       "id": "xai:3eb98dee9829b630",
       "title": "Powering Gopuff's Go agent",
       "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-09T15:56:23.000Z"
-    },
-    {
-      "id": "https://openai.com/index/nextdoor",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "link": "https://openai.com/index/nextdoor",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-09T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-29T19:52:41.229Z"
+  "updatedAt": "2026-06-30T14:12:28.268Z"
 }

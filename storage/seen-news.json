@@ -363,7 +363,8 @@
     "nvidia ai:9d29fbe6a6905733",
     "3a48407f30718965ac0a24f9004a09479b0671ab",
     "890019cfec132b26f4c587b55d8a06d13b01c6ec",
-    "fb8c189317629bcf7014a00d01dd4257e81e8361"
+    "fb8c189317629bcf7014a00d01dd4257e81e8361",
+    "https://huggingface.co/blog/eee-community-evals"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -695,7 +696,8 @@
     "nvidia ai:9d29fbe6a6905733": "2026-06-29T17:33:41.146Z",
     "3a48407f30718965ac0a24f9004a09479b0671ab": "2026-06-29T19:52:41.227Z",
     "890019cfec132b26f4c587b55d8a06d13b01c6ec": "2026-06-29T19:52:41.227Z",
-    "fb8c189317629bcf7014a00d01dd4257e81e8361": "2026-06-29T19:52:41.227Z"
+    "fb8c189317629bcf7014a00d01dd4257e81e8361": "2026-06-29T19:52:41.227Z",
+    "https://huggingface.co/blog/eee-community-evals": "2026-06-30T14:12:28.266Z"
   },
-  "updatedAt": "2026-06-29T19:52:41.227Z"
+  "updatedAt": "2026-06-30T14:12:28.266Z"
 }
