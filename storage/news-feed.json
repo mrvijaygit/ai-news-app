@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "04ab21c59727c995ed236adb9de722150c09753b",
+      "title": "Safely Releasing Frontier Models to Customers",
+      "summary": "It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T03:13:19.000Z"
+    },
+    {
       "id": "xai:337b3f5c095a2baa",
       "title": "Grok Build Plugin Marketplace",
       "summary": "Launching the built-in plugin marketplace for Grok Build.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:db82182769c016ee",
-      "title": "Enterprise Ai Maturity Model Pt2",
-      "summary": "Enterprise Ai Maturity Model Pt2",
-      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-06-30T21:25:59.155Z"
+  "updatedAt": "2026-07-01T03:31:07.184Z"
 }
