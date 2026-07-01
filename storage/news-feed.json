@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:37d584de929f0f11",
+      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+      "summary": "Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer... Reinforcement learning (RL) is central to aligning language...",
+      "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-01T17:04:02.000Z"
+    },
+    {
       "id": "04ab21c59727c995ed236adb9de722150c09753b",
       "title": "Safely Releasing Frontier Models to Customers",
       "summary": "It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services...",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:422f1de4eb6dc3d7",
-      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:ea726d85644cb6a1",
-      "title": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "summary": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-01T03:31:07.184Z"
+  "updatedAt": "2026-07-01T17:11:44.196Z"
 }
