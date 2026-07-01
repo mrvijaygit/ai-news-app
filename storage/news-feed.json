@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "title": "The latest AI news we announced in June 2026",
+      "summary": "Here are Google’s latest AI updates from June 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-07-01T18:15:00.000Z"
+    },
+    {
+      "id": "c45b7ae7b1a106476a375b45d8f9fddc7b2e8dfe",
+      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "We're excited to introduce US-based frontier open-weight models in AWS GovCloud (US). With this release, Amazon Bedrock now supports OpenAI’s open-weight GPT OSS models (120B and 20B) and NVIDIA Nemotron (Nano 9B v2,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T18:14:34.000Z"
+    },
+    {
+      "id": "f7e961511c068816cc7a1b4fe390502028302669",
+      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
+      "summary": "In this post, you will learn how to build a serverless A2A gateway on AWS that hosts multiple agents behind a single domain using path-based routing (/agents/{agentId}). Standard A2A clients work without modification.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T18:07:06.000Z"
+    },
+    {
+      "id": "c1f6936eae42c4e419b7012a374748b3420f7942",
+      "title": "Structured memory filtering with metadata in AgentCore Memory",
+      "summary": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-tenant architectures, and discover best practices for...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T18:03:10.000Z"
+    },
+    {
+      "id": "e1b06aa50388914fc8bf1d387e8876cc5a6ac3fb",
+      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+      "summary": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T18:01:32.000Z"
+    },
+    {
+      "id": "15e2223c941fd9356ca37a563f4360738d5dc492",
+      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
+      "summary": "In this post, you will learn how Inscribe developed an agentic AI system using Amazon Bedrock that reasons across documents the way an expert fraud analyst would. With this new agentic AI system, Inscribe now detects...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T17:53:16.000Z"
+    },
+    {
+      "id": "4da1e298b0b090398797e8dfaebee6c37ea1739e",
+      "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+      "summary": "The Amazon Bedrock Model Profiler is an open source tool that aggregates model metadata from multiple AWS APIs and external sources into a single, searchable interface. In this post, you’ll learn what the Model Profiler...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-01T17:46:54.000Z"
+    },
+    {
       "id": "xai:e15e11a40907b4f4",
       "title": "Introducing the Voice Agent Builder",
       "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
@@ -1736,70 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-12T15:56:10.000Z"
-    },
-    {
-      "id": "https://openai.com/index/preply",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "link": "https://openai.com/index/preply",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-12T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:4f36512f0c2c7976",
-      "title": "One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand",
-      "summary": "NVIDIA Quantum InfiniBand now offers intent-based security profiles in Unified Fabric Manager (UFM) that enable multi-tenant fabric security in a single... NVIDIA Quantum InfiniBand now offers intent-based security...",
-      "link": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-11T19:52:37.000Z"
-    },
-    {
-      "id": "cohere:8ee5671f8b5be88f",
-      "title": "Ensemble Cohere Custom Healthcare Llm For Rcm",
-      "summary": "Ensemble Cohere Custom Healthcare Llm For Rcm",
-      "link": "https://cohere.com/blog/ensemble-cohere-custom-healthcare-llm-for-rcm",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:f22999d8ff42d578",
-      "title": "Enterprise Ai Maturity Model",
-      "summary": "Enterprise Ai Maturity Model",
-      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:ea005a381ccc9a69",
-      "title": "Cohere Alephalpha Join Forces",
-      "summary": "Cohere Alephalpha Join Forces",
-      "link": "https://cohere.com/blog/cohere-alephalpha-join-forces",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:5da61177a3c48f4e",
-      "title": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
-      "summary": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
-      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:2490701ccf0a41b0",
-      "title": "Cohere Releases Command A Plus",
-      "summary": "Cohere Releases Command A Plus",
-      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-11T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-01T17:11:44.196Z"
+  "updatedAt": "2026-07-01T19:49:43.247Z"
 }
