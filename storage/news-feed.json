@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:f8af9f0a56fcd0eb",
+      "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+      "summary": "AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns... AI has transformed how organizations operate, driving...",
+      "link": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-02T21:25:42.000Z"
+    },
+    {
       "id": "395d0b963ef226d44d24b8de1b8d6428970e860f",
       "title": "How Amazon Bedrock catches AI-generated phishing",
       "summary": "Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a new challenge for security teams managing email systems,...",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-12T10:00:00.000Z"
-    },
-    {
-      "id": "2b628693f2ca8d22060204d32957c9280592f76b",
-      "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
-      "summary": "This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the agent finds an upcoming Webex meeting, reviews prior meeting summaries...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-12T14:49:40.000Z"
     }
   ],
-  "updatedAt": "2026-07-02T19:19:46.911Z"
+  "updatedAt": "2026-07-02T23:02:15.645Z"
 }
