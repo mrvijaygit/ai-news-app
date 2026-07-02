@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "cohere:7b11ae70b7f3ca86",
+      "title": "Agentic Workflows",
+      "summary": "Agentic Workflows",
+      "link": "https://cohere.com/blog/agentic-workflows",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "title": "The latest AI news we announced in June 2026",
       "summary": "Here are Google’s latest AI updates from June 2026.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-12T14:43:17.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/olmo-eval",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "summary": "olmo-eval: An evaluation workbench for the model development loop",
-      "link": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-12T15:56:10.000Z"
     }
   ],
-  "updatedAt": "2026-07-01T19:49:43.247Z"
+  "updatedAt": "2026-07-02T12:55:21.640Z"
 }
