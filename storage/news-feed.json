@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "395d0b963ef226d44d24b8de1b8d6428970e860f",
+      "title": "How Amazon Bedrock catches AI-generated phishing",
+      "summary": "Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a new challenge for security teams managing email systems,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-02T17:55:41.000Z"
+    },
+    {
       "id": "cohere:7b11ae70b7f3ca86",
       "title": "Agentic Workflows",
       "summary": "Agentic Workflows",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-12T14:49:40.000Z"
-    },
-    {
-      "id": "nvidia ai:cf39a145b90b7227",
-      "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
-      "summary": "As enterprise AI adoption scales, developers are increasingly forced to stitch together fragmented pipelines—separate models for text, vision, and... As enterprise AI adoption scales, developers are increasingly forced...",
-      "link": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-12T14:43:17.000Z"
     }
   ],
-  "updatedAt": "2026-07-02T12:55:21.640Z"
+  "updatedAt": "2026-07-02T19:19:46.911Z"
 }
