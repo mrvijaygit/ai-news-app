@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "3080a7799ade422bbe55136044702a7b0a6a88bb",
+      "title": "Run MiniMax models on Amazon Bedrock",
+      "summary": "In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-06T17:00:44.000Z"
+    },
+    {
+      "id": "c18f360adbe8520fd770f4e042ba4a2f58edc96d",
+      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
+      "summary": "In this post, you deploy a two-phase infrastructure for multi-turn RL using Amazon Nova Forge on Amazon SageMaker HyperPod. By the end, you have an event-driven pipeline that starts training when you upload data to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-06T16:58:13.000Z"
+    },
+    {
+      "id": "213c37353efd05356306bc675918c3841331fccd",
+      "title": "Automatically redact PII in images with Amazon Nova",
+      "summary": "In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-06T16:55:02.000Z"
+    },
+    {
+      "id": "0a4fbb45ba71b55244cdd6eb52c29ff670f0d44a",
+      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+      "summary": "In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-06T16:53:38.000Z"
+    },
+    {
       "id": "nvidia ai:f8af9f0a56fcd0eb",
       "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
       "summary": "AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns... AI has transformed how organizations operate, driving...",
@@ -1763,43 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-15T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-openai-partner-network",
-      "title": "Introducing the OpenAI Partner Network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "link": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-14T17:00:00.000Z"
-    },
-    {
-      "id": "b1919d1f9b442a21587d936141e9bfbe66e31144",
-      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
-      "summary": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-12T20:43:56.000Z"
-    },
-    {
-      "id": "nvidia ai:70833a5e73a545e3",
-      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
-      "summary": "AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how... AI agents have fundamentally changed the complexity of...",
-      "link": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-12T21:12:40.000Z"
-    },
-    {
-      "id": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-12T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-02T23:02:15.645Z"
+  "updatedAt": "2026-07-06T18:53:33.709Z"
 }
