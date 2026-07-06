@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:5e1dde68aac32b16",
+      "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+      "summary": "Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these... Training LLMs at massive scale brings unique...",
+      "link": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-06T21:44:23.000Z"
+    },
+    {
       "id": "3080a7799ade422bbe55136044702a7b0a6a88bb",
       "title": "Run MiniMax models on Amazon Bedrock",
       "summary": "In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your...",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-15T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:1a50e34106801d3a",
-      "title": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
-      "summary": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
-      "link": "https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-15T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-06T18:53:33.709Z"
+  "updatedAt": "2026-07-06T22:11:15.715Z"
 }
