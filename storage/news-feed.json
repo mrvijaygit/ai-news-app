@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "xai:03b62e9ad296bc89",
+      "title": "Grok goes Global with KSA",
+      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
+      "link": "https://x.ai/news/grok-goes-global",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cb89379e9df365fb",
+      "title": "Grok 4.1",
+      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
+      "link": "https://x.ai/news/grok-4-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:792ef6ba62d36e10",
+      "title": "Expanding xAI for Government with GSA OneGov",
+      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
+      "link": "https://x.ai/news/onegov",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:349feed19ac68219",
+      "title": "Grok 4 Fast",
+      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
+      "link": "https://x.ai/news/grok-4-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:07bfdcfb3e2da3ae",
+      "title": "Grok Code Fast 1",
+      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
+      "link": "https://x.ai/news/grok-code-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:01e3b8304d8cac5f",
+      "title": "Announcing xAI for Government",
+      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+      "link": "https://x.ai/news/government",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:0b42cd3858907903",
+      "title": "Grok 4",
+      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
+      "link": "https://x.ai/news/grok-4",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5a8f9dcef91affc",
+      "title": "Grok 3 Beta — The Age of Reasoning Agents",
+      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+      "link": "https://x.ai/news/grok-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2eb1be0eab97116d",
+      "title": "xAI raises $6B Series C",
+      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+      "link": "https://x.ai/news/series-c",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8ed876cc63c6ba10",
+      "title": "Bringing Grok to Everyone",
+      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-1212",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5423ee5e4457fb03",
+      "title": "Grok Image Generation Release",
+      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-image-generation-release",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/australian-payments-plus",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
@@ -1700,106 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:ca490edf223f2ebf",
-      "title": "Grok Collections API",
-      "summary": "State-of-the-art RAG system built directly into our API.",
-      "link": "https://x.ai/news/grok-collections-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:1fb88c3b251902a2",
-      "title": "Supporting the DOW's mission with AI",
-      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
-      "link": "https://x.ai/news/us-gov-dept-of-war",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3a1d72b884b69902",
-      "title": "Grok Voice Agent API",
-      "summary": "Bringing the power of Grok Voice to all developers.",
-      "link": "https://x.ai/news/grok-voice-agent-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:e0e2c8f7889b9ed7",
-      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
-      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
-      "link": "https://x.ai/news/el-salvador-partnership",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:10e8261a0b7d99f9",
-      "title": "Grok 4.1 Fast and Agent Tools API",
-      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
-      "link": "https://x.ai/news/grok-4-1-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "69902708fb3d875dac63deee451bde43d0b5e0fa",
-      "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
-      "summary": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-16T17:47:09.000Z"
-    },
-    {
-      "id": "nvidia ai:6beee7cd82e57678",
-      "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
-      "summary": "NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This... NVIDIA RTX technologies are deeply integrated into...",
-      "link": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-16T17:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:44b312f254969a0b",
-      "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
-      "summary": "Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU... Transformer architectures are the backbone of many...",
-      "link": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-16T16:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:86aadb793471c374",
-      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
-      "summary": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium.... NVIDIA delivered a clean sweep in MLPerf Training v6.0,...",
-      "link": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-16T15:11:13.000Z"
-    },
-    {
-      "id": "cohere:6abaeb256ddaec51",
-      "title": "Ai Agents",
-      "summary": "Ai Agents",
-      "link": "https://cohere.com/blog/ai-agents",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-16T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:a76f2c355713439b",
-      "title": "Agentic Workflows",
-      "summary": "Agentic Workflows",
-      "link": "https://cohere.com/blog/agentic-workflows",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-16T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-07T19:50:42.731Z"
+  "updatedAt": "2026-07-07T21:21:06.779Z"
 }
