@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-07-07T08:54:00.000Z"
+    },
+    {
+      "id": "d879d15113bd3dfbac581c534668d78a570620c1",
+      "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+      "summary": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time....",
+      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T17:07:49.000Z"
+    },
+    {
+      "id": "22032a16b8d3690406aef15e6d8d0912296ed976",
+      "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
+      "summary": "In this post, we shift from concepts to patterns. For each schema, you’ll find a table structure, use cases, implementation steps, and sample SQL queries. We also cover workarounds for advanced scenarios that require...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T17:07:39.000Z"
+    },
+    {
+      "id": "7c77891b2ed3837eb4c5bcc52c5857f4453a2689",
+      "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
+      "summary": "In this post, we walk through how multi-dataset Topics work, explain how the chat agent uses defined relationships to generate cross-dataset queries, and demonstrate an end-to-end implementation using a retail analytics...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T17:07:22.000Z"
+    },
+    {
+      "id": "5af6c21c04fcd4a1e27139d2ace48b2657ef4834",
+      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
+      "summary": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T16:51:29.000Z"
+    },
+    {
+      "id": "7d4027959d55efce26bfb96736a23fc3eff1bebb",
+      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
+      "summary": "Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use case. This post shows how you can use open source Evidently...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T16:49:09.000Z"
+    },
+    {
+      "id": "efafaf3705d5c88f85652f58ee940189897972c4",
+      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
+      "summary": "In this post, you build an AWS Support Companion using Amazon Bedrock AgentCore. The agent uses Strands Agents as the orchestration framework and connects to AWS services through the Model Context Protocol (MCP). By the...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T16:46:43.000Z"
+    },
+    {
+      "id": "d2a346e6e832a28be3be2452e6ff0d56aa698fff",
+      "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
+      "summary": "In this post, we show how AWS Finance used chat agents and Flows in Amazin Quick to transform two of their most time-consuming workflows.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-07T16:43:11.000Z"
+    },
+    {
+      "id": "nvidia ai:1f4d5656f8ee372f",
+      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+      "summary": "As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids... As more teams move from humanoid robot bring-up to...",
+      "link": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-07T17:05:42.000Z"
+    },
+    {
+      "id": "nvidia ai:712a01e6c6614709",
+      "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
+      "summary": "Industrial machinery generates more alarms than technicians can triage. For each important alarm requiring follow-up, the technician pulls historical context,... Industrial machinery generates more alarms than...",
+      "link": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-07T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:e46030e0cc7769c4",
+      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+      "summary": "Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to... Spectrum is one of the most valuable assets in wireless...",
+      "link": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-07T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:e6dfef440fd28575",
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+      "summary": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and... Agentic systems turn model reasoning into action through...",
+      "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-07T15:10:10.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "summary": "Hugging Face Models on Foundry Managed Compute",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-07T15:20:06.000Z"
+    },
+    {
       "id": "xai:6dad33007ff48b3f",
       "title": "Agent Dashboard in Grok Build",
       "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
@@ -1682,124 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:653374155ddf34e4",
-      "title": "API Public Beta",
-      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
-      "link": "https://x.ai/news/api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5eec09fcb832980",
-      "title": "Series B funding round",
-      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
-      "link": "https://x.ai/news/series-b",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9689f95a1df38884",
-      "title": "Grok-1.5 Vision Preview",
-      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
-      "link": "https://x.ai/news/grok-1.5v",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f58ce5a98926f521",
-      "title": "Announcing Grok-1.5",
-      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
-      "link": "https://x.ai/news/grok-1.5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:eb3235d954e50c16",
-      "title": "Open Release of Grok-1",
-      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
-      "link": "https://x.ai/news/grok-os",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "095a11831dc2d12393669df01b1fde1455267c2b",
-      "title": "Introducing Gemma 4 models on Amazon Bedrock",
-      "summary": "Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the Apache 2.0 license, Gemma 4 is a family of open-weight models designed with a focus on...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-15T20:24:15.000Z"
-    },
-    {
-      "id": "xai:c8e543b0022f670e",
-      "title": "Use Grok in Warp",
-      "summary": "Use Grok in Warp",
-      "link": "https://x.ai/news/grok-warp",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "73a07b2595b53de69a7cc5f3c60790b57b634eae",
-      "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
-      "summary": "In this post, we walk you through calling the detector functions to diagnose real agent failures. You learn how to interpret their structured output: categorized failures with confidence scores, causal chains linking...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-15T18:07:59.000Z"
-    },
-    {
-      "id": "nvidia ai:c8f3cee60b76c873",
-      "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
-      "summary": "Foundation models are reshaping computational biology. Pretrained on massive corpora of protein or genomic sequences, models such as ESM2 (a protein language... Foundation models are reshaping computational biology....",
-      "link": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-15T18:07:31.000Z"
-    },
-    {
-      "id": "nvidia ai:9faebe697d7046a8",
-      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
-      "summary": "Mixture-of-experts (MoE) models have quickly become a foundational component of modern, large-scale AI systems. They are widely adopted because they enable... Mixture-of-experts (MoE) models have quickly become a...",
-      "link": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-15T16:45:41.000Z"
     }
   ],
-  "updatedAt": "2026-07-07T08:20:13.840Z"
+  "updatedAt": "2026-07-07T17:11:18.634Z"
 }

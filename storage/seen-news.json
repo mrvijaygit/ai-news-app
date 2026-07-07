@@ -400,7 +400,20 @@
     "36aa20434afd5b9e42aa8e0699f10369d99e0974",
     "e451c5cb5932ddbe103cc2baf499c9ded6565a70",
     "xai:a795c67928ea0c3a",
-    "xai:11603bc1501a6e92"
+    "xai:11603bc1501a6e92",
+    "d879d15113bd3dfbac581c534668d78a570620c1",
+    "22032a16b8d3690406aef15e6d8d0912296ed976",
+    "7c77891b2ed3837eb4c5bcc52c5857f4453a2689",
+    "nvidia ai:1f4d5656f8ee372f",
+    "nvidia ai:712a01e6c6614709",
+    "nvidia ai:e46030e0cc7769c4",
+    "5af6c21c04fcd4a1e27139d2ace48b2657ef4834",
+    "7d4027959d55efce26bfb96736a23fc3eff1bebb",
+    "efafaf3705d5c88f85652f58ee940189897972c4",
+    "d2a346e6e832a28be3be2452e6ff0d56aa698fff",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "nvidia ai:e6dfef440fd28575",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -769,7 +782,20 @@
     "36aa20434afd5b9e42aa8e0699f10369d99e0974": "2026-07-07T00:05:12.571Z",
     "e451c5cb5932ddbe103cc2baf499c9ded6565a70": "2026-07-07T00:05:12.571Z",
     "xai:a795c67928ea0c3a": "2026-07-07T04:49:22.742Z",
-    "xai:11603bc1501a6e92": "2026-07-07T04:49:22.742Z"
+    "xai:11603bc1501a6e92": "2026-07-07T04:49:22.742Z",
+    "d879d15113bd3dfbac581c534668d78a570620c1": "2026-07-07T17:11:18.632Z",
+    "22032a16b8d3690406aef15e6d8d0912296ed976": "2026-07-07T17:11:18.632Z",
+    "7c77891b2ed3837eb4c5bcc52c5857f4453a2689": "2026-07-07T17:11:18.632Z",
+    "nvidia ai:1f4d5656f8ee372f": "2026-07-07T17:11:18.632Z",
+    "nvidia ai:712a01e6c6614709": "2026-07-07T17:11:18.632Z",
+    "nvidia ai:e46030e0cc7769c4": "2026-07-07T17:11:18.632Z",
+    "5af6c21c04fcd4a1e27139d2ace48b2657ef4834": "2026-07-07T17:11:18.632Z",
+    "7d4027959d55efce26bfb96736a23fc3eff1bebb": "2026-07-07T17:11:18.632Z",
+    "efafaf3705d5c88f85652f58ee940189897972c4": "2026-07-07T17:11:18.632Z",
+    "d2a346e6e832a28be3be2452e6ff0d56aa698fff": "2026-07-07T17:11:18.632Z",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute": "2026-07-07T17:11:18.632Z",
+    "nvidia ai:e6dfef440fd28575": "2026-07-07T17:11:18.632Z",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/": "2026-07-07T17:11:18.632Z"
   },
-  "updatedAt": "2026-07-07T04:49:22.742Z"
+  "updatedAt": "2026-07-07T17:11:18.632Z"
 }
