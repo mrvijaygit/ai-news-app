@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:ca490edf223f2ebf",
+      "title": "Grok Collections API",
+      "summary": "State-of-the-art RAG system built directly into our API.",
+      "link": "https://x.ai/news/grok-collections-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1fb88c3b251902a2",
+      "title": "Supporting the DOW's mission with AI",
+      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
+      "link": "https://x.ai/news/us-gov-dept-of-war",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3a1d72b884b69902",
+      "title": "Grok Voice Agent API",
+      "summary": "Bringing the power of Grok Voice to all developers.",
+      "link": "https://x.ai/news/grok-voice-agent-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e0e2c8f7889b9ed7",
+      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
+      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
+      "link": "https://x.ai/news/el-salvador-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e8261a0b7d99f9",
+      "title": "Grok 4.1 Fast and Agent Tools API",
+      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
+      "link": "https://x.ai/news/grok-4-1-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:03b62e9ad296bc89",
       "title": "Grok goes Global with KSA",
       "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
@@ -1754,52 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:dc4c15bc25a49149",
-      "title": "Introducing Grok Business and Grok Enterprise",
-      "summary": "The best assistant in the world is now Enterprise ready.",
-      "link": "https://x.ai/news/grok-business",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "45998be9fc18ed01687fad71ff74cc8866b5386e",
-      "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
-      "summary": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-16T20:16:02.000Z"
-    },
-    {
-      "id": "nvidia ai:e1f4adf8eae5510a",
-      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
-      "summary": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an... Every swipe, transfer, and payment on a modern financial network...",
-      "link": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-16T20:30:08.000Z"
-    },
-    {
-      "id": "https://openai.com/index/deployment-simulation",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "link": "https://openai.com/index/deployment-simulation",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-16T00:00:00.000Z"
-    },
-    {
-      "id": "xai:95e9b6d90fc1fb24",
-      "title": "Grok for PowerPoint",
-      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
-      "link": "https://x.ai/news/introducing-powerpoint-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-07T21:21:06.779Z"
+  "updatedAt": "2026-07-07T22:58:34.355Z"
 }
