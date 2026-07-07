@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "36aa20434afd5b9e42aa8e0699f10369d99e0974",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
       "summary": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
@@ -1781,25 +1799,7 @@
       "source": "Google AI Blog",
       "company": "Google AI / Gemini",
       "publishedAt": "2026-06-15T15:00:00.000Z"
-    },
-    {
-      "id": "xai:6dad33007ff48b3f",
-      "title": "Agent Dashboard in Grok Build",
-      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
-      "link": "https://x.ai/news/agent-dashboard",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
-      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
-      "summary": "In this post, you'll build a competitive research agent that demonstrates this pattern end to end. This walkthrough targets developers building multi-step AI workflows who need isolated execution environments for their...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-15T13:56:33.000Z"
     }
   ],
-  "updatedAt": "2026-07-07T00:05:12.574Z"
+  "updatedAt": "2026-07-07T04:49:22.746Z"
 }
