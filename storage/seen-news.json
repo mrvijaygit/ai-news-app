@@ -413,7 +413,9 @@
     "d2a346e6e832a28be3be2452e6ff0d56aa698fff",
     "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "nvidia ai:e6dfef440fd28575",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "https://openai.com/index/australian-payments-plus",
+    "meta ai:d04ba0af11260b91"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -795,7 +797,9 @@
     "d2a346e6e832a28be3be2452e6ff0d56aa698fff": "2026-07-07T17:11:18.632Z",
     "https://huggingface.co/blog/microsoft/foundry-managed-compute": "2026-07-07T17:11:18.632Z",
     "nvidia ai:e6dfef440fd28575": "2026-07-07T17:11:18.632Z",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/": "2026-07-07T17:11:18.632Z"
+    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/": "2026-07-07T17:11:18.632Z",
+    "https://openai.com/index/australian-payments-plus": "2026-07-07T19:50:42.729Z",
+    "meta ai:d04ba0af11260b91": "2026-07-07T19:50:42.729Z"
   },
-  "updatedAt": "2026-07-07T17:11:18.632Z"
+  "updatedAt": "2026-07-07T19:50:42.729Z"
 }
