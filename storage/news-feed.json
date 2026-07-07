@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "36aa20434afd5b9e42aa8e0699f10369d99e0974",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "summary": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-06T22:35:55.000Z"
+    },
+    {
+      "id": "e451c5cb5932ddbe103cc2baf499c9ded6565a70",
+      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+      "summary": "In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-06T22:23:45.000Z"
+    },
+    {
       "id": "nvidia ai:5e1dde68aac32b16",
       "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
       "summary": "Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these... Training LLMs at massive scale brings unique...",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-15T13:56:33.000Z"
-    },
-    {
-      "id": "nvidia ai:ca12f58ddcdf431b",
-      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
-      "summary": "Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it... Quick glossary for readers new to VLA/WAM terminology...",
-      "link": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-15T12:00:00.000Z"
-    },
-    {
-      "id": "cohere:676c16e90288fb6c",
-      "title": "Foi Systems With Ai Agents",
-      "summary": "Foi Systems With Ai Agents",
-      "link": "https://cohere.com/blog/foi-systems-with-ai-agents",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-15T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-06T22:11:15.715Z"
+  "updatedAt": "2026-07-07T00:05:12.574Z"
 }
