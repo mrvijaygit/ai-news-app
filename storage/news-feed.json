@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:4de6c4fbb944a39a",
+      "title": "Connect Grok to Hermes Agent",
+      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:58667f1086bc597d",
+      "title": "New Compute Partnership with Anthropic",
+      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
+      "link": "https://x.ai/news/anthropic-compute-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:2a3af01c46c0903e",
       "title": "Connectors in web, iOS, and Android",
       "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
@@ -1781,25 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-16T22:30:00.000Z"
-    },
-    {
-      "id": "xai:f48d7b7c6e59faeb",
-      "title": "Use Grok in OpenClaw",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
-      "link": "https://x.ai/news/grok-openclaw",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a1e6fcd31f7e65d4",
-      "title": "Skills in web, iOS, and Android",
-      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-08T10:13:12.364Z"
+  "updatedAt": "2026-07-08T12:18:06.521Z"
 }
