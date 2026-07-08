@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:f1d270907ee198a8",
+      "title": "Grok Voice Think Fast 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:533a462be2cea991",
+      "title": "Grok Speech to Text and Text to Speech APIs",
+      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
+      "link": "https://x.ai/news/grok-stt-and-tts-apis",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cf57fe0bf7fb2ed6",
+      "title": "xAI joins SpaceX",
+      "summary": "SpaceX announced today that it has acquired xAI.",
+      "link": "https://x.ai/news/xai-joins-spacex",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/mufg",
       "title": "MUFG aims to become AI-native with OpenAI",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:2a3af01c46c0903e",
-      "title": "Connectors in web, iOS, and Android",
-      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
-      "link": "https://x.ai/news/grok-connectors",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:b6d4ab19daa61b89",
-      "title": "Grok Imagine Quality Mode API",
-      "summary": "Higher realism. Stronger text rendering. Better creative control.",
-      "link": "https://x.ai/news/grok-imagine-quality-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a9be3438a26bba29",
-      "title": "Custom Voices and Voice Library",
-      "summary": "Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.",
-      "link": "https://x.ai/news/grok-custom-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-08T04:11:46.946Z"
+  "updatedAt": "2026-07-08T07:26:25.609Z"
 }
