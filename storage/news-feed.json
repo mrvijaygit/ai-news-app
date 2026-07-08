@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:2a3af01c46c0903e",
+      "title": "Connectors in web, iOS, and Android",
+      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:b6d4ab19daa61b89",
+      "title": "Grok Imagine Quality Mode API",
+      "summary": "Higher realism. Stronger text rendering. Better creative control.",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:f1d270907ee198a8",
       "title": "Grok Voice Think Fast 1.0",
       "summary": "Our most capable voice agent is now available via API.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:4de6c4fbb944a39a",
-      "title": "Connect Grok to Hermes Agent",
-      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
-      "link": "https://x.ai/news/grok-hermes",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:58667f1086bc597d",
-      "title": "New Compute Partnership with Anthropic",
-      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
-      "link": "https://x.ai/news/anthropic-compute-partnership",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-08T07:26:25.609Z"
+  "updatedAt": "2026-07-08T10:13:12.364Z"
 }
