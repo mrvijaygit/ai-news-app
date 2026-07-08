@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:f48d7b7c6e59faeb",
+      "title": "Use Grok in OpenClaw",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
+      "link": "https://x.ai/news/grok-openclaw",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a1e6fcd31f7e65d4",
+      "title": "Skills in web, iOS, and Android",
+      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
+      "link": "https://x.ai/news/grok-skills",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:2ed1e177ae82899c",
+      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+      "summary": "Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are... Agentic systems often face a trade-off between accuracy...",
+      "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-08T15:00:00.000Z"
+    },
+    {
       "id": "xai:4de6c4fbb944a39a",
       "title": "Connect Grok to Hermes Agent",
       "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:fee1e6ce5633dfad",
-      "title": "Use Grok in OpenCode",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "be3b2966e30bd6b9ecf8c5fe631e9336f36449b6",
-      "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
-      "summary": "Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any point in your agentic AI applications without creating...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-16T22:46:46.000Z"
-    },
-    {
-      "id": "nvidia ai:0a8ab90935f03a25",
-      "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
-      "summary": "Developers building for AR glasses and wearable devices face an infrastructure gap. The hardware is ready, but creating AI experiences requires integrating live... Developers building for AR glasses and wearable devices...",
-      "link": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-16T22:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-08T12:18:06.521Z"
+  "updatedAt": "2026-07-08T15:18:19.500Z"
 }
