@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:950769d2f630ca6f",
+      "title": "Grok on Databricks",
+      "summary": "Grok models are now available on Databricks Agent Bricks.",
+      "link": "https://x.ai/news/grok-databricks",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "cohere:d083a5c148e257b6",
       "title": "Ai Agents For Financial Services",
       "summary": "Ai Agents For Financial Services",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-18T18:13:13.000Z"
-    },
-    {
-      "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-18T08:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T10:22:11.950Z"
+  "updatedAt": "2026-07-09T13:46:50.394Z"
 }
