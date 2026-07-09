@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "cohere:d083a5c148e257b6",
+      "title": "Ai Agents For Financial Services",
+      "summary": "Ai Agents For Financial Services",
+      "link": "https://cohere.com/blog/ai-agents-for-financial-services",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:82912ffeea6d8fab",
+      "title": "Building Ai Agents",
+      "summary": "Building Ai Agents",
+      "link": "https://cohere.com/blog/building-ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
       "id": "xai:000376eced0f7685",
       "title": "Grok on Amazon Bedrock",
       "summary": "Grok models are now available via Amazon Bedrock.",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-18T08:00:00.000Z"
-    },
-    {
-      "id": "xai:950769d2f630ca6f",
-      "title": "Grok on Databricks",
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "link": "https://x.ai/news/grok-databricks",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://huggingface.co/blog/peft-beyond-lora",
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "summary": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "link": "https://huggingface.co/blog/peft-beyond-lora",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-18T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T06:40:47.221Z"
+  "updatedAt": "2026-07-09T10:22:11.950Z"
 }
