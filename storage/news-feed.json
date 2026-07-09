@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/bio-bug-bounty",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/gpt-5-6",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "link": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "2d41e2165c4d62f27faee9937bc229c44251b5a6",
+      "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+      "summary": "In this post, we walk through five capabilities now available in SageMaker HyperPod inference: multi-tier data capture for auditing and model improvement, direct deployment from Hugging Face Hub, local NVMe model...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-09T16:38:11.000Z"
+    },
+    {
+      "id": "nvidia ai:38a15fd2cfb8a14d",
+      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+      "summary": "Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are... Agentic systems often face a trade-off between accuracy...",
+      "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-09T18:17:59.000Z"
+    },
+    {
+      "id": "nvidia ai:152d2a8cb4ba6566",
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+      "summary": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and... Agentic systems turn model reasoning into action through...",
+      "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-09T18:10:00.000Z"
+    },
+    {
       "id": "meta ai:b221f24d1daf4d8e",
       "title": "Introducing Muse Spark 1.1",
       "summary": "Latest News",
@@ -1745,61 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-19T14:05:04.000Z"
-    },
-    {
-      "id": "eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7",
-      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
-      "summary": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-18T23:31:58.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-18T17:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "title": "Improving health intelligence in ChatGPT",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-18T11:00:00.000Z"
-    },
-    {
-      "id": "xai:6fb78d5fa6c818ae",
-      "title": "Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4126c5521b9e1336",
-      "title": "Composer 2.5",
-      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
-      "link": "https://x.ai/news/composer-2-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "be9a03852fc0c60a62e1fc0565d44b2b17381671",
-      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
-      "summary": "Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you have an agent running in seconds. The agent runs in its own isolated...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-18T17:32:22.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T16:25:41.337Z"
+  "updatedAt": "2026-07-09T18:48:15.642Z"
 }

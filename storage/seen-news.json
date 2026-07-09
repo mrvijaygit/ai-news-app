@@ -428,7 +428,13 @@
     "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "cohere:d083a5c148e257b6",
     "cohere:82912ffeea6d8fab",
-    "meta ai:b221f24d1daf4d8e"
+    "meta ai:b221f24d1daf4d8e",
+    "nvidia ai:38a15fd2cfb8a14d",
+    "nvidia ai:152d2a8cb4ba6566",
+    "2d41e2165c4d62f27faee9937bc229c44251b5a6",
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "https://openai.com/index/bio-bug-bounty",
+    "https://openai.com/index/gpt-5-6"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -825,7 +831,13 @@
     "https://openai.com/index/separating-signal-from-noise-coding-evaluations": "2026-07-08T21:03:58.712Z",
     "cohere:d083a5c148e257b6": "2026-07-09T10:22:11.947Z",
     "cohere:82912ffeea6d8fab": "2026-07-09T10:22:11.947Z",
-    "meta ai:b221f24d1daf4d8e": "2026-07-09T16:25:41.334Z"
+    "meta ai:b221f24d1daf4d8e": "2026-07-09T16:25:41.334Z",
+    "nvidia ai:38a15fd2cfb8a14d": "2026-07-09T18:48:15.638Z",
+    "nvidia ai:152d2a8cb4ba6566": "2026-07-09T18:48:15.638Z",
+    "2d41e2165c4d62f27faee9937bc229c44251b5a6": "2026-07-09T18:48:15.638Z",
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work": "2026-07-09T18:48:15.638Z",
+    "https://openai.com/index/bio-bug-bounty": "2026-07-09T18:48:15.638Z",
+    "https://openai.com/index/gpt-5-6": "2026-07-09T18:48:15.638Z"
   },
-  "updatedAt": "2026-07-09T16:25:41.334Z"
+  "updatedAt": "2026-07-09T18:48:15.638Z"
 }
