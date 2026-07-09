@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "id": "xai:6fb78d5fa6c818ae",
+      "title": "Grok for Word",
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "link": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:a9de484c30a96f73",
+      "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+      "summary": "Fine-tuning LLMs for financial natural language processing (NLP) is constrained by limited, imbalanced data. Real-world financial news overrepresents earnings... Fine-tuning LLMs for financial natural language...",
+      "link": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-09T19:40:37.000Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "title": "ChatGPT is now a partner for your most ambitious work",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
@@ -1763,43 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-22T13:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-22T13:18:56.000Z"
-    },
-    {
-      "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-21T23:00:00.000Z"
-    },
-    {
-      "id": "1e6011feb7a9539e025946c40b2ccf72108b05ae",
-      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
-      "summary": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-19T14:15:24.000Z"
-    },
-    {
-      "id": "c7547b285777b009f8bb60f1abb1888be2f1e73a",
-      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
-      "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-19T14:05:04.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T18:48:15.642Z"
+  "updatedAt": "2026-07-09T20:44:56.651Z"
 }
