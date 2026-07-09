@@ -436,7 +436,8 @@
     "https://openai.com/index/bio-bug-bounty",
     "https://openai.com/index/gpt-5-6",
     "nvidia ai:a9de484c30a96f73",
-    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "nvidia ai:9dd87fe1555e1f2c"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -841,7 +842,8 @@
     "https://openai.com/index/bio-bug-bounty": "2026-07-09T18:48:15.638Z",
     "https://openai.com/index/gpt-5-6": "2026-07-09T18:48:15.638Z",
     "nvidia ai:a9de484c30a96f73": "2026-07-09T20:44:56.648Z",
-    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": "2026-07-09T20:44:56.648Z"
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": "2026-07-09T20:44:56.648Z",
+    "nvidia ai:9dd87fe1555e1f2c": "2026-07-09T22:19:22.913Z"
   },
-  "updatedAt": "2026-07-09T20:44:56.648Z"
+  "updatedAt": "2026-07-09T22:19:22.913Z"
 }
