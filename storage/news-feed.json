@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "mistral ai:4724f35f442e729f",
+      "title": "About Mistral Ai/",
+      "summary": "About Mistral Ai/",
+      "link": "https://mistral.ai/news/about-mistral-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:cc8a62a9a002c9f0",
+      "title": "Agentic Workflows From Meetings To Dev Tickets/",
+      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
+      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:e149a7820e21119f",
+      "title": "Agents Api/",
+      "summary": "Agents Api/",
+      "link": "https://mistral.ai/news/agents-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:0e09c6a8c54494af",
       "title": "Announcing Mistral 7b/",
       "summary": "Announcing Mistral 7b/",
@@ -1772,34 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-18T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-life-sci-bench",
-      "title": "Introducing LifeSciBench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "link": "https://openai.com/index/introducing-life-sci-bench",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-17T00:00:00.000Z"
-    },
-    {
-      "id": "xai:000376eced0f7685",
-      "title": "Grok on Amazon Bedrock",
-      "summary": "Grok models are now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "6071082886fecd4bbf0b392be615d8751f9f12eb",
-      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
-      "summary": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-17T20:56:36.000Z"
     }
   ],
-  "updatedAt": "2026-07-08T23:02:42.072Z"
+  "updatedAt": "2026-07-09T02:39:07.776Z"
 }
