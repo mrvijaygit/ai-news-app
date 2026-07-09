@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:000376eced0f7685",
+      "title": "Grok on Amazon Bedrock",
+      "summary": "Grok models are now available via Amazon Bedrock.",
+      "link": "https://x.ai/news/grok-amazon-bedrock",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:4724f35f442e729f",
       "title": "About Mistral Ai/",
       "summary": "About Mistral Ai/",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-18T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/is-it-agentic-enough",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "link": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-18T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T02:39:07.776Z"
+  "updatedAt": "2026-07-09T06:40:47.221Z"
 }
