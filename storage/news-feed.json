@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "meta ai:b221f24d1daf4d8e",
+      "title": "Introducing Muse Spark 1.1",
+      "summary": "Latest News",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "source": "Meta AI Blog",
+      "company": "Meta AI",
+      "publishedAt": "2026-07-09T00:00:00.000Z"
+    },
+    {
       "id": "xai:950769d2f630ca6f",
       "title": "Grok on Databricks",
       "summary": "Grok models are now available on Databricks Agent Bricks.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-18T17:32:22.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "summary": "MosaicLeaks: Can your research agent keep a secret?",
-      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-18T18:13:13.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T13:46:50.394Z"
+  "updatedAt": "2026-07-09T16:25:41.337Z"
 }
