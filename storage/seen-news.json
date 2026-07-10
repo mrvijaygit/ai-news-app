@@ -447,7 +447,8 @@
     "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c",
     "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87",
     "44719c394930a8bd8c11292c18a583053d398cee",
-    "nvidia ai:720f88d0f07cfc81"
+    "nvidia ai:720f88d0f07cfc81",
+    "cohere:730e0ba6a465589d"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -863,7 +864,8 @@
     "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c": "2026-07-10T16:53:20.665Z",
     "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87": "2026-07-10T16:53:20.665Z",
     "44719c394930a8bd8c11292c18a583053d398cee": "2026-07-10T16:53:20.665Z",
-    "nvidia ai:720f88d0f07cfc81": "2026-07-10T18:20:58.624Z"
+    "nvidia ai:720f88d0f07cfc81": "2026-07-10T18:20:58.624Z",
+    "cohere:730e0ba6a465589d": "2026-07-10T20:20:08.417Z"
   },
-  "updatedAt": "2026-07-10T18:20:58.624Z"
+  "updatedAt": "2026-07-10T20:20:08.417Z"
 }
