@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:c5e1675f0a2912c2",
+      "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+      "summary": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein... Biomolecular structure prediction and co-folding with models...",
+      "link": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-10T13:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:9dd87fe1555e1f2c",
       "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
       "summary": "Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are... Agentic systems often face a trade-off between accuracy...",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-22T16:32:15.000Z"
-    },
-    {
-      "id": "nvidia ai:a973c8b9122d342c",
-      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
-      "summary": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel... The NVIDIA CUDA Core Compute Libraries (CCCL) provides...",
-      "link": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-22T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-09T22:19:22.915Z"
+  "updatedAt": "2026-07-10T14:16:12.801Z"
 }
