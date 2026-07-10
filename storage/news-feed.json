@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "5ab175a6cdde5523b8ccc6ce6820759707a05693",
+      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+      "summary": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-10T15:35:05.000Z"
+    },
+    {
+      "id": "f38693695f066814841d089783bdd8f01dece5c1",
+      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
+      "summary": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-10T15:31:12.000Z"
+    },
+    {
+      "id": "54d76cceb6bd0af8db3a440ce3ba321b220e8a79",
+      "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
+      "summary": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-10T15:28:54.000Z"
+    },
+    {
+      "id": "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c",
+      "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
+      "summary": "In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute Cloud (Amazon EC2)...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-10T15:26:05.000Z"
+    },
+    {
+      "id": "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87",
+      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
+      "summary": "Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-10T15:23:25.000Z"
+    },
+    {
+      "id": "44719c394930a8bd8c11292c18a583053d398cee",
+      "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
+      "summary": "In this post, we show how to implement DPD with vLLM on Amazon SageMaker HyperPod using the HyperPod Inference Operator.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-10T15:20:16.000Z"
+    },
+    {
+      "id": "nvidia ai:2b91c02e88e67c1a",
+      "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+      "summary": "There are many ways to optimize code for GPUs. In this post, you’ll learn how kernel fusion can improve memory bandwidth and reduce kernel launch overhead,... There are many ways to optimize code for GPUs. In this post,...",
+      "link": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-10T16:41:03.000Z"
+    },
+    {
+      "id": "nvidia ai:8d50478ddefd3388",
+      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+      "summary": "AI performance comes down to three dimensions: Accuracy: How well the model reasons and produces outputs Throughput: How many tokens per second a... AI performance comes down to three dimensions: Deployments must...",
+      "link": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-10T16:36:02.000Z"
+    },
+    {
       "id": "nvidia ai:c5e1675f0a2912c2",
       "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
       "summary": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein... Biomolecular structure prediction and co-folding with models...",
@@ -1727,79 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-23T12:51:55.000Z"
-    },
-    {
-      "id": "cohere:a2f299e5469bc81a",
-      "title": "Ai Agents For Financial Services",
-      "summary": "Ai Agents For Financial Services",
-      "link": "https://cohere.com/blog/ai-agents-for-financial-services",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:c2ea807d96f83e51",
-      "title": "How Telcos Build Autonomous Networks with Agentic AI",
-      "summary": "Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In... Telecom operators are adopting AI across network...",
-      "link": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-23T06:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/local-models-pr-triage",
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "summary": "We got local models to triage the OpenClaw repo for FREE!*",
-      "link": "https://huggingface.co/blog/local-models-pr-triage",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-22T00:00:00.000Z"
-    },
-    {
-      "id": "52be35df08b05af08b291c3c21eae9e9df45e6a0",
-      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
-      "summary": "In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomously route tasks to the most effective model, pay per request, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-22T17:53:40.000Z"
-    },
-    {
-      "id": "https://openai.com/index/patch-the-planet",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "link": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-22T10:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-22T10:00:00.000Z"
-    },
-    {
-      "id": "xai:ea7ad631cd2df309",
-      "title": "Introducing /goal",
-      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
-      "link": "https://x.ai/news/introducing-goal",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "feae5d9d32840b5cd91ba2baf9be1daf82e1283d",
-      "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
-      "summary": "In this post, we walk through the problem space, our architecture on Amazon Bedrock and Amazon OpenSearch Serverless, the evaluation methodology we built on OpenStreetMap ground truth, four experiments that compared...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-22T16:32:15.000Z"
     }
   ],
-  "updatedAt": "2026-07-10T14:16:12.801Z"
+  "updatedAt": "2026-07-10T16:53:20.667Z"
 }

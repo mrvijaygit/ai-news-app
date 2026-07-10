@@ -438,7 +438,15 @@
     "nvidia ai:a9de484c30a96f73",
     "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "nvidia ai:9dd87fe1555e1f2c",
-    "nvidia ai:c5e1675f0a2912c2"
+    "nvidia ai:c5e1675f0a2912c2",
+    "nvidia ai:2b91c02e88e67c1a",
+    "nvidia ai:8d50478ddefd3388",
+    "5ab175a6cdde5523b8ccc6ce6820759707a05693",
+    "f38693695f066814841d089783bdd8f01dece5c1",
+    "54d76cceb6bd0af8db3a440ce3ba321b220e8a79",
+    "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c",
+    "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87",
+    "44719c394930a8bd8c11292c18a583053d398cee"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -845,7 +853,15 @@
     "nvidia ai:a9de484c30a96f73": "2026-07-09T20:44:56.648Z",
     "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": "2026-07-09T20:44:56.648Z",
     "nvidia ai:9dd87fe1555e1f2c": "2026-07-09T22:19:22.913Z",
-    "nvidia ai:c5e1675f0a2912c2": "2026-07-10T14:16:12.797Z"
+    "nvidia ai:c5e1675f0a2912c2": "2026-07-10T14:16:12.797Z",
+    "nvidia ai:2b91c02e88e67c1a": "2026-07-10T16:53:20.665Z",
+    "nvidia ai:8d50478ddefd3388": "2026-07-10T16:53:20.665Z",
+    "5ab175a6cdde5523b8ccc6ce6820759707a05693": "2026-07-10T16:53:20.665Z",
+    "f38693695f066814841d089783bdd8f01dece5c1": "2026-07-10T16:53:20.665Z",
+    "54d76cceb6bd0af8db3a440ce3ba321b220e8a79": "2026-07-10T16:53:20.665Z",
+    "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c": "2026-07-10T16:53:20.665Z",
+    "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87": "2026-07-10T16:53:20.665Z",
+    "44719c394930a8bd8c11292c18a583053d398cee": "2026-07-10T16:53:20.665Z"
   },
-  "updatedAt": "2026-07-10T14:16:12.797Z"
+  "updatedAt": "2026-07-10T16:53:20.665Z"
 }
