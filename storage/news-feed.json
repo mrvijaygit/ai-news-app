@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:ea7ad631cd2df309",
+      "title": "Introducing /goal",
+      "summary": "Introducing /goal",
+      "link": "https://x.ai/news/introducing-goal",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:720f88d0f07cfc81",
+      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+      "summary": "Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,... Large language model (LLM) training workloads...",
+      "link": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-10T18:17:40.000Z"
+    },
+    {
       "id": "5ab175a6cdde5523b8ccc6ce6820759707a05693",
       "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
       "summary": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker...",
@@ -1781,25 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-23T15:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:aac0bac97952a5ab",
-      "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
-      "summary": "AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,... AI scientists are emerging as a new interface for...",
-      "link": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-23T13:30:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "summary": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-23T12:51:55.000Z"
     }
   ],
-  "updatedAt": "2026-07-10T16:53:20.667Z"
+  "updatedAt": "2026-07-10T18:20:58.632Z"
 }
