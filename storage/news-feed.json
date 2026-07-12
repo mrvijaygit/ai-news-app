@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:b9133f427f3a40fe",
+      "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+      "summary": "Robotics foundation models have made remarkable progress. Today's best systems can follow natural language instructions to pick, place, sort, and manipulate a... Robotics foundation models have made remarkable progress....",
+      "link": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-12T01:08:17.000Z"
+    },
+    {
       "id": "cohere:730e0ba6a465589d",
       "title": "Multi Agent Systems",
       "summary": "Multi Agent Systems",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-23T15:43:59.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/cross-origin-storage",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "link": "https://huggingface.co/blog/cross-origin-storage",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-23T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-10T20:20:08.419Z"
+  "updatedAt": "2026-07-12T02:27:00.568Z"
 }
