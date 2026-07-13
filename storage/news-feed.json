@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:3f9fb6b191e4a665",
+      "title": "Extreme Event Likelihoods with Guided Generative Models",
+      "summary": "Across science, engineering, and finance, many of the most important risks come from low-likelihood, high-impact events. Estimating the probability of these... Across science, engineering, and finance, many of the most...",
+      "link": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-13T15:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:b9133f427f3a40fe",
       "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
       "summary": "Robotics foundation models have made remarkable progress. Today's best systems can follow natural language instructions to pick, place, sort, and manipulate a... Robotics foundation models have made remarkable progress....",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-23T16:39:34.000Z"
-    },
-    {
-      "id": "78965789e8e2a82a105cf681e9dac7d46cae2995",
-      "title": "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
-      "summary": "In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-23T15:43:59.000Z"
     }
   ],
-  "updatedAt": "2026-07-12T02:27:00.568Z"
+  "updatedAt": "2026-07-13T16:29:13.051Z"
 }
