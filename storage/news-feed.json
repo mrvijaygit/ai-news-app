@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:dcade966e540f4df",
+      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+      "summary": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes... Useful quantum computers will require fault tolerant...",
+      "link": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-13T19:00:00.000Z"
+    },
+    {
       "id": "bb0cda5528305ed2ae8c30fdb6b7bc3ecd637b20",
       "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
       "summary": "In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an AI-powered desktop and web assistant that compensates for executive...",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-24T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:b0e8d2f6847a1809",
-      "title": "Cohere Aston Martin Formula One Generative Ai Partner",
-      "summary": "Cohere Aston Martin Formula One Generative Ai Partner",
-      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-24T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-13T18:41:28.798Z"
+  "updatedAt": "2026-07-13T20:11:46.158Z"
 }
