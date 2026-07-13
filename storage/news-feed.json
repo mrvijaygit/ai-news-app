@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "190355df2ab74c06f68aa883193334841f9cf7dc",
+      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+      "summary": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-13T21:01:20.000Z"
+    },
+    {
       "id": "nvidia ai:dcade966e540f4df",
       "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
       "summary": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes... Useful quantum computers will require fault tolerant...",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-24T16:00:13.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ffasr-leaderboard",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "link": "https://huggingface.co/blog/ffasr-leaderboard",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-24T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-13T20:11:46.158Z"
+  "updatedAt": "2026-07-13T21:53:21.306Z"
 }
