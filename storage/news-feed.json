@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "bb0cda5528305ed2ae8c30fdb6b7bc3ecd637b20",
+      "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
+      "summary": "In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an AI-powered desktop and web assistant that compensates for executive...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-13T17:50:16.000Z"
+    },
+    {
+      "id": "5847b86e4be04554c7c7a0b81df1f30a35b5c47b",
+      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
+      "summary": "In this post, we describe how Bluesight used two AWS engagements and Amazon Bedrock AgentCore to evolve from a single-product AI prototype to Prism, a unified agentic AI solution spanning six healthcare compliance...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-13T17:34:38.000Z"
+    },
+    {
+      "id": "929ee3b85414efc2d2bb77ef987fba6e5d28fc5c",
+      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
+      "summary": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-13T17:27:40.000Z"
+    },
+    {
+      "id": "f6da824a297323f53f2ba3f08905c652d2f5b47f",
+      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
+      "summary": "In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) experience. The API already gives you programmatic access to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-13T16:42:15.000Z"
+    },
+    {
       "id": "nvidia ai:3f9fb6b191e4a665",
       "title": "Extreme Event Likelihoods with Guided Generative Models",
       "summary": "Across science, engineering, and finance, many of the most important risks come from low-likelihood, high-impact events. Estimating the probability of these... Across science, engineering, and finance, many of the most...",
@@ -1763,43 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-24T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-24T06:00:00.000Z"
-    },
-    {
-      "id": "anthropic:0c02939755bef0f3",
-      "title": "Introducing Claude Tag",
-      "summary": "Claude Tag is a new way for teams to work with Claude.",
-      "link": "https://www.anthropic.com/news/introducing-claude-tag",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/gpt-5-immunology-mystery",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "link": "https://openai.com/index/gpt-5-immunology-mystery",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-23T17:00:00.000Z"
-    },
-    {
-      "id": "a65ba055bb41fa9b00170b01a872633b24c9741c",
-      "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
-      "summary": "This post shows you how to build a conversational protein research assistant that combines three capabilities: Natural language query parsing to extract structured search parameters, vector similarity search over...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-23T16:39:34.000Z"
     }
   ],
-  "updatedAt": "2026-07-13T16:29:13.051Z"
+  "updatedAt": "2026-07-13T18:41:28.798Z"
 }
