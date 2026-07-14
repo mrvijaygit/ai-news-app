@@ -466,7 +466,10 @@
     "d8fdac70fa484b85c25452d4591f32c8e4baf202",
     "0cbfa749a1739a7814eb467101b8b4f154290a9a",
     "f40ee90c46af2aab822532b18f270b631355af54",
-    "https://openai.com/index/managing-ai-investments-in-agentic-era"
+    "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9",
+    "nvidia ai:bfaef5e335231f6f",
+    "cohere:5e1e0dae8726ce4f"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -901,7 +904,10 @@
     "d8fdac70fa484b85c25452d4591f32c8e4baf202": "2026-07-14T17:58:54.851Z",
     "0cbfa749a1739a7814eb467101b8b4f154290a9a": "2026-07-14T17:58:54.851Z",
     "f40ee90c46af2aab822532b18f270b631355af54": "2026-07-14T17:58:54.851Z",
-    "https://openai.com/index/managing-ai-investments-in-agentic-era": "2026-07-14T17:58:54.851Z"
+    "https://openai.com/index/managing-ai-investments-in-agentic-era": "2026-07-14T17:58:54.851Z",
+    "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9": "2026-07-14T19:28:19.056Z",
+    "nvidia ai:bfaef5e335231f6f": "2026-07-14T19:28:19.056Z",
+    "cohere:5e1e0dae8726ce4f": "2026-07-14T19:28:19.056Z"
   },
-  "updatedAt": "2026-07-14T17:58:54.851Z"
+  "updatedAt": "2026-07-14T19:28:19.056Z"
 }

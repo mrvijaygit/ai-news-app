@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:8a057b2058898150",
+      "title": "Explore the markets with Interactive Brokers and Grok",
+      "summary": "Explore the markets with Interactive Brokers and Grok",
+      "link": "https://x.ai/news/grok-interactive-brokers",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7f96b684a449083b",
+      "title": "Grok Imagine 1.5 Preview",
+      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+      "link": "https://x.ai/news/grok-imagine-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9",
+      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+      "summary": "This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect discovery through personalized email generation. The post compares...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-14T18:44:26.000Z"
+    },
+    {
+      "id": "nvidia ai:bfaef5e335231f6f",
+      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+      "summary": "The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when... The NVIDIA Nemotron Model Reasoning Challenge invited the...",
+      "link": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-14T18:20:32.000Z"
+    },
+    {
+      "id": "cohere:5e1e0dae8726ce4f",
+      "title": "Multi Agent Systems",
+      "summary": "Multi Agent Systems",
+      "link": "https://cohere.com/blog/multi-agent-systems",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-14T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "title": "How to manage AI investments in the agentic era",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
@@ -1754,52 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-06-25T00:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
-      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-06-25T16:00:00.000Z"
-    },
-    {
-      "id": "dc22e98d12d94b3172176999b1cb944e7057fc4e",
-      "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
-      "summary": "This post shows you how to configure training jobs on Amazon SageMaker AI to get the most out of Blackwell’s architecture on AWS. You learn how to select batch sizes and sequence lengths that take advantage of...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-25T16:41:47.000Z"
-    },
-    {
-      "id": "54637d125ef3ad18fdb02623e5ff70ad31a976ce",
-      "title": "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
-      "summary": "In this post, we show you how to build Chaplin (Customer Health and Planned Lifecycle Intelligence Nexus), an open source solution that uses AI agents exposed through the Model Context Protocol (MCP) to provide...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-25T16:38:12.000Z"
-    },
-    {
-      "id": "d0832f607a44e87fa838cb51c8b83bbdd2d34feb",
-      "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
-      "summary": "This post shows how to build a governed, serverless data mesh on AWS that provides the secure, scalable data foundation production agentic AI requires.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-25T16:35:07.000Z"
-    },
-    {
-      "id": "nvidia ai:563c9ba07933ada8",
-      "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
-      "summary": "Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the... Generative AI workloads are rapidly outgrowing the memory...",
-      "link": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-25T16:43:48.000Z"
     }
   ],
-  "updatedAt": "2026-07-14T17:58:54.854Z"
+  "updatedAt": "2026-07-14T19:28:19.060Z"
 }
