@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "title": "How to manage AI investments in the agentic era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "id": "xai:35425ef3f910664b",
+      "title": "Grok Becomes the Voice of Vapi",
+      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
+      "link": "https://x.ai/news/grok-vapi",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "fa304a72ae5d4a029e1c3805de11add0f66faa32",
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
+      "summary": "In this post, we extend that foundation to demonstrate how QA Studio addresses batch regression testing and pipeline integration through test suites that organize and parallelize execution, and a command-line interface...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-14T16:47:32.000Z"
+    },
+    {
+      "id": "d8fdac70fa484b85c25452d4591f32c8e4baf202",
+      "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+      "summary": "Using generative AI enables parallel execution of comprehensive user flow testing at scale. This solution demonstrates how to build a cloud-deployed UX testing platform that automatically generates test scenarios from...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-14T16:43:41.000Z"
+    },
+    {
+      "id": "0cbfa749a1739a7814eb467101b8b4f154290a9a",
+      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+      "summary": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-14T16:33:08.000Z"
+    },
+    {
+      "id": "f40ee90c46af2aab822532b18f270b631355af54",
+      "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
+      "summary": "In this post, you will learn how ScienceSoft, an Amazon Web Services (AWS) Services Partner, integrated Amazon Nova 2 Sonic with Amazon Bedrock Guardrails to build a Health Insurance Portability and Accountability Act...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-14T16:25:03.000Z"
+    },
+    {
       "id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
       "title": "Celebrating 25 years of visual search innovation",
       "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
@@ -1745,61 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-25T16:43:48.000Z"
-    },
-    {
-      "id": "nvidia ai:a5fc4dd47cf8c1fa",
-      "title": "How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-      "summary": "AI companions in games have long been constrained by scripted behavior trees and fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for... AI companions in games have long been constrained by...",
-      "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-25T16:38:18.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "title": "Which tokens does a hybrid model predict better?",
-      "summary": "Which tokens does a hybrid model predict better?",
-      "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-25T16:11:42.000Z"
-    },
-    {
-      "id": "cohere:61a4d0a744b919ef",
-      "title": "Cohere Security Ai Agent North Wiz",
-      "summary": "Cohere Security Ai Agent North Wiz",
-      "link": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-25T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/how-agents-are-transforming-work",
-      "title": "How agents are transforming work",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "link": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-25T02:00:00.000Z"
-    },
-    {
-      "id": "xai:8a057b2058898150",
-      "title": "Explore the markets with Interactive Brokers and Grok",
-      "summary": "Explore the markets with Interactive Brokers and Grok",
-      "link": "https://x.ai/news/grok-interactive-brokers",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-14T16:11:03.297Z"
+  "updatedAt": "2026-07-14T17:58:54.854Z"
 }
