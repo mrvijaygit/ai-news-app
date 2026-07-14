@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:2a933bbb7c139047",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+      "summary": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve... Coding AI agents are becoming practical operators for...",
+      "link": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:00d78d0c8c320bf9",
+      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+      "summary": "What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning... What if autonomous coding AI agents could push your vision...",
+      "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "title": "How data science teams use ChatGPT Work",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:35425ef3f910664b",
-      "title": "Grok Becomes the Voice of Vapi",
-      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
-      "link": "https://x.ai/news/grok-vapi",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "1d2ea05ede59ced27e2539d9d423a21734963e2f",
-      "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
-      "summary": "In this post, you will learn how to build a voice agent that handles appointment reminder conversations using Amazon Nova 2 Sonic and Amazon Bedrock AgentCore. The agent authenticates patients by voice, manages...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-24T18:20:27.000Z"
-    },
-    {
-      "id": "1dc7723ff4e6ee2d06a80f8861b8d24f05532975",
-      "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
-      "summary": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang up, damaging brand reputation and driving up support costs.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-24T16:56:24.000Z"
     }
   ],
-  "updatedAt": "2026-07-14T12:08:20.866Z"
+  "updatedAt": "2026-07-14T16:11:03.297Z"
 }
