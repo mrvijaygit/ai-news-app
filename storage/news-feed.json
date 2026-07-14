@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-14T00:00:00.000Z"
+    },
+    {
       "id": "190355df2ab74c06f68aa883193334841f9cf7dc",
       "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
       "summary": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for...",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-24T16:56:24.000Z"
-    },
-    {
-      "id": "nvidia ai:475ec74fd205afb5",
-      "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
-      "summary": "An increasingly common design pattern for autonomous vehicles (AVs), robotics, and spatial AI systems is bird's-eye-view (BEV) perception. BEV models project... An increasingly common design pattern for autonomous...",
-      "link": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-24T16:30:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-24T16:00:13.000Z"
     }
   ],
-  "updatedAt": "2026-07-13T21:53:21.306Z"
+  "updatedAt": "2026-07-14T12:08:20.866Z"
 }
