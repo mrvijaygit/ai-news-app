@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/real-world-voiceeq",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-15T00:00:00.000Z"
+    },
+    {
       "id": "xai:8a057b2058898150",
       "title": "Explore the markets with Interactive Brokers and Grok",
       "summary": "Explore the markets with Interactive Brokers and Grok",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-25T18:11:00.000Z"
-    },
-    {
-      "id": "cohere:0da566de6b4fa245",
-      "title": "Automating Fork Maintenance With Ai Agents",
-      "summary": "Automating Fork Maintenance With Ai Agents",
-      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-25T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-14T19:28:19.060Z"
+  "updatedAt": "2026-07-15T14:46:19.289Z"
 }
