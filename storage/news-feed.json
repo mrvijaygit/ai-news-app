@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:67531198132a7d0d",
+      "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3 ",
+      "summary": "For over fifteen years, x86 CPUs have shipped with a dedicated hardware instruction for carryless multiplication. It’s a small but stubborn primitive that... For over fifteen years, x86 CPUs have shipped with a...",
+      "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-15T17:37:12.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "title": "What building Shippy taught us about building agents",
+      "summary": "What building Shippy taught us about building agents",
+      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-15T17:29:41.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "summary": "Model Routing Is Simple. Until It Isn’t.",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-15T17:27:01.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/real-world-voiceeq",
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
@@ -1763,43 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-26T16:00:35.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/vllm-jobs",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "summary": "Run a vLLM Server on HF Jobs in One Command",
-      "link": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-26T00:00:00.000Z"
-    },
-    {
-      "id": "eda3331addbbed45b312b41d1b282123a9d1d3b5",
-      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
-      "summary": "In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper layers that transform traditional REST-based services into agents capable...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-25T17:55:10.000Z"
-    },
-    {
-      "id": "nvidia ai:9b885878ddd249c4",
-      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-      "summary": "Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This... Developers building real-time AI—such as chat assistants,...",
-      "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-25T18:56:34.000Z"
-    },
-    {
-      "id": "nvidia ai:5e81c49c697bbc25",
-      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
-      "summary": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium.... NVIDIA delivered a clean sweep in MLPerf Training v6.0,...",
-      "link": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-25T18:11:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-15T14:46:19.289Z"
+  "updatedAt": "2026-07-15T18:03:18.551Z"
 }

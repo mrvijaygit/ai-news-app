@@ -470,7 +470,11 @@
     "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9",
     "nvidia ai:bfaef5e335231f6f",
     "cohere:5e1e0dae8726ce4f",
-    "https://huggingface.co/blog/real-world-voiceeq"
+    "https://huggingface.co/blog/real-world-voiceeq",
+    "nvidia ai:67531198132a7d0d",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "https://openai.com/index/unlocking-self-improvement-gpt-red"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -909,7 +913,11 @@
     "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9": "2026-07-14T19:28:19.056Z",
     "nvidia ai:bfaef5e335231f6f": "2026-07-14T19:28:19.056Z",
     "cohere:5e1e0dae8726ce4f": "2026-07-14T19:28:19.056Z",
-    "https://huggingface.co/blog/real-world-voiceeq": "2026-07-15T14:46:19.287Z"
+    "https://huggingface.co/blog/real-world-voiceeq": "2026-07-15T14:46:19.287Z",
+    "nvidia ai:67531198132a7d0d": "2026-07-15T18:03:18.548Z",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog": "2026-07-15T18:03:18.548Z",
+    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt": "2026-07-15T18:03:18.548Z",
+    "https://openai.com/index/unlocking-self-improvement-gpt-red": "2026-07-15T18:03:18.548Z"
   },
-  "updatedAt": "2026-07-15T14:46:19.287Z"
+  "updatedAt": "2026-07-15T18:03:18.548Z"
 }
