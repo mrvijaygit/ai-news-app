@@ -474,7 +474,10 @@
     "nvidia ai:67531198132a7d0d",
     "https://huggingface.co/blog/allenai/shippy-tech-blog",
     "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "https://openai.com/index/unlocking-self-improvement-gpt-red"
+    "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "890af1f7d65cfa97f25179d528636d6d44e00673",
+    "e686e0d2b0f5877b642bd566e42a18707483accf",
+    "fd4c49a234b2f25a8f6f4076d4cdb0f961adcb5a"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -917,7 +920,10 @@
     "nvidia ai:67531198132a7d0d": "2026-07-15T18:03:18.548Z",
     "https://huggingface.co/blog/allenai/shippy-tech-blog": "2026-07-15T18:03:18.548Z",
     "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt": "2026-07-15T18:03:18.548Z",
-    "https://openai.com/index/unlocking-self-improvement-gpt-red": "2026-07-15T18:03:18.548Z"
+    "https://openai.com/index/unlocking-self-improvement-gpt-red": "2026-07-15T18:03:18.548Z",
+    "890af1f7d65cfa97f25179d528636d6d44e00673": "2026-07-15T20:05:35.579Z",
+    "e686e0d2b0f5877b642bd566e42a18707483accf": "2026-07-15T20:05:35.579Z",
+    "fd4c49a234b2f25a8f6f4076d4cdb0f961adcb5a": "2026-07-15T20:05:35.579Z"
   },
-  "updatedAt": "2026-07-15T18:03:18.548Z"
+  "updatedAt": "2026-07-15T20:05:35.579Z"
 }

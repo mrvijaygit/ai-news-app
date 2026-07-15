@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "890af1f7d65cfa97f25179d528636d6d44e00673",
+      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
+      "summary": "Built partnered with the AWS Generative AI Innovation Center (GenAIIC), AWS Partner AND Digital, and AWS account teams to create a scalable, AI-powered document processing engine that can classify, split, extract,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-15T18:14:31.000Z"
+    },
+    {
+      "id": "e686e0d2b0f5877b642bd566e42a18707483accf",
+      "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
+      "summary": "In this post, we walk you through the Computer Vision MCP Server, which illustrates this approach, representing how AI systems can process visual information and make intelligent decisions through a single, standardized...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-15T18:11:57.000Z"
+    },
+    {
+      "id": "fd4c49a234b2f25a8f6f4076d4cdb0f961adcb5a",
+      "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
+      "summary": "In this post, we present a solution designed to centralize the monitoring of SageMaker Pipelines across AWS accounts and Regions using Amazon CloudWatch custom dashboards. The accompanying GitHub repository provides a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-15T18:08:50.000Z"
+    },
+    {
       "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-25T16:38:18.000Z"
-    },
-    {
-      "id": "cohere:98a4fc63a74acd22",
-      "title": "Building Ai Agents",
-      "summary": "Building Ai Agents",
-      "link": "https://cohere.com/blog/building-ai-agents",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-26T00:00:00.000Z"
-    },
-    {
-      "id": "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed",
-      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
-      "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-26T14:38:01.000Z"
-    },
-    {
-      "id": "nvidia ai:de8efd6a1291ad7e",
-      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
-      "summary": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an... As context windows grow longer, moving large model weights...",
-      "link": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-26T16:00:35.000Z"
     }
   ],
-  "updatedAt": "2026-07-15T18:03:18.551Z"
+  "updatedAt": "2026-07-15T20:05:35.582Z"
 }
