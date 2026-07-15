@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:61a45589bea1e81d",
+      "title": "Grok Build is Now Open Source",
+      "summary": "Grok Build is Now Open Source",
+      "link": "https://x.ai/news/grok-build-open-source",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "890af1f7d65cfa97f25179d528636d6d44e00673",
       "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
       "summary": "Built partnered with the AWS Generative AI Innovation Center (GenAIIC), AWS Partner AND Digital, and AWS account teams to create a scalable, AI-powered document processing engine that can classify, split, extract,...",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-26T10:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:c9028166df68641f",
-      "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-      "summary": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI... AI companions in games have long been constrained by...",
-      "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-25T16:38:18.000Z"
     }
   ],
-  "updatedAt": "2026-07-15T20:05:35.582Z"
+  "updatedAt": "2026-07-15T21:56:38.417Z"
 }
