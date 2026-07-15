@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:298b6def0a1f9dca",
+      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+      "summary": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation... OpenUSD is an open, extensible framework that provides a...",
+      "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-15T21:57:23.000Z"
+    },
+    {
       "id": "xai:61a45589bea1e81d",
       "title": "Grok Build is Now Open Source",
       "summary": "Grok Build is Now Open Source",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-26T19:00:45.000Z"
-    },
-    {
-      "id": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-26T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-15T21:56:38.417Z"
+  "updatedAt": "2026-07-15T22:57:58.923Z"
 }
