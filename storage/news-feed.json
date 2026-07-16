@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "cohere:61bf2ff2140552ea",
+      "title": "Cohere University Of Toronto Announcement",
+      "summary": "Cohere University Of Toronto Announcement",
+      "link": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-16T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "title": "Newer Models, Same Advantage",
       "summary": "Newer Models, Same Advantage",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-29T17:25:21.000Z"
-    },
-    {
-      "id": "nvidia ai:9d29fbe6a6905733",
-      "title": "How to Govern Autonomous Agents in Enterprise AI Factories ",
-      "summary": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on... AI agents are quickly moving beyond chat. They inspect...",
-      "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-29T15:50:13.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T13:43:04.965Z"
+  "updatedAt": "2026-07-16T15:36:46.608Z"
 }
