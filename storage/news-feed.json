@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/cars24",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "link": "https://openai.com/index/cars24",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-16T00:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "id": "c59281925c937a35e2ea6c2c422d783c98de7a26",
+      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
+      "summary": "In this post, we show you how to build a voice ordering system that answers a phone number and takes the order from greeting to confirmation. The system uses Amazon Bedrock AgentCore to host and run the agent and Amazon...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-16T15:50:52.000Z"
+    },
+    {
+      "id": "nvidia ai:c74cd6a8a3b06674",
+      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+      "summary": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and... A video analytics AI agent that can perceive, reason, and act...",
+      "link": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-16T16:03:35.000Z"
+    },
+    {
+      "id": "nvidia ai:ad53465eb15d78b0",
+      "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
+      "summary": "Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage... Agentic AI changes the infrastructure pattern for AI...",
+      "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-16T16:01:21.000Z"
+    },
+    {
       "id": "cohere:61bf2ff2140552ea",
       "title": "Cohere University Of Toronto Announcement",
       "summary": "Cohere University Of Toronto Announcement",
@@ -1736,70 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-30T16:00:00.000Z"
-    },
-    {
-      "id": "cohere:de05d72501268a33",
-      "title": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "summary": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-06-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/eee-community-evals",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "link": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "xai:3eb98dee9829b630",
-      "title": "Powering Gopuff's Go agent",
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "link": "https://x.ai/news/grok-gopuff",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "3a48407f30718965ac0a24f9004a09479b0671ab",
-      "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing",
-      "summary": "In this post, we show how pairing Amazon Nova 2 Lite with Anthropic’s Claude Sonnet 4.6 delivers an efficient solution for digitizing scanned documents at scale. We built a two-model pipeline on Amazon Bedrock for...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-29T17:52:33.000Z"
-    },
-    {
-      "id": "890019cfec132b26f4c587b55d8a06d13b01c6ec",
-      "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
-      "summary": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-29T17:39:29.000Z"
-    },
-    {
-      "id": "fb8c189317629bcf7014a00d01dd4257e81e8361",
-      "title": "Build an agentic AI healthcare claims pipeline with Amazon Bedrock and AWS HealthLake",
-      "summary": "In this post, we show you how to build an automated claims processing pipeline using two key Amazon Bedrock capabilities: Amazon Bedrock Data Automation for intelligent document extraction from healthcare claim forms,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-29T17:36:34.000Z"
-    },
-    {
-      "id": "75ff6f3c82b0059dac1623c26b94c453f2dbffa5",
-      "title": "Debugging production agents with Amazon Bedrock AgentCore Observability",
-      "summary": "In this post, you learn how to debug production agent failures using built-in observability capabilities. We walk through common failure patterns, show how to analyze agent behavior with traces and metrics, and provide...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-29T17:25:21.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T15:36:46.608Z"
+  "updatedAt": "2026-07-16T17:11:41.653Z"
 }

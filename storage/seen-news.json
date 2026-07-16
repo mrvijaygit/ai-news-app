@@ -482,7 +482,14 @@
     "nvidia ai:298b6def0a1f9dca",
     "nvidia ai:be03291fe9b67921",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "cohere:61bf2ff2140552ea"
+    "cohere:61bf2ff2140552ea",
+    "nvidia ai:c74cd6a8a3b06674",
+    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "nvidia ai:ad53465eb15d78b0",
+    "c59281925c937a35e2ea6c2c422d783c98de7a26",
+    "https://openai.com/index/cars24"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -933,7 +940,14 @@
     "nvidia ai:298b6def0a1f9dca": "2026-07-15T22:57:58.920Z",
     "nvidia ai:be03291fe9b67921": "2026-07-16T00:01:04.073Z",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": "2026-07-16T13:43:04.963Z",
-    "cohere:61bf2ff2140552ea": "2026-07-16T15:36:46.605Z"
+    "cohere:61bf2ff2140552ea": "2026-07-16T15:36:46.605Z",
+    "nvidia ai:c74cd6a8a3b06674": "2026-07-16T17:11:41.649Z",
+    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb": "2026-07-16T17:11:41.649Z",
+    "https://openai.com/index/why-teens-deserve-access-safe-ai": "2026-07-16T17:11:41.649Z",
+    "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/": "2026-07-16T17:11:41.649Z",
+    "nvidia ai:ad53465eb15d78b0": "2026-07-16T17:11:41.649Z",
+    "c59281925c937a35e2ea6c2c422d783c98de7a26": "2026-07-16T17:11:41.649Z",
+    "https://openai.com/index/cars24": "2026-07-16T17:11:41.649Z"
   },
-  "updatedAt": "2026-07-16T15:36:46.605Z"
+  "updatedAt": "2026-07-16T17:11:41.649Z"
 }
