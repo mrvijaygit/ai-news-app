@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:3eb98dee9829b630",
+      "title": "Powering Gopuff's Go agent",
+      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
+      "link": "https://x.ai/news/grok-gopuff",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "title": "Why teens deserve access to safe AI",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-30T16:26:48.000Z"
-    },
-    {
-      "id": "nvidia ai:3752f453de1cce0c",
-      "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-      "summary": "NVIDIA Ominverse NuRec is a neural reconstruction pipeline for building high-fidelity 3D representations of real-world environments from multisensor data such... NVIDIA Ominverse NuRec is a neural reconstruction...",
-      "link": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-30T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T17:11:41.653Z"
+  "updatedAt": "2026-07-16T19:04:25.114Z"
 }
