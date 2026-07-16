@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "6804c3e12f21b603b9634973a5e5fb1526d35aaa",
+      "title": "Introducing Grok on Amazon Bedrock",
+      "summary": "This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-16T19:29:26.000Z"
+    },
+    {
       "id": "xai:3eb98dee9829b630",
       "title": "Powering Gopuff's Go agent",
       "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-30T16:37:09.000Z"
-    },
-    {
-      "id": "e810a0ce533913bea7dc4cf63244fe692ea6e3d0",
-      "title": "Fine-tune Amazon Nova models for accurate email data extraction",
-      "summary": "In this post, you'll learn how fine-tuning Amazon Nova models using Amazon SageMaker AI addresses these specific issues by teaching the models to recognize your exact data patterns, distinguish between similar fields,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-30T16:26:48.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T19:04:25.114Z"
+  "updatedAt": "2026-07-16T20:53:59.169Z"
 }
