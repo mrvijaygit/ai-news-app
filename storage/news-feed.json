@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "title": "Newer Models, Same Advantage",
+      "summary": "Newer Models, Same Advantage",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-16T11:49:48.000Z"
+    },
+    {
       "id": "nvidia ai:be03291fe9b67921",
       "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
       "summary": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking... Developers building video analytics applications across...",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-29T15:50:13.000Z"
-    },
-    {
-      "id": "https://openai.com/index/hp-frontier-partnership",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "link": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-28T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T00:01:04.075Z"
+  "updatedAt": "2026-07-16T13:43:04.965Z"
 }
