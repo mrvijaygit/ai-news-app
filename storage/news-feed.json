@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:dc8d8bf3f50d9717",
+      "title": "Automations in Grok",
+      "summary": "Automations in Grok",
+      "link": "https://x.ai/news/grok-automations",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "8e50afea9ffc6d052fce86614e4ef6027e9f4be3",
+      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
+      "summary": "In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show you code examples for setting up a knowledge base and retrieving from...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-16T21:29:14.000Z"
+    },
+    {
       "id": "6804c3e12f21b603b9634973a5e5fb1526d35aaa",
       "title": "Introducing Grok on Amazon Bedrock",
       "summary": "This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request,...",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-30T16:42:49.000Z"
-    },
-    {
-      "id": "dec074be332161cab3b3f21d535b210b8e8fcf65",
-      "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
-      "summary": "In this post, you will learn five practical patterns for building resilient generative AI applications on AWS, progressing from native Amazon Bedrock features to multi-model orchestration using an LLM gateway. These...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-30T16:40:47.000Z"
-    },
-    {
-      "id": "77505a7d40abc62ddfe122cbd077c28faf5ebad2",
-      "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
-      "summary": "In this post, we explore how Outpost VFX achieved 8x faster training speeds using AWS infrastructure to transform their face replacement workflow, the technical architecture they implemented to overcome single-GPU...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-30T16:37:09.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T20:53:59.169Z"
+  "updatedAt": "2026-07-16T22:00:46.016Z"
 }
