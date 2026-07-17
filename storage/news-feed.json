@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "c7c7b20143e9236cf53af22804c327ab641f9a42",
+      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
+      "summary": "Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checking revenue during a morning standup, reviewing pipeline metrics...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-17T17:13:15.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-genebench-pro",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "link": "https://openai.com/index/introducing-genebench-pro",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-17T16:12:33.309Z"
+  "updatedAt": "2026-07-17T18:03:01.486Z"
 }
