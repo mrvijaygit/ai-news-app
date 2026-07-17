@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "19eb0a7f236f0093bfcd857d41a8178380a8de27",
+      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+      "summary": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-17T18:42:36.000Z"
+    },
+    {
       "id": "c7c7b20143e9236cf53af22804c327ab641f9a42",
       "title": "Introducing Mobile Layout for Amazon Quick dashboards",
       "summary": "Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checking revenue during a morning standup, reviewing pipeline metrics...",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-06-30T18:32:50.000Z"
-    },
-    {
-      "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-06-30T09:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-17T18:03:01.486Z"
+  "updatedAt": "2026-07-17T20:03:44.336Z"
 }

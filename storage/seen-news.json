@@ -495,7 +495,8 @@
     "xai:dc8d8bf3f50d9717",
     "https://openai.com/index/a-scorecard-for-the-ai-age",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "c7c7b20143e9236cf53af22804c327ab641f9a42"
+    "c7c7b20143e9236cf53af22804c327ab641f9a42",
+    "19eb0a7f236f0093bfcd857d41a8178380a8de27"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -959,7 +960,8 @@
     "xai:dc8d8bf3f50d9717": "2026-07-16T22:00:46.014Z",
     "https://openai.com/index/a-scorecard-for-the-ai-age": "2026-07-17T14:40:43.997Z",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": "2026-07-17T16:12:33.305Z",
-    "c7c7b20143e9236cf53af22804c327ab641f9a42": "2026-07-17T18:03:01.483Z"
+    "c7c7b20143e9236cf53af22804c327ab641f9a42": "2026-07-17T18:03:01.483Z",
+    "19eb0a7f236f0093bfcd857d41a8178380a8de27": "2026-07-17T20:03:44.333Z"
   },
-  "updatedAt": "2026-07-17T18:03:01.483Z"
+  "updatedAt": "2026-07-17T20:03:44.333Z"
 }
