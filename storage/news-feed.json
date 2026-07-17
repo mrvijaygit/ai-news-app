@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
       "id": "xai:dc8d8bf3f50d9717",
       "title": "Automations in Grok",
       "summary": "Automations in Grok",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-06-30T16:46:17.000Z"
-    },
-    {
-      "id": "852b00fcc384ff9e0ae5a50ce08778ae6965eef8",
-      "title": "Simplify multi-account access to Amazon Bedrock models with managed entitlements",
-      "summary": "In this post, we show you how to use managed entitlements for Amazon Bedrock to subscribe once from a central account and distribute model access across your organization. This approach removes the need for AWS...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-30T16:42:49.000Z"
     }
   ],
-  "updatedAt": "2026-07-16T22:00:46.016Z"
+  "updatedAt": "2026-07-17T14:40:43.999Z"
 }
