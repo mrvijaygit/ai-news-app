@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-17T15:57:54.000Z"
+    },
+    {
       "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "title": "A scorecard for the AI age",
       "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "c4e3d1519548e6dfd58647f6cec13eed83c79a30",
-      "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
-      "summary": "This post walks through how AG-UI integrates into the Fullstack AgentCore Solution Template (FAST) to build interactive agent frontends on Amazon Bedrock AgentCore. We then show how CopilotKit extends this with...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-30T16:46:17.000Z"
     }
   ],
-  "updatedAt": "2026-07-17T14:40:43.999Z"
+  "updatedAt": "2026-07-17T16:12:33.309Z"
 }
