@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:74bd045b72dafac4",
+      "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+      "summary": "Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and... Developers building 3D, design, simulation, robotics, and...",
+      "link": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-20T15:00:00.000Z"
+    },
+    {
       "id": "19eb0a7f236f0093bfcd857d41a8178380a8de27",
       "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
       "summary": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the...",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-06-30T17:36:43.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-06-30T18:32:50.000Z"
     }
   ],
-  "updatedAt": "2026-07-17T20:03:44.336Z"
+  "updatedAt": "2026-07-20T15:08:57.283Z"
 }
