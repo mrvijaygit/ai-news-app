@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "xai:39cfa33b8f09da04",
+      "title": "Grok for Excel",
+      "summary": "Grok for Excel",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "841983af5c9d76f79e872243cf56d5dc8de327e4",
+      "title": "Custom OS installation now available on AWS DeepRacer devices",
+      "summary": "With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can upgrade or install a custom operating system (OS) by using a newly...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-20T17:25:24.000Z"
+    },
+    {
+      "id": "b25cd46e336182d340adbc5eb02c977f0a0a7e05",
+      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+      "summary": "In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit to build a supply-chain risk example that helps a planner move from...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-20T17:01:32.000Z"
+    },
+    {
+      "id": "99306bfa52d19051e2cc783b0a94d6f84b695575",
+      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+      "summary": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-20T16:58:52.000Z"
+    },
+    {
+      "id": "9b1c53492191b8a5a6b9ba7b92b06bab8b7e6f1d",
+      "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
+      "summary": "In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response times up to 30 times faster, a 40 percent reduction in total cost of...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-20T16:56:48.000Z"
+    },
+    {
+      "id": "nvidia ai:f0191be9caea271b",
+      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+      "summary": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute... The demand for AI continues to accelerate. Workloads are...",
+      "link": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-20T15:46:28.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "title": "Introducing Cosmos 3 Edge",
+      "summary": "Introducing Cosmos 3 Edge",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-20T15:58:51.000Z"
+    },
+    {
       "id": "nvidia ai:74bd045b72dafac4",
       "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
       "summary": "Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and... Developers building 3D, design, simulation, robotics, and...",
@@ -1727,79 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:37d584de929f0f11",
-      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
-      "summary": "Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer... Reinforcement learning (RL) is central to aligning language...",
-      "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-01T17:04:02.000Z"
-    },
-    {
-      "id": "04ab21c59727c995ed236adb9de722150c09753b",
-      "title": "Safely Releasing Frontier Models to Customers",
-      "summary": "It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T03:13:19.000Z"
-    },
-    {
-      "id": "xai:337b3f5c095a2baa",
-      "title": "Grok Build Plugin Marketplace",
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "link": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "anthropic:94b70c1c175c4f44",
-      "title": "Introducing Claude Sonnet 5",
-      "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "anthropic:d034ec2ce4c1455b",
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "xai:7ec12ab2e0fe97fc",
-      "title": "Bringing real-time market sentiment to Tori, from eToro",
-      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
-      "link": "https://x.ai/news/grok-etoro",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "990284443dcdbd44e2886dc2de82d05f3818fc51",
-      "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
-      "summary": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-06-30T18:40:09.000Z"
-    },
-    {
-      "id": "nvidia ai:fb68dedc4d7dab25",
-      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
-      "summary": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA... GPU-accelerated query engines are often constrained by memory...",
-      "link": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-06-30T17:36:43.000Z"
     }
   ],
-  "updatedAt": "2026-07-20T15:08:57.283Z"
+  "updatedAt": "2026-07-20T17:58:15.354Z"
 }
