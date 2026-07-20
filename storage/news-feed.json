@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:337b3f5c095a2baa",
       "title": "Grok Build Plugin Marketplace",
       "summary": "Launching the built-in plugin marketplace for Grok Build.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-01T18:01:32.000Z"
-    },
-    {
-      "id": "15e2223c941fd9356ca37a563f4360738d5dc492",
-      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
-      "summary": "In this post, you will learn how Inscribe developed an agentic AI system using Amazon Bedrock that reasons across documents the way an expert fraud analyst would. With this new agentic AI system, Inscribe now detects...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T17:53:16.000Z"
     }
   ],
-  "updatedAt": "2026-07-20T19:47:51.749Z"
+  "updatedAt": "2026-07-20T21:08:53.470Z"
 }
