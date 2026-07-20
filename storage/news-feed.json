@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7ec12ab2e0fe97fc",
+      "title": "Bringing real-time market sentiment to Tori, from eToro",
+      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
+      "link": "https://x.ai/news/grok-etoro",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/safety-alignment-long-horizon-models",
       "title": "Safety and alignment in an era of long-horizon models",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-01T17:53:16.000Z"
-    },
-    {
-      "id": "4da1e298b0b090398797e8dfaebee6c37ea1739e",
-      "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
-      "summary": "The Amazon Bedrock Model Profiler is an open source tool that aggregates model metadata from multiple AWS APIs and external sources into a single, searchable interface. In this post, you’ll learn what the Model Profiler...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T17:46:54.000Z"
-    },
-    {
-      "id": "xai:e15e11a40907b4f4",
-      "title": "Introducing the Voice Agent Builder",
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "link": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-20T17:58:15.354Z"
+  "updatedAt": "2026-07-20T19:47:51.749Z"
 }
