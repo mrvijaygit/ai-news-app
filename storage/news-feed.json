@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-21T17:00:00.000Z"
+    },
+    {
+      "id": "meta ai:ce5f8e538e11bfce",
+      "title": "How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects",
+      "summary": "How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects",
+      "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/",
+      "source": "Meta AI Blog",
+      "company": "Meta AI",
+      "publishedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "xai:ddc384453fa5c02a",
+      "title": "Grok for Outlook",
+      "summary": "Grok for Outlook",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "4f85d2b1154526202e9b3034e44e7fb5d6011e18",
+      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
+      "summary": "In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the reasoning suppression problem, then introduce Self-Distilled Reasoning...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-21T16:23:12.000Z"
+    },
+    {
+      "id": "nvidia ai:86ca0338557f7f9b",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+      "summary": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale.... What began as discrete AI model training and...",
+      "link": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-21T15:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:19f954f9d7da7f26",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "summary": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token... Frontier model pre-training has converged on mixture of...",
+      "link": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-21T15:00:00.000Z"
+    },
+    {
+      "id": "cohere:0f5a2f2ec45a154d",
+      "title": "Cohere Partnership Canada Government",
+      "summary": "Cohere Partnership Canada Government",
+      "link": "https://cohere.com/blog/cohere-partnership-canada-government",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:0658f634df0c5663",
+      "title": "Ai Agents For Financial Services",
+      "summary": "Ai Agents For Financial Services",
+      "link": "https://cohere.com/blog/ai-agents-for-financial-services",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:a67f2947f21b617f",
+      "title": "Ensemble Cohere Custom Healthcare Llm For Rcm",
+      "summary": "Ensemble Cohere Custom Healthcare Llm For Rcm",
+      "link": "https://cohere.com/blog/ensemble-cohere-custom-healthcare-llm-for-rcm",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:7ccb2435f142502e",
+      "title": "Automating Fork Maintenance With Ai Agents",
+      "summary": "Automating Fork Maintenance With Ai Agents",
+      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:9a578923a61c94ae",
+      "title": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
+      "summary": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
+      "link": "https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:0ac05f5f4e5046ea",
+      "title": "Enterprise Ai Maturity Model",
+      "summary": "Enterprise Ai Maturity Model",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:e5eff090e8a63f56",
+      "title": "Cohere Alephalpha Join Forces",
+      "summary": "Cohere Alephalpha Join Forces",
+      "link": "https://cohere.com/blog/cohere-alephalpha-join-forces",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:5aad00d1f7f9ddcc",
+      "title": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
+      "summary": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
+      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:abada1613669f9c5",
+      "title": "Cohere Releases Command A Plus",
+      "summary": "Cohere Releases Command A Plus",
+      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:8d79500e63b5aeff",
+      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
+      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
+      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:ba0fb9ffcc753957",
+      "title": "Cohere University Of Toronto Announcement",
+      "summary": "Cohere University Of Toronto Announcement",
+      "link": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:da85ff24f03019b5",
+      "title": "Cohere Aston Martin Formula One Generative Ai Partner",
+      "summary": "Cohere Aston Martin Formula One Generative Ai Partner",
+      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:ca8b021a7639fb97",
+      "title": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
+      "summary": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
+      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:c415c1e5980b2e7d",
+      "title": "Vllm Integration And Quality Recovery Techniques Explained",
+      "summary": "Vllm Integration And Quality Recovery Techniques Explained",
+      "link": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:d73c7f252d37a5a8",
+      "title": "Mixture Of Experts Models Get More From Speculative Decoding",
+      "summary": "Mixture Of Experts Models Get More From Speculative Decoding",
+      "link": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:782c198f8a558fb0",
+      "title": "Rws And Cohere Build Ai Language Intelligence",
+      "summary": "Rws And Cohere Build Ai Language Intelligence",
+      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:3982e75f1ab0a33d",
       "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
       "summary": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with... Agentic AI shifts more of the critical execution path...",
@@ -1601,205 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-07T16:43:11.000Z"
-    },
-    {
-      "id": "nvidia ai:1f4d5656f8ee372f",
-      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-      "summary": "As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids... As more teams move from humanoid robot bring-up to...",
-      "link": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-07T17:05:42.000Z"
-    },
-    {
-      "id": "nvidia ai:712a01e6c6614709",
-      "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
-      "summary": "Industrial machinery generates more alarms than technicians can triage. For each important alarm requiring follow-up, the technician pulls historical context,... Industrial machinery generates more alarms than...",
-      "link": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-07T17:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:e46030e0cc7769c4",
-      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
-      "summary": "Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to... Spectrum is one of the most valuable assets in wireless...",
-      "link": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-07T17:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:e6dfef440fd28575",
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
-      "summary": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and... Agentic systems turn model reasoning into action through...",
-      "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-07T15:10:10.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "summary": "Hugging Face Models on Foundry Managed Compute",
-      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-07T15:20:06.000Z"
-    },
-    {
-      "id": "xai:6dad33007ff48b3f",
-      "title": "Agent Dashboard in Grok Build",
-      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
-      "link": "https://x.ai/news/agent-dashboard",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a795c67928ea0c3a",
-      "title": "21 New Flagship Grok Voices",
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
-      "link": "https://x.ai/news/new-flagship-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:11603bc1501a6e92",
-      "title": "Custom Voices",
-      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
-      "link": "https://x.ai/news/grok-custom-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "36aa20434afd5b9e42aa8e0699f10369d99e0974",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "summary": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-06T22:35:55.000Z"
-    },
-    {
-      "id": "e451c5cb5932ddbe103cc2baf499c9ded6565a70",
-      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
-      "summary": "In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-06T22:23:45.000Z"
-    },
-    {
-      "id": "nvidia ai:5e1dde68aac32b16",
-      "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
-      "summary": "Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these... Training LLMs at massive scale brings unique...",
-      "link": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-06T21:44:23.000Z"
-    },
-    {
-      "id": "3080a7799ade422bbe55136044702a7b0a6a88bb",
-      "title": "Run MiniMax models on Amazon Bedrock",
-      "summary": "In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-06T17:00:44.000Z"
-    },
-    {
-      "id": "c18f360adbe8520fd770f4e042ba4a2f58edc96d",
-      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
-      "summary": "In this post, you deploy a two-phase infrastructure for multi-turn RL using Amazon Nova Forge on Amazon SageMaker HyperPod. By the end, you have an event-driven pipeline that starts training when you upload data to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-06T16:58:13.000Z"
-    },
-    {
-      "id": "213c37353efd05356306bc675918c3841331fccd",
-      "title": "Automatically redact PII in images with Amazon Nova",
-      "summary": "In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-06T16:55:02.000Z"
-    },
-    {
-      "id": "0a4fbb45ba71b55244cdd6eb52c29ff670f0d44a",
-      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
-      "summary": "In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-06T16:53:38.000Z"
-    },
-    {
-      "id": "nvidia ai:f8af9f0a56fcd0eb",
-      "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
-      "summary": "AI has transformed how organizations operate, driving unprecedented levels of productivity and innovation. However, AI adoption can be impeded by concerns... AI has transformed how organizations operate, driving...",
-      "link": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-02T21:25:42.000Z"
-    },
-    {
-      "id": "395d0b963ef226d44d24b8de1b8d6428970e860f",
-      "title": "How Amazon Bedrock catches AI-generated phishing",
-      "summary": "Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a new challenge for security teams managing email systems,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-02T17:55:41.000Z"
-    },
-    {
-      "id": "cohere:7b11ae70b7f3ca86",
-      "title": "Agentic Workflows",
-      "summary": "Agentic Workflows",
-      "link": "https://cohere.com/blog/agentic-workflows",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-01T00:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "title": "The latest AI news we announced in June 2026",
-      "summary": "Here are Google’s latest AI updates from June 2026.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-07-01T18:15:00.000Z"
-    },
-    {
-      "id": "c45b7ae7b1a106476a375b45d8f9fddc7b2e8dfe",
-      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-      "summary": "We're excited to introduce US-based frontier open-weight models in AWS GovCloud (US). With this release, Amazon Bedrock now supports OpenAI’s open-weight GPT OSS models (120B and 20B) and NVIDIA Nemotron (Nano 9B v2,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T18:14:34.000Z"
-    },
-    {
-      "id": "f7e961511c068816cc7a1b4fe390502028302669",
-      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
-      "summary": "In this post, you will learn how to build a serverless A2A gateway on AWS that hosts multiple agents behind a single domain using path-based routing (/agents/{agentId}). Standard A2A clients work without modification.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T18:07:06.000Z"
-    },
-    {
-      "id": "c1f6936eae42c4e419b7012a374748b3420f7942",
-      "title": "Structured memory filtering with metadata in AgentCore Memory",
-      "summary": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-tenant architectures, and discover best practices for...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T18:03:10.000Z"
     }
   ],
-  "updatedAt": "2026-07-21T15:40:29.814Z"
+  "updatedAt": "2026-07-21T17:14:05.450Z"
 }
