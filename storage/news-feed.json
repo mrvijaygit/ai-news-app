@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:3982e75f1ab0a33d",
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+      "summary": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with... Agentic AI shifts more of the critical execution path...",
+      "link": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-21T15:00:00.000Z"
+    },
+    {
       "id": "xai:e15e11a40907b4f4",
       "title": "Introducing the Voice Agent Builder",
       "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-01T18:03:10.000Z"
-    },
-    {
-      "id": "e1b06aa50388914fc8bf1d387e8876cc5a6ac3fb",
-      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
-      "summary": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-01T18:01:32.000Z"
     }
   ],
-  "updatedAt": "2026-07-20T21:08:53.470Z"
+  "updatedAt": "2026-07-21T15:40:29.814Z"
 }

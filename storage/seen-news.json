@@ -505,7 +505,8 @@
     "https://huggingface.co/blog/nvidia/cosmos3edge",
     "nvidia ai:f0191be9caea271b",
     "https://openai.com/index/safety-alignment-long-horizon-models",
-    "xai:39cfa33b8f09da04"
+    "xai:39cfa33b8f09da04",
+    "nvidia ai:3982e75f1ab0a33d"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -979,7 +980,8 @@
     "https://huggingface.co/blog/nvidia/cosmos3edge": "2026-07-20T17:58:15.351Z",
     "nvidia ai:f0191be9caea271b": "2026-07-20T17:58:15.351Z",
     "https://openai.com/index/safety-alignment-long-horizon-models": "2026-07-20T17:58:15.351Z",
-    "xai:39cfa33b8f09da04": "2026-07-20T17:58:15.351Z"
+    "xai:39cfa33b8f09da04": "2026-07-20T17:58:15.351Z",
+    "nvidia ai:3982e75f1ab0a33d": "2026-07-21T15:40:29.811Z"
   },
-  "updatedAt": "2026-07-20T17:58:15.351Z"
+  "updatedAt": "2026-07-21T15:40:29.811Z"
 }
