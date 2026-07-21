@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-21T07:00:00.000Z"
+    },
+    {
       "id": "xai:a795c67928ea0c3a",
       "title": "21 New Flagship Grok Voices",
       "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-07T17:07:22.000Z"
-    },
-    {
-      "id": "5af6c21c04fcd4a1e27139d2ace48b2657ef4834",
-      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
-      "summary": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-07T16:51:29.000Z"
     }
   ],
-  "updatedAt": "2026-07-21T19:15:54.266Z"
+  "updatedAt": "2026-07-21T21:04:49.952Z"
 }

@@ -528,7 +528,8 @@
     "cohere:c415c1e5980b2e7d",
     "cohere:d73c7f252d37a5a8",
     "cohere:782c198f8a558fb0",
-    "xai:ddc384453fa5c02a"
+    "xai:ddc384453fa5c02a",
+    "https://openai.com/index/hugging-face-model-evaluation-security-incident"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -1025,7 +1026,8 @@
     "cohere:c415c1e5980b2e7d": "2026-07-21T17:14:05.447Z",
     "cohere:d73c7f252d37a5a8": "2026-07-21T17:14:05.447Z",
     "cohere:782c198f8a558fb0": "2026-07-21T17:14:05.447Z",
-    "xai:ddc384453fa5c02a": "2026-07-21T17:14:05.447Z"
+    "xai:ddc384453fa5c02a": "2026-07-21T17:14:05.447Z",
+    "https://openai.com/index/hugging-face-model-evaluation-security-incident": "2026-07-21T21:04:49.950Z"
   },
-  "updatedAt": "2026-07-21T17:14:05.447Z"
+  "updatedAt": "2026-07-21T21:04:49.950Z"
 }
