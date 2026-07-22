@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-22T05:30:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-07T17:07:49.000Z"
-    },
-    {
-      "id": "22032a16b8d3690406aef15e6d8d0912296ed976",
-      "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
-      "summary": "In this post, we shift from concepts to patterns. For each schema, you’ll find a table structure, use cases, implementation steps, and sample SQL queries. We also cover workarounds for advanced scenarios that require...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-07T17:07:39.000Z"
-    },
-    {
-      "id": "7c77891b2ed3837eb4c5bcc52c5857f4453a2689",
-      "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
-      "summary": "In this post, we walk through how multi-dataset Topics work, explain how the chat agent uses defined relationships to generate cross-dataset queries, and demonstrate an end-to-end implementation using a retail analytics...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-07T17:07:22.000Z"
     }
   ],
-  "updatedAt": "2026-07-21T21:04:49.952Z"
+  "updatedAt": "2026-07-22T13:44:18.637Z"
 }
