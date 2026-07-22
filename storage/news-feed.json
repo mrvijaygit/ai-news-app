@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08",
+      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
+      "summary": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-22T15:54:28.000Z"
+    },
+    {
+      "id": "nvidia ai:7a01d4b777402b57",
+      "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
+      "summary": "A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can... A TensorRT engine build can take seconds to many minutes....",
+      "link": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-22T16:35:04.000Z"
+    },
+    {
       "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "title": "Building AI infrastructure with the Effingham County community",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-07-07T08:54:00.000Z"
-    },
-    {
-      "id": "d879d15113bd3dfbac581c534668d78a570620c1",
-      "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
-      "summary": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time....",
-      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-07T17:07:49.000Z"
     }
   ],
-  "updatedAt": "2026-07-22T13:44:18.637Z"
+  "updatedAt": "2026-07-22T17:14:00.626Z"
 }
