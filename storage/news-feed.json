@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/ntt-data",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "link": "https://openai.com/index/ntt-data",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-22T00:00:00.000Z"
+    },
+    {
       "id": "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08",
       "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
       "summary": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-22T17:14:00.626Z"
+  "updatedAt": "2026-07-23T00:04:46.037Z"
 }

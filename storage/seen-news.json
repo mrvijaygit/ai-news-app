@@ -533,7 +533,8 @@
     "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "https://openai.com/index/introducing-openai-presence",
     "nvidia ai:7a01d4b777402b57",
-    "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08"
+    "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08",
+    "https://openai.com/index/ntt-data"
   ],
   "seenAt": {
     "xai:fee1e6ce5633dfad": "2026-05-25T12:27:33.697Z",
@@ -1035,7 +1036,8 @@
     "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": "2026-07-22T13:44:18.634Z",
     "https://openai.com/index/introducing-openai-presence": "2026-07-22T13:44:18.634Z",
     "nvidia ai:7a01d4b777402b57": "2026-07-22T17:14:00.624Z",
-    "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08": "2026-07-22T17:14:00.624Z"
+    "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08": "2026-07-22T17:14:00.624Z",
+    "https://openai.com/index/ntt-data": "2026-07-23T00:04:46.034Z"
   },
-  "updatedAt": "2026-07-22T17:14:00.624Z"
+  "updatedAt": "2026-07-23T00:04:46.034Z"
 }
