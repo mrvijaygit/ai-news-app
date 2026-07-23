@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "xai:95e9b6d90fc1fb24",
+      "title": "Grok for PowerPoint",
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "link": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e73b074ce809ee",
+      "title": "xAI Raises $20B Series E",
+      "summary": "xAI is rapidly accelerating its progress in building advanced AI.",
+      "link": "https://x.ai/news/series-e",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:dc4c15bc25a49149",
+      "title": "Introducing Grok Business and Grok Enterprise",
+      "summary": "The best assistant in the world is now Enterprise ready.",
+      "link": "https://x.ai/news/grok-business",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ca490edf223f2ebf",
+      "title": "Grok Collections API",
+      "summary": "State-of-the-art RAG system built directly into our API.",
+      "link": "https://x.ai/news/grok-collections-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1fb88c3b251902a2",
+      "title": "Supporting the DOW's mission with AI",
+      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
+      "link": "https://x.ai/news/us-gov-dept-of-war",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3a1d72b884b69902",
+      "title": "Grok Voice Agent API",
+      "summary": "Bringing the power of Grok Voice to all developers.",
+      "link": "https://x.ai/news/grok-voice-agent-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e0e2c8f7889b9ed7",
+      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
+      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
+      "link": "https://x.ai/news/el-salvador-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e8261a0b7d99f9",
+      "title": "Grok 4.1 Fast and Agent Tools API",
+      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
+      "link": "https://x.ai/news/grok-4-1-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:03b62e9ad296bc89",
+      "title": "Grok goes Global with KSA",
+      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
+      "link": "https://x.ai/news/grok-goes-global",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cb89379e9df365fb",
+      "title": "Grok 4.1",
+      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
+      "link": "https://x.ai/news/grok-4-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:792ef6ba62d36e10",
+      "title": "Expanding xAI for Government with GSA OneGov",
+      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
+      "link": "https://x.ai/news/onegov",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:349feed19ac68219",
       "title": "Grok 4 Fast",
       "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
@@ -1700,106 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:a1e6fcd31f7e65d4",
-      "title": "Skills in web, iOS, and Android",
-      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:2ed1e177ae82899c",
-      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
-      "summary": "Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are... Agentic systems often face a trade-off between accuracy...",
-      "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-08T15:00:00.000Z"
-    },
-    {
-      "id": "xai:4de6c4fbb944a39a",
-      "title": "Connect Grok to Hermes Agent",
-      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
-      "link": "https://x.ai/news/grok-hermes",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:58667f1086bc597d",
-      "title": "New Compute Partnership with Anthropic",
-      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
-      "link": "https://x.ai/news/anthropic-compute-partnership",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2a3af01c46c0903e",
-      "title": "Connectors in web, iOS, and Android",
-      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
-      "link": "https://x.ai/news/grok-connectors",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:b6d4ab19daa61b89",
-      "title": "Grok Imagine Quality Mode API",
-      "summary": "Higher realism. Stronger text rendering. Better creative control.",
-      "link": "https://x.ai/news/grok-imagine-quality-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f1d270907ee198a8",
-      "title": "Grok Voice Think Fast 1.0",
-      "summary": "Our most capable voice agent is now available via API.",
-      "link": "https://x.ai/news/grok-voice-think-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:533a462be2cea991",
-      "title": "Grok Speech to Text and Text to Speech APIs",
-      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
-      "link": "https://x.ai/news/grok-stt-and-tts-apis",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:cf57fe0bf7fb2ed6",
-      "title": "xAI joins SpaceX",
-      "summary": "SpaceX announced today that it has acquired xAI.",
-      "link": "https://x.ai/news/xai-joins-spacex",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/mufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "link": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "id": "xai:6bb0a0c96a2a6ec2",
-      "title": "Grok Imagine API",
-      "summary": "State-of-the-art video generation across quality, cost, and latency.",
-      "link": "https://x.ai/news/grok-imagine-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-23T19:10:12.697Z"
+  "updatedAt": "2026-07-23T20:59:49.029Z"
 }
