@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:f5eec09fcb832980",
       "title": "Series B funding round",
       "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "id": "meta ai:d04ba0af11260b91",
-      "title": "Introducing Muse Image and Muse Video",
-      "summary": "Latest News",
-      "link": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
-      "source": "Meta AI Blog",
-      "company": "Meta AI",
-      "publishedAt": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "id": "xai:c8e543b0022f670e",
-      "title": "Use Grok in Warp",
-      "summary": "Use your Grok and X Premium subscription inside Warp.",
-      "link": "https://x.ai/news/grok-warp",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-23T12:22:09.920Z"
+  "updatedAt": "2026-07-23T15:06:02.272Z"
 }
