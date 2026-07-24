@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "anthropic:da095725c2b93db7",
+      "title": "Introducing Claude Opus 5",
+      "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-07-24T00:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:7ab92d6eb42cfef0",
+      "title": "Introducing Physics Ai At Mistral/",
+      "summary": "Introducing Physics Ai At Mistral/",
+      "link": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9bcf0cc6af22ad14",
+      "title": "Le Chat Mistral/",
+      "summary": "Le Chat Mistral/",
+      "link": "https://mistral.ai/news/le-chat-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "b55df4bf2a464ecbce7f2c5865b99118d41c2af0",
+      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+      "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-24T15:40:08.000Z"
+    },
+    {
+      "id": "nvidia ai:38c6beef3a880411",
+      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+      "summary": "Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving... Every byte moved has a cost. As model checkpoints grow...",
+      "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-24T16:45:00.000Z"
+    },
+    {
       "id": "mistral ai:ed0f3c7a49cb1d48",
       "title": "Llm As Rag Judge/",
       "summary": "Llm As Rag Judge/",
@@ -1754,52 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "mistral ai:cc8a62a9a002c9f0",
-      "title": "Agentic Workflows From Meetings To Dev Tickets/",
-      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
-      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:e149a7820e21119f",
-      "title": "Agents Api/",
-      "summary": "Agents Api/",
-      "link": "https://mistral.ai/news/agents-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:0e09c6a8c54494af",
-      "title": "Announcing Mistral 7b/",
-      "summary": "Announcing Mistral 7b/",
-      "link": "https://mistral.ai/news/announcing-mistral-7b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:a3f9ce3884c9a824",
-      "title": "Batch Api/",
-      "summary": "Batch Api/",
-      "link": "https://mistral.ai/news/batch-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:052daf1b4aee87fd",
-      "title": "Debugging Memory Leak In Vllm/",
-      "summary": "Debugging Memory Leak In Vllm/",
-      "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-24T15:23:14.175Z"
+  "updatedAt": "2026-07-24T17:26:30.034Z"
 }

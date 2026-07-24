@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/agent-glossary",
     "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "f8dfc8319e899b1512d6b4b3a290b0bf1fc1bbff",
     "nvidia ai:948f2230243a87a0",
@@ -547,10 +546,12 @@
     "xai:f58ce5a98926f521",
     "xai:eb3235d954e50c16",
     "xai:9c5cd59fc5d31e7d",
-    "xai:4c6b67f60cd9988a"
+    "xai:4c6b67f60cd9988a",
+    "nvidia ai:38c6beef3a880411",
+    "b55df4bf2a464ecbce7f2c5865b99118d41c2af0",
+    "anthropic:da095725c2b93db7"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/agent-glossary": "2026-05-25T15:48:23.441Z",
     "https://openai.com/index/grupo-folha-grupo-uol-partnership": "2026-05-25T19:25:33.414Z",
     "f8dfc8319e899b1512d6b4b3a290b0bf1fc1bbff": "2026-05-26T16:40:07.501Z",
     "nvidia ai:948f2230243a87a0": "2026-05-26T16:40:07.501Z",
@@ -1063,7 +1064,10 @@
     "xai:f58ce5a98926f521": "2026-07-24T13:29:25.367Z",
     "xai:eb3235d954e50c16": "2026-07-24T13:29:25.367Z",
     "xai:9c5cd59fc5d31e7d": "2026-07-24T13:29:25.367Z",
-    "xai:4c6b67f60cd9988a": "2026-07-24T13:29:25.367Z"
+    "xai:4c6b67f60cd9988a": "2026-07-24T13:29:25.367Z",
+    "nvidia ai:38c6beef3a880411": "2026-07-24T17:26:30.032Z",
+    "b55df4bf2a464ecbce7f2c5865b99118d41c2af0": "2026-07-24T17:26:30.032Z",
+    "anthropic:da095725c2b93db7": "2026-07-24T17:26:30.032Z"
   },
-  "updatedAt": "2026-07-24T13:29:25.367Z"
+  "updatedAt": "2026-07-24T17:26:30.032Z"
 }
