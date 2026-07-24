@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "mistral ai:8407a1d5853bc4ec",
+      "title": "Mistral Chat/",
+      "summary": "Mistral Chat/",
+      "link": "https://mistral.ai/news/mistral-chat/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:9ab8214220082473",
+      "title": "Mistral Code/",
+      "summary": "Mistral Code/",
+      "link": "https://mistral.ai/news/mistral-code/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:7a4bc16c95c68640",
+      "title": "Mistral Compute/",
+      "summary": "Mistral Compute/",
+      "link": "https://mistral.ai/news/mistral-compute/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:4b83c867c1110099",
       "title": "Mistral Large 2407/",
       "summary": "Mistral Large 2407/",
@@ -1772,34 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-08T13:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:d2b5856114602010",
-      "title": "Mistral Ai Non Production License Mnpl/",
-      "summary": "Mistral Ai Non Production License Mnpl/",
-      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:eab853c3204c205e",
-      "title": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
-      "summary": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
-      "link": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-24T05:47:16.947Z"
+  "updatedAt": "2026-07-24T08:21:45.386Z"
 }
