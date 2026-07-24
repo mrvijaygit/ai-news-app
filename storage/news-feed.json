@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "mistral ai:4b83c867c1110099",
+      "title": "Mistral Large 2407/",
+      "summary": "Mistral Large 2407/",
+      "link": "https://mistral.ai/news/mistral-large-2407/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:b0067d3b420ff0a7",
+      "title": "Mistral Large/",
+      "summary": "Mistral Large/",
+      "link": "https://mistral.ai/news/mistral-large/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:bfb0553159972df8",
       "title": "Mistral Medium 3/",
       "summary": "Mistral Medium 3/",
@@ -1772,34 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "mistral ai:8407a1d5853bc4ec",
-      "title": "Mistral Chat/",
-      "summary": "Mistral Chat/",
-      "link": "https://mistral.ai/news/mistral-chat/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:9ab8214220082473",
-      "title": "Mistral Code/",
-      "summary": "Mistral Code/",
-      "link": "https://mistral.ai/news/mistral-code/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:7a4bc16c95c68640",
-      "title": "Mistral Compute/",
-      "summary": "Mistral Compute/",
-      "link": "https://mistral.ai/news/mistral-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-24T02:45:15.082Z"
+  "updatedAt": "2026-07-24T05:47:16.947Z"
 }
