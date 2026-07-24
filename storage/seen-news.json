@@ -549,7 +549,9 @@
     "xai:4c6b67f60cd9988a",
     "nvidia ai:38c6beef3a880411",
     "b55df4bf2a464ecbce7f2c5865b99118d41c2af0",
-    "anthropic:da095725c2b93db7"
+    "anthropic:da095725c2b93db7",
+    "9aa81fbe356ac7580000a55b0a962d8decd13515",
+    "xai:5814f5ea763c956b"
   ],
   "seenAt": {
     "https://openai.com/index/grupo-folha-grupo-uol-partnership": "2026-05-25T19:25:33.414Z",
@@ -1067,7 +1069,9 @@
     "xai:4c6b67f60cd9988a": "2026-07-24T13:29:25.367Z",
     "nvidia ai:38c6beef3a880411": "2026-07-24T17:26:30.032Z",
     "b55df4bf2a464ecbce7f2c5865b99118d41c2af0": "2026-07-24T17:26:30.032Z",
-    "anthropic:da095725c2b93db7": "2026-07-24T17:26:30.032Z"
+    "anthropic:da095725c2b93db7": "2026-07-24T17:26:30.032Z",
+    "9aa81fbe356ac7580000a55b0a962d8decd13515": "2026-07-24T19:19:49.640Z",
+    "xai:5814f5ea763c956b": "2026-07-24T19:19:49.640Z"
   },
-  "updatedAt": "2026-07-24T17:26:30.032Z"
+  "updatedAt": "2026-07-24T19:19:49.640Z"
 }
