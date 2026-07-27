@@ -535,7 +535,10 @@
     "nvidia ai:bcdba2806bbfbcd4",
     "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "meta ai:e0245e4fd9622805",
-    "cohere:b178a883b3851e9e"
+    "cohere:b178a883b3851e9e",
+    "72b5c0a199d504fa88551498e1266ad76dcde68f",
+    "c5575b29b284222ddffe4c5ab493d8ec88e90f92",
+    "nvidia ai:9d1f755def01ef14"
   ],
   "seenAt": {
     "368e3e77762abd47aa70f3875e5cbd9622010d5a": "2026-05-28T18:09:24.021Z",
@@ -1039,7 +1042,10 @@
     "nvidia ai:bcdba2806bbfbcd4": "2026-07-27T12:18:28.345Z",
     "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": "2026-07-27T12:18:28.345Z",
     "meta ai:e0245e4fd9622805": "2026-07-27T15:39:40.599Z",
-    "cohere:b178a883b3851e9e": "2026-07-27T15:39:40.599Z"
+    "cohere:b178a883b3851e9e": "2026-07-27T15:39:40.599Z",
+    "72b5c0a199d504fa88551498e1266ad76dcde68f": "2026-07-27T17:39:22.537Z",
+    "c5575b29b284222ddffe4c5ab493d8ec88e90f92": "2026-07-27T17:39:22.537Z",
+    "nvidia ai:9d1f755def01ef14": "2026-07-27T17:39:22.537Z"
   },
-  "updatedAt": "2026-07-27T15:39:40.599Z"
+  "updatedAt": "2026-07-27T17:39:22.537Z"
 }
