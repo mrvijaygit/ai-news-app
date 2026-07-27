@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "meta ai:e0245e4fd9622805",
+      "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+      "summary": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+      "link": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+      "source": "Meta AI Blog",
+      "company": "Meta AI",
+      "publishedAt": "2026-07-27T00:00:00.000Z"
+    },
+    {
+      "id": "xai:6fb78d5fa6c818ae",
+      "title": "Grok for Word",
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "link": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "cohere:b178a883b3851e9e",
+      "title": "Introducing North Automations Ai Workflows",
+      "summary": "Introducing North Automations Ai Workflows",
+      "link": "https://cohere.com/blog/introducing-north-automations-ai-workflows",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-27T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "title": "How AI is expanding what people do at work",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
@@ -1763,43 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-10T16:41:03.000Z"
-    },
-    {
-      "id": "nvidia ai:8d50478ddefd3388",
-      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
-      "summary": "AI performance comes down to three dimensions: Accuracy: How well the model reasons and produces outputs Throughput: How many tokens per second a... AI performance comes down to three dimensions: Deployments must...",
-      "link": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-10T16:36:02.000Z"
-    },
-    {
-      "id": "nvidia ai:c5e1675f0a2912c2",
-      "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
-      "summary": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein... Biomolecular structure prediction and co-folding with models...",
-      "link": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-10T13:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:9dd87fe1555e1f2c",
-      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
-      "summary": "Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are... Agentic systems often face a trade-off between accuracy...",
-      "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-08T18:17:59.000Z"
-    },
-    {
-      "id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-09T13:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-27T12:18:28.349Z"
+  "updatedAt": "2026-07-27T15:39:40.603Z"
 }

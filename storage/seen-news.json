@@ -533,7 +533,9 @@
     "nvidia ai:7e44461855f8efb6",
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "nvidia ai:bcdba2806bbfbcd4",
-    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "meta ai:e0245e4fd9622805",
+    "cohere:b178a883b3851e9e"
   ],
   "seenAt": {
     "368e3e77762abd47aa70f3875e5cbd9622010d5a": "2026-05-28T18:09:24.021Z",
@@ -1035,7 +1037,9 @@
     "nvidia ai:7e44461855f8efb6": "2026-07-27T04:33:31.109Z",
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams": "2026-07-27T12:18:28.345Z",
     "nvidia ai:bcdba2806bbfbcd4": "2026-07-27T12:18:28.345Z",
-    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": "2026-07-27T12:18:28.345Z"
+    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": "2026-07-27T12:18:28.345Z",
+    "meta ai:e0245e4fd9622805": "2026-07-27T15:39:40.599Z",
+    "cohere:b178a883b3851e9e": "2026-07-27T15:39:40.599Z"
   },
-  "updatedAt": "2026-07-27T12:18:28.345Z"
+  "updatedAt": "2026-07-27T15:39:40.599Z"
 }
