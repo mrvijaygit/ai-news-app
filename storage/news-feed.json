@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "nvidia ai:e6b937d377572d9e",
+      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+      "summary": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware... Modern chip design is increasingly limited by engineering time....",
+      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-27T00:45:00.000Z"
+    },
+    {
+      "id": "nvidia ai:7e44461855f8efb6",
+      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+      "summary": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have... As AI workloads increase, explosive compute demand is...",
+      "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-27T00:45:00.000Z"
+    },
+    {
       "id": "mistral ai:4724f35f442e729f",
       "title": "About Mistral Ai/",
       "summary": "About Mistral Ai/",
@@ -1781,25 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-09T19:40:37.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-09T10:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/bio-bug-bounty",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "link": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-09T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-24T20:58:25.050Z"
+  "updatedAt": "2026-07-27T04:33:31.111Z"
 }
