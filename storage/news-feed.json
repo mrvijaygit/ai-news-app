@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "How AI is expanding what people do at work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-27T03:30:00.000Z"
+    },
+    {
+      "id": "nvidia ai:bcdba2806bbfbcd4",
+      "title": "Six Agent Harness Capabilities for Higher Model Performance",
+      "summary": "Building a great AI agent isn’t just about choosing the right models. The harness is the architecture surrounding the model. How it renders context, executes... Building a great AI agent isn’t just about choosing the...",
+      "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-07-27T09:32:20.000Z"
+    },
+    {
       "id": "nvidia ai:e6b937d377572d9e",
       "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
       "summary": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware... Modern chip design is increasingly limited by engineering time....",
@@ -1772,34 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-09T13:00:00.000Z"
-    },
-    {
-      "id": "xai:6fb78d5fa6c818ae",
-      "title": "Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4126c5521b9e1336",
-      "title": "Composer 2.5",
-      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
-      "link": "https://x.ai/news/composer-2-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:a9de484c30a96f73",
-      "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
-      "summary": "Fine-tuning LLMs for financial natural language processing (NLP) is constrained by limited, imbalanced data. Real-world financial news overrepresents earnings... Fine-tuning LLMs for financial natural language...",
-      "link": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-09T19:40:37.000Z"
     }
   ],
-  "updatedAt": "2026-07-27T04:33:31.111Z"
+  "updatedAt": "2026-07-27T12:18:28.349Z"
 }
