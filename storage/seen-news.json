@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-    "https://openai.com/index/braintrust",
     "e9638f6dde6eb511cb0d3380be63a779737316a6",
     "nvidia ai:9a8550a743fe33b9",
     "nvidia ai:365615c13e11ceb5",
@@ -521,12 +518,10 @@
     "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c",
     "https://openai.com/index/scientific-computing-agentic-ai",
     "6f308dab489ca3e002058919cc2813576498c4ee",
-    "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "xai:aeb52aceb6679ea3"
   ],
   "seenAt": {
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/": "2026-05-29T20:21:16.998Z",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/": "2026-05-29T20:21:16.998Z",
-    "https://openai.com/index/braintrust": "2026-05-29T20:21:16.998Z",
     "e9638f6dde6eb511cb0d3380be63a779737316a6": "2026-05-30T00:07:37.929Z",
     "nvidia ai:9a8550a743fe33b9": "2026-05-30T00:07:37.929Z",
     "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
@@ -1011,7 +1006,8 @@
     "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c": "2026-07-28T18:11:38.894Z",
     "https://openai.com/index/scientific-computing-agentic-ai": "2026-07-28T18:11:38.894Z",
     "6f308dab489ca3e002058919cc2813576498c4ee": "2026-07-28T20:14:10.319Z",
-    "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-28T20:14:10.319Z"
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-28T20:14:10.319Z",
+    "xai:aeb52aceb6679ea3": "2026-07-28T22:01:19.568Z"
   },
-  "updatedAt": "2026-07-28T20:14:10.319Z"
+  "updatedAt": "2026-07-28T22:01:19.568Z"
 }

@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:aeb52aceb6679ea3",
+      "title": "Grok 4.5 in GitHub Copilot",
+      "summary": "Grok 4.5 in GitHub Copilot",
+      "link": "https://x.ai/news/grok-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ea7ad631cd2df309",
+      "title": "Introducing /goal",
+      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
+      "link": "https://x.ai/news/introducing-goal",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "6f308dab489ca3e002058919cc2813576498c4ee",
       "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
       "summary": "The Model Context Protocol (MCP) published its 2026-07-28 specification, the largest revision since launch: MCP is now stateless, with a governed extensions system and hardened authorization. Learn what changed and how...",
@@ -1781,25 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-13T15:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:b9133f427f3a40fe",
-      "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
-      "summary": "Robotics foundation models have made remarkable progress. Today's best systems can follow natural language instructions to pick, place, sort, and manipulate a... Robotics foundation models have made remarkable progress....",
-      "link": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-12T01:08:17.000Z"
-    },
-    {
-      "id": "cohere:730e0ba6a465589d",
-      "title": "Multi Agent Systems",
-      "summary": "Multi Agent Systems",
-      "link": "https://cohere.com/blog/multi-agent-systems",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-10T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-28T20:14:10.323Z"
+  "updatedAt": "2026-07-28T22:01:19.570Z"
 }
