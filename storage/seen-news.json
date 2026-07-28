@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/mufg",
     "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "mistral ai:4724f35f442e729f",
     "mistral ai:cc8a62a9a002c9f0",
@@ -525,7 +524,6 @@
     "xai:a1e6fcd31f7e65d4"
   ],
   "seenAt": {
-    "https://openai.com/index/mufg": "2026-05-29T06:53:41.018Z",
     "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": "2026-05-29T13:58:29.459Z",
     "mistral ai:4724f35f442e729f": "2026-05-29T13:58:29.459Z",
     "mistral ai:cc8a62a9a002c9f0": "2026-05-29T13:58:29.459Z",
