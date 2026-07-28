@@ -519,7 +519,9 @@
     "mistral ai:bfb0553159972df8",
     "xai:392dca10a759ab7c",
     "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c",
-    "https://openai.com/index/scientific-computing-agentic-ai"
+    "https://openai.com/index/scientific-computing-agentic-ai",
+    "6f308dab489ca3e002058919cc2813576498c4ee",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "seenAt": {
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/": "2026-05-29T20:21:16.998Z",
@@ -1007,7 +1009,9 @@
     "mistral ai:bfb0553159972df8": "2026-07-28T16:06:06.045Z",
     "xai:392dca10a759ab7c": "2026-07-28T16:06:06.045Z",
     "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c": "2026-07-28T18:11:38.894Z",
-    "https://openai.com/index/scientific-computing-agentic-ai": "2026-07-28T18:11:38.894Z"
+    "https://openai.com/index/scientific-computing-agentic-ai": "2026-07-28T18:11:38.894Z",
+    "6f308dab489ca3e002058919cc2813576498c4ee": "2026-07-28T20:14:10.319Z",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-28T20:14:10.319Z"
   },
-  "updatedAt": "2026-07-28T18:11:38.894Z"
+  "updatedAt": "2026-07-28T20:14:10.319Z"
 }
