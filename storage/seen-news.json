@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:1ef47746cab269d1",
-    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "cohere:470ad06e41642bfd",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
     "https://openai.com/index/braintrust",
@@ -520,12 +517,11 @@
     "mistral ai:4b83c867c1110099",
     "mistral ai:b0067d3b420ff0a7",
     "mistral ai:bfb0553159972df8",
-    "xai:392dca10a759ab7c"
+    "xai:392dca10a759ab7c",
+    "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c",
+    "https://openai.com/index/scientific-computing-agentic-ai"
   ],
   "seenAt": {
-    "nvidia ai:1ef47746cab269d1": "2026-05-29T17:36:45.070Z",
-    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": "2026-05-29T17:36:45.070Z",
-    "cohere:470ad06e41642bfd": "2026-05-29T17:36:45.070Z",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/": "2026-05-29T20:21:16.998Z",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/": "2026-05-29T20:21:16.998Z",
     "https://openai.com/index/braintrust": "2026-05-29T20:21:16.998Z",
@@ -1009,7 +1005,9 @@
     "mistral ai:4b83c867c1110099": "2026-07-28T16:06:06.045Z",
     "mistral ai:b0067d3b420ff0a7": "2026-07-28T16:06:06.045Z",
     "mistral ai:bfb0553159972df8": "2026-07-28T16:06:06.045Z",
-    "xai:392dca10a759ab7c": "2026-07-28T16:06:06.045Z"
+    "xai:392dca10a759ab7c": "2026-07-28T16:06:06.045Z",
+    "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c": "2026-07-28T18:11:38.894Z",
+    "https://openai.com/index/scientific-computing-agentic-ai": "2026-07-28T18:11:38.894Z"
   },
-  "updatedAt": "2026-07-28T16:06:06.045Z"
+  "updatedAt": "2026-07-28T18:11:38.894Z"
 }

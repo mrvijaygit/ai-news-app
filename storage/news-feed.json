@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/scientific-computing-agentic-ai",
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-28T17:00:00.000Z"
+    },
+    {
+      "id": "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c",
+      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+      "summary": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-28T17:24:54.000Z"
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
@@ -1781,25 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-10T18:17:40.000Z"
-    },
-    {
-      "id": "5ab175a6cdde5523b8ccc6ce6820759707a05693",
-      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-      "summary": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-10T15:35:05.000Z"
-    },
-    {
-      "id": "f38693695f066814841d089783bdd8f01dece5c1",
-      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
-      "summary": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-10T15:31:12.000Z"
     }
   ],
-  "updatedAt": "2026-07-28T16:06:06.047Z"
+  "updatedAt": "2026-07-28T18:11:38.896Z"
 }
