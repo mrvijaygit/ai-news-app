@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-07-28T16:00:00.000Z"
+    },
+    {
+      "id": "xai:392dca10a759ab7c",
+      "title": "Introducing Build Mode",
+      "summary": "Introducing Build Mode",
+      "link": "https://x.ai/news/grok-build-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "72b5c0a199d504fa88551498e1266ad76dcde68f",
       "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
       "summary": "In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration,...",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-10T15:31:12.000Z"
-    },
-    {
-      "id": "54d76cceb6bd0af8db3a440ce3ba321b220e8a79",
-      "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
-      "summary": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-10T15:28:54.000Z"
-    },
-    {
-      "id": "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c",
-      "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
-      "summary": "In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute Cloud (Amazon EC2)...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-10T15:26:05.000Z"
     }
   ],
-  "updatedAt": "2026-07-27T17:39:22.539Z"
+  "updatedAt": "2026-07-28T16:06:06.047Z"
 }
