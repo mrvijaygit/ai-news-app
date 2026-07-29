@@ -520,7 +520,11 @@
     "xai:aeb52aceb6679ea3",
     "cohere:23c2255ecc39c980",
     "cohere:d42664121fc8a046",
-    "5399570beb6fc51047d9138d06247cfdb4cf8d63"
+    "5399570beb6fc51047d9138d06247cfdb4cf8d63",
+    "nvidia ai:f007ae2693ef8223",
+    "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
+    "https://openai.com/index/chatgpt-for-academic-researchers",
+    "xai:e14bedc28fd4dbb8"
   ],
   "seenAt": {
     "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
@@ -1009,7 +1013,11 @@
     "xai:aeb52aceb6679ea3": "2026-07-28T22:01:19.568Z",
     "cohere:23c2255ecc39c980": "2026-07-29T14:02:16.774Z",
     "cohere:d42664121fc8a046": "2026-07-29T14:02:16.774Z",
-    "5399570beb6fc51047d9138d06247cfdb4cf8d63": "2026-07-29T16:18:21.832Z"
+    "5399570beb6fc51047d9138d06247cfdb4cf8d63": "2026-07-29T16:18:21.832Z",
+    "nvidia ai:f007ae2693ef8223": "2026-07-29T18:04:05.243Z",
+    "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c": "2026-07-29T18:04:05.243Z",
+    "https://openai.com/index/chatgpt-for-academic-researchers": "2026-07-29T18:04:05.243Z",
+    "xai:e14bedc28fd4dbb8": "2026-07-29T18:04:05.243Z"
   },
-  "updatedAt": "2026-07-29T16:18:21.832Z"
+  "updatedAt": "2026-07-29T18:04:05.243Z"
 }

@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-29T10:00:00.000Z"
+    },
+    {
+      "id": "xai:e14bedc28fd4dbb8",
+      "title": "Introducing Grok Voice Think Fast 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
+      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
+      "summary": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an AWS KMS signing key, registering its public key with your...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-29T16:20:28.000Z"
+    },
+    {
+      "id": "nvidia ai:f007ae2693ef8223",
+      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+      "summary": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source... Deploying an AI coding assistant in a regulated,...",
+      "link": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-29T16:46:45.000Z"
+    },
+    {
       "id": "5399570beb6fc51047d9138d06247cfdb4cf8d63",
       "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
       "summary": "Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and...",
@@ -1763,43 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "id": "190355df2ab74c06f68aa883193334841f9cf7dc",
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-      "summary": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-13T21:01:20.000Z"
-    },
-    {
-      "id": "nvidia ai:dcade966e540f4df",
-      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
-      "summary": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes... Useful quantum computers will require fault tolerant...",
-      "link": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-13T19:00:00.000Z"
-    },
-    {
-      "id": "bb0cda5528305ed2ae8c30fdb6b7bc3ecd637b20",
-      "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
-      "summary": "In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an AI-powered desktop and web assistant that compensates for executive...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-13T17:50:16.000Z"
-    },
-    {
-      "id": "5847b86e4be04554c7c7a0b81df1f30a35b5c47b",
-      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
-      "summary": "In this post, we describe how Bluesight used two AWS engagements and Amazon Bedrock AgentCore to evolve from a single-product AI prototype to Prism, a unified agentic AI solution spanning six healthcare compliance...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-13T17:34:38.000Z"
     }
   ],
-  "updatedAt": "2026-07-29T16:18:21.835Z"
+  "updatedAt": "2026-07-29T18:04:05.305Z"
 }
