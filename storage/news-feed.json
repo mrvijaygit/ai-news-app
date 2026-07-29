@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "5399570beb6fc51047d9138d06247cfdb4cf8d63",
+      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
+      "summary": "Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-29T15:34:18.000Z"
+    },
+    {
       "id": "cohere:23c2255ecc39c980",
       "title": "Ai Agents",
       "summary": "Ai Agents",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-13T17:34:38.000Z"
-    },
-    {
-      "id": "929ee3b85414efc2d2bb77ef987fba6e5d28fc5c",
-      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
-      "summary": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-13T17:27:40.000Z"
     }
   ],
-  "updatedAt": "2026-07-29T14:02:16.778Z"
+  "updatedAt": "2026-07-29T16:18:21.835Z"
 }
