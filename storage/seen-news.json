@@ -524,7 +524,8 @@
     "nvidia ai:f007ae2693ef8223",
     "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
     "https://openai.com/index/chatgpt-for-academic-researchers",
-    "xai:e14bedc28fd4dbb8"
+    "xai:e14bedc28fd4dbb8",
+    "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
   ],
   "seenAt": {
     "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
@@ -1017,7 +1018,8 @@
     "nvidia ai:f007ae2693ef8223": "2026-07-29T18:04:05.243Z",
     "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c": "2026-07-29T18:04:05.243Z",
     "https://openai.com/index/chatgpt-for-academic-researchers": "2026-07-29T18:04:05.243Z",
-    "xai:e14bedc28fd4dbb8": "2026-07-29T18:04:05.243Z"
+    "xai:e14bedc28fd4dbb8": "2026-07-29T18:04:05.243Z",
+    "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": "2026-07-29T20:09:58.887Z"
   },
-  "updatedAt": "2026-07-29T18:04:05.243Z"
+  "updatedAt": "2026-07-29T20:09:58.887Z"
 }
