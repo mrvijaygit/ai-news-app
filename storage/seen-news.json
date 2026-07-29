@@ -517,7 +517,9 @@
     "https://openai.com/index/scientific-computing-agentic-ai",
     "6f308dab489ca3e002058919cc2813576498c4ee",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "xai:aeb52aceb6679ea3"
+    "xai:aeb52aceb6679ea3",
+    "cohere:23c2255ecc39c980",
+    "cohere:d42664121fc8a046"
   ],
   "seenAt": {
     "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
@@ -1003,7 +1005,9 @@
     "https://openai.com/index/scientific-computing-agentic-ai": "2026-07-28T18:11:38.894Z",
     "6f308dab489ca3e002058919cc2813576498c4ee": "2026-07-28T20:14:10.319Z",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-28T20:14:10.319Z",
-    "xai:aeb52aceb6679ea3": "2026-07-28T22:01:19.568Z"
+    "xai:aeb52aceb6679ea3": "2026-07-28T22:01:19.568Z",
+    "cohere:23c2255ecc39c980": "2026-07-29T14:02:16.774Z",
+    "cohere:d42664121fc8a046": "2026-07-29T14:02:16.774Z"
   },
-  "updatedAt": "2026-07-28T22:01:19.568Z"
+  "updatedAt": "2026-07-29T14:02:16.774Z"
 }

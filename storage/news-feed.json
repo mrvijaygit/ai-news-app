@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "cohere:23c2255ecc39c980",
+      "title": "Ai Agents",
+      "summary": "Ai Agents",
+      "link": "https://cohere.com/blog/ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-28T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:d42664121fc8a046",
+      "title": "What Is Agentic Ai",
+      "summary": "What Is Agentic Ai",
+      "link": "https://cohere.com/blog/what-is-agentic-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-28T00:00:00.000Z"
+    },
+    {
       "id": "xai:aeb52aceb6679ea3",
       "title": "Grok 4.5 in GitHub Copilot",
       "summary": "Grok 4.5 in GitHub Copilot",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-13T17:27:40.000Z"
-    },
-    {
-      "id": "f6da824a297323f53f2ba3f08905c652d2f5b47f",
-      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
-      "summary": "In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) experience. The API already gives you programmatic access to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-13T16:42:15.000Z"
-    },
-    {
-      "id": "nvidia ai:3f9fb6b191e4a665",
-      "title": "Extreme Event Likelihoods with Guided Generative Models",
-      "summary": "Across science, engineering, and finance, many of the most important risks come from low-likelihood, high-impact events. Estimating the probability of these... Across science, engineering, and finance, many of the most...",
-      "link": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-13T15:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-28T22:01:19.570Z"
+  "updatedAt": "2026-07-29T14:02:16.778Z"
 }
