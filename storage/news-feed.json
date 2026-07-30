@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "nvidia ai:2e646289ec06db99",
+      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+      "summary": "NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users... NVIDIA nvmath-python is a library designed to bridge the...",
+      "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-30T22:43:04.000Z"
+    },
+    {
+      "id": "nvidia ai:c71236959e96bcd4",
+      "title": "Four Ways to Deploy More Secure AI Agents",
+      "summary": "Knowledge workers are increasingly integrating AI agents into their workflows. Agents that function as \"digital coworkers\" offer clear benefits. For example,... Knowledge workers are increasingly integrating AI agents...",
+      "link": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-30T21:09:59.000Z"
+    },
+    {
       "id": "xai:61a45589bea1e81d",
       "title": "Grok Build is Now Open Source",
       "summary": "Explore the harness behind our coding agent and TUI.",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "title": "Newer Models, Same Advantage",
-      "summary": "Newer Models, Same Advantage",
-      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-16T11:49:48.000Z"
-    },
-    {
-      "id": "nvidia ai:be03291fe9b67921",
-      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
-      "summary": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking... Developers building video analytics applications across...",
-      "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-15T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-30T21:04:50.625Z"
+  "updatedAt": "2026-07-30T23:02:26.741Z"
 }
