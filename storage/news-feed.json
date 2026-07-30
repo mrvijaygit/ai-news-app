@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-30T10:00:00.000Z"
+    },
+    {
+      "id": "9078a506990d3c974fff12a1937a20b081010c09",
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-30T16:02:32.000Z"
+    },
+    {
+      "id": "031afb634b787c3d2c724961d61c58a27d1fbc12",
+      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+      "summary": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality, latency, and cost. Migrate to a new model or improve your...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-30T15:58:32.000Z"
+    },
+    {
+      "id": "nvidia ai:50f36e4e7c4ab753",
+      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "summary": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We... Two AI computing clusters built from identical NVIDIA H100,...",
+      "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-30T16:00:00.000Z"
+    },
+    {
+      "id": "cohere:e68eef0d8e61a4ec",
+      "title": "Ensemble Cohere Custom Healthcare Llm For Rcm",
+      "summary": "Ensemble Cohere Custom Healthcare Llm For Rcm",
+      "link": "https://cohere.com/blog/ensemble-cohere-custom-healthcare-llm-for-rcm",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:1694d2868c07e96c",
+      "title": "Automating Fork Maintenance With Ai Agents",
+      "summary": "Automating Fork Maintenance With Ai Agents",
+      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:9792454179fa7ed2",
+      "title": "Enterprise Ai Maturity Model",
+      "summary": "Enterprise Ai Maturity Model",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:bb9856eb5641ffe1",
+      "title": "Cohere Alephalpha Join Forces",
+      "summary": "Cohere Alephalpha Join Forces",
+      "link": "https://cohere.com/blog/cohere-alephalpha-join-forces",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:237c0724aa0b16f3",
+      "title": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
+      "summary": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
+      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:05da37dfe05f48da",
+      "title": "Cohere Security Ai Agent North Wiz",
+      "summary": "Cohere Security Ai Agent North Wiz",
+      "link": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:a03e32ea80314b58",
+      "title": "Introducing North Automations Ai Workflows",
+      "summary": "Introducing North Automations Ai Workflows",
+      "link": "https://cohere.com/blog/introducing-north-automations-ai-workflows",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:94d63ef9d9959145",
+      "title": "Cohere Releases Command A Plus",
+      "summary": "Cohere Releases Command A Plus",
+      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:367ff7a2762a6309",
+      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
+      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
+      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:9cf616ce0eaf774b",
+      "title": "Cohere University Of Toronto Announcement",
+      "summary": "Cohere University Of Toronto Announcement",
+      "link": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:e3fe79733e4e3ee0",
+      "title": "Cohere Aston Martin Formula One Generative Ai Partner",
+      "summary": "Cohere Aston Martin Formula One Generative Ai Partner",
+      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:4531130c083d55c4",
+      "title": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
+      "summary": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
+      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:f8e520f0029f007c",
+      "title": "Enterprise Ai Maturity Model Pt2",
+      "summary": "Enterprise Ai Maturity Model Pt2",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:198d526e5e90d3cd",
+      "title": "Vllm Integration And Quality Recovery Techniques Explained",
+      "summary": "Vllm Integration And Quality Recovery Techniques Explained",
+      "link": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:2abdcce772021227",
+      "title": "Mixture Of Experts Models Get More From Speculative Decoding",
+      "summary": "Mixture Of Experts Models Get More From Speculative Decoding",
+      "link": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:9140a0cb93b37583",
+      "title": "Rws And Cohere Build Ai Language Intelligence",
+      "summary": "Rws And Cohere Build Ai Language Intelligence",
+      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
@@ -1619,187 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-15T18:11:57.000Z"
-    },
-    {
-      "id": "fd4c49a234b2f25a8f6f4076d4cdb0f961adcb5a",
-      "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
-      "summary": "In this post, we present a solution designed to centralize the monitoring of SageMaker Pipelines across AWS accounts and Regions using Amazon CloudWatch custom dashboards. The accompanying GitHub repository provides a...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-15T18:08:50.000Z"
-    },
-    {
-      "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-15T10:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:67531198132a7d0d",
-      "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3 ",
-      "summary": "For over fifteen years, x86 CPUs have shipped with a dedicated hardware instruction for carryless multiplication. It’s a small but stubborn primitive that... For over fifteen years, x86 CPUs have shipped with a...",
-      "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-15T17:37:12.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "title": "What building Shippy taught us about building agents",
-      "summary": "What building Shippy taught us about building agents",
-      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-15T17:29:41.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "summary": "Model Routing Is Simple. Until It Isn’t.",
-      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-15T17:27:01.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/real-world-voiceeq",
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "link": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-15T00:00:00.000Z"
-    },
-    {
-      "id": "xai:8a057b2058898150",
-      "title": "Explore the markets with Interactive Brokers and Grok",
-      "summary": "Explore the markets with Interactive Brokers and Grok",
-      "link": "https://x.ai/news/grok-interactive-brokers",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9",
-      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
-      "summary": "This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect discovery through personalized email generation. The post compares...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-14T18:44:26.000Z"
-    },
-    {
-      "id": "nvidia ai:bfaef5e335231f6f",
-      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
-      "summary": "The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when... The NVIDIA Nemotron Model Reasoning Challenge invited the...",
-      "link": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-14T18:20:32.000Z"
-    },
-    {
-      "id": "cohere:5e1e0dae8726ce4f",
-      "title": "Multi Agent Systems",
-      "summary": "Multi Agent Systems",
-      "link": "https://cohere.com/blog/multi-agent-systems",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-14T10:00:00.000Z"
-    },
-    {
-      "id": "xai:35425ef3f910664b",
-      "title": "Grok Becomes the Voice of Vapi",
-      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
-      "link": "https://x.ai/news/grok-vapi",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "fa304a72ae5d4a029e1c3805de11add0f66faa32",
-      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
-      "summary": "In this post, we extend that foundation to demonstrate how QA Studio addresses batch regression testing and pipeline integration through test suites that organize and parallelize execution, and a command-line interface...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-14T16:47:32.000Z"
-    },
-    {
-      "id": "d8fdac70fa484b85c25452d4591f32c8e4baf202",
-      "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
-      "summary": "Using generative AI enables parallel execution of comprehensive user flow testing at scale. This solution demonstrates how to build a cloud-deployed UX testing platform that automatically generates test scenarios from...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-14T16:43:41.000Z"
-    },
-    {
-      "id": "0cbfa749a1739a7814eb467101b8b4f154290a9a",
-      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
-      "summary": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-14T16:33:08.000Z"
-    },
-    {
-      "id": "f40ee90c46af2aab822532b18f270b631355af54",
-      "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
-      "summary": "In this post, you will learn how ScienceSoft, an Amazon Web Services (AWS) Services Partner, integrated Amazon Nova 2 Sonic with Amazon Bedrock Guardrails to build a Health Insurance Portability and Accountability Act...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-14T16:25:03.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "title": "Celebrating 25 years of visual search innovation",
-      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:2a933bbb7c139047",
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-      "summary": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve... Coding AI agents are becoming practical operators for...",
-      "link": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:00d78d0c8c320bf9",
-      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
-      "summary": "What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning... What if autonomous coding AI agents could push your vision...",
-      "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-29T23:00:22.308Z"
+  "updatedAt": "2026-07-30T17:22:45.173Z"
 }
