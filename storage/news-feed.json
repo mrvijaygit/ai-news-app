@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:8a057b2058898150",
+      "title": "Explore the markets with Interactive Brokers and Grok",
+      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
+      "link": "https://x.ai/news/grok-interactive-brokers",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7f96b684a449083b",
+      "title": "Grok Imagine 1.5 Preview",
+      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+      "link": "https://x.ai/news/grok-imagine-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:35425ef3f910664b",
+      "title": "Grok Becomes the Voice of Vapi",
+      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
+      "link": "https://x.ai/news/grok-vapi",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-15T21:57:23.000Z"
-    },
-    {
-      "id": "xai:61a45589bea1e81d",
-      "title": "Grok Build is Now Open Source",
-      "summary": "Grok Build is Now Open Source",
-      "link": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "890af1f7d65cfa97f25179d528636d6d44e00673",
-      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
-      "summary": "Built partnered with the AWS Generative AI Innovation Center (GenAIIC), AWS Partner AND Digital, and AWS account teams to create a scalable, AI-powered document processing engine that can classify, split, extract,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-15T18:14:31.000Z"
-    },
-    {
-      "id": "e686e0d2b0f5877b642bd566e42a18707483accf",
-      "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
-      "summary": "In this post, we walk you through the Computer Vision MCP Server, which illustrates this approach, representing how AI systems can process visual information and make intelligent decisions through a single, standardized...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-15T18:11:57.000Z"
     }
   ],
-  "updatedAt": "2026-07-30T17:22:45.173Z"
+  "updatedAt": "2026-07-30T19:20:12.832Z"
 }
