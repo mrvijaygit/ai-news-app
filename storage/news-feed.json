@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:61a45589bea1e81d",
+      "title": "Grok Build is Now Open Source",
+      "summary": "Explore the harness behind our coding agent and TUI.",
+      "link": "https://x.ai/news/grok-build-open-source",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:8a057b2058898150",
       "title": "Explore the markets with Interactive Brokers and Grok",
       "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-15T23:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:298b6def0a1f9dca",
-      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
-      "summary": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation... OpenUSD is an open, extensible framework that provides a...",
-      "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-15T21:57:23.000Z"
     }
   ],
-  "updatedAt": "2026-07-30T19:20:12.832Z"
+  "updatedAt": "2026-07-30T21:04:50.625Z"
 }
