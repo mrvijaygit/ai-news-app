@@ -548,7 +548,8 @@
     "cohere:2abdcce772021227",
     "cohere:9140a0cb93b37583",
     "nvidia ai:2e646289ec06db99",
-    "nvidia ai:c71236959e96bcd4"
+    "nvidia ai:c71236959e96bcd4",
+    "https://openai.com/index/avatarin"
   ],
   "seenAt": {
     "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
@@ -1065,7 +1066,8 @@
     "cohere:2abdcce772021227": "2026-07-30T17:22:45.171Z",
     "cohere:9140a0cb93b37583": "2026-07-30T17:22:45.171Z",
     "nvidia ai:2e646289ec06db99": "2026-07-30T23:02:26.739Z",
-    "nvidia ai:c71236959e96bcd4": "2026-07-30T23:02:26.739Z"
+    "nvidia ai:c71236959e96bcd4": "2026-07-30T23:02:26.739Z",
+    "https://openai.com/index/avatarin": "2026-07-31T02:29:51.704Z"
   },
-  "updatedAt": "2026-07-30T23:02:26.739Z"
+  "updatedAt": "2026-07-31T02:29:51.704Z"
 }
