@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "b0369da4151ce057ae0309484ffeea0fa2c72c15",
     "dfc63fb856bec3991d59b35f4c57957d22e61c82",
     "ee307cbcff7480c6f7c96068d3223af5afc58d46",
@@ -544,11 +542,12 @@
     "nvidia ai:2e646289ec06db99",
     "nvidia ai:c71236959e96bcd4",
     "https://openai.com/index/avatarin",
-    "https://openai.com/index/unive"
+    "https://openai.com/index/unive",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "64799e5f6577ed834ae5241ca5bcee136c4fc073",
+    "nvidia ai:bf2eea4a9c938c00"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/JetBrains/mellum2-launch": "2026-06-01T15:54:27.083Z",
-    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T15:54:27.083Z",
     "b0369da4151ce057ae0309484ffeea0fa2c72c15": "2026-06-01T20:15:31.756Z",
     "dfc63fb856bec3991d59b35f4c57957d22e61c82": "2026-06-01T20:15:31.756Z",
     "ee307cbcff7480c6f7c96068d3223af5afc58d46": "2026-06-01T20:15:31.756Z",
@@ -1057,7 +1056,10 @@
     "nvidia ai:2e646289ec06db99": "2026-07-30T23:02:26.739Z",
     "nvidia ai:c71236959e96bcd4": "2026-07-30T23:02:26.739Z",
     "https://openai.com/index/avatarin": "2026-07-31T02:29:51.704Z",
-    "https://openai.com/index/unive": "2026-07-31T09:40:53.072Z"
+    "https://openai.com/index/unive": "2026-07-31T09:40:53.072Z",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": "2026-07-31T16:42:49.227Z",
+    "64799e5f6577ed834ae5241ca5bcee136c4fc073": "2026-07-31T16:42:49.227Z",
+    "nvidia ai:bf2eea4a9c938c00": "2026-07-31T16:42:49.227Z"
   },
-  "updatedAt": "2026-07-31T09:40:53.072Z"
+  "updatedAt": "2026-07-31T16:42:49.227Z"
 }

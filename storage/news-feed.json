@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "title": "Disrupting a Criminal Scam Operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "id": "64799e5f6577ed834ae5241ca5bcee136c4fc073",
+      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
+      "summary": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon Bedrock AgentCore Observability and Amazon CloudWatch to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-31T15:33:11.000Z"
+    },
+    {
+      "id": "nvidia ai:bf2eea4a9c938c00",
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+      "summary": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,... The demand for high-quality video continues to accelerate...",
+      "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-31T15:13:02.000Z"
+    },
+    {
       "id": "https://openai.com/index/unive",
       "title": "Univé builds an AI-ready workforce",
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
@@ -1772,34 +1799,7 @@
       "source": "Google AI Blog",
       "company": "Google AI / Gemini",
       "publishedAt": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "id": "c59281925c937a35e2ea6c2c422d783c98de7a26",
-      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-      "summary": "In this post, we show you how to build a voice ordering system that answers a phone number and takes the order from greeting to confirmation. The system uses Amazon Bedrock AgentCore to host and run the agent and Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-16T15:50:52.000Z"
-    },
-    {
-      "id": "nvidia ai:c74cd6a8a3b06674",
-      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
-      "summary": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and... A video analytics AI agent that can perceive, reason, and act...",
-      "link": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-16T16:03:35.000Z"
-    },
-    {
-      "id": "nvidia ai:ad53465eb15d78b0",
-      "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
-      "summary": "Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage... Agentic AI changes the infrastructure pattern for AI...",
-      "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-31T09:40:53.074Z"
+  "updatedAt": "2026-07-31T16:42:49.231Z"
 }
