@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/unive",
+      "title": "Univé builds an AI-ready workforce",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "link": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-07-31T07:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/avatarin",
       "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
       "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-16T16:01:21.000Z"
     }
   ],
-  "updatedAt": "2026-07-31T02:29:51.706Z"
+  "updatedAt": "2026-07-31T09:40:53.074Z"
 }

@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:8eb890c58f5b6af7",
-    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "nvidia ai:0a36cf27aa00de41",
-    "nvidia ai:ed0e4fc1fe48636a",
-    "nvidia ai:6d20d8c8e70677e9",
     "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "b0369da4151ce057ae0309484ffeea0fa2c72c15",
@@ -548,14 +543,10 @@
     "cohere:9140a0cb93b37583",
     "nvidia ai:2e646289ec06db99",
     "nvidia ai:c71236959e96bcd4",
-    "https://openai.com/index/avatarin"
+    "https://openai.com/index/avatarin",
+    "https://openai.com/index/unive"
   ],
   "seenAt": {
-    "nvidia ai:8eb890c58f5b6af7": "2026-06-01T09:24:06.748Z",
-    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": "2026-06-01T09:24:06.748Z",
-    "nvidia ai:0a36cf27aa00de41": "2026-06-01T09:24:06.748Z",
-    "nvidia ai:ed0e4fc1fe48636a": "2026-06-01T09:24:06.748Z",
-    "nvidia ai:6d20d8c8e70677e9": "2026-06-01T09:24:06.748Z",
     "https://huggingface.co/blog/JetBrains/mellum2-launch": "2026-06-01T15:54:27.083Z",
     "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T15:54:27.083Z",
     "b0369da4151ce057ae0309484ffeea0fa2c72c15": "2026-06-01T20:15:31.756Z",
@@ -1065,7 +1056,8 @@
     "cohere:9140a0cb93b37583": "2026-07-30T17:22:45.171Z",
     "nvidia ai:2e646289ec06db99": "2026-07-30T23:02:26.739Z",
     "nvidia ai:c71236959e96bcd4": "2026-07-30T23:02:26.739Z",
-    "https://openai.com/index/avatarin": "2026-07-31T02:29:51.704Z"
+    "https://openai.com/index/avatarin": "2026-07-31T02:29:51.704Z",
+    "https://openai.com/index/unive": "2026-07-31T09:40:53.072Z"
   },
-  "updatedAt": "2026-07-31T02:29:51.704Z"
+  "updatedAt": "2026-07-31T09:40:53.072Z"
 }
