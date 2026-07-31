@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "7566a36ce07e1d565d3c4c626b0957bbfa8d654a",
+      "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
+      "summary": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-07-31T19:53:04.000Z"
+    },
+    {
+      "id": "cohere:eeadc9345fabb5c8",
+      "title": "Cohere Signs Eu Code Of Practice",
+      "summary": "Cohere Signs Eu Code Of Practice",
+      "link": "https://cohere.com/blog/cohere-signs-eu-code-of-practice",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-07-31T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "title": "Disrupting a Criminal Scam Operation",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/cars24",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "link": "https://openai.com/index/cars24",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-31T16:42:49.231Z"
+  "updatedAt": "2026-07-31T20:16:59.029Z"
 }
