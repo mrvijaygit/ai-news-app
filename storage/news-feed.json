@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:8afde7827ab8d166",
+      "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+      "summary": "As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because... As agentic and long-context workloads become common, the...",
+      "link": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-07-31T22:16:17.000Z"
+    },
+    {
       "id": "7566a36ce07e1d565d3c4c626b0957bbfa8d654a",
       "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
       "summary": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-07-31T20:16:59.029Z"
+  "updatedAt": "2026-07-31T23:58:37.505Z"
 }

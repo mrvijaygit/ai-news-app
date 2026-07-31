@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "522d8f9e769a522edf4722e21949ac3e5df9e7b1",
-    "nvidia ai:c6f3b547faa763b3",
-    "d503a1df1651c125d69885aaf137eef6b6f68154",
-    "2fecd39b5e19602790e6b02fc5e977377ee92cae",
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "cohere:f4e6dcd13632a82d",
     "2ef82eaf0119e3f981e51c5df4bda9cc3ec30414",
     "nvidia ai:620578f64344ea4f",
@@ -540,14 +535,10 @@
     "nvidia ai:bf2eea4a9c938c00",
     "7566a36ce07e1d565d3c4c626b0957bbfa8d654a",
     "cohere:eeadc9345fabb5c8",
-    "xai:4126c5521b9e1336"
+    "xai:4126c5521b9e1336",
+    "nvidia ai:8afde7827ab8d166"
   ],
   "seenAt": {
-    "522d8f9e769a522edf4722e21949ac3e5df9e7b1": "2026-06-01T23:00:31.327Z",
-    "nvidia ai:c6f3b547faa763b3": "2026-06-01T23:00:31.327Z",
-    "d503a1df1651c125d69885aaf137eef6b6f68154": "2026-06-01T23:00:31.327Z",
-    "2fecd39b5e19602790e6b02fc5e977377ee92cae": "2026-06-01T23:00:31.327Z",
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": "2026-06-01T23:00:31.327Z",
     "cohere:f4e6dcd13632a82d": "2026-06-02T00:21:57.213Z",
     "2ef82eaf0119e3f981e51c5df4bda9cc3ec30414": "2026-06-02T05:28:25.789Z",
     "nvidia ai:620578f64344ea4f": "2026-06-02T05:28:25.789Z",
@@ -1049,7 +1040,8 @@
     "nvidia ai:bf2eea4a9c938c00": "2026-07-31T16:42:49.227Z",
     "7566a36ce07e1d565d3c4c626b0957bbfa8d654a": "2026-07-31T20:16:58.954Z",
     "cohere:eeadc9345fabb5c8": "2026-07-31T20:16:58.954Z",
-    "xai:4126c5521b9e1336": "2026-07-31T20:16:58.954Z"
+    "xai:4126c5521b9e1336": "2026-07-31T20:16:58.954Z",
+    "nvidia ai:8afde7827ab8d166": "2026-07-31T23:58:37.503Z"
   },
-  "updatedAt": "2026-07-31T20:16:58.954Z"
+  "updatedAt": "2026-07-31T23:58:37.503Z"
 }
