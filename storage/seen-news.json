@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:365615c13e11ceb5",
     "nvidia ai:8eb890c58f5b6af7",
     "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
     "nvidia ai:0a36cf27aa00de41",
@@ -552,7 +551,6 @@
     "https://openai.com/index/avatarin"
   ],
   "seenAt": {
-    "nvidia ai:365615c13e11ceb5": "2026-06-01T03:42:39.796Z",
     "nvidia ai:8eb890c58f5b6af7": "2026-06-01T09:24:06.748Z",
     "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": "2026-06-01T09:24:06.748Z",
     "nvidia ai:0a36cf27aa00de41": "2026-06-01T09:24:06.748Z",
