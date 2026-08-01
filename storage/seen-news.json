@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:da372a3bc8075e22",
     "cohere:9b17116250c4477b",
     "cohere:9d15f2341fb6a531",
     "cohere:ad9ecd4330b780f8",
@@ -530,7 +529,6 @@
     "xai:2dff0f87787443f6"
   ],
   "seenAt": {
-    "nvidia ai:da372a3bc8075e22": "2026-06-02T21:46:23.893Z",
     "cohere:9b17116250c4477b": "2026-06-03T03:46:08.695Z",
     "cohere:9d15f2341fb6a531": "2026-06-03T03:46:08.695Z",
     "cohere:ad9ecd4330b780f8": "2026-06-03T03:46:08.695Z",
