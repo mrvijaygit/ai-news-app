@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:2dff0f87787443f6",
+      "title": "Imagine Video 1.5 with References",
+      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "nvidia ai:8afde7827ab8d166",
       "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
       "summary": "As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because... As agentic and long-context workloads become common, the...",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-16T19:29:26.000Z"
-    },
-    {
-      "id": "xai:3eb98dee9829b630",
-      "title": "Powering Gopuff's Go agent",
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "link": "https://x.ai/news/grok-gopuff",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-07-31T23:58:37.505Z"
+  "updatedAt": "2026-08-01T03:28:40.502Z"
 }
