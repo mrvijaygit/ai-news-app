@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:3eb98dee9829b630",
+      "title": "Powering Gopuff's Go agent",
+      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
+      "link": "https://x.ai/news/grok-gopuff",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:2dff0f87787443f6",
       "title": "Imagine Video 1.5 with References",
       "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-16T21:29:14.000Z"
-    },
-    {
-      "id": "6804c3e12f21b603b9634973a5e5fb1526d35aaa",
-      "title": "Introducing Grok on Amazon Bedrock",
-      "summary": "This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-16T19:29:26.000Z"
     }
   ],
-  "updatedAt": "2026-08-01T03:28:40.502Z"
+  "updatedAt": "2026-08-01T06:25:23.988Z"
 }
