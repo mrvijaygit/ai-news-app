@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "c31d5a216c9f10149d2564008a4c1dd5818f023f",
+      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+      "summary": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-03T17:24:15.000Z"
+    },
+    {
+      "id": "d495eca7aa31244e52ef472f69e6a18cc949f604",
+      "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+      "summary": "Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for rule issues and language issues, and you approve every...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-03T16:30:58.000Z"
+    },
+    {
       "id": "xai:3eb98dee9829b630",
       "title": "Powering Gopuff's Go agent",
       "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-17T10:00:00.000Z"
-    },
-    {
-      "id": "xai:dc8d8bf3f50d9717",
-      "title": "Automations in Grok",
-      "summary": "Automations in Grok",
-      "link": "https://x.ai/news/grok-automations",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "8e50afea9ffc6d052fce86614e4ef6027e9f4be3",
-      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
-      "summary": "In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show you code examples for setting up a knowledge base and retrieving from...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-16T21:29:14.000Z"
     }
   ],
-  "updatedAt": "2026-08-01T06:25:23.988Z"
+  "updatedAt": "2026-08-03T18:48:25.901Z"
 }
