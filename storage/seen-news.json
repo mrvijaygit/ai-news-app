@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/endava-frontiers",
     "nvidia ai:bf1ddaa58dbea9ab",
     "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
     "3c59132d34807765ea69ea90bc87801eb0233363",
@@ -513,7 +512,6 @@
     "xai:35425ef3f910664b"
   ],
   "seenAt": {
-    "https://openai.com/index/endava-frontiers": "2026-06-04T11:50:25.729Z",
     "nvidia ai:bf1ddaa58dbea9ab": "2026-06-04T14:53:01.447Z",
     "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr": "2026-06-04T14:53:01.447Z",
     "3c59132d34807765ea69ea90bc87801eb0233363": "2026-06-04T17:43:58.689Z",
