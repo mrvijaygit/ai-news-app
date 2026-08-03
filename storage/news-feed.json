@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-03T07:00:00.000Z"
+    },
+    {
+      "id": "xai:dc8d8bf3f50d9717",
+      "title": "Automations in Grok",
+      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
+      "link": "https://x.ai/news/grok-automations",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "c31d5a216c9f10149d2564008a4c1dd5818f023f",
       "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
       "summary": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40...",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-17T17:13:15.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-17T15:57:54.000Z"
-    },
-    {
-      "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-17T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-03T18:48:25.901Z"
+  "updatedAt": "2026-08-03T20:24:27.862Z"
 }
