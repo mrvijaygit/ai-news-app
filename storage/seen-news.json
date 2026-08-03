@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:35425ef3f910664b",
-    "xai:7f96b684a449083b",
     "https://openai.com/index/endava-frontiers",
     "nvidia ai:bf1ddaa58dbea9ab",
     "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
@@ -510,11 +508,11 @@
     "cohere:eeadc9345fabb5c8",
     "xai:4126c5521b9e1336",
     "nvidia ai:8afde7827ab8d166",
-    "xai:2dff0f87787443f6"
+    "xai:2dff0f87787443f6",
+    "xai:7f96b684a449083b",
+    "xai:35425ef3f910664b"
   ],
   "seenAt": {
-    "xai:35425ef3f910664b": "2026-06-04T03:41:31.625Z",
-    "xai:7f96b684a449083b": "2026-06-04T03:41:31.625Z",
     "https://openai.com/index/endava-frontiers": "2026-06-04T11:50:25.729Z",
     "nvidia ai:bf1ddaa58dbea9ab": "2026-06-04T14:53:01.447Z",
     "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr": "2026-06-04T14:53:01.447Z",
@@ -989,7 +987,9 @@
     "cohere:eeadc9345fabb5c8": "2026-07-31T20:16:58.954Z",
     "xai:4126c5521b9e1336": "2026-07-31T20:16:58.954Z",
     "nvidia ai:8afde7827ab8d166": "2026-07-31T23:58:37.503Z",
-    "xai:2dff0f87787443f6": "2026-08-01T03:28:40.499Z"
+    "xai:2dff0f87787443f6": "2026-08-01T03:28:40.499Z",
+    "xai:7f96b684a449083b": "2026-08-03T06:18:33.392Z",
+    "xai:35425ef3f910664b": "2026-08-03T06:18:33.392Z"
   },
-  "updatedAt": "2026-08-01T03:28:40.499Z"
+  "updatedAt": "2026-08-03T06:18:33.392Z"
 }
