@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "20c57cb78e0f1ebce99e757dfe0b084d51a3f9e2",
+      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+      "summary": "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-04T18:39:14.000Z"
+    },
+    {
       "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-20T10:00:00.000Z"
-    },
-    {
-      "id": "xai:39cfa33b8f09da04",
-      "title": "Grok for Excel",
-      "summary": "Grok for Excel",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-04T17:43:47.087Z"
+  "updatedAt": "2026-08-04T19:26:21.980Z"
 }
