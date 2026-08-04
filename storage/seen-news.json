@@ -508,7 +508,11 @@
     "d495eca7aa31244e52ef472f69e6a18cc949f604",
     "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "nvidia ai:22b0e2c77d3ffc2a",
-    "https://openai.com/index/circles"
+    "https://openai.com/index/circles",
+    "nvidia ai:d6019b17c802db8e",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
   ],
   "seenAt": {
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": "2026-06-05T15:51:24.361Z",
@@ -985,7 +989,11 @@
     "d495eca7aa31244e52ef472f69e6a18cc949f604": "2026-08-03T18:48:25.899Z",
     "https://openai.com/index/continuous-voice-interaction-with-gpt-live": "2026-08-03T20:24:27.860Z",
     "nvidia ai:22b0e2c77d3ffc2a": "2026-08-04T00:05:34.122Z",
-    "https://openai.com/index/circles": "2026-08-04T04:10:02.680Z"
+    "https://openai.com/index/circles": "2026-08-04T04:10:02.680Z",
+    "nvidia ai:d6019b17c802db8e": "2026-08-04T15:27:32.991Z",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b": "2026-08-04T15:27:32.991Z",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/": "2026-08-04T15:27:32.991Z",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/": "2026-08-04T15:27:32.991Z"
   },
-  "updatedAt": "2026-08-04T04:10:02.680Z"
+  "updatedAt": "2026-08-04T15:27:32.991Z"
 }

@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Here are Google’s latest AI updates from July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-08-04T13:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:d6019b17c802db8e",
+      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+      "summary": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data... Autonomous vehicle (AV) development often relies on separate...",
+      "link": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-04T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "summary": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-04T13:58:29.000Z"
+    },
+    {
       "id": "https://openai.com/index/circles",
       "title": "Circles powers telco personalization with OpenAI technology",
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-20T16:58:52.000Z"
-    },
-    {
-      "id": "9b1c53492191b8a5a6b9ba7b92b06bab8b7e6f1d",
-      "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
-      "summary": "In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response times up to 30 times faster, a 40 percent reduction in total cost of...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-20T16:56:48.000Z"
-    },
-    {
-      "id": "nvidia ai:f0191be9caea271b",
-      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
-      "summary": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute... The demand for AI continues to accelerate. Workloads are...",
-      "link": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-20T15:46:28.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "title": "Introducing Cosmos 3 Edge",
-      "summary": "Introducing Cosmos 3 Edge",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-20T15:58:51.000Z"
-    },
-    {
-      "id": "nvidia ai:74bd045b72dafac4",
-      "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
-      "summary": "Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and... Developers building 3D, design, simulation, robotics, and...",
-      "link": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-20T15:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-04T04:10:02.684Z"
+  "updatedAt": "2026-08-04T15:27:32.994Z"
 }
