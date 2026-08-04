@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:22b0e2c77d3ffc2a",
+      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage ",
+      "summary": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,... Storage is an active part of every agentic AI workflow. As...",
+      "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-03T16:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "title": "How we built a realtime system for responsive voice AI in six months",
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-17T18:42:36.000Z"
-    },
-    {
-      "id": "c7c7b20143e9236cf53af22804c327ab641f9a42",
-      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
-      "summary": "Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checking revenue during a morning standup, reviewing pipeline metrics...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-17T17:13:15.000Z"
     }
   ],
-  "updatedAt": "2026-08-03T20:24:27.862Z"
+  "updatedAt": "2026-08-04T00:05:34.125Z"
 }
