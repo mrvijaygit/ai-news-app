@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-04T19:00:00.000Z"
+    },
+    {
+      "id": "xai:39cfa33b8f09da04",
+      "title": "Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "20c57cb78e0f1ebce99e757dfe0b084d51a3f9e2",
       "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
       "summary": "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native...",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:7ec12ab2e0fe97fc",
-      "title": "Bringing real-time market sentiment to Tori, from eToro",
-      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
-      "link": "https://x.ai/news/grok-etoro",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-20T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-04T19:26:21.980Z"
+  "updatedAt": "2026-08-04T21:08:34.188Z"
 }
