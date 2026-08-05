@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
     "https://huggingface.co/blog/build-small-hackathon/her-blog",
     "17e996e65a7677699abc1a14b0fedfaebca86e0b",
     "8e2e04441e2a0fae689261a13579714ba0fda515",
@@ -519,10 +518,10 @@
     "71e2b371359c204069dc89ff11b182c9b6470b7f",
     "f2de6d336934f855258e3aa9bbca0a0efc1a8dcd",
     "3a26697f6ef3fcc38ee2025c7edbece56f425963",
-    "cohere:6fabbda17928841b"
+    "cohere:6fabbda17928841b",
+    "e26b67888914f9285d58eac09de5504ddfbfc66b"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": "2026-06-06T19:17:37.129Z",
     "https://huggingface.co/blog/build-small-hackathon/her-blog": "2026-06-07T11:07:33.542Z",
     "17e996e65a7677699abc1a14b0fedfaebca86e0b": "2026-06-08T17:21:30.245Z",
     "8e2e04441e2a0fae689261a13579714ba0fda515": "2026-06-08T17:21:30.245Z",
@@ -1007,7 +1006,8 @@
     "71e2b371359c204069dc89ff11b182c9b6470b7f": "2026-08-05T18:18:02.920Z",
     "f2de6d336934f855258e3aa9bbca0a0efc1a8dcd": "2026-08-05T18:18:02.920Z",
     "3a26697f6ef3fcc38ee2025c7edbece56f425963": "2026-08-05T18:18:02.920Z",
-    "cohere:6fabbda17928841b": "2026-08-05T18:18:02.920Z"
+    "cohere:6fabbda17928841b": "2026-08-05T18:18:02.920Z",
+    "e26b67888914f9285d58eac09de5504ddfbfc66b": "2026-08-05T20:23:36.626Z"
   },
-  "updatedAt": "2026-08-05T18:18:02.920Z"
+  "updatedAt": "2026-08-05T20:23:36.626Z"
 }

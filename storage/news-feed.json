@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "e26b67888914f9285d58eac09de5504ddfbfc66b",
+      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+      "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guardrails to deliver...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-05T18:50:02.000Z"
+    },
+    {
       "id": "71e2b371359c204069dc89ff11b182c9b6470b7f",
       "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
       "summary": "In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea, through the proof of concept that validated it, to the...",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:da85ff24f03019b5",
-      "title": "Cohere Aston Martin Formula One Generative Ai Partner",
-      "summary": "Cohere Aston Martin Formula One Generative Ai Partner",
-      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T18:18:02.924Z"
+  "updatedAt": "2026-08-05T20:23:36.642Z"
 }
