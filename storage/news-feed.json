@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:7ec12ab2e0fe97fc",
       "title": "Bringing real-time market sentiment to Tori, from eToro",
       "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-21T15:00:00.000Z"
-    },
-    {
-      "id": "xai:e15e11a40907b4f4",
-      "title": "Introducing the Voice Agent Builder",
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "link": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-04T22:59:42.772Z"
+  "updatedAt": "2026-08-05T00:11:23.140Z"
 }
