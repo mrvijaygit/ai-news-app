@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
+      "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
+      "summary": "In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, unified tool access through AgentCore Gateway, AgentCore Memory, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-07T16:26:58.000Z"
+    },
+    {
+      "id": "2a928f9693d6d62c930b66459b34bc9a6dc2b18a",
+      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
+      "summary": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-07T16:22:50.000Z"
+    },
+    {
+      "id": "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b",
+      "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
+      "summary": "The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-07T16:21:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/hsp-gruppe",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
@@ -1772,34 +1799,7 @@
       "source": "Meta AI Blog",
       "company": "Meta AI",
       "publishedAt": "2026-07-21T00:00:00.000Z"
-    },
-    {
-      "id": "xai:ddc384453fa5c02a",
-      "title": "Grok for Outlook",
-      "summary": "Grok for Outlook",
-      "link": "https://x.ai/news/introducing-outlook-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "4f85d2b1154526202e9b3034e44e7fb5d6011e18",
-      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
-      "summary": "In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the reasoning suppression problem, then introduce Self-Distilled Reasoning...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-21T16:23:12.000Z"
-    },
-    {
-      "id": "nvidia ai:86ca0338557f7f9b",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
-      "summary": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale.... What began as discrete AI model training and...",
-      "link": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-21T15:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-07T09:58:12.121Z"
+  "updatedAt": "2026-08-07T16:50:41.570Z"
 }
