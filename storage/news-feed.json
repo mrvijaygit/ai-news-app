@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:ddc384453fa5c02a",
+      "title": "Grok for Outlook",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
       "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
       "summary": "In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, unified tool access through AgentCore Gateway, AgentCore Memory, and...",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-21T17:00:00.000Z"
-    },
-    {
-      "id": "meta ai:ce5f8e538e11bfce",
-      "title": "How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects",
-      "summary": "How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects",
-      "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/",
-      "source": "Meta AI Blog",
-      "company": "Meta AI",
-      "publishedAt": "2026-07-21T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-07T16:50:41.570Z"
+  "updatedAt": "2026-08-07T17:45:40.115Z"
 }
