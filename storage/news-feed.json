@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-06T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "6eddb7db47dabb7927abcbbe6200579df3a4f157",
+      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+      "summary": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T18:57:55.000Z"
+    },
+    {
+      "id": "16e424b361964bece2ce5179f108a5d8ce975e0e",
+      "title": "Configure rate limits for AI traffic on AgentCore gateway",
+      "summary": "Learn how to configure rate limits on Amazon Bedrock AgentCore gateway to enforce per-user and per-target traffic controls. Define request, token, and connection limits scoped by JWT claims or IAM identity to protect...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T17:50:42.000Z"
+    },
+    {
+      "id": "27fd25028d1365de142cd3b4acaad8499203cf9a",
+      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
+      "summary": "Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiting on the gateway. These features give you deterministic...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T16:43:19.000Z"
+    },
+    {
+      "id": "454a49d01ac6f7d4f83219b59c9877843c17b290",
+      "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
+      "summary": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex OpenTelemetry metrics through a local collector to Amazon...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T16:30:47.000Z"
+    },
+    {
+      "id": "b8993bf5d313f42edd0a51f097f3e27254e11086",
+      "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
+      "summary": "A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pin Claude Code on Amazon Bedrock to one Region: an application...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T16:21:54.000Z"
+    },
+    {
+      "id": "be6475bfe22fa8ae7fb97af11e00df852a392ff0",
+      "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
+      "summary": "Learn how to run the full Amazon Bedrock Automated Reasoning policy lifecycle from your coding agent. A suite of open source Agent Skills builds, reviews, tests, debugs, deploys, and validates a custom policy end to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T16:12:24.000Z"
+    },
+    {
+      "id": "7f0c9f04df61dedf0934f21d3c13af85f129ef36",
+      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
+      "summary": "PDI Technologies built PDI Brew, an agentic platform on AWS where non-technical employees describe a tool in plain English and receive a fully provisioned, multi-tenant web application in seconds. See how a pluggable...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T16:11:13.000Z"
+    },
+    {
+      "id": "d45ac0aef34807e1fbf052edfada95b21bf90a95",
+      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
+      "summary": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-06T16:08:12.000Z"
+    },
+    {
+      "id": "cohere:e23236f8eff7a858",
+      "title": "Cohere University Of Waterloo Announcement",
+      "summary": "Cohere University Of Waterloo Announcement",
+      "link": "https://cohere.com/blog/cohere-university-of-waterloo-announcement",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
       "id": "e26b67888914f9285d58eac09de5504ddfbfc66b",
       "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
       "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guardrails to deliver...",
@@ -1700,106 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-21T15:00:00.000Z"
-    },
-    {
-      "id": "cohere:0f5a2f2ec45a154d",
-      "title": "Cohere Partnership Canada Government",
-      "summary": "Cohere Partnership Canada Government",
-      "link": "https://cohere.com/blog/cohere-partnership-canada-government",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-21T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:0658f634df0c5663",
-      "title": "Ai Agents For Financial Services",
-      "summary": "Ai Agents For Financial Services",
-      "link": "https://cohere.com/blog/ai-agents-for-financial-services",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-21T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:a67f2947f21b617f",
-      "title": "Ensemble Cohere Custom Healthcare Llm For Rcm",
-      "summary": "Ensemble Cohere Custom Healthcare Llm For Rcm",
-      "link": "https://cohere.com/blog/ensemble-cohere-custom-healthcare-llm-for-rcm",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:7ccb2435f142502e",
-      "title": "Automating Fork Maintenance With Ai Agents",
-      "summary": "Automating Fork Maintenance With Ai Agents",
-      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:9a578923a61c94ae",
-      "title": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
-      "summary": "Cohere Triples Uk Footprint With New London Office To Support R And D Growth",
-      "link": "https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:0ac05f5f4e5046ea",
-      "title": "Enterprise Ai Maturity Model",
-      "summary": "Enterprise Ai Maturity Model",
-      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:e5eff090e8a63f56",
-      "title": "Cohere Alephalpha Join Forces",
-      "summary": "Cohere Alephalpha Join Forces",
-      "link": "https://cohere.com/blog/cohere-alephalpha-join-forces",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:5aad00d1f7f9ddcc",
-      "title": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
-      "summary": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
-      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:abada1613669f9c5",
-      "title": "Cohere Releases Command A Plus",
-      "summary": "Cohere Releases Command A Plus",
-      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:8d79500e63b5aeff",
-      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:ba0fb9ffcc753957",
-      "title": "Cohere University Of Toronto Announcement",
-      "summary": "Cohere University Of Toronto Announcement",
-      "link": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-20T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-05T20:23:36.642Z"
+  "updatedAt": "2026-08-07T00:39:12.683Z"
 }
