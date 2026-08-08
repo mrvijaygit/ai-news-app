@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "ea8d5dfaa5a40a9341dacf4afadd40b10d76a591",
-    "nvidia ai:11a26028119d7065",
-    "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74",
-    "anthropic:06de4edb4c5f7469",
-    "xai:3eb98dee9829b630",
     "9c5e30c4c32932fd704366ee1ae231cfbc1ac5de",
     "https://huggingface.co/blog/ServiceNow-AI/code-switching",
     "nvidia ai:45cb058e561d43e1",
@@ -519,14 +514,10 @@
     "https://openai.com/index/hsp-gruppe",
     "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
     "2a928f9693d6d62c930b66459b34bc9a6dc2b18a",
-    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b"
+    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b",
+    "xai:3eb98dee9829b630"
   ],
   "seenAt": {
-    "ea8d5dfaa5a40a9341dacf4afadd40b10d76a591": "2026-06-09T18:00:06.518Z",
-    "nvidia ai:11a26028119d7065": "2026-06-09T18:00:06.518Z",
-    "6d66e9bf9480a9fbaaf5ead550ba3c0d614ebf74": "2026-06-09T18:00:06.518Z",
-    "anthropic:06de4edb4c5f7469": "2026-06-09T18:00:06.518Z",
-    "xai:3eb98dee9829b630": "2026-06-09T18:00:06.518Z",
     "9c5e30c4c32932fd704366ee1ae231cfbc1ac5de": "2026-06-09T20:18:59.580Z",
     "https://huggingface.co/blog/ServiceNow-AI/code-switching": "2026-06-09T20:18:59.580Z",
     "nvidia ai:45cb058e561d43e1": "2026-06-09T20:18:59.580Z",
@@ -1007,7 +998,8 @@
     "https://openai.com/index/hsp-gruppe": "2026-08-07T09:58:12.117Z",
     "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d": "2026-08-07T16:50:41.568Z",
     "2a928f9693d6d62c930b66459b34bc9a6dc2b18a": "2026-08-07T16:50:41.568Z",
-    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b": "2026-08-07T16:50:41.568Z"
+    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b": "2026-08-07T16:50:41.568Z",
+    "xai:3eb98dee9829b630": "2026-08-08T18:32:19.253Z"
   },
-  "updatedAt": "2026-08-07T16:50:41.568Z"
+  "updatedAt": "2026-08-08T18:32:19.253Z"
 }
