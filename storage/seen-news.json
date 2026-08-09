@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/lseg",
     "nvidia ai:58ee35b3e5871839",
     "8c909e8c55a38a67515c9c8459441dccd019c247",
     "ce26d4b04bd4ba7761816536eb670c6cfa40035d",
@@ -512,7 +511,6 @@
     "xai:3eb98dee9829b630"
   ],
   "seenAt": {
-    "https://openai.com/index/lseg": "2026-06-10T09:53:58.251Z",
     "nvidia ai:58ee35b3e5871839": "2026-06-10T16:34:04.326Z",
     "8c909e8c55a38a67515c9c8459441dccd019c247": "2026-06-10T16:34:04.326Z",
     "ce26d4b04bd4ba7761816536eb670c6cfa40035d": "2026-06-10T16:34:04.326Z",
