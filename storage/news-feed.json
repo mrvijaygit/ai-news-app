@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/premium-seats-chatgpt-business",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "2a9a1aff9c94f081507dacb658dfe9013b40dd70",
+      "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+      "summary": "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time-to-production by 75% (from 10-12 months to 4 months),...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-10T16:30:46.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
       "id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
       "title": "Evolve your marketing with new AI tools",
       "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/ntt-data",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "link": "https://openai.com/index/ntt-data",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "0e4b3df28e2f0e445b59d1139fd47c4b4e574f08",
-      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
-      "summary": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-22T15:54:28.000Z"
-    },
-    {
-      "id": "nvidia ai:7a01d4b777402b57",
-      "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
-      "summary": "A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can... A TensorRT engine build can take seconds to many minutes....",
-      "link": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-22T16:35:04.000Z"
-    },
-    {
-      "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-22T13:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T15:56:57.859Z"
+  "updatedAt": "2026-08-10T16:54:08.403Z"
 }
