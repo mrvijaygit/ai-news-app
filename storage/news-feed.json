@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/zapier",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "link": "https://openai.com/index/zapier",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:9689f95a1df38884",
       "title": "Grok-1.5 Vision Preview",
       "summary": "Connecting the digital and physical worlds with our first multimodal model.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-23T16:07:03.000Z"
-    },
-    {
-      "id": "nvidia ai:b6e45cf9412a600c",
-      "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
-      "summary": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a... Customization is what enables developers to take a...",
-      "link": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-23T16:00:00.000Z"
-    },
-    {
-      "id": "xai:653374155ddf34e4",
-      "title": "API Public Beta",
-      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
-      "link": "https://x.ai/news/api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-10T22:33:23.552Z"
+  "updatedAt": "2026-08-10T23:31:11.636Z"
 }
