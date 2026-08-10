@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:9689f95a1df38884",
+      "title": "Grok-1.5 Vision Preview",
+      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
+      "link": "https://x.ai/news/grok-1.5v",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:f58ce5a98926f521",
       "title": "Announcing Grok-1.5",
       "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:f5eec09fcb832980",
-      "title": "Series B funding round",
-      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
-      "link": "https://x.ai/news/series-b",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-10T21:37:34.956Z"
+  "updatedAt": "2026-08-10T22:33:23.552Z"
 }
