@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-10T10:00:00.000Z"
+    },
+    {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "title": "Putting frontier cyber models in more trusted hands",
       "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://huggingface.co/blog/nunchaku-diffusers",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "link": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-23T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T17:49:00.379Z"
+  "updatedAt": "2026-08-10T18:52:07.590Z"
 }
