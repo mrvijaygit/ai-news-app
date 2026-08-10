@@ -506,7 +506,8 @@
     "xai:7ec12ab2e0fe97fc",
     "https://huggingface.co/blog/muse-glimmer",
     "nvidia ai:300f58fb9ef76c30",
-    "https://openai.com/index/model-ml"
+    "https://openai.com/index/model-ml",
+    "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
   ],
   "seenAt": {
     "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe": "2026-06-11T16:52:24.244Z",
@@ -981,7 +982,8 @@
     "xai:7ec12ab2e0fe97fc": "2026-08-09T20:27:45.754Z",
     "https://huggingface.co/blog/muse-glimmer": "2026-08-10T11:04:24.112Z",
     "nvidia ai:300f58fb9ef76c30": "2026-08-10T14:22:20.633Z",
-    "https://openai.com/index/model-ml": "2026-08-10T14:22:20.633Z"
+    "https://openai.com/index/model-ml": "2026-08-10T14:22:20.633Z",
+    "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/": "2026-08-10T15:56:57.856Z"
   },
-  "updatedAt": "2026-08-10T14:22:20.633Z"
+  "updatedAt": "2026-08-10T15:56:57.856Z"
 }
