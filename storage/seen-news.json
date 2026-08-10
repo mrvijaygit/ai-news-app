@@ -503,7 +503,8 @@
     "2a928f9693d6d62c930b66459b34bc9a6dc2b18a",
     "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b",
     "xai:3eb98dee9829b630",
-    "xai:7ec12ab2e0fe97fc"
+    "xai:7ec12ab2e0fe97fc",
+    "https://huggingface.co/blog/muse-glimmer"
   ],
   "seenAt": {
     "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe": "2026-06-11T16:52:24.244Z",
@@ -975,7 +976,8 @@
     "2a928f9693d6d62c930b66459b34bc9a6dc2b18a": "2026-08-07T16:50:41.568Z",
     "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b": "2026-08-07T16:50:41.568Z",
     "xai:3eb98dee9829b630": "2026-08-08T18:32:19.253Z",
-    "xai:7ec12ab2e0fe97fc": "2026-08-09T20:27:45.754Z"
+    "xai:7ec12ab2e0fe97fc": "2026-08-09T20:27:45.754Z",
+    "https://huggingface.co/blog/muse-glimmer": "2026-08-10T11:04:24.112Z"
   },
-  "updatedAt": "2026-08-09T20:27:45.754Z"
+  "updatedAt": "2026-08-10T11:04:24.112Z"
 }

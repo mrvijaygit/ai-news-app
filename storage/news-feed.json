@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/muse-glimmer",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-10T00:00:00.000Z"
+    },
+    {
       "id": "xai:ddc384453fa5c02a",
       "title": "Grok for Outlook",
       "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-21T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-07T17:45:40.115Z"
+  "updatedAt": "2026-08-10T11:04:24.115Z"
 }
