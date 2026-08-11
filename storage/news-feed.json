@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/zapier",
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-23T16:38:34.000Z"
-    },
-    {
-      "id": "2e5de60d2a753bcadc3236a9780dbc1020b7eb60",
-      "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
-      "summary": "This post focuses on why classic retrieval falls short on multi-part questions, how the AgenticRetrieveStream API works (including request construction and trace parsing), and when to choose it over the standard...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-23T16:30:20.000Z"
-    },
-    {
-      "id": "nvidia ai:8c7491eac67a1f7b",
-      "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
-      "summary": "NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways... NVIDIA OptiX ray tracing engine is an application...",
-      "link": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-23T16:07:03.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T23:31:11.636Z"
+  "updatedAt": "2026-08-11T01:22:37.498Z"
 }
