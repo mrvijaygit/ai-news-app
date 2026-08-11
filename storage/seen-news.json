@@ -497,7 +497,9 @@
     "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "https://openai.com/index/zapier",
-    "https://openai.com/index/virgin-atlantic/chatgpt-work"
+    "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "nvidia ai:3bf55ef3478f27dc",
+    "nvidia ai:6043836dbaba7404"
   ],
   "seenAt": {
     "https://huggingface.co/blog/allenai/olmo-eval": "2026-06-12T17:35:55.542Z",
@@ -963,7 +965,9 @@
     "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": "2026-08-10T17:49:00.376Z",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": "2026-08-10T18:52:07.587Z",
     "https://openai.com/index/zapier": "2026-08-10T23:31:11.631Z",
-    "https://openai.com/index/virgin-atlantic/chatgpt-work": "2026-08-10T23:31:11.631Z"
+    "https://openai.com/index/virgin-atlantic/chatgpt-work": "2026-08-10T23:31:11.631Z",
+    "nvidia ai:3bf55ef3478f27dc": "2026-08-11T14:18:12.005Z",
+    "nvidia ai:6043836dbaba7404": "2026-08-11T14:18:12.005Z"
   },
-  "updatedAt": "2026-08-10T23:31:11.631Z"
+  "updatedAt": "2026-08-11T14:18:12.005Z"
 }
