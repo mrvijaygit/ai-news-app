@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/allenai/olmo-eval",
-    "2b628693f2ca8d22060204d32957c9280592f76b",
-    "nvidia ai:cf39a145b90b7227",
-    "https://openai.com/index/academy-courses-applying-ai-at-work",
     "nvidia ai:70833a5e73a545e3",
     "b1919d1f9b442a21587d936141e9bfbe66e31144",
     "https://openai.com/index/introducing-openai-partner-network",
@@ -505,13 +501,10 @@
     "3896c2214d548edf11e4411ce17c3d1bc983082a",
     "553759b28ce6c7119699e64693bcdea7573c4ffd",
     "https://openai.com/index/testing-ads-in-chatgpt",
-    "xai:61ce3268fb7b0eb4"
+    "xai:61ce3268fb7b0eb4",
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/allenai/olmo-eval": "2026-06-12T17:35:55.542Z",
-    "2b628693f2ca8d22060204d32957c9280592f76b": "2026-06-12T17:35:55.542Z",
-    "nvidia ai:cf39a145b90b7227": "2026-06-12T17:35:55.542Z",
-    "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-12T17:35:55.542Z",
     "nvidia ai:70833a5e73a545e3": "2026-06-12T22:23:12.652Z",
     "b1919d1f9b442a21587d936141e9bfbe66e31144": "2026-06-12T22:23:12.652Z",
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
@@ -979,7 +972,8 @@
     "3896c2214d548edf11e4411ce17c3d1bc983082a": "2026-08-11T16:58:17.042Z",
     "553759b28ce6c7119699e64693bcdea7573c4ffd": "2026-08-11T16:58:17.042Z",
     "https://openai.com/index/testing-ads-in-chatgpt": "2026-08-11T16:58:17.042Z",
-    "xai:61ce3268fb7b0eb4": "2026-08-11T16:58:17.042Z"
+    "xai:61ce3268fb7b0eb4": "2026-08-11T16:58:17.042Z",
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": "2026-08-11T17:58:57.013Z"
   },
-  "updatedAt": "2026-08-11T16:58:17.042Z"
+  "updatedAt": "2026-08-11T17:58:57.013Z"
 }

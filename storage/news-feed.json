@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "id": "xai:13a5a3be6d8e7c4c",
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
+      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
+      "link": "https://x.ai/news/grok-4-5-everywhere",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:c8e543b0022f670e",
+      "title": "Use Grok in Warp",
+      "summary": "Use your Grok and X Premium subscription inside Warp.",
+      "link": "https://x.ai/news/grok-warp",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/testing-ads-in-chatgpt",
       "title": "Testing ads in ChatGPT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:8ed876cc63c6ba10",
-      "title": "Bringing Grok to Everyone",
-      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-1212",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:6379e6241b51392e",
-      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
-      "summary": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token... Frontier model pre-training has converged on mixture of...",
-      "link": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-23T18:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-11T16:58:17.046Z"
+  "updatedAt": "2026-08-11T17:58:57.016Z"
 }
