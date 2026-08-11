@@ -502,7 +502,8 @@
     "553759b28ce6c7119699e64693bcdea7573c4ffd",
     "https://openai.com/index/testing-ads-in-chatgpt",
     "xai:61ce3268fb7b0eb4",
-    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "nvidia ai:dc07645211697b27"
   ],
   "seenAt": {
     "nvidia ai:70833a5e73a545e3": "2026-06-12T22:23:12.652Z",
@@ -973,7 +974,8 @@
     "553759b28ce6c7119699e64693bcdea7573c4ffd": "2026-08-11T16:58:17.042Z",
     "https://openai.com/index/testing-ads-in-chatgpt": "2026-08-11T16:58:17.042Z",
     "xai:61ce3268fb7b0eb4": "2026-08-11T16:58:17.042Z",
-    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": "2026-08-11T17:58:57.013Z"
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": "2026-08-11T17:58:57.013Z",
+    "nvidia ai:dc07645211697b27": "2026-08-11T19:10:30.589Z"
   },
-  "updatedAt": "2026-08-11T17:58:57.013Z"
+  "updatedAt": "2026-08-11T19:10:30.589Z"
 }
