@@ -499,7 +499,13 @@
     "https://openai.com/index/zapier",
     "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "nvidia ai:3bf55ef3478f27dc",
-    "nvidia ai:6043836dbaba7404"
+    "nvidia ai:6043836dbaba7404",
+    "283246d0230bcd3dee9487487f2cee0ff02f6735",
+    "c5a8d50fba3f5306158a47e53d9ac4f418c5cf16",
+    "3896c2214d548edf11e4411ce17c3d1bc983082a",
+    "553759b28ce6c7119699e64693bcdea7573c4ffd",
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "xai:61ce3268fb7b0eb4"
   ],
   "seenAt": {
     "https://huggingface.co/blog/allenai/olmo-eval": "2026-06-12T17:35:55.542Z",
@@ -967,7 +973,13 @@
     "https://openai.com/index/zapier": "2026-08-10T23:31:11.631Z",
     "https://openai.com/index/virgin-atlantic/chatgpt-work": "2026-08-10T23:31:11.631Z",
     "nvidia ai:3bf55ef3478f27dc": "2026-08-11T14:18:12.005Z",
-    "nvidia ai:6043836dbaba7404": "2026-08-11T14:18:12.005Z"
+    "nvidia ai:6043836dbaba7404": "2026-08-11T14:18:12.005Z",
+    "283246d0230bcd3dee9487487f2cee0ff02f6735": "2026-08-11T16:58:17.042Z",
+    "c5a8d50fba3f5306158a47e53d9ac4f418c5cf16": "2026-08-11T16:58:17.042Z",
+    "3896c2214d548edf11e4411ce17c3d1bc983082a": "2026-08-11T16:58:17.042Z",
+    "553759b28ce6c7119699e64693bcdea7573c4ffd": "2026-08-11T16:58:17.042Z",
+    "https://openai.com/index/testing-ads-in-chatgpt": "2026-08-11T16:58:17.042Z",
+    "xai:61ce3268fb7b0eb4": "2026-08-11T16:58:17.042Z"
   },
-  "updatedAt": "2026-08-11T14:18:12.005Z"
+  "updatedAt": "2026-08-11T16:58:17.042Z"
 }
