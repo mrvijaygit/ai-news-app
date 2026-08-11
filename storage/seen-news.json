@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/preply",
     "https://huggingface.co/blog/allenai/olmo-eval",
     "2b628693f2ca8d22060204d32957c9280592f76b",
     "nvidia ai:cf39a145b90b7227",
@@ -501,7 +500,6 @@
     "https://openai.com/index/virgin-atlantic/chatgpt-work"
   ],
   "seenAt": {
-    "https://openai.com/index/preply": "2026-06-12T10:06:20.353Z",
     "https://huggingface.co/blog/allenai/olmo-eval": "2026-06-12T17:35:55.542Z",
     "2b628693f2ca8d22060204d32957c9280592f76b": "2026-06-12T17:35:55.542Z",
     "nvidia ai:cf39a145b90b7227": "2026-06-12T17:35:55.542Z",
