@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:70833a5e73a545e3",
-    "b1919d1f9b442a21587d936141e9bfbe66e31144",
     "https://openai.com/index/introducing-openai-partner-network",
     "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
     "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
@@ -504,11 +502,10 @@
     "xai:61ce3268fb7b0eb4",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "nvidia ai:dc07645211697b27",
-    "f6522d8386d10fcc6d1ab85b0676218a20acd0e9"
+    "f6522d8386d10fcc6d1ab85b0676218a20acd0e9",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws"
   ],
   "seenAt": {
-    "nvidia ai:70833a5e73a545e3": "2026-06-12T22:23:12.652Z",
-    "b1919d1f9b442a21587d936141e9bfbe66e31144": "2026-06-12T22:23:12.652Z",
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
     "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/": "2026-06-15T16:15:41.257Z",
     "cb7aad4c1804e8d7d81a4454c42962ae28d631e1": "2026-06-15T16:15:41.257Z",
@@ -977,7 +974,8 @@
     "xai:61ce3268fb7b0eb4": "2026-08-11T16:58:17.042Z",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": "2026-08-11T17:58:57.013Z",
     "nvidia ai:dc07645211697b27": "2026-08-11T19:10:30.589Z",
-    "f6522d8386d10fcc6d1ab85b0676218a20acd0e9": "2026-08-11T21:41:33.211Z"
+    "f6522d8386d10fcc6d1ab85b0676218a20acd0e9": "2026-08-11T21:41:33.211Z",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-11T22:37:15.793Z"
   },
-  "updatedAt": "2026-08-11T21:41:33.211Z"
+  "updatedAt": "2026-08-11T22:37:15.793Z"
 }
