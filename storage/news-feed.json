@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:4de6c4fbb944a39a",
+      "title": "Connect Grok to Hermes Agent",
+      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:58667f1086bc597d",
+      "title": "New Compute Partnership with Anthropic",
+      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
+      "link": "https://x.ai/news/anthropic-compute-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2a3af01c46c0903e",
+      "title": "Connectors in web, iOS, and Android",
+      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:b6d4ab19daa61b89",
+      "title": "Grok Imagine Quality Mode API",
+      "summary": "Higher realism. Stronger text rendering. Better creative control.",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f1d270907ee198a8",
+      "title": "Grok Voice Think Fast 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:95e9b6d90fc1fb24",
       "title": "Grok for PowerPoint",
       "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
@@ -1754,52 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:9d5659da9528b35d",
-      "title": "Introducing Grok Build",
-      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
-      "link": "https://x.ai/news/grok-build-cli",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fee1e6ce5633dfad",
-      "title": "Use Grok in OpenCode",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f48d7b7c6e59faeb",
-      "title": "Use Grok in OpenClaw",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
-      "link": "https://x.ai/news/grok-openclaw",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "df45dac76900a835b5c00ed07f954db778378994",
-      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
-      "summary": "In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-23T23:03:44.000Z"
-    },
-    {
-      "id": "xai:a1e6fcd31f7e65d4",
-      "title": "Skills in web, iOS, and Android",
-      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-12T01:39:06.775Z"
+  "updatedAt": "2026-08-12T04:03:27.734Z"
 }
