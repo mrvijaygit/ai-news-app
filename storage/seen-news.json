@@ -508,7 +508,8 @@
     "86cd8b92b90187d96c8febe2b94e065d6f61fea4",
     "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb",
     "fb996b8e2bd613674bdace88551fde7534cd730b",
-    "https://openai.com/index/how-enterprises-put-ai-to-work"
+    "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "xai:4ea5ad07a0d56f40"
   ],
   "seenAt": {
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
@@ -985,7 +986,8 @@
     "86cd8b92b90187d96c8febe2b94e065d6f61fea4": "2026-08-12T14:22:53.565Z",
     "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb": "2026-08-12T14:22:53.565Z",
     "fb996b8e2bd613674bdace88551fde7534cd730b": "2026-08-12T14:22:53.565Z",
-    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-12T14:22:53.565Z"
+    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-12T14:22:53.565Z",
+    "xai:4ea5ad07a0d56f40": "2026-08-12T15:55:57.283Z"
   },
-  "updatedAt": "2026-08-12T14:22:53.565Z"
+  "updatedAt": "2026-08-12T15:55:57.283Z"
 }
