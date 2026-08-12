@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:6a0a3e2541136c9f",
+      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+      "summary": "Alibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open... Alibaba released the open weights for Qwen3.8-2.4T-A95B...",
+      "link": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-12T18:23:13.000Z"
+    },
+    {
       "id": "xai:6fb78d5fa6c818ae",
       "title": "Grok for Word",
       "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-27T16:07:44.000Z"
-    },
-    {
-      "id": "c5575b29b284222ddffe4c5ab493d8ec88e90f92",
-      "title": "How Guardoc transforms medical document processing with Amazon Nova models",
-      "summary": "In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentation in long-term care.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-27T16:05:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T17:55:36.500Z"
+  "updatedAt": "2026-08-12T18:57:51.499Z"
 }
