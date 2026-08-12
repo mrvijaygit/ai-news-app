@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:6fb78d5fa6c818ae",
+      "title": "Grok for Word",
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "link": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:4724f35f442e729f",
       "title": "About Mistral Ai/",
       "summary": "About Mistral Ai/",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-27T16:05:00.000Z"
-    },
-    {
-      "id": "nvidia ai:9d1f755def01ef14",
-      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-      "summary": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they... NVIDIA Ising Calibration is an open source vision...",
-      "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-27T16:00:00.000Z"
-    },
-    {
-      "id": "meta ai:e0245e4fd9622805",
-      "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-      "summary": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-      "link": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
-      "source": "Meta AI Blog",
-      "company": "Meta AI",
-      "publishedAt": "2026-07-27T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T16:56:10.755Z"
+  "updatedAt": "2026-08-12T17:55:36.500Z"
 }
