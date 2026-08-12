@@ -509,7 +509,9 @@
     "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb",
     "fb996b8e2bd613674bdace88551fde7534cd730b",
     "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "xai:4ea5ad07a0d56f40"
+    "xai:4ea5ad07a0d56f40",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "nvidia ai:b914e54180de85a0"
   ],
   "seenAt": {
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
@@ -987,7 +989,9 @@
     "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb": "2026-08-12T14:22:53.565Z",
     "fb996b8e2bd613674bdace88551fde7534cd730b": "2026-08-12T14:22:53.565Z",
     "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-12T14:22:53.565Z",
-    "xai:4ea5ad07a0d56f40": "2026-08-12T15:55:57.283Z"
+    "xai:4ea5ad07a0d56f40": "2026-08-12T15:55:57.283Z",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-12T16:56:10.752Z",
+    "nvidia ai:b914e54180de85a0": "2026-08-12T16:56:10.752Z"
   },
-  "updatedAt": "2026-08-12T15:55:57.283Z"
+  "updatedAt": "2026-08-12T16:56:10.752Z"
 }
