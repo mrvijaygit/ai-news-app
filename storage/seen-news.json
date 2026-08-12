@@ -512,7 +512,8 @@
     "xai:4ea5ad07a0d56f40",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "nvidia ai:b914e54180de85a0",
-    "nvidia ai:6a0a3e2541136c9f"
+    "nvidia ai:6a0a3e2541136c9f",
+    "https://openai.com/index/ringcentral"
   ],
   "seenAt": {
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
@@ -993,7 +994,8 @@
     "xai:4ea5ad07a0d56f40": "2026-08-12T15:55:57.283Z",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-12T16:56:10.752Z",
     "nvidia ai:b914e54180de85a0": "2026-08-12T16:56:10.752Z",
-    "nvidia ai:6a0a3e2541136c9f": "2026-08-12T18:57:51.496Z"
+    "nvidia ai:6a0a3e2541136c9f": "2026-08-12T18:57:51.496Z",
+    "https://openai.com/index/ringcentral": "2026-08-12T22:36:35.572Z"
   },
-  "updatedAt": "2026-08-12T18:57:51.496Z"
+  "updatedAt": "2026-08-12T22:36:35.572Z"
 }

@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/ringcentral",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "link": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-12T00:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:6a0a3e2541136c9f",
       "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
       "summary": "Alibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open... Alibaba released the open weights for Qwen3.8-2.4T-A95B...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "72b5c0a199d504fa88551498e1266ad76dcde68f",
-      "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
-      "summary": "In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-27T16:07:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T18:57:51.499Z"
+  "updatedAt": "2026-08-12T22:36:35.575Z"
 }
