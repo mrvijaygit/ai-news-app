@@ -503,7 +503,12 @@
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "nvidia ai:dc07645211697b27",
     "f6522d8386d10fcc6d1ab85b0676218a20acd0e9",
-    "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "86cd8b92b90187d96c8febe2b94e065d6f61fea4",
+    "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb",
+    "fb996b8e2bd613674bdace88551fde7534cd730b",
+    "https://openai.com/index/how-enterprises-put-ai-to-work"
   ],
   "seenAt": {
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T03:56:45.842Z",
@@ -975,7 +980,12 @@
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": "2026-08-11T17:58:57.013Z",
     "nvidia ai:dc07645211697b27": "2026-08-11T19:10:30.589Z",
     "f6522d8386d10fcc6d1ab85b0676218a20acd0e9": "2026-08-11T21:41:33.211Z",
-    "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-11T22:37:15.793Z"
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-11T22:37:15.793Z",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": "2026-08-12T14:22:53.565Z",
+    "86cd8b92b90187d96c8febe2b94e065d6f61fea4": "2026-08-12T14:22:53.565Z",
+    "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb": "2026-08-12T14:22:53.565Z",
+    "fb996b8e2bd613674bdace88551fde7534cd730b": "2026-08-12T14:22:53.565Z",
+    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-12T14:22:53.565Z"
   },
-  "updatedAt": "2026-08-11T22:37:15.793Z"
+  "updatedAt": "2026-08-12T14:22:53.565Z"
 }

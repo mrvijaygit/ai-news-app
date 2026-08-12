@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-12T06:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:9bcf0cc6af22ad14",
+      "title": "Le Chat Mistral/",
+      "summary": "Le Chat Mistral/",
+      "link": "https://mistral.ai/news/le-chat-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "mistral ai:ed0f3c7a49cb1d48",
+      "title": "Llm As Rag Judge/",
+      "summary": "Llm As Rag Judge/",
+      "link": "https://mistral.ai/news/llm-as-rag-judge/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": null
+    },
+    {
+      "id": "86cd8b92b90187d96c8febe2b94e065d6f61fea4",
+      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+      "summary": "Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMaker AI, with a RAG pipeline on pgvector and over 50 agents...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-12T13:46:28.000Z"
+    },
+    {
+      "id": "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb",
+      "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+      "summary": "Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave, priced for risk, and anchored to a public blockchain...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-12T13:44:58.000Z"
+    },
+    {
+      "id": "fb996b8e2bd613674bdace88551fde7534cd730b",
+      "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+      "summary": "Running large language model inference at scale forces a KV cache trade-off: oversized GPU instances or slow time-to-first-token. This post builds a tiered KV cache on Amazon SageMaker HyperPod that extends the cache...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-12T13:42:48.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "summary": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-12T14:00:51.000Z"
+    },
+    {
       "id": "mistral ai:2d44d3d0e4478e9b",
       "title": "Mistral 3/",
       "summary": "Mistral 3/",
@@ -1736,70 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "mistral ai:0e09c6a8c54494af",
-      "title": "Announcing Mistral 7b/",
-      "summary": "Announcing Mistral 7b/",
-      "link": "https://mistral.ai/news/announcing-mistral-7b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:a3f9ce3884c9a824",
-      "title": "Batch Api/",
-      "summary": "Batch Api/",
-      "link": "https://mistral.ai/news/batch-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:052daf1b4aee87fd",
-      "title": "Debugging Memory Leak In Vllm/",
-      "summary": "Debugging Memory Leak In Vllm/",
-      "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5814f5ea763c956b",
-      "title": "Grok in Google Workspace",
-      "summary": "Grok in Google Workspace",
-      "link": "https://x.ai/news/introducing-google-workspace-addon",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "9aa81fbe356ac7580000a55b0a962d8decd13515",
-      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
-      "summary": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-24T17:59:03.000Z"
-    },
-    {
-      "id": "anthropic:da095725c2b93db7",
-      "title": "Introducing Claude Opus 5",
-      "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-07-24T00:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:7ab92d6eb42cfef0",
-      "title": "Introducing Physics Ai At Mistral/",
-      "summary": "Introducing Physics Ai At Mistral/",
-      "link": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-12T13:00:14.535Z"
+  "updatedAt": "2026-08-12T14:22:53.568Z"
 }
