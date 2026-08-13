@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:392dca10a759ab7c",
+      "title": "Introducing Build Mode",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "link": "https://x.ai/news/grok-build-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "b5d7724d73cc7030cb1cb40507aa91d081f551a4",
+      "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+      "summary": "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses the AWS Distro for OpenTelemetry (ADOT) and IAM credentials...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-13T16:02:10.000Z"
+    },
+    {
+      "id": "d43548b1e99c28788ed7a26a925c28aa7e306fa7",
+      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+      "summary": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-13T15:56:07.000Z"
+    },
+    {
       "id": "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284",
       "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
       "summary": "Learn how to build a multi-agent M&A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent orchestration, knowledge retrieval, and governance controls,...",
@@ -1772,34 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-28T19:07:09.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/scientific-computing-agentic-ai",
-      "title": "Scientific computing in the age of agentic AI",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-28T17:00:00.000Z"
-    },
-    {
-      "id": "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c",
-      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
-      "summary": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-28T17:24:54.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T15:55:37.926Z"
+  "updatedAt": "2026-08-13T16:53:58.592Z"
 }
