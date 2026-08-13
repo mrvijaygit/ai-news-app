@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284",
+      "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
+      "summary": "Learn how to build a multi-agent M&A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent orchestration, knowledge retrieval, and governance controls,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-13T15:52:44.000Z"
+    },
+    {
+      "id": "f7e47af42f400e3f4aeaea3b8fcc2ab80d496253",
+      "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
+      "summary": "Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document editing into the Microsoft 365 apps your teams already use,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-13T15:48:15.000Z"
+    },
+    {
       "id": "https://openai.com/index/ringcentral",
       "title": "How RingCentral builds AI-native work from engineering to ops",
       "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-07-28T17:24:54.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-07-28T16:00:00.000Z"
-    },
-    {
-      "id": "xai:392dca10a759ab7c",
-      "title": "Introducing Build Mode",
-      "summary": "Introducing Build Mode",
-      "link": "https://x.ai/news/grok-build-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-12T22:36:35.575Z"
+  "updatedAt": "2026-08-13T15:55:37.926Z"
 }
