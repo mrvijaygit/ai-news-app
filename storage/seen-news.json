@@ -517,7 +517,8 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "5a3280b9270a601999f904d82bfca05f0f783e68",
     "93b011a326051e62ed303da1c918720e315d449d",
-    "xai:6dad33007ff48b3f"
+    "xai:6dad33007ff48b3f",
+    "xai:56410469519f91d2"
   ],
   "seenAt": {
     "73a07b2595b53de69a7cc5f3c60790b57b634eae": "2026-06-15T20:23:22.643Z",
@@ -1003,7 +1004,8 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026": "2026-08-14T15:47:14.615Z",
     "5a3280b9270a601999f904d82bfca05f0f783e68": "2026-08-14T16:48:42.962Z",
     "93b011a326051e62ed303da1c918720e315d449d": "2026-08-14T16:48:42.962Z",
-    "xai:6dad33007ff48b3f": "2026-08-14T16:48:42.962Z"
+    "xai:6dad33007ff48b3f": "2026-08-14T16:48:42.962Z",
+    "xai:56410469519f91d2": "2026-08-14T17:49:28.606Z"
   },
-  "updatedAt": "2026-08-14T16:48:42.962Z"
+  "updatedAt": "2026-08-14T17:49:28.606Z"
 }

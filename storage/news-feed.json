@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6 in GitHub Copilot",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "5a3280b9270a601999f904d82bfca05f0f783e68",
       "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
       "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code...",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-29T10:00:00.000Z"
-    },
-    {
-      "id": "xai:e14bedc28fd4dbb8",
-      "title": "Introducing Grok Voice Think Fast 2.0",
-      "summary": "Introducing our most capable speech-to-speech voice model.",
-      "link": "https://x.ai/news/grok-voice-think-fast-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-14T16:48:42.964Z"
+  "updatedAt": "2026-08-14T17:49:28.609Z"
 }
