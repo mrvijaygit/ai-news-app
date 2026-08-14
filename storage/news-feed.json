@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "summary": "State of Open Models: Summer 2026 Observations",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
       "id": "xai:aeb52aceb6679ea3",
       "title": "Grok 4.5 in GitHub Copilot",
       "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-29T16:46:45.000Z"
-    },
-    {
-      "id": "5399570beb6fc51047d9138d06247cfdb4cf8d63",
-      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
-      "summary": "Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-29T15:34:18.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T19:56:56.835Z"
+  "updatedAt": "2026-08-14T15:47:14.618Z"
 }
