@@ -34,12 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
-    "nvidia ai:ca12f58ddcdf431b",
-    "cohere:676c16e90288fb6c",
-    "cohere:1a50e34106801d3a",
-    "xai:6dad33007ff48b3f",
     "73a07b2595b53de69a7cc5f3c60790b57b634eae",
     "nvidia ai:c8f3cee60b76c873",
     "nvidia ai:9faebe697d7046a8",
@@ -520,15 +514,12 @@
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "https://openai.com/index/previewing-ultrafast",
     "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "5a3280b9270a601999f904d82bfca05f0f783e68",
+    "93b011a326051e62ed303da1c918720e315d449d",
+    "xai:6dad33007ff48b3f"
   ],
   "seenAt": {
-    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/": "2026-06-15T16:15:41.257Z",
-    "cb7aad4c1804e8d7d81a4454c42962ae28d631e1": "2026-06-15T16:15:41.257Z",
-    "nvidia ai:ca12f58ddcdf431b": "2026-06-15T16:15:41.257Z",
-    "cohere:676c16e90288fb6c": "2026-06-15T16:15:41.257Z",
-    "cohere:1a50e34106801d3a": "2026-06-15T16:15:41.257Z",
-    "xai:6dad33007ff48b3f": "2026-06-15T16:15:41.257Z",
     "73a07b2595b53de69a7cc5f3c60790b57b634eae": "2026-06-15T20:23:22.643Z",
     "nvidia ai:c8f3cee60b76c873": "2026-06-15T20:23:22.643Z",
     "nvidia ai:9faebe697d7046a8": "2026-06-15T20:23:22.643Z",
@@ -1009,7 +1000,10 @@
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-13T17:55:07.944Z",
     "https://openai.com/index/previewing-ultrafast": "2026-08-13T17:55:07.944Z",
     "https://openai.com/index/builders-guide-to-gpt-5-6": "2026-08-13T18:58:25.137Z",
-    "https://huggingface.co/blog/state-of-open-models-summer-2026": "2026-08-14T15:47:14.615Z"
+    "https://huggingface.co/blog/state-of-open-models-summer-2026": "2026-08-14T15:47:14.615Z",
+    "5a3280b9270a601999f904d82bfca05f0f783e68": "2026-08-14T16:48:42.962Z",
+    "93b011a326051e62ed303da1c918720e315d449d": "2026-08-14T16:48:42.962Z",
+    "xai:6dad33007ff48b3f": "2026-08-14T16:48:42.962Z"
   },
-  "updatedAt": "2026-08-14T15:47:14.615Z"
+  "updatedAt": "2026-08-14T16:48:42.962Z"
 }

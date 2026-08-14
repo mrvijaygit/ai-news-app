@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "5a3280b9270a601999f904d82bfca05f0f783e68",
+      "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+      "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-14T16:02:10.000Z"
+    },
+    {
+      "id": "93b011a326051e62ed303da1c918720e315d449d",
+      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+      "summary": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each specialized agent uses the model best suited to its job. This post...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-14T15:58:44.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "title": "State of Open Models: Summer 2026 Observations",
       "summary": "State of Open Models: Summer 2026 Observations",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
-      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-      "summary": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an AWS KMS signing key, registering its public key with your...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-29T16:20:28.000Z"
-    },
-    {
-      "id": "nvidia ai:f007ae2693ef8223",
-      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
-      "summary": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source... Deploying an AI coding assistant in a regulated,...",
-      "link": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-29T16:46:45.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T15:47:14.618Z"
+  "updatedAt": "2026-08-14T16:48:42.964Z"
 }
