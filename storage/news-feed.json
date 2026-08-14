@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:e14bedc28fd4dbb8",
+      "title": "Introducing Grok Voice Think Fast 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:56410469519f91d2",
       "title": "Grok 4.6 in GitHub Copilot",
       "summary": "Grok 4.6 in GitHub Copilot",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-29T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T17:49:28.609Z"
+  "updatedAt": "2026-08-14T18:48:15.208Z"
 }
