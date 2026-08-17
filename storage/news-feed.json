@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "260b6c2a8563247ec9062f215bd15158f9de68e8",
+      "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+      "summary": "NVIDIA Nemotron 3.5 Lightning, an open model built for high-volume agentic workloads, is now available in Amazon SageMaker JumpStart. This post shows how to deploy the 30B Mixture-of-Experts model (3B active), which...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-17T18:06:33.000Z"
+    },
+    {
+      "id": "nvidia ai:d9909f4fdcb8ce93",
+      "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
+      "summary": "Teams customize their models to hit their targets for latency, speed, memory, and compute. With the open NVIDIA Nemotron family of models, developers can find... Teams customize their models to hit their targets for...",
+      "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-17T18:12:48.000Z"
+    },
+    {
       "id": "09559dd685a47bca5e3b94a074ceb00bc15d872e",
       "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
       "summary": "Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 protocol, using the...",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:2abdcce772021227",
-      "title": "Mixture Of Experts Models Get More From Speculative Decoding",
-      "summary": "Mixture Of Experts Models Get More From Speculative Decoding",
-      "link": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:9140a0cb93b37583",
-      "title": "Rws And Cohere Build Ai Language Intelligence",
-      "summary": "Rws And Cohere Build Ai Language Intelligence",
-      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T16:22:10.050Z"
+  "updatedAt": "2026-08-17T18:33:18.081Z"
 }

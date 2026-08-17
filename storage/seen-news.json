@@ -494,7 +494,9 @@
     "xai:000376eced0f7685",
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "09559dd685a47bca5e3b94a074ceb00bc15d872e",
-    "xai:950769d2f630ca6f"
+    "xai:950769d2f630ca6f",
+    "nvidia ai:d9909f4fdcb8ce93",
+    "260b6c2a8563247ec9062f215bd15158f9de68e8"
   ],
   "seenAt": {
     "https://huggingface.co/blog/ServiceNow/mosaicleaks": "2026-06-18T19:25:17.078Z",
@@ -957,7 +959,9 @@
     "xai:000376eced0f7685": "2026-08-16T21:16:06.876Z",
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/": "2026-08-17T08:38:07.873Z",
     "09559dd685a47bca5e3b94a074ceb00bc15d872e": "2026-08-17T16:22:10.014Z",
-    "xai:950769d2f630ca6f": "2026-08-17T17:23:29.214Z"
+    "xai:950769d2f630ca6f": "2026-08-17T17:23:29.214Z",
+    "nvidia ai:d9909f4fdcb8ce93": "2026-08-17T18:33:18.078Z",
+    "260b6c2a8563247ec9062f215bd15158f9de68e8": "2026-08-17T18:33:18.078Z"
   },
-  "updatedAt": "2026-08-17T17:23:29.214Z"
+  "updatedAt": "2026-08-17T18:33:18.078Z"
 }
