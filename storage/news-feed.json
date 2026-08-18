@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "title": "Strengthening Democratic Oversight in National Security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-18T19:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:237c0724aa0b16f3",
-      "title": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
-      "summary": "Cohere Acquires Reliant Ai Expand Sovereign Enterprise Ai",
-      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T19:24:18.986Z"
+  "updatedAt": "2026-08-18T20:18:53.844Z"
 }
