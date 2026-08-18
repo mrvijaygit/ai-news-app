@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "950b40d5dbbd76bbebf419549700238549cd23fa",
+      "title": "Customize Amazon Quick embedded chat into your application",
+      "summary": "Amazon Quick embedded chat brings a conversational AI interface into your web application. This post walks through customizing the embedded chat with container and SDK styling, branding removal, and a custom agent...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-18T17:13:13.000Z"
+    },
+    {
+      "id": "b94cce62d43075443b4a7c26a6501396d8ba1d17",
+      "title": "Implement vector-prompt document classification using Amazon Bedrock",
+      "summary": "Learn how to build a multi-agent document classification solution on Amazon Bedrock using the Strands Agents SDK. Three specialized agents combine textual analysis with Claude Haiku 4.5 and visual similarity search with...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-18T17:10:37.000Z"
+    },
+    {
+      "id": "a1f4ace6ed8c5df4ecb9d93eabb3007247912d1f",
+      "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+      "summary": "Learn how Axonius, a cybersecurity SaaS provider, used Amazon Bedrock AgentCore to deploy fully isolated, multi-tenant AI agents across hundreds of customer environments, without building custom compute isolation,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-18T16:27:07.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/multi-vector-encoder",
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -1772,34 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:9cf616ce0eaf774b",
-      "title": "Cohere University Of Toronto Announcement",
-      "summary": "Cohere University Of Toronto Announcement",
-      "link": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:e3fe79733e4e3ee0",
-      "title": "Cohere Aston Martin Formula One Generative Ai Partner",
-      "summary": "Cohere Aston Martin Formula One Generative Ai Partner",
-      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:4531130c083d55c4",
-      "title": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "summary": "Cohere Announces Strategic Mous With Indragroup And Multiverse Computing",
-      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T14:29:05.281Z"
+  "updatedAt": "2026-08-18T17:22:30.130Z"
 }

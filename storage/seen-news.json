@@ -491,7 +491,10 @@
     "260b6c2a8563247ec9062f215bd15158f9de68e8",
     "xai:6fb78d5fa6c818ae",
     "https://openai.com/index/chatgpt-for-teens",
-    "https://huggingface.co/blog/multi-vector-encoder"
+    "https://huggingface.co/blog/multi-vector-encoder",
+    "950b40d5dbbd76bbebf419549700238549cd23fa",
+    "b94cce62d43075443b4a7c26a6501396d8ba1d17",
+    "a1f4ace6ed8c5df4ecb9d93eabb3007247912d1f"
   ],
   "seenAt": {
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
@@ -951,7 +954,10 @@
     "260b6c2a8563247ec9062f215bd15158f9de68e8": "2026-08-17T18:33:18.078Z",
     "xai:6fb78d5fa6c818ae": "2026-08-17T20:21:55.127Z",
     "https://openai.com/index/chatgpt-for-teens": "2026-08-18T11:21:21.844Z",
-    "https://huggingface.co/blog/multi-vector-encoder": "2026-08-18T14:29:05.279Z"
+    "https://huggingface.co/blog/multi-vector-encoder": "2026-08-18T14:29:05.279Z",
+    "950b40d5dbbd76bbebf419549700238549cd23fa": "2026-08-18T17:22:30.128Z",
+    "b94cce62d43075443b4a7c26a6501396d8ba1d17": "2026-08-18T17:22:30.128Z",
+    "a1f4ace6ed8c5df4ecb9d93eabb3007247912d1f": "2026-08-18T17:22:30.128Z"
   },
-  "updatedAt": "2026-08-18T14:29:05.279Z"
+  "updatedAt": "2026-08-18T17:22:30.128Z"
 }
