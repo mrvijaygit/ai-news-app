@@ -492,7 +492,8 @@
     "nvidia ai:d9909f4fdcb8ce93",
     "260b6c2a8563247ec9062f215bd15158f9de68e8",
     "xai:6fb78d5fa6c818ae",
-    "https://openai.com/index/chatgpt-for-teens"
+    "https://openai.com/index/chatgpt-for-teens",
+    "https://huggingface.co/blog/multi-vector-encoder"
   ],
   "seenAt": {
     "1e6011feb7a9539e025946c40b2ccf72108b05ae": "2026-06-19T14:58:21.408Z",
@@ -953,7 +954,8 @@
     "nvidia ai:d9909f4fdcb8ce93": "2026-08-17T18:33:18.078Z",
     "260b6c2a8563247ec9062f215bd15158f9de68e8": "2026-08-17T18:33:18.078Z",
     "xai:6fb78d5fa6c818ae": "2026-08-17T20:21:55.127Z",
-    "https://openai.com/index/chatgpt-for-teens": "2026-08-18T11:21:21.844Z"
+    "https://openai.com/index/chatgpt-for-teens": "2026-08-18T11:21:21.844Z",
+    "https://huggingface.co/blog/multi-vector-encoder": "2026-08-18T14:29:05.279Z"
   },
-  "updatedAt": "2026-08-18T11:21:21.844Z"
+  "updatedAt": "2026-08-18T14:29:05.279Z"
 }

@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/multi-vector-encoder",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-for-teens",
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:f8e520f0029f007c",
-      "title": "Enterprise Ai Maturity Model Pt2",
-      "summary": "Enterprise Ai Maturity Model Pt2",
-      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T11:21:21.846Z"
+  "updatedAt": "2026-08-18T14:29:05.281Z"
 }
