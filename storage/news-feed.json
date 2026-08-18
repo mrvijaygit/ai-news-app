@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-for-teens",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-18T11:00:00.000Z"
+    },
+    {
       "id": "260b6c2a8563247ec9062f215bd15158f9de68e8",
       "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
       "summary": "NVIDIA Nemotron 3.5 Lightning, an open model built for high-volume agentic workloads, is now available in Amazon SageMaker JumpStart. This post shows how to deploy the 30B Mixture-of-Experts model (3B active), which...",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:198d526e5e90d3cd",
-      "title": "Vllm Integration And Quality Recovery Techniques Explained",
-      "summary": "Vllm Integration And Quality Recovery Techniques Explained",
-      "link": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T18:33:18.081Z"
+  "updatedAt": "2026-08-18T11:21:21.846Z"
 }
