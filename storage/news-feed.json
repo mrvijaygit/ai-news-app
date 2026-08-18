@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "nvidia ai:c18ccea74c750d9f",
+      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+      "summary": "Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the... Atomistic simulation requires three things: knowledge of the...",
+      "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-18T18:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "summary": "How Much Memory Does Your Agent Actually Need?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-18T18:09:38.000Z"
+    },
+    {
       "id": "950b40d5dbbd76bbebf419549700238549cd23fa",
       "title": "Customize Amazon Quick embedded chat into your application",
       "summary": "Amazon Quick embedded chat brings a conversational AI interface into your web application. This post walks through customizing the embedded chat with container and SDK styling, branding removal, and a custom agent...",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:94d63ef9d9959145",
-      "title": "Cohere Releases Command A Plus",
-      "summary": "Cohere Releases Command A Plus",
-      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:367ff7a2762a6309",
-      "title": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "summary": "Cohere And Mila Partner To Advance Quebec French Language And Cultural Context In Ai",
-      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T17:22:30.130Z"
+  "updatedAt": "2026-08-18T18:32:24.200Z"
 }
