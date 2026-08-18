@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-18T11:00:00.000Z"
+    },
+    {
+      "id": "12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f",
+      "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+      "summary": "Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-agnostic payment orchestration, and production-ready...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-18T18:56:14.000Z"
+    },
+    {
       "id": "nvidia ai:c18ccea74c750d9f",
       "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
       "summary": "Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the... Atomistic simulation requires three things: knowledge of the...",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:05da37dfe05f48da",
-      "title": "Cohere Security Ai Agent North Wiz",
-      "summary": "Cohere Security Ai Agent North Wiz",
-      "link": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:a03e32ea80314b58",
-      "title": "Introducing North Automations Ai Workflows",
-      "summary": "Introducing North Automations Ai Workflows",
-      "link": "https://cohere.com/blog/introducing-north-automations-ai-workflows",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-18T18:32:24.200Z"
+  "updatedAt": "2026-08-18T19:24:18.986Z"
 }

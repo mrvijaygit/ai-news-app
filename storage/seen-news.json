@@ -496,7 +496,9 @@
     "b94cce62d43075443b4a7c26a6501396d8ba1d17",
     "a1f4ace6ed8c5df4ecb9d93eabb3007247912d1f",
     "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "nvidia ai:c18ccea74c750d9f"
+    "nvidia ai:c18ccea74c750d9f",
+    "12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f",
+    "https://openai.com/index/pacing-model-development-cyber-capabilities"
   ],
   "seenAt": {
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
@@ -961,7 +963,9 @@
     "b94cce62d43075443b4a7c26a6501396d8ba1d17": "2026-08-18T17:22:30.128Z",
     "a1f4ace6ed8c5df4ecb9d93eabb3007247912d1f": "2026-08-18T17:22:30.128Z",
     "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": "2026-08-18T18:32:24.161Z",
-    "nvidia ai:c18ccea74c750d9f": "2026-08-18T18:32:24.161Z"
+    "nvidia ai:c18ccea74c750d9f": "2026-08-18T18:32:24.161Z",
+    "12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f": "2026-08-18T19:24:18.984Z",
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": "2026-08-18T19:24:18.984Z"
   },
-  "updatedAt": "2026-08-18T18:32:24.161Z"
+  "updatedAt": "2026-08-18T19:24:18.984Z"
 }
