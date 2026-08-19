@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
+      "title": "Domain and publish date filters for Web Search on AgentCore",
+      "summary": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-19T22:13:20.000Z"
+    },
+    {
+      "id": "af8acee944e5733d5cf6210c21fccec2cc8b42a3",
+      "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+      "summary": "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-19T22:06:09.000Z"
+    },
+    {
       "id": "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
       "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
       "summary": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting...",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "id": "64799e5f6577ed834ae5241ca5bcee136c4fc073",
-      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
-      "summary": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon Bedrock AgentCore Observability and Amazon CloudWatch to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-31T15:33:11.000Z"
-    },
-    {
-      "id": "nvidia ai:bf2eea4a9c938c00",
-      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
-      "summary": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,... The demand for high-quality video continues to accelerate...",
-      "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-31T15:13:02.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T21:21:15.204Z"
+  "updatedAt": "2026-08-19T22:20:27.869Z"
 }
