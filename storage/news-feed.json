@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "ChatGPT Ads expands across Europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-18T22:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/nvidia/chatgpt-work",
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:9792454179fa7ed2",
-      "title": "Enterprise Ai Maturity Model",
-      "summary": "Enterprise Ai Maturity Model",
-      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T01:01:36.546Z"
+  "updatedAt": "2026-08-19T06:37:49.819Z"
 }
