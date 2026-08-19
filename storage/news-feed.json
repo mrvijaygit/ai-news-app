@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-19T19:00:00.000Z"
+    },
+    {
       "id": "mistral ai:4fae90f5a69727a2",
       "title": "Regional Inference Open Models New Compute/",
       "summary": "Regional Inference Open Models New Compute/",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-30T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T16:26:54.969Z"
+  "updatedAt": "2026-08-19T17:22:54.307Z"
 }
