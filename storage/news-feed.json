@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/replit",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "link": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-19T07:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "title": "ChatGPT Ads expands across Europe",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:1694d2868c07e96c",
-      "title": "Automating Fork Maintenance With Ai Agents",
-      "summary": "Automating Fork Maintenance With Ai Agents",
-      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T06:37:49.819Z"
+  "updatedAt": "2026-08-19T14:28:55.557Z"
 }
