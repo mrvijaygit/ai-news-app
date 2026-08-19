@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-19T19:00:00.000Z"
+    },
+    {
+      "id": "xai:61a45589bea1e81d",
+      "title": "Grok Build is Now Open Source",
+      "summary": "Explore the harness behind our coding agent and TUI.",
+      "link": "https://x.ai/news/grok-build-open-source",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8a057b2058898150",
+      "title": "Explore the markets with Interactive Brokers and Grok",
+      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
+      "link": "https://x.ai/news/grok-interactive-brokers",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:7f96b684a449083b",
       "title": "Grok Imagine 1.5 Preview",
       "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
@@ -1772,34 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-31T07:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/avatarin",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "link": "https://openai.com/index/avatarin",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:2e646289ec06db99",
-      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-      "summary": "NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users... NVIDIA nvmath-python is a library designed to bridge the...",
-      "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-30T22:43:04.000Z"
-    },
-    {
-      "id": "nvidia ai:c71236959e96bcd4",
-      "title": "Four Ways to Deploy More Secure AI Agents",
-      "summary": "Knowledge workers are increasingly integrating AI agents into their workflows. Agents that function as \"digital coworkers\" offer clear benefits. For example,... Knowledge workers are increasingly integrating AI agents...",
-      "link": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-30T21:09:59.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T19:21:12.433Z"
+  "updatedAt": "2026-08-19T20:22:12.160Z"
 }

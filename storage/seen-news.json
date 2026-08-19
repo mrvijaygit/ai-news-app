@@ -509,7 +509,8 @@
     "mistral ai:be3e244fb201bbd6",
     "https://openai.com/index/our-commitment-to-zero-data-retention",
     "nvidia ai:c853a1287bb2aaed",
-    "nvidia ai:751706184f6d58a8"
+    "nvidia ai:751706184f6d58a8",
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
   ],
   "seenAt": {
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
@@ -987,7 +988,8 @@
     "mistral ai:be3e244fb201bbd6": "2026-08-19T16:26:54.965Z",
     "https://openai.com/index/our-commitment-to-zero-data-retention": "2026-08-19T17:22:54.302Z",
     "nvidia ai:c853a1287bb2aaed": "2026-08-19T18:29:16.309Z",
-    "nvidia ai:751706184f6d58a8": "2026-08-19T18:29:16.309Z"
+    "nvidia ai:751706184f6d58a8": "2026-08-19T18:29:16.309Z",
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models": "2026-08-19T20:22:12.157Z"
   },
-  "updatedAt": "2026-08-19T18:29:16.309Z"
+  "updatedAt": "2026-08-19T20:22:12.157Z"
 }
