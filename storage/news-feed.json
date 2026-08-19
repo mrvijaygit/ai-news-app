@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "mistral ai:4fae90f5a69727a2",
+      "title": "Regional Inference Open Models New Compute/",
+      "summary": "Regional Inference Open Models New Compute/",
+      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-08-19T15:48:23.739Z"
+    },
+    {
+      "id": "mistral ai:be3e244fb201bbd6",
+      "title": "Announcing Mistral 7b/",
+      "summary": "Announcing Mistral 7b/",
+      "link": "https://mistral.ai/news/announcing-mistral-7b/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-08-18T10:19:54.847Z"
+    },
+    {
+      "id": "nvidia ai:57e97a7b12c9369a",
+      "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+      "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for... Robots need policies that can adapt to their sensors,...",
+      "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-19T16:00:00.000Z"
+    },
+    {
       "id": "xai:a12dd6a66dd51433",
       "title": "Grok 4.6 on Amazon Bedrock",
       "summary": "Grok 4.6 on Amazon Bedrock",
@@ -1772,34 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-07-30T10:00:00.000Z"
-    },
-    {
-      "id": "9078a506990d3c974fff12a1937a20b081010c09",
-      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-30T16:02:32.000Z"
-    },
-    {
-      "id": "031afb634b787c3d2c724961d61c58a27d1fbc12",
-      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
-      "summary": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality, latency, and cost. Migrate to a new model or improve your...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-30T15:58:32.000Z"
-    },
-    {
-      "id": "nvidia ai:50f36e4e7c4ab753",
-      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
-      "summary": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We... Two AI computing clusters built from identical NVIDIA H100,...",
-      "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-30T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T15:26:52.475Z"
+  "updatedAt": "2026-08-19T16:26:54.969Z"
 }

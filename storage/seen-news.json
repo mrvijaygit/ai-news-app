@@ -503,7 +503,10 @@
     "https://openai.com/index/nvidia/chatgpt-work",
     "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "https://openai.com/index/replit",
-    "xai:a12dd6a66dd51433"
+    "xai:a12dd6a66dd51433",
+    "nvidia ai:57e97a7b12c9369a",
+    "mistral ai:4fae90f5a69727a2",
+    "mistral ai:be3e244fb201bbd6"
   ],
   "seenAt": {
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
@@ -975,7 +978,10 @@
     "https://openai.com/index/nvidia/chatgpt-work": "2026-08-19T01:01:36.544Z",
     "https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-08-19T06:37:49.815Z",
     "https://openai.com/index/replit": "2026-08-19T14:28:55.554Z",
-    "xai:a12dd6a66dd51433": "2026-08-19T15:26:52.472Z"
+    "xai:a12dd6a66dd51433": "2026-08-19T15:26:52.472Z",
+    "nvidia ai:57e97a7b12c9369a": "2026-08-19T16:26:54.965Z",
+    "mistral ai:4fae90f5a69727a2": "2026-08-19T16:26:54.965Z",
+    "mistral ai:be3e244fb201bbd6": "2026-08-19T16:26:54.965Z"
   },
-  "updatedAt": "2026-08-19T15:26:52.472Z"
+  "updatedAt": "2026-08-19T16:26:54.965Z"
 }
