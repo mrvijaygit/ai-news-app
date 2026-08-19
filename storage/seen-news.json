@@ -513,7 +513,8 @@
     "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
     "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
-    "af8acee944e5733d5cf6210c21fccec2cc8b42a3"
+    "af8acee944e5733d5cf6210c21fccec2cc8b42a3",
+    "nvidia ai:07f719b50ba9c2c3"
   ],
   "seenAt": {
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
@@ -995,7 +996,8 @@
     "https://openai.com/index/offering-zero-data-retention-for-frontier-models": "2026-08-19T20:22:12.157Z",
     "c8a1920ea27bb2b98220333ddad20cccdbbe4727": "2026-08-19T21:21:15.201Z",
     "77ee46a42e265aa4cd77fe76cd7d06934591ec84": "2026-08-19T22:20:27.866Z",
-    "af8acee944e5733d5cf6210c21fccec2cc8b42a3": "2026-08-19T22:20:27.866Z"
+    "af8acee944e5733d5cf6210c21fccec2cc8b42a3": "2026-08-19T22:20:27.866Z",
+    "nvidia ai:07f719b50ba9c2c3": "2026-08-19T23:19:05.156Z"
   },
-  "updatedAt": "2026-08-19T22:20:27.866Z"
+  "updatedAt": "2026-08-19T23:19:05.156Z"
 }

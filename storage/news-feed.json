@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:07f719b50ba9c2c3",
+      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+      "summary": "NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a... NVIDIA Holoscan is a platform for building real-time AI...",
+      "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-19T22:22:37.000Z"
+    },
+    {
       "id": "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
       "title": "Domain and publish date filters for Web Search on AgentCore",
       "summary": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those...",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-07-31T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-04T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T22:20:27.869Z"
+  "updatedAt": "2026-08-19T23:19:05.158Z"
 }
