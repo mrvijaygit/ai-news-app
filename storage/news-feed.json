@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
+      "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
+      "summary": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-19T20:40:45.000Z"
+    },
+    {
       "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "title": "Offering Zero Data Retention for frontier models",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-31T15:13:02.000Z"
-    },
-    {
-      "id": "https://openai.com/index/unive",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "link": "https://openai.com/index/unive",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-07-31T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-19T20:22:12.160Z"
+  "updatedAt": "2026-08-19T21:21:15.204Z"
 }
