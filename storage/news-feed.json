@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "9aa7f20719e8fd485b6ad4d2d63b184663def92d",
+      "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
+      "summary": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-20T15:20:03.000Z"
+    },
+    {
       "id": "mistral ai:b5c19cec3f97a5b3",
       "title": "Agentic Search/",
       "summary": "Agentic Search/",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-07-31T22:16:17.000Z"
-    },
-    {
-      "id": "7566a36ce07e1d565d3c4c626b0957bbfa8d654a",
-      "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
-      "summary": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-07-31T19:53:04.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T14:32:05.489Z"
+  "updatedAt": "2026-08-20T15:29:31.897Z"
 }
