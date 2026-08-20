@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:dc8d8bf3f50d9717",
+      "title": "Automations in Grok",
+      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
+      "link": "https://x.ai/news/grok-automations",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:2dff0f87787443f6",
       "title": "Imagine Video 1.5 with References",
       "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-03T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:22b0e2c77d3ffc2a",
-      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage ",
-      "summary": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,... Storage is an active part of every agentic AI workflow. As...",
-      "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-03T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T17:24:48.478Z"
+  "updatedAt": "2026-08-20T18:33:20.531Z"
 }
