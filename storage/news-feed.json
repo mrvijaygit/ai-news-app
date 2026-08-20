@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/stampli",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "link": "https://openai.com/index/stampli",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "52fbb58a12b51e241c558edcf156926f2fb965b3",
+      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+      "summary": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many agentic AI systems...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-20T16:24:12.000Z"
+    },
+    {
+      "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
+      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+      "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-20T16:11:18.000Z"
+    },
+    {
+      "id": "e458bdc48b55905c2957360d67ec38bc45c8a526",
+      "title": "AWS vector solutions: Build agentic AI where your data lives",
+      "summary": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data migration required. This post covers six purpose-built...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-20T16:06:06.000Z"
+    },
+    {
       "id": "9aa7f20719e8fd485b6ad4d2d63b184663def92d",
       "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
       "summary": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in...",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-03T17:24:15.000Z"
-    },
-    {
-      "id": "d495eca7aa31244e52ef472f69e6a18cc949f604",
-      "title": "Automated Reasoning policy refinement in Amazon Bedrock",
-      "summary": "Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for rule issues and language issues, and you approve every...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-03T16:30:58.000Z"
-    },
-    {
-      "id": "xai:3eb98dee9829b630",
-      "title": "Powering Gopuff's Go agent",
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "link": "https://x.ai/news/grok-gopuff",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2dff0f87787443f6",
-      "title": "Imagine Video 1.5 with References",
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:8afde7827ab8d166",
-      "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
-      "summary": "As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because... As agentic and long-context workloads become common, the...",
-      "link": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-07-31T22:16:17.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T15:29:31.897Z"
+  "updatedAt": "2026-08-20T16:30:13.698Z"
 }
