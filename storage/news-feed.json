@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:95ae173e613df0d0",
+      "title": "Grok Build on web and mobile",
+      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
+      "link": "https://x.ai/news/grok-build-for-everyone",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:dc8d8bf3f50d9717",
       "title": "Automations in Grok",
       "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
@@ -1790,16 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-08-04T13:58:29.000Z"
-    },
-    {
-      "id": "https://openai.com/index/circles",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "link": "https://openai.com/index/circles",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-03T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T18:33:20.531Z"
+  "updatedAt": "2026-08-20T19:27:41.578Z"
 }
