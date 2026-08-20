@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-20T07:00:00.000Z"
+    },
+    {
       "id": "xai:95ae173e613df0d0",
       "title": "Grok Build on web and mobile",
       "summary": "Grok Build is now available on every plan, on the web and on mobile.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-08-04T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "summary": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-04T13:58:29.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T19:27:41.578Z"
+  "updatedAt": "2026-08-20T20:23:31.426Z"
 }

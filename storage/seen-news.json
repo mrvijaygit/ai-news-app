@@ -522,7 +522,8 @@
     "e458bdc48b55905c2957360d67ec38bc45c8a526",
     "https://openai.com/index/stampli",
     "4f766a78e962cad52bb901c5ca408d902b8d04c5",
-    "xai:95ae173e613df0d0"
+    "xai:95ae173e613df0d0",
+    "https://openai.com/index/introducing-ai-futures"
   ],
   "seenAt": {
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T00:08:51.232Z",
@@ -1013,7 +1014,8 @@
     "e458bdc48b55905c2957360d67ec38bc45c8a526": "2026-08-20T16:30:13.696Z",
     "https://openai.com/index/stampli": "2026-08-20T16:30:13.696Z",
     "4f766a78e962cad52bb901c5ca408d902b8d04c5": "2026-08-20T17:24:48.475Z",
-    "xai:95ae173e613df0d0": "2026-08-20T19:27:41.576Z"
+    "xai:95ae173e613df0d0": "2026-08-20T19:27:41.576Z",
+    "https://openai.com/index/introducing-ai-futures": "2026-08-20T20:23:31.423Z"
   },
-  "updatedAt": "2026-08-20T19:27:41.576Z"
+  "updatedAt": "2026-08-20T20:23:31.423Z"
 }
