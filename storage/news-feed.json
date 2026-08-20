@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "95e4972674e71ff3cec032accfd9935a8cacf472",
+      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "summary": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-20T21:46:03.000Z"
+    },
+    {
+      "id": "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130",
+      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
+      "summary": "In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual transformations, and train an XGBoost fraud detection model. All without...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-20T21:23:29.000Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-ai-futures",
       "title": "Introducing AI Futures",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
@@ -1781,25 +1799,7 @@
       "source": "Google AI Blog",
       "company": "Google AI / Gemini",
       "publishedAt": "2026-08-04T13:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-08-03T15:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:d6019b17c802db8e",
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
-      "summary": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data... Autonomous vehicle (AV) development often relies on separate...",
-      "link": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-04T15:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T20:23:31.426Z"
+  "updatedAt": "2026-08-20T22:22:35.246Z"
 }
