@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:39cfa33b8f09da04",
+      "title": "Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "nvidia ai:a1e1014ff8db0597",
       "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
       "summary": "A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives... A frontier language model is only one component of an AI agent....",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:7ec12ab2e0fe97fc",
-      "title": "Bringing real-time market sentiment to Tori, from eToro",
-      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
-      "link": "https://x.ai/news/grok-etoro",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-21T13:41:38.613Z"
+  "updatedAt": "2026-08-21T14:30:43.900Z"
 }
