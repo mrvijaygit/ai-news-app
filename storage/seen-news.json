@@ -528,7 +528,10 @@
     "perplexity ai:3ef44650da238843",
     "perplexity ai:47d4cda03aede7bf",
     "perplexity ai:fcaed616905a48a4",
-    "perplexity ai:a232ddc41d6d7443"
+    "perplexity ai:a232ddc41d6d7443",
+    "nvidia ai:a1e1014ff8db0597",
+    "nvidia ai:61cae5b728231fe9",
+    "https://huggingface.co/blog/asr-benchmark-optimization"
   ],
   "seenAt": {
     "feae5d9d32840b5cd91ba2baf9be1daf82e1283d": "2026-06-22T17:29:17.108Z",
@@ -1025,7 +1028,10 @@
     "perplexity ai:3ef44650da238843": "2026-08-21T03:54:07.586Z",
     "perplexity ai:47d4cda03aede7bf": "2026-08-21T03:54:07.586Z",
     "perplexity ai:fcaed616905a48a4": "2026-08-21T03:54:07.586Z",
-    "perplexity ai:a232ddc41d6d7443": "2026-08-21T03:54:07.586Z"
+    "perplexity ai:a232ddc41d6d7443": "2026-08-21T03:54:07.586Z",
+    "nvidia ai:a1e1014ff8db0597": "2026-08-21T13:41:38.611Z",
+    "nvidia ai:61cae5b728231fe9": "2026-08-21T13:41:38.611Z",
+    "https://huggingface.co/blog/asr-benchmark-optimization": "2026-08-21T13:41:38.611Z"
   },
-  "updatedAt": "2026-08-21T03:54:07.586Z"
+  "updatedAt": "2026-08-21T13:41:38.611Z"
 }

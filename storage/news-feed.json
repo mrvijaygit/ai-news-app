@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "nvidia ai:a1e1014ff8db0597",
+      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "summary": "A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives... A frontier language model is only one component of an AI agent....",
+      "link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-21T13:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:61cae5b728231fe9",
+      "title": "Where Security Fits in an AI Agent Stack",
+      "summary": "As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important.... As AI agents become more capable and operate over longer...",
+      "link": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-21T13:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "Measuring benchmark optimization in speech recognition",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
       "id": "perplexity ai:3ef44650da238843",
       "title": "Research Aug 19, 2026 Brain: Agentic Memory as a Knowledge Wiki A structured, traceable, self-improving Markdown filesys",
       "summary": "Research Aug 19, 2026 Brain: Agentic Memory as a Knowledge Wiki A structured, traceable, self-improving Markdown filesys",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-04T19:00:00.000Z"
-    },
-    {
-      "id": "xai:39cfa33b8f09da04",
-      "title": "Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "20c57cb78e0f1ebce99e757dfe0b084d51a3f9e2",
-      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
-      "summary": "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-04T18:39:14.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T03:54:07.589Z"
+  "updatedAt": "2026-08-21T13:41:38.613Z"
 }
