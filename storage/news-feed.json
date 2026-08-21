@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "6c5f78444fc96b736282fbe41d92d8c3e27556d8",
+      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+      "summary": "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-21T17:06:17.000Z"
+    },
+    {
+      "id": "2e18f3cfd26a69da47848a4c1ac5c4cdb8a138d7",
+      "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+      "summary": "Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-21T17:02:35.000Z"
+    },
+    {
+      "id": "ed00b717fca4a544868c35ad4ab20128af9b7c97",
+      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
+      "summary": "Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-21T16:57:01.000Z"
+    },
+    {
       "id": "xai:e15e11a40907b4f4",
       "title": "Introducing the Voice Agent Builder",
       "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-06T16:08:12.000Z"
-    },
-    {
-      "id": "cohere:e23236f8eff7a858",
-      "title": "Cohere University Of Waterloo Announcement",
-      "summary": "Cohere University Of Waterloo Announcement",
-      "link": "https://cohere.com/blog/cohere-university-of-waterloo-announcement",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "e26b67888914f9285d58eac09de5504ddfbfc66b",
-      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-      "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guardrails to deliver...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-05T18:50:02.000Z"
-    },
-    {
-      "id": "71e2b371359c204069dc89ff11b182c9b6470b7f",
-      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
-      "summary": "In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea, through the proof of concept that validated it, to the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-05T18:09:03.000Z"
-    },
-    {
-      "id": "f2de6d336934f855258e3aa9bbca0a0efc1a8dcd",
-      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
-      "summary": "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-05T18:02:23.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T16:28:29.390Z"
+  "updatedAt": "2026-08-21T17:24:23.513Z"
 }
