@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:0d9562320cfd57b3",
+      "title": "Grok 4.6 on Vertex AI",
+      "summary": "Grok 4.6 on Vertex AI",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:9fd7e7592c1ada50",
       "title": "Grok Bot is now included with more plans",
       "summary": "Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-06T16:11:13.000Z"
-    },
-    {
-      "id": "d45ac0aef34807e1fbf052edfada95b21bf90a95",
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "summary": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-06T16:08:12.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T17:24:23.513Z"
+  "updatedAt": "2026-08-21T19:23:00.736Z"
 }
