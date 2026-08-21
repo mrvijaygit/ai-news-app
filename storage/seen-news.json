@@ -34,13 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "feae5d9d32840b5cd91ba2baf9be1daf82e1283d",
-    "nvidia ai:a973c8b9122d342c",
-    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "nvidia ai:1cb97b498b695bdb",
-    "https://openai.com/index/patch-the-planet",
-    "https://openai.com/index/daybreak-securing-the-world",
-    "xai:ea7ad631cd2df309",
     "52be35df08b05af08b291c3c21eae9e9df45e6a0",
     "nvidia ai:c2ea807d96f83e51",
     "https://huggingface.co/blog/local-models-pr-triage",
@@ -536,16 +529,10 @@
     "6c5f78444fc96b736282fbe41d92d8c3e27556d8",
     "2e18f3cfd26a69da47848a4c1ac5c4cdb8a138d7",
     "ed00b717fca4a544868c35ad4ab20128af9b7c97",
-    "xai:9fd7e7592c1ada50"
+    "xai:9fd7e7592c1ada50",
+    "xai:ea7ad631cd2df309"
   ],
   "seenAt": {
-    "feae5d9d32840b5cd91ba2baf9be1daf82e1283d": "2026-06-22T17:29:17.108Z",
-    "nvidia ai:a973c8b9122d342c": "2026-06-22T17:29:17.108Z",
-    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": "2026-06-22T17:29:17.108Z",
-    "nvidia ai:1cb97b498b695bdb": "2026-06-22T17:29:17.108Z",
-    "https://openai.com/index/patch-the-planet": "2026-06-22T17:29:17.108Z",
-    "https://openai.com/index/daybreak-securing-the-world": "2026-06-22T17:29:17.108Z",
-    "xai:ea7ad631cd2df309": "2026-06-22T17:29:17.108Z",
     "52be35df08b05af08b291c3c21eae9e9df45e6a0": "2026-06-22T20:42:14.237Z",
     "nvidia ai:c2ea807d96f83e51": "2026-06-23T08:30:35.022Z",
     "https://huggingface.co/blog/local-models-pr-triage": "2026-06-23T08:30:35.022Z",
@@ -1041,7 +1028,8 @@
     "6c5f78444fc96b736282fbe41d92d8c3e27556d8": "2026-08-21T17:24:23.510Z",
     "2e18f3cfd26a69da47848a4c1ac5c4cdb8a138d7": "2026-08-21T17:24:23.510Z",
     "ed00b717fca4a544868c35ad4ab20128af9b7c97": "2026-08-21T17:24:23.510Z",
-    "xai:9fd7e7592c1ada50": "2026-08-21T17:24:23.510Z"
+    "xai:9fd7e7592c1ada50": "2026-08-21T17:24:23.510Z",
+    "xai:ea7ad631cd2df309": "2026-08-21T18:31:05.265Z"
   },
-  "updatedAt": "2026-08-21T17:24:23.510Z"
+  "updatedAt": "2026-08-21T18:31:05.265Z"
 }
