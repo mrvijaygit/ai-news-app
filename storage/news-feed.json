@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "perplexity ai:3ef44650da238843",
+      "title": "Research Aug 19, 2026 Brain: Agentic Memory as a Knowledge Wiki A structured, traceable, self-improving Markdown filesys",
+      "summary": "Research Aug 19, 2026 Brain: Agentic Memory as a Knowledge Wiki A structured, traceable, self-improving Markdown filesys",
+      "link": "https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:47d4cda03aede7bf",
+      "title": "News Aug 18, 2026 Computer now works in email Send, forward, or cc computer@perplexity.com to run a full Computer task w",
+      "summary": "News Aug 18, 2026 Computer now works in email Send, forward, or cc computer@perplexity.com to run a full Computer task w",
+      "link": "https://www.perplexity.ai/hub/blog/computer-now-works-in-email",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:fcaed616905a48a4",
+      "title": "News Jun 18, 2026 Self-improving memory for agents Brain is Perplexity's self-improving memory system for Computer that ",
+      "summary": "News Jun 18, 2026 Self-improving memory for agents Brain is Perplexity's self-improving memory system for Computer that",
+      "link": "https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:a232ddc41d6d7443",
+      "title": "Developers May 6, 2026 Introducing finance search in the Agent API In a single tool call, Finance Search combines licens",
+      "summary": "Developers May 6, 2026 Introducing finance search in the Agent API In a single tool call, Finance Search combines licens",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "95e4972674e71ff3cec032accfd9935a8cacf472",
       "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
       "summary": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput,...",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-04T18:39:14.000Z"
-    },
-    {
-      "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "id": "485a2118fbcc1067573c0ef552a78db3ae5bc772",
-      "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
-      "summary": "Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with Amazon Bedrock AgentCore Browser, Amazon Bedrock, Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-04T16:02:21.000Z"
-    },
-    {
-      "id": "nvidia ai:2a66ee5ec6a12455",
-      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
-      "summary": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene... A central challenge in robotics is building policies that...",
-      "link": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-04T16:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "Here are Google’s latest AI updates from July 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-08-04T13:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T22:22:35.246Z"
+  "updatedAt": "2026-08-21T03:54:07.589Z"
 }

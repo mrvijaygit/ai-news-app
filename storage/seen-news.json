@@ -524,7 +524,11 @@
     "xai:95ae173e613df0d0",
     "https://openai.com/index/introducing-ai-futures",
     "95e4972674e71ff3cec032accfd9935a8cacf472",
-    "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130"
+    "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130",
+    "perplexity ai:3ef44650da238843",
+    "perplexity ai:47d4cda03aede7bf",
+    "perplexity ai:fcaed616905a48a4",
+    "perplexity ai:a232ddc41d6d7443"
   ],
   "seenAt": {
     "feae5d9d32840b5cd91ba2baf9be1daf82e1283d": "2026-06-22T17:29:17.108Z",
@@ -1017,7 +1021,11 @@
     "xai:95ae173e613df0d0": "2026-08-20T19:27:41.576Z",
     "https://openai.com/index/introducing-ai-futures": "2026-08-20T20:23:31.423Z",
     "95e4972674e71ff3cec032accfd9935a8cacf472": "2026-08-20T22:22:35.244Z",
-    "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130": "2026-08-20T22:22:35.244Z"
+    "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130": "2026-08-20T22:22:35.244Z",
+    "perplexity ai:3ef44650da238843": "2026-08-21T03:54:07.586Z",
+    "perplexity ai:47d4cda03aede7bf": "2026-08-21T03:54:07.586Z",
+    "perplexity ai:fcaed616905a48a4": "2026-08-21T03:54:07.586Z",
+    "perplexity ai:a232ddc41d6d7443": "2026-08-21T03:54:07.586Z"
   },
-  "updatedAt": "2026-08-20T22:22:35.244Z"
+  "updatedAt": "2026-08-21T03:54:07.586Z"
 }
