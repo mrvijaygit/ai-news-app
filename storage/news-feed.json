@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:7ec12ab2e0fe97fc",
       "title": "Bringing real-time market sentiment to Tori, from eToro",
       "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-05T18:02:23.000Z"
-    },
-    {
-      "id": "3a26697f6ef3fcc38ee2025c7edbece56f425963",
-      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
-      "summary": "Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and build agents with persistent memory, real tools, code...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-05T18:00:57.000Z"
-    },
-    {
-      "id": "cohere:6fabbda17928841b",
-      "title": "Cohere Releases Command A Plus",
-      "summary": "Cohere Releases Command A Plus",
-      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-08-05T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T15:28:36.863Z"
+  "updatedAt": "2026-08-21T16:28:29.390Z"
 }
