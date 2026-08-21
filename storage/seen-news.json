@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "52be35df08b05af08b291c3c21eae9e9df45e6a0",
     "nvidia ai:c2ea807d96f83e51",
     "https://huggingface.co/blog/local-models-pr-triage",
     "nvidia ai:17128b6299583a0b",
@@ -534,7 +533,6 @@
     "xai:0d9562320cfd57b3"
   ],
   "seenAt": {
-    "52be35df08b05af08b291c3c21eae9e9df45e6a0": "2026-06-22T20:42:14.237Z",
     "nvidia ai:c2ea807d96f83e51": "2026-06-23T08:30:35.022Z",
     "https://huggingface.co/blog/local-models-pr-triage": "2026-06-23T08:30:35.022Z",
     "nvidia ai:17128b6299583a0b": "2026-06-23T15:11:20.824Z",
