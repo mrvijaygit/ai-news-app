@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:47b1871a9102f71b",
+      "title": "Grok 4.6 on Google Enterprise Agent Platform",
+      "summary": "Grok 4.6 on Google Enterprise Agent Platform",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:0d9562320cfd57b3",
       "title": "Grok 4.6 on Vertex AI",
       "summary": "Grok 4.6 on Vertex AI",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-06T16:12:24.000Z"
-    },
-    {
-      "id": "7f0c9f04df61dedf0934f21d3c13af85f129ef36",
-      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-      "summary": "PDI Technologies built PDI Brew, an agentic platform on AWS where non-technical employees describe a tool in plain English and receive a fully provisioned, multi-tenant web application in seconds. See how a pluggable...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-06T16:11:13.000Z"
     }
   ],
-  "updatedAt": "2026-08-21T19:23:00.736Z"
+  "updatedAt": "2026-08-22T02:50:40.594Z"
 }
