@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
     "https://huggingface.co/blog/ffasr-leaderboard",
     "cohere:b0e8d2f6847a1809",
@@ -523,7 +522,6 @@
     "xai:47b1871a9102f71b"
   ],
   "seenAt": {
-    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": "2026-06-24T13:19:20.237Z",
     "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": "2026-06-24T16:17:17.720Z",
     "https://huggingface.co/blog/ffasr-leaderboard": "2026-06-24T16:17:17.720Z",
     "cohere:b0e8d2f6847a1809": "2026-06-24T16:17:17.720Z",
