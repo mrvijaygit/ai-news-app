@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "https://huggingface.co/blog/ffasr-leaderboard",
-    "cohere:b0e8d2f6847a1809",
     "1d2ea05ede59ced27e2539d9d423a21734963e2f",
     "1dc7723ff4e6ee2d06a80f8861b8d24f05532975",
     "nvidia ai:475ec74fd205afb5",
@@ -522,9 +519,6 @@
     "xai:47b1871a9102f71b"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": "2026-06-24T16:17:17.720Z",
-    "https://huggingface.co/blog/ffasr-leaderboard": "2026-06-24T16:17:17.720Z",
-    "cohere:b0e8d2f6847a1809": "2026-06-24T16:17:17.720Z",
     "1d2ea05ede59ced27e2539d9d423a21734963e2f": "2026-06-24T18:49:28.485Z",
     "1dc7723ff4e6ee2d06a80f8861b8d24f05532975": "2026-06-24T18:49:28.485Z",
     "nvidia ai:475ec74fd205afb5": "2026-06-24T18:49:28.485Z",
