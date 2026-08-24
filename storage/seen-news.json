@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/vllm-jobs",
     "nvidia ai:de8efd6a1291ad7e",
     "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed",
     "https://openai.com/index/previewing-gpt-5-6-sol",
@@ -515,7 +514,6 @@
     "https://openai.com/index/gpt-5-6-in-kiro"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/vllm-jobs": "2026-06-25T21:41:23.961Z",
     "nvidia ai:de8efd6a1291ad7e": "2026-06-26T16:13:32.462Z",
     "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed": "2026-06-26T16:13:32.462Z",
     "https://openai.com/index/previewing-gpt-5-6-sol": "2026-06-26T18:29:39.948Z",
