@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/how-agents-are-transforming-work",
     "cohere:61a4d0a744b919ef",
     "nvidia ai:563c9ba07933ada8",
     "dc22e98d12d94b3172176999b1cb944e7057fc4e",
@@ -516,7 +515,6 @@
     "xai:8a057b2058898150"
   ],
   "seenAt": {
-    "https://openai.com/index/how-agents-are-transforming-work": "2026-06-25T11:40:23.103Z",
     "cohere:61a4d0a744b919ef": "2026-06-25T14:25:27.366Z",
     "nvidia ai:563c9ba07933ada8": "2026-06-25T17:10:02.825Z",
     "dc22e98d12d94b3172176999b1cb944e7057fc4e": "2026-06-25T17:10:02.825Z",
