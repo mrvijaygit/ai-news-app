@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:9b885878ddd249c4",
-    "nvidia ai:5e81c49c697bbc25",
-    "eda3331addbbed45b312b41d1b282123a9d1d3b5",
-    "cohere:0da566de6b4fa245",
     "https://huggingface.co/blog/vllm-jobs",
     "nvidia ai:de8efd6a1291ad7e",
     "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed",
@@ -514,13 +510,11 @@
     "f61f463ab9563e66a529a7da9c9531a100084eab",
     "f6dbb715cf6797ac83fc9d802c4016dc73ee20b0",
     "mistral ai:c6e70c2320f06dc7",
-    "xai:406de15113b3310a"
+    "xai:406de15113b3310a",
+    "1869206df2363735c9e3340493ba659c7c99406b",
+    "https://openai.com/index/gpt-5-6-in-kiro"
   ],
   "seenAt": {
-    "nvidia ai:9b885878ddd249c4": "2026-06-25T19:55:49.926Z",
-    "nvidia ai:5e81c49c697bbc25": "2026-06-25T19:55:49.926Z",
-    "eda3331addbbed45b312b41d1b282123a9d1d3b5": "2026-06-25T19:55:49.926Z",
-    "cohere:0da566de6b4fa245": "2026-06-25T19:55:49.926Z",
     "https://huggingface.co/blog/vllm-jobs": "2026-06-25T21:41:23.961Z",
     "nvidia ai:de8efd6a1291ad7e": "2026-06-26T16:13:32.462Z",
     "98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed": "2026-06-26T16:13:32.462Z",
@@ -997,7 +991,9 @@
     "f61f463ab9563e66a529a7da9c9531a100084eab": "2026-08-24T16:32:12.804Z",
     "f6dbb715cf6797ac83fc9d802c4016dc73ee20b0": "2026-08-24T16:32:12.804Z",
     "mistral ai:c6e70c2320f06dc7": "2026-08-24T19:25:41.124Z",
-    "xai:406de15113b3310a": "2026-08-24T19:25:41.124Z"
+    "xai:406de15113b3310a": "2026-08-24T19:25:41.124Z",
+    "1869206df2363735c9e3340493ba659c7c99406b": "2026-08-24T20:25:26.880Z",
+    "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T20:25:26.880Z"
   },
-  "updatedAt": "2026-08-24T19:25:41.124Z"
+  "updatedAt": "2026-08-24T20:25:26.880Z"
 }

@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "1869206df2363735c9e3340493ba659c7c99406b",
+      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
+      "summary": "Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-24T19:32:14.000Z"
+    },
+    {
       "id": "mistral ai:c6e70c2320f06dc7",
       "title": "Mistral X Humain/",
       "summary": "Mistral X Humain/",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
-      "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
-      "summary": "In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, unified tool access through AgentCore Gateway, AgentCore Memory, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-07T16:26:58.000Z"
-    },
-    {
-      "id": "2a928f9693d6d62c930b66459b34bc9a6dc2b18a",
-      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
-      "summary": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-07T16:22:50.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T19:25:41.127Z"
+  "updatedAt": "2026-08-24T20:25:26.882Z"
 }
