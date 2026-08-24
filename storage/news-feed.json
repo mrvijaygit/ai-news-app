@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "mistral ai:c6e70c2320f06dc7",
+      "title": "Mistral X Humain/",
+      "summary": "Mistral X Humain/",
+      "link": "https://mistral.ai/news/mistral-x-humain/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-08-24T19:00:17.288Z"
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "f61f463ab9563e66a529a7da9c9531a100084eab",
       "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
       "summary": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and...",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-07T16:22:50.000Z"
-    },
-    {
-      "id": "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b",
-      "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
-      "summary": "The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-07T16:21:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/hsp-gruppe",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-07T09:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T16:32:12.806Z"
+  "updatedAt": "2026-08-24T19:25:41.127Z"
 }
