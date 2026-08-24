@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "f61f463ab9563e66a529a7da9c9531a100084eab",
+      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+      "summary": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-24T16:22:03.000Z"
+    },
+    {
+      "id": "f6dbb715cf6797ac83fc9d802c4016dc73ee20b0",
+      "title": "Building a restaurant telephony AI host with Amazon Connect",
+      "summary": "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-24T16:13:09.000Z"
+    },
+    {
       "id": "nvidia ai:19d11fc90536e14b",
       "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
       "summary": "The massive growth of generative AI has fundamentally altered data center design. As distributed model training scales to span hundreds of thousands of GPUs,... The massive growth of generative AI has fundamentally...",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-07T09:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-06T10:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-06T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-24T15:35:25.864Z"
+  "updatedAt": "2026-08-24T16:32:12.806Z"
 }
