@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-25T11:39:24.000Z"
+    },
+    {
       "id": "xai:ddc384453fa5c02a",
       "title": "Grok for Outlook",
       "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:300f58fb9ef76c30",
-      "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA  ",
-      "summary": "Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI... Meta returns to the open source ecosystem with the release of...",
-      "link": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-10T13:27:19.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T09:31:22.710Z"
+  "updatedAt": "2026-08-25T12:40:08.435Z"
 }

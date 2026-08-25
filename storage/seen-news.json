@@ -512,7 +512,8 @@
     "xai:406de15113b3310a",
     "1869206df2363735c9e3340493ba659c7c99406b",
     "https://openai.com/index/gpt-5-6-in-kiro",
-    "mistral ai:4aae3865b9f776ff"
+    "mistral ai:4aae3865b9f776ff",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
   ],
   "seenAt": {
     "nvidia ai:de8efd6a1291ad7e": "2026-06-26T16:13:32.462Z",
@@ -993,7 +994,8 @@
     "xai:406de15113b3310a": "2026-08-24T19:25:41.124Z",
     "1869206df2363735c9e3340493ba659c7c99406b": "2026-08-24T20:25:26.880Z",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T20:25:26.880Z",
-    "mistral ai:4aae3865b9f776ff": "2026-08-25T08:37:16.659Z"
+    "mistral ai:4aae3865b9f776ff": "2026-08-25T08:37:16.659Z",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-25T12:40:08.432Z"
   },
-  "updatedAt": "2026-08-25T08:37:16.659Z"
+  "updatedAt": "2026-08-25T12:40:08.432Z"
 }
