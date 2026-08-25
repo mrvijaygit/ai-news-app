@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "bcd03430b15f5c1675997d3f2fcc6d165ab30085",
+      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+      "summary": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-25T19:00:09.000Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-admin-plugin",
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-10T10:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/premium-seats-chatgpt-business",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "link": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-10T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T18:34:34.918Z"
+  "updatedAt": "2026-08-25T19:27:57.888Z"
 }
