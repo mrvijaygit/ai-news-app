@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "nvidia ai:cf0b18a5309e7084",
       "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
       "summary": "When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,... When an LLM engine process fails, the standard recovery...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-10T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T21:23:34.108Z"
+  "updatedAt": "2026-08-25T22:22:08.358Z"
 }
