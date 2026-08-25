@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-25T07:05:00.000Z"
+    },
+    {
+      "id": "xai:6dad33007ff48b3f",
+      "title": "Agent Dashboard in Grok Build",
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "link": "https://x.ai/news/agent-dashboard",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/jalapeno-first-results",
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "2a9a1aff9c94f081507dacb658dfe9013b40dd70",
-      "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
-      "summary": "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time-to-production by 75% (from 10-12 months to 4 months),...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-10T16:30:46.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-10T16:25:36.000Z"
-    },
-    {
-      "id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-08-10T14:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T15:38:19.178Z"
+  "updatedAt": "2026-08-25T16:32:26.217Z"
 }
