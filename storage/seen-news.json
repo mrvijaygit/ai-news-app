@@ -513,7 +513,10 @@
     "1869206df2363735c9e3340493ba659c7c99406b",
     "https://openai.com/index/gpt-5-6-in-kiro",
     "mistral ai:4aae3865b9f776ff",
-    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "nvidia ai:021df393d0749fc1",
+    "https://openai.com/index/jalapeno-first-results"
   ],
   "seenAt": {
     "nvidia ai:de8efd6a1291ad7e": "2026-06-26T16:13:32.462Z",
@@ -995,7 +998,10 @@
     "1869206df2363735c9e3340493ba659c7c99406b": "2026-08-24T20:25:26.880Z",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T20:25:26.880Z",
     "mistral ai:4aae3865b9f776ff": "2026-08-25T08:37:16.659Z",
-    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-25T12:40:08.432Z"
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-25T12:40:08.432Z",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-25T15:38:19.175Z",
+    "nvidia ai:021df393d0749fc1": "2026-08-25T15:38:19.175Z",
+    "https://openai.com/index/jalapeno-first-results": "2026-08-25T15:38:19.175Z"
   },
-  "updatedAt": "2026-08-25T12:40:08.432Z"
+  "updatedAt": "2026-08-25T15:38:19.175Z"
 }
