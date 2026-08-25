@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-admin-plugin",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "title": "The full stack behind abundant intelligence",
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "id": "xai:a795c67928ea0c3a",
-      "title": "21 New Flagship Grok Voices",
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
-      "link": "https://x.ai/news/new-flagship-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-25T16:32:26.217Z"
+  "updatedAt": "2026-08-25T18:34:34.918Z"
 }

@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/previewing-gpt-5-6-sol",
-    "cohere:98a4fc63a74acd22",
-    "nvidia ai:c9028166df68641f",
     "nvidia ai:98d218afe497aee6",
     "https://openai.com/index/hp-frontier-partnership",
     "75ff6f3c82b0059dac1623c26b94c453f2dbffa5",
@@ -515,12 +512,10 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "nvidia ai:021df393d0749fc1",
     "https://openai.com/index/jalapeno-first-results",
-    "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "https://openai.com/index/introducing-admin-plugin"
   ],
   "seenAt": {
-    "https://openai.com/index/previewing-gpt-5-6-sol": "2026-06-26T18:29:39.948Z",
-    "cohere:98a4fc63a74acd22": "2026-06-26T18:29:39.948Z",
-    "nvidia ai:c9028166df68641f": "2026-06-26T18:29:39.948Z",
     "nvidia ai:98d218afe497aee6": "2026-06-26T20:45:06.706Z",
     "https://openai.com/index/hp-frontier-partnership": "2026-06-29T00:05:38.575Z",
     "75ff6f3c82b0059dac1623c26b94c453f2dbffa5": "2026-06-29T17:33:41.146Z",
@@ -999,7 +994,8 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-25T15:38:19.175Z",
     "nvidia ai:021df393d0749fc1": "2026-08-25T15:38:19.175Z",
     "https://openai.com/index/jalapeno-first-results": "2026-08-25T15:38:19.175Z",
-    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": "2026-08-25T16:32:26.215Z"
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": "2026-08-25T16:32:26.215Z",
+    "https://openai.com/index/introducing-admin-plugin": "2026-08-25T18:34:34.916Z"
   },
-  "updatedAt": "2026-08-25T16:32:26.215Z"
+  "updatedAt": "2026-08-25T18:34:34.916Z"
 }
