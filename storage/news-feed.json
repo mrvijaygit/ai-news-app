@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:ddc384453fa5c02a",
+      "title": "Grok for Outlook",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "mistral ai:4aae3865b9f776ff",
       "title": "Mistral X Humain/",
       "summary": "Mistral X Humain/",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-08-10T13:27:19.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/muse-glimmer",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "link": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-10T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T08:37:16.662Z"
+  "updatedAt": "2026-08-25T09:31:22.710Z"
 }
