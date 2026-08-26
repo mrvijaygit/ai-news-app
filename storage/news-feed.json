@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:eb3235d954e50c16",
+      "title": "Open Release of Grok-1",
+      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
+      "link": "https://x.ai/news/grok-os",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9c5cd59fc5d31e7d",
+      "title": "Announcing PromptIDE",
+      "summary": "Integrated development environment for prompt engineering and interpretability research.",
+      "link": "https://x.ai/news/prompt-ide",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "perplexity ai:9a550bf7351bbbfc",
       "title": "Research Aug 25, 2026 A Local-First Agent for Private and Cost-Effective Knowledge Work A harness and model co-designed ",
       "summary": "Research Aug 25, 2026 A Local-First Agent for Private and Cost-Effective Knowledge Work A harness and model co-designed",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:9689f95a1df38884",
-      "title": "Grok-1.5 Vision Preview",
-      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
-      "link": "https://x.ai/news/grok-1.5v",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f58ce5a98926f521",
-      "title": "Announcing Grok-1.5",
-      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
-      "link": "https://x.ai/news/grok-1.5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-26T03:00:31.583Z"
+  "updatedAt": "2026-08-26T04:35:20.564Z"
 }
