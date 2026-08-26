@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "72a57f49ae4a30c9171124efb14f5f05b1febd89",
+      "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+      "summary": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-26T15:48:10.000Z"
+    },
+    {
       "id": "xai:3e11ccf07939781a",
       "title": "Grok-2 Beta Release",
       "summary": "We announce our new Grok-2 and Grok-2 mini models.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-11T15:59:22.000Z"
-    },
-    {
-      "id": "nvidia ai:3bf55ef3478f27dc",
-      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-      "summary": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning... Long-running AI agents spend most of their time on...",
-      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-11T13:01:07.000Z"
-    },
-    {
-      "id": "nvidia ai:6043836dbaba7404",
-      "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-      "summary": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one... Building an AI agent does not end with choosing a single model....",
-      "link": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-11T13:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T14:40:20.869Z"
+  "updatedAt": "2026-08-26T16:14:36.801Z"
 }
