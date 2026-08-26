@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
       "id": "xai:f5eec09fcb832980",
       "title": "Series B funding round",
       "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-26T06:41:04.602Z"
+  "updatedAt": "2026-08-26T13:51:48.777Z"
 }

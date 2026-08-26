@@ -516,7 +516,8 @@
     "bcd03430b15f5c1675997d3f2fcc6d165ab30085",
     "nvidia ai:cf0b18a5309e7084",
     "perplexity ai:9a550bf7351bbbfc",
-    "perplexity ai:02686e8b453d3e70"
+    "perplexity ai:02686e8b453d3e70",
+    "https://huggingface.co/blog/train-multi-vector-encoder"
   ],
   "seenAt": {
     "https://openai.com/index/hp-frontier-partnership": "2026-06-29T00:05:38.575Z",
@@ -1001,7 +1002,8 @@
     "bcd03430b15f5c1675997d3f2fcc6d165ab30085": "2026-08-25T19:27:57.885Z",
     "nvidia ai:cf0b18a5309e7084": "2026-08-25T21:23:34.014Z",
     "perplexity ai:9a550bf7351bbbfc": "2026-08-26T03:00:31.581Z",
-    "perplexity ai:02686e8b453d3e70": "2026-08-26T03:00:31.581Z"
+    "perplexity ai:02686e8b453d3e70": "2026-08-26T03:00:31.581Z",
+    "https://huggingface.co/blog/train-multi-vector-encoder": "2026-08-26T13:51:48.773Z"
   },
-  "updatedAt": "2026-08-26T03:00:31.581Z"
+  "updatedAt": "2026-08-26T13:51:48.773Z"
 }
