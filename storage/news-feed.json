@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "perplexity ai:9a550bf7351bbbfc",
+      "title": "Research Aug 25, 2026 A Local-First Agent for Private and Cost-Effective Knowledge Work A harness and model co-designed ",
+      "summary": "Research Aug 25, 2026 A Local-First Agent for Private and Cost-Effective Knowledge Work A harness and model co-designed",
+      "link": "https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:02686e8b453d3e70",
+      "title": "News Aug 25, 2026 Introducing Portable Computer for local-first AI Portable Computer runs Perplexity Computer entirely o",
+      "summary": "News Aug 25, 2026 Introducing Portable Computer for local-first AI Portable Computer runs Perplexity Computer entirely o",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:4c6b67f60cd9988a",
       "title": "Announcing Grok",
       "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:eb3235d954e50c16",
-      "title": "Open Release of Grok-1",
-      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
-      "link": "https://x.ai/news/grok-os",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-25T22:22:08.358Z"
+  "updatedAt": "2026-08-26T03:00:31.583Z"
 }
