@@ -525,7 +525,11 @@
     "1e93ba86b7ae1669fbe51dab04bbc4c453221247",
     "754286664acbb27c986bdae9cedda3b54d89bae4",
     "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "https://openai.com/index/learning-never-stops"
+    "https://openai.com/index/learning-never-stops",
+    "nvidia ai:58e1d08499fd40f8",
+    "nvidia ai:f95673a6a526341f",
+    "df64df944c17204a015d9f827bd37bc9ecaa7303",
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
   ],
   "seenAt": {
     "https://openai.com/index/hp-frontier-partnership": "2026-06-29T00:05:38.575Z",
@@ -1019,7 +1023,11 @@
     "1e93ba86b7ae1669fbe51dab04bbc4c453221247": "2026-08-26T18:56:03.178Z",
     "754286664acbb27c986bdae9cedda3b54d89bae4": "2026-08-26T18:56:03.178Z",
     "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": "2026-08-26T18:56:03.178Z",
-    "https://openai.com/index/learning-never-stops": "2026-08-26T18:56:03.178Z"
+    "https://openai.com/index/learning-never-stops": "2026-08-26T18:56:03.178Z",
+    "nvidia ai:58e1d08499fd40f8": "2026-08-26T21:38:40.796Z",
+    "nvidia ai:f95673a6a526341f": "2026-08-26T21:38:40.796Z",
+    "df64df944c17204a015d9f827bd37bc9ecaa7303": "2026-08-26T21:38:40.796Z",
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead": "2026-08-26T21:38:40.796Z"
   },
-  "updatedAt": "2026-08-26T18:56:03.178Z"
+  "updatedAt": "2026-08-26T21:38:40.796Z"
 }
