@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:9689f95a1df38884",
       "title": "Grok-1.5 Vision Preview",
       "summary": "Connecting the digital and physical worlds with our first multimodal model.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/zapier",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "link": "https://openai.com/index/zapier",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-10T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T05:30:26.011Z"
+  "updatedAt": "2026-08-26T06:41:04.602Z"
 }
