@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:349feed19ac68219",
+      "title": "Grok 4 Fast",
+      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
+      "link": "https://x.ai/news/grok-4-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:07bfdcfb3e2da3ae",
+      "title": "Grok Code Fast 1",
+      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
+      "link": "https://x.ai/news/grok-code-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:01e3b8304d8cac5f",
+      "title": "Announcing xAI for Government",
+      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+      "link": "https://x.ai/news/government",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:0b42cd3858907903",
+      "title": "Grok 4",
+      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
+      "link": "https://x.ai/news/grok-4",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5a8f9dcef91affc",
+      "title": "Grok 3 Beta — The Age of Reasoning Agents",
+      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+      "link": "https://x.ai/news/grok-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:3ab5a13705050098",
       "title": "Grok 4.6 on Microsoft Foundry",
       "summary": "Grok 4.6 on Microsoft Foundry",
@@ -1754,52 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "title": "Daybreak models are now available on AWS",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "id": "xai:10e8261a0b7d99f9",
-      "title": "Grok 4.1 Fast and Agent Tools API",
-      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
-      "link": "https://x.ai/news/grok-4-1-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:03b62e9ad296bc89",
-      "title": "Grok goes Global with KSA",
-      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
-      "link": "https://x.ai/news/grok-goes-global",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:cb89379e9df365fb",
-      "title": "Grok 4.1",
-      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
-      "link": "https://x.ai/news/grok-4-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:792ef6ba62d36e10",
-      "title": "Expanding xAI for Government with GSA OneGov",
-      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
-      "link": "https://x.ai/news/onegov",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-27T02:51:52.226Z"
+  "updatedAt": "2026-08-27T13:42:39.161Z"
 }
