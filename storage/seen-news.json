@@ -531,7 +531,12 @@
     "df64df944c17204a015d9f827bd37bc9ecaa7303",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "nvidia ai:af3c22b058a0edce",
-    "xai:3ab5a13705050098"
+    "xai:3ab5a13705050098",
+    "3c57691eafa2d6c582d04d51debd371df1ea818e",
+    "a396074812fe8a0090f88e23aed4ff7add4538d3",
+    "61ebfd4bb75d20f4c4d64b731c1e86a4ebed0031",
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "anthropic:86e159653d16bcd7"
   ],
   "seenAt": {
     "https://openai.com/index/hp-frontier-partnership": "2026-06-29T00:05:38.575Z",
@@ -1031,7 +1036,12 @@
     "df64df944c17204a015d9f827bd37bc9ecaa7303": "2026-08-26T21:38:40.796Z",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead": "2026-08-26T21:38:40.796Z",
     "nvidia ai:af3c22b058a0edce": "2026-08-27T02:51:52.224Z",
-    "xai:3ab5a13705050098": "2026-08-27T02:51:52.224Z"
+    "xai:3ab5a13705050098": "2026-08-27T02:51:52.224Z",
+    "3c57691eafa2d6c582d04d51debd371df1ea818e": "2026-08-27T23:32:37.581Z",
+    "a396074812fe8a0090f88e23aed4ff7add4538d3": "2026-08-27T23:32:37.581Z",
+    "61ebfd4bb75d20f4c4d64b731c1e86a4ebed0031": "2026-08-27T23:32:37.581Z",
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": "2026-08-27T23:32:37.581Z",
+    "anthropic:86e159653d16bcd7": "2026-08-27T23:32:37.581Z"
   },
-  "updatedAt": "2026-08-27T02:51:52.224Z"
+  "updatedAt": "2026-08-27T23:32:37.581Z"
 }
