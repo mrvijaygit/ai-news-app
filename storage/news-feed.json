@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "xai:3ab5a13705050098",
+      "title": "Grok 4.6 on Microsoft Foundry",
+      "summary": "Grok 4.6 on Microsoft Foundry",
+      "link": "https://x.ai/news/grok-4-6-microsoft-foundry",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:13a5a3be6d8e7c4c",
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
+      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
+      "link": "https://x.ai/news/grok-4-5-everywhere",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2eb1be0eab97116d",
+      "title": "xAI raises $6B Series C",
+      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+      "link": "https://x.ai/news/series-c",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8ed876cc63c6ba10",
+      "title": "Bringing Grok to Everyone",
+      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-1212",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5423ee5e4457fb03",
+      "title": "Grok Image Generation Release",
+      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-image-generation-release",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:af3c22b058a0edce",
+      "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+      "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s... Alibaba released the model weights for Qwen3.8-Flash-Next...",
+      "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-26T17:07:12.000Z"
+    },
+    {
       "id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "title": "The Hugging Face incident and the road ahead",
       "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:349feed19ac68219",
-      "title": "Grok 4 Fast",
-      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
-      "link": "https://x.ai/news/grok-4-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:07bfdcfb3e2da3ae",
-      "title": "Grok Code Fast 1",
-      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
-      "link": "https://x.ai/news/grok-code-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:01e3b8304d8cac5f",
-      "title": "Announcing xAI for Government",
-      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
-      "link": "https://x.ai/news/government",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "f6522d8386d10fcc6d1ab85b0676218a20acd0e9",
-      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
-      "summary": "Daybreak Red and Daybreak Blue from OpenAI, specialized cyber defense models from OpenAI, are now available on Amazon Bedrock to eligible customers. Both models run with zero-operator access enforced at the chip,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-11T21:38:06.000Z"
-    },
-    {
-      "id": "xai:0b42cd3858907903",
-      "title": "Grok 4",
-      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
-      "link": "https://x.ai/news/grok-4",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5a8f9dcef91affc",
-      "title": "Grok 3 Beta — The Age of Reasoning Agents",
-      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
-      "link": "https://x.ai/news/grok-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-26T21:38:40.798Z"
+  "updatedAt": "2026-08-27T02:51:52.226Z"
 }

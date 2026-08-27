@@ -529,7 +529,9 @@
     "nvidia ai:58e1d08499fd40f8",
     "nvidia ai:f95673a6a526341f",
     "df64df944c17204a015d9f827bd37bc9ecaa7303",
-    "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "nvidia ai:af3c22b058a0edce",
+    "xai:3ab5a13705050098"
   ],
   "seenAt": {
     "https://openai.com/index/hp-frontier-partnership": "2026-06-29T00:05:38.575Z",
@@ -1027,7 +1029,9 @@
     "nvidia ai:58e1d08499fd40f8": "2026-08-26T21:38:40.796Z",
     "nvidia ai:f95673a6a526341f": "2026-08-26T21:38:40.796Z",
     "df64df944c17204a015d9f827bd37bc9ecaa7303": "2026-08-26T21:38:40.796Z",
-    "https://openai.com/index/hugging-face-incident-and-the-road-ahead": "2026-08-26T21:38:40.796Z"
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead": "2026-08-26T21:38:40.796Z",
+    "nvidia ai:af3c22b058a0edce": "2026-08-27T02:51:52.224Z",
+    "xai:3ab5a13705050098": "2026-08-27T02:51:52.224Z"
   },
-  "updatedAt": "2026-08-26T21:38:40.796Z"
+  "updatedAt": "2026-08-27T02:51:52.224Z"
 }
