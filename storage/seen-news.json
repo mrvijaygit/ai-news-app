@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/hp-frontier-partnership",
     "75ff6f3c82b0059dac1623c26b94c453f2dbffa5",
     "nvidia ai:9d29fbe6a6905733",
     "3a48407f30718965ac0a24f9004a09479b0671ab",
@@ -539,7 +538,6 @@
     "anthropic:86e159653d16bcd7"
   ],
   "seenAt": {
-    "https://openai.com/index/hp-frontier-partnership": "2026-06-29T00:05:38.575Z",
     "75ff6f3c82b0059dac1623c26b94c453f2dbffa5": "2026-06-29T17:33:41.146Z",
     "nvidia ai:9d29fbe6a6905733": "2026-06-29T17:33:41.146Z",
     "3a48407f30718965ac0a24f9004a09479b0671ab": "2026-06-29T19:52:41.227Z",
