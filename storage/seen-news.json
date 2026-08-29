@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "990284443dcdbd44e2886dc2de82d05f3818fc51",
-    "https://huggingface.co/blog/ibm-research/scarfbench",
-    "nvidia ai:fb68dedc4d7dab25",
-    "anthropic:94b70c1c175c4f44",
-    "anthropic:d034ec2ce4c1455b",
     "04ab21c59727c995ed236adb9de722150c09753b",
     "nvidia ai:37d584de929f0f11",
     "xai:e15e11a40907b4f4",
@@ -526,14 +521,10 @@
     "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278",
     "mistral ai:bf89ec03a105506f",
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "xai:16c4cffc8f18376e"
   ],
   "seenAt": {
-    "990284443dcdbd44e2886dc2de82d05f3818fc51": "2026-06-30T19:50:53.196Z",
-    "https://huggingface.co/blog/ibm-research/scarfbench": "2026-06-30T19:50:53.196Z",
-    "nvidia ai:fb68dedc4d7dab25": "2026-06-30T19:50:53.196Z",
-    "anthropic:94b70c1c175c4f44": "2026-06-30T19:50:53.196Z",
-    "anthropic:d034ec2ce4c1455b": "2026-06-30T19:50:53.196Z",
     "04ab21c59727c995ed236adb9de722150c09753b": "2026-07-01T03:31:07.182Z",
     "nvidia ai:37d584de929f0f11": "2026-07-01T17:11:44.193Z",
     "xai:e15e11a40907b4f4": "2026-07-01T17:11:44.193Z",
@@ -1021,7 +1012,8 @@
     "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278": "2026-08-28T20:40:42.292Z",
     "mistral ai:bf89ec03a105506f": "2026-08-28T20:40:42.292Z",
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand": "2026-08-28T20:40:42.292Z",
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T03:03:35.675Z"
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T03:03:35.675Z",
+    "xai:16c4cffc8f18376e": "2026-08-29T22:17:31.979Z"
   },
-  "updatedAt": "2026-08-29T03:03:35.675Z"
+  "updatedAt": "2026-08-29T22:17:31.979Z"
 }

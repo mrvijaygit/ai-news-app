@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:16c4cffc8f18376e",
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now has a tighter integration with X.",
+      "link": "https://x.ai/news/grok-bot-and-x",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
@@ -1790,16 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "mistral ai:ed0f3c7a49cb1d48",
-      "title": "Llm As Rag Judge/",
-      "summary": "Llm As Rag Judge/",
-      "link": "https://mistral.ai/news/llm-as-rag-judge/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-29T03:03:35.678Z"
+  "updatedAt": "2026-08-29T22:17:31.981Z"
 }
