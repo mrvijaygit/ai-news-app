@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:4b42402df6c4e910",
+      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+      "summary": "Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next.... Agentic AI is changing how research is done. AI...",
+      "link": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-31T16:30:00.000Z"
+    },
+    {
+      "id": "nvidia ai:b3e349196818cc27",
+      "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+      "summary": "A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle... A perception stack is shaped by the vehicle that carries it....",
+      "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-08-31T16:00:00.000Z"
+    },
+    {
       "id": "xai:16c4cffc8f18376e",
       "title": "Grok Bot now works with X",
       "summary": "Grok Bot now has a tighter integration with X.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:5814f5ea763c956b",
-      "title": "Grok in Google Workspace",
-      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
-      "link": "https://x.ai/news/introducing-google-workspace-addon",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-12T06:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:9bcf0cc6af22ad14",
-      "title": "Le Chat Mistral/",
-      "summary": "Le Chat Mistral/",
-      "link": "https://mistral.ai/news/le-chat-mistral/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-29T22:17:31.981Z"
+  "updatedAt": "2026-08-31T17:50:18.776Z"
 }

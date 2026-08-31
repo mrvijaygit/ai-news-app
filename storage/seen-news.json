@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "cohere:7b11ae70b7f3ca86",
     "395d0b963ef226d44d24b8de1b8d6428970e860f",
     "nvidia ai:f8af9f0a56fcd0eb",
     "3080a7799ade422bbe55136044702a7b0a6a88bb",
@@ -513,10 +512,12 @@
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "xai:16c4cffc8f18376e",
-    "xai:e15e11a40907b4f4"
+    "xai:e15e11a40907b4f4",
+    "nvidia ai:4b42402df6c4e910",
+    "nvidia ai:b3e349196818cc27",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
   ],
   "seenAt": {
-    "cohere:7b11ae70b7f3ca86": "2026-07-02T12:55:21.638Z",
     "395d0b963ef226d44d24b8de1b8d6428970e860f": "2026-07-02T19:19:46.909Z",
     "nvidia ai:f8af9f0a56fcd0eb": "2026-07-02T23:02:15.643Z",
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -995,7 +996,10 @@
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand": "2026-08-28T20:40:42.292Z",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T03:03:35.675Z",
     "xai:16c4cffc8f18376e": "2026-08-29T22:17:31.979Z",
-    "xai:e15e11a40907b4f4": "2026-08-30T20:29:55.705Z"
+    "xai:e15e11a40907b4f4": "2026-08-30T20:29:55.705Z",
+    "nvidia ai:4b42402df6c4e910": "2026-08-31T17:50:18.774Z",
+    "nvidia ai:b3e349196818cc27": "2026-08-31T17:50:18.774Z",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-08-31T17:50:18.774Z"
   },
-  "updatedAt": "2026-08-30T20:29:55.705Z"
+  "updatedAt": "2026-08-31T17:50:18.774Z"
 }
