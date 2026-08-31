@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:5814f5ea763c956b",
+      "title": "Grok in Google Workspace",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "link": "https://x.ai/news/introducing-google-workspace-addon",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "a35b8e6267585714982a44274684919dd8bb62e5",
+      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+      "summary": "AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-31T19:18:09.000Z"
+    },
+    {
+      "id": "323478b1ec9cbb8e9bd70aeb19b445443b64f0e8",
+      "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
+      "summary": "This post builds an enterprise agentic retrieval solution on the Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore. An agent reasons, routes across multiple knowledge bases, and returns cited answers,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-31T19:08:45.000Z"
+    },
+    {
+      "id": "aa6871124c0907be369777e6369d35b6c44e2000",
+      "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+      "summary": "Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-31T18:56:12.000Z"
+    },
+    {
       "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "title": "A milestone in expanding access to AI",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
@@ -1763,43 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": null
-    },
-    {
-      "id": "mistral ai:a3f9ce3884c9a824",
-      "title": "Batch Api/",
-      "summary": "Batch Api/",
-      "link": "https://mistral.ai/news/batch-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:052daf1b4aee87fd",
-      "title": "Debugging Memory Leak In Vllm/",
-      "summary": "Debugging Memory Leak In Vllm/",
-      "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:7ab92d6eb42cfef0",
-      "title": "Introducing Physics Ai At Mistral/",
-      "summary": "Introducing Physics Ai At Mistral/",
-      "link": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4ea5ad07a0d56f40",
-      "title": "Introducing Grok 4.6",
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
-      "link": "https://x.ai/news/grok-4-6",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-31T17:50:18.776Z"
+  "updatedAt": "2026-08-31T22:23:25.155Z"
 }
