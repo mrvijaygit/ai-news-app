@@ -529,7 +529,9 @@
     "nvidia ai:3c919050cccbbe5b",
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "google deepmind:f629c52294cbabdc",
-    "https://huggingface.co/blog/webgpu-kernels"
+    "https://huggingface.co/blog/webgpu-kernels",
+    "fe5a761d13fdea1cd6343d646c1e042d79f66815",
+    "https://openai.com/index/path-to-astra"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1027,7 +1029,9 @@
     "nvidia ai:3c919050cccbbe5b": "2026-09-01T17:33:37.140Z",
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": "2026-09-01T17:33:37.140Z",
     "google deepmind:f629c52294cbabdc": "2026-09-01T17:33:37.140Z",
-    "https://huggingface.co/blog/webgpu-kernels": "2026-09-01T17:33:37.140Z"
+    "https://huggingface.co/blog/webgpu-kernels": "2026-09-01T17:33:37.140Z",
+    "fe5a761d13fdea1cd6343d646c1e042d79f66815": "2026-09-01T20:29:46.116Z",
+    "https://openai.com/index/path-to-astra": "2026-09-01T20:29:46.116Z"
   },
-  "updatedAt": "2026-09-01T17:33:37.140Z"
+  "updatedAt": "2026-09-01T20:29:46.116Z"
 }
