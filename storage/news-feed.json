@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/ai-native-company-workflows",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-01T16:00:00.000Z"
+    },
+    {
+      "id": "google deepmind:f629c52294cbabdc",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "Introducing agentic video understanding with Gemini",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind Blog",
+      "company": "Google DeepMind",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "c09782028dd4cf40d9245e4cd28716a51318e5b0",
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "summary": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-01T16:17:54.000Z"
+    },
+    {
+      "id": "008129bbc0eabcb083993ebf3af85f5167177c99",
+      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "summary": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-01T16:02:22.000Z"
+    },
+    {
+      "id": "6d27453be64ca6b4b4bfe0edebc3b8aa1367edf7",
+      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+      "summary": "t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-01T15:50:00.000Z"
+    },
+    {
+      "id": "48cbbe2c304a8279bcc16025341884fcd5d58fd7",
+      "title": "How Boomi Scribe streamlines documentation using AWS",
+      "summary": "Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-01T15:45:36.000Z"
+    },
+    {
+      "id": "nvidia ai:74971eff5bc1a209",
+      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+      "summary": "AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to... AI is changing the pace of cybersecurity. Agentic...",
+      "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-01T17:00:04.000Z"
+    },
+    {
+      "id": "nvidia ai:3c919050cccbbe5b",
+      "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
+      "summary": "The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently... The surge in AI adoption is transforming everything from...",
+      "link": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-01T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/webgpu-kernels",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/polimill",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
@@ -1700,106 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-13T15:56:07.000Z"
-    },
-    {
-      "id": "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284",
-      "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
-      "summary": "Learn how to build a multi-agent M&A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent orchestration, knowledge retrieval, and governance controls,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-13T15:52:44.000Z"
-    },
-    {
-      "id": "f7e47af42f400e3f4aeaea3b8fcc2ab80d496253",
-      "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
-      "summary": "Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document editing into the Microsoft 365 apps your teams already use,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-13T15:48:15.000Z"
-    },
-    {
-      "id": "https://openai.com/index/ringcentral",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "link": "https://openai.com/index/ringcentral",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-12T00:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:6a0a3e2541136c9f",
-      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
-      "summary": "Alibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open... Alibaba released the open weights for Qwen3.8-2.4T-A95B...",
-      "link": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-12T18:23:13.000Z"
-    },
-    {
-      "id": "xai:6fb78d5fa6c818ae",
-      "title": "Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4126c5521b9e1336",
-      "title": "Composer 2.5",
-      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
-      "link": "https://x.ai/news/composer-2-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:4724f35f442e729f",
-      "title": "About Mistral Ai/",
-      "summary": "About Mistral Ai/",
-      "link": "https://mistral.ai/news/about-mistral-ai/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:cc8a62a9a002c9f0",
-      "title": "Agentic Workflows From Meetings To Dev Tickets/",
-      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
-      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:e149a7820e21119f",
-      "title": "Agents Api/",
-      "summary": "Agents Api/",
-      "link": "https://mistral.ai/news/agents-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:950769d2f630ca6f",
-      "title": "Grok on Databricks",
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "link": "https://x.ai/news/grok-databricks",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:000376eced0f7685",
-      "title": "Grok on Amazon Bedrock",
-      "summary": "Grok models are now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-01T01:36:07.171Z"
+  "updatedAt": "2026-09-01T17:33:37.143Z"
 }
