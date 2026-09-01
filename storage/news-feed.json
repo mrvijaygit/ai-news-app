@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/polimill",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "link": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "id": "xai:4ea5ad07a0d56f40",
+      "title": "Introducing Grok 4.6",
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "link": "https://x.ai/news/grok-4-6",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "0b043ce49f9a164fa994a19b2ff7903218809861",
+      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+      "summary": "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-08-31T22:47:53.000Z"
+    },
+    {
       "id": "xai:5814f5ea763c956b",
       "title": "Grok in Google Workspace",
       "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:b914e54180de85a0",
-      "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
-      "summary": "AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the... AI infrastructure spans multiple layers, from compute and...",
-      "link": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-12T16:13:47.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "summary": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-12T16:14:36.000Z"
-    },
-    {
-      "id": "mistral ai:0e09c6a8c54494af",
-      "title": "Announcing Mistral 7b/",
-      "summary": "Announcing Mistral 7b/",
-      "link": "https://mistral.ai/news/announcing-mistral-7b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-08-31T22:23:25.155Z"
+  "updatedAt": "2026-09-01T01:36:07.171Z"
 }
