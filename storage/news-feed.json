@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-01T20:45:00.000Z"
+    },
+    {
+      "id": "xai:392dca10a759ab7c",
+      "title": "Introducing Build Mode",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "link": "https://x.ai/news/grok-build-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ea7ad631cd2df309",
+      "title": "Introducing /goal",
+      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
+      "link": "https://x.ai/news/introducing-goal",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-01T21:39:07.000Z"
+    },
+    {
       "id": "https://openai.com/index/path-to-astra",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-14T16:02:10.000Z"
-    },
-    {
-      "id": "93b011a326051e62ed303da1c918720e315d449d",
-      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-      "summary": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each specialized agent uses the model best suited to its job. This post...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-14T15:58:44.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "summary": "State of Open Models: Summer 2026 Observations",
-      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-14T00:00:00.000Z"
-    },
-    {
-      "id": "xai:aeb52aceb6679ea3",
-      "title": "Grok 4.5 in GitHub Copilot",
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-13T11:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T20:29:46.119Z"
+  "updatedAt": "2026-09-01T22:58:41.692Z"
 }
