@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/gilbert-tobin",
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
@@ -1790,16 +1799,7 @@
       "source": "Google AI Blog",
       "company": "Google AI / Gemini",
       "publishedAt": "2026-08-17T08:00:00.000Z"
-    },
-    {
-      "id": "xai:e14bedc28fd4dbb8",
-      "title": "Introducing Grok Voice Think Fast 2.0",
-      "summary": "Introducing our most capable speech-to-speech voice model.",
-      "link": "https://x.ai/news/grok-voice-think-fast-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-02T05:25:09.688Z"
+  "updatedAt": "2026-09-02T10:33:22.929Z"
 }
