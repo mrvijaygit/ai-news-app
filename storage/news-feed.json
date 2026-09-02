@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:e14bedc28fd4dbb8",
+      "title": "Introducing Grok Voice Think Fast 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
+      "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-02T13:49:14.000Z"
+    },
+    {
       "id": "xai:56410469519f91d2",
       "title": "Grok 4.6 in GitHub Copilot",
       "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
@@ -1781,25 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-08-17T18:12:48.000Z"
-    },
-    {
-      "id": "09559dd685a47bca5e3b94a074ceb00bc15d872e",
-      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
-      "summary": "Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 protocol, using the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-17T16:19:56.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-08-17T08:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T10:33:22.929Z"
+  "updatedAt": "2026-09-02T14:56:18.081Z"
 }
