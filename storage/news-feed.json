@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:aeb52aceb6679ea3",
+      "title": "Grok 4.5 in GitHub Copilot",
+      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "title": "The latest AI news we announced in August 2026",
       "summary": "Here are Google’s latest AI updates from August 2026",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "5a3280b9270a601999f904d82bfca05f0f783e68",
-      "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
-      "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-14T16:02:10.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T22:58:41.692Z"
+  "updatedAt": "2026-09-02T00:55:19.893Z"
 }
