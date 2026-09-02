@@ -535,7 +535,12 @@
     "https://huggingface.co/blog/allenai/benchmirt",
     "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
     "https://openai.com/index/gilbert-tobin",
-    "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "e771b13b28ead96c665aa300c29b20385700a5dd",
+    "fab84ee3b87745244660d46e82d0bdf577316d98",
+    "nvidia ai:01e6483fc333c095",
+    "nvidia ai:b65ffe0578d4906b",
+    "google deepmind:55b014275a1ef77f"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1039,7 +1044,12 @@
     "https://huggingface.co/blog/allenai/benchmirt": "2026-09-01T22:58:41.690Z",
     "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": "2026-09-01T22:58:41.690Z",
     "https://openai.com/index/gilbert-tobin": "2026-09-02T05:25:09.685Z",
-    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T14:56:18.079Z"
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T14:56:18.079Z",
+    "e771b13b28ead96c665aa300c29b20385700a5dd": "2026-09-02T18:26:24.018Z",
+    "fab84ee3b87745244660d46e82d0bdf577316d98": "2026-09-02T18:26:24.018Z",
+    "nvidia ai:01e6483fc333c095": "2026-09-02T18:26:24.018Z",
+    "nvidia ai:b65ffe0578d4906b": "2026-09-02T18:26:24.018Z",
+    "google deepmind:55b014275a1ef77f": "2026-09-02T18:26:24.018Z"
   },
-  "updatedAt": "2026-09-02T14:56:18.079Z"
+  "updatedAt": "2026-09-02T18:26:24.018Z"
 }
