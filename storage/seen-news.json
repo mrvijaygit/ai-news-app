@@ -533,7 +533,8 @@
     "fe5a761d13fdea1cd6343d646c1e042d79f66815",
     "https://openai.com/index/path-to-astra",
     "https://huggingface.co/blog/allenai/benchmirt",
-    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "https://openai.com/index/gilbert-tobin"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1035,7 +1036,8 @@
     "fe5a761d13fdea1cd6343d646c1e042d79f66815": "2026-09-01T20:29:46.116Z",
     "https://openai.com/index/path-to-astra": "2026-09-01T20:29:46.116Z",
     "https://huggingface.co/blog/allenai/benchmirt": "2026-09-01T22:58:41.690Z",
-    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": "2026-09-01T22:58:41.690Z"
+    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": "2026-09-01T22:58:41.690Z",
+    "https://openai.com/index/gilbert-tobin": "2026-09-02T05:25:09.685Z"
   },
-  "updatedAt": "2026-09-01T22:58:41.690Z"
+  "updatedAt": "2026-09-02T05:25:09.685Z"
 }

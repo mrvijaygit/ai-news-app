@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/gilbert-tobin",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-01T01:00:00.000Z"
+    },
+    {
       "id": "xai:aeb52aceb6679ea3",
       "title": "Grok 4.5 in GitHub Copilot",
       "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:56410469519f91d2",
-      "title": "Grok 4.6 in GitHub Copilot",
-      "summary": "Grok 4.6 in GitHub Copilot",
-      "link": "https://x.ai/news/grok-4-6-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-02T00:55:19.893Z"
+  "updatedAt": "2026-09-02T05:25:09.688Z"
 }
