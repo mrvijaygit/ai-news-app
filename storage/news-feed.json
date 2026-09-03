@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-03T13:15:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "xai:0d1046969d236781",
+      "title": "Grok Bot for Enterprise",
+      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "link": "https://x.ai/news/grok-bot-for-enterprise",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:5fc7a578f53f17f5",
       "title": "Designing Grok Bot for a world of persistent agents",
       "summary": "Designing Grok Bot for a world of persistent agents",
@@ -1754,52 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:35425ef3f910664b",
-      "title": "Grok Becomes the Voice of Vapi",
-      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
-      "link": "https://x.ai/news/grok-vapi",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:c853a1287bb2aaed",
-      "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
-      "summary": "Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data... Modern vision-language models (VLMs) can support tasks...",
-      "link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-19T17:50:47.000Z"
-    },
-    {
-      "id": "nvidia ai:751706184f6d58a8",
-      "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
-      "summary": "AI agents are only as effective as the context they receive. Even with capable models and well-documented NVIDIA libraries, agents can spend extra steps finding... AI agents are only as effective as the context they...",
-      "link": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-19T16:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-19T19:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-03T19:37:04.525Z"
+  "updatedAt": "2026-09-03T22:17:38.127Z"
 }

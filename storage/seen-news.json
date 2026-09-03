@@ -553,7 +553,12 @@
     "nvidia ai:4b60296e18afa95d",
     "https://huggingface.co/blog/Hcompany/neomme",
     "cohere:68cfaab320839548",
-    "xai:5fc7a578f53f17f5"
+    "xai:5fc7a578f53f17f5",
+    "https://openai.com/index/daybreak-for-frontline-defenders",
+    "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "https://openai.com/index/playco-game-prototyping-with-astra",
+    "https://openai.com/index/safety-overview-gpt-6-astra",
+    "xai:0d1046969d236781"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1075,7 +1080,12 @@
     "nvidia ai:4b60296e18afa95d": "2026-09-03T16:54:17.203Z",
     "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T16:54:17.203Z",
     "cohere:68cfaab320839548": "2026-09-03T16:54:17.203Z",
-    "xai:5fc7a578f53f17f5": "2026-09-03T19:37:04.523Z"
+    "xai:5fc7a578f53f17f5": "2026-09-03T19:37:04.523Z",
+    "https://openai.com/index/daybreak-for-frontline-defenders": "2026-09-03T22:17:38.125Z",
+    "https://openai.com/index/legora-financial-statement-review-with-astra": "2026-09-03T22:17:38.125Z",
+    "https://openai.com/index/playco-game-prototyping-with-astra": "2026-09-03T22:17:38.125Z",
+    "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-03T22:17:38.125Z",
+    "xai:0d1046969d236781": "2026-09-03T22:17:38.125Z"
   },
-  "updatedAt": "2026-09-03T19:37:04.523Z"
+  "updatedAt": "2026-09-03T22:17:38.125Z"
 }
