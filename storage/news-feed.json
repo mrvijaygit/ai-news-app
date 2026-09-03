@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:5fc7a578f53f17f5",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "Designing Grok Bot for a world of persistent agents",
+      "link": "https://x.ai/news/designing-grok-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a12dd6a66dd51433",
+      "title": "Grok 4.6 on Amazon Bedrock",
+      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
+      "link": "https://x.ai/news/grok-4-6-amazon-bedrock",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "7f13f4ae79bd6cd66b1556e1c750bffc4bbd385e",
       "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
       "summary": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and...",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:4fae90f5a69727a2",
-      "title": "Regional Inference Open Models New Compute/",
-      "summary": "Regional Inference Open Models New Compute/",
-      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-08-19T15:48:23.739Z"
-    },
-    {
-      "id": "mistral ai:be3e244fb201bbd6",
-      "title": "Announcing Mistral 7b/",
-      "summary": "Announcing Mistral 7b/",
-      "link": "https://mistral.ai/news/announcing-mistral-7b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-08-18T10:19:54.847Z"
     }
   ],
-  "updatedAt": "2026-09-03T16:54:17.206Z"
+  "updatedAt": "2026-09-03T19:37:04.525Z"
 }

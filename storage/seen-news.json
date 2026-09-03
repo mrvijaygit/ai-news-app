@@ -552,7 +552,8 @@
     "40a2051ba133076564be9a3ec056645bf56e872f",
     "nvidia ai:4b60296e18afa95d",
     "https://huggingface.co/blog/Hcompany/neomme",
-    "cohere:68cfaab320839548"
+    "cohere:68cfaab320839548",
+    "xai:5fc7a578f53f17f5"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1073,7 +1074,8 @@
     "40a2051ba133076564be9a3ec056645bf56e872f": "2026-09-03T16:54:17.203Z",
     "nvidia ai:4b60296e18afa95d": "2026-09-03T16:54:17.203Z",
     "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T16:54:17.203Z",
-    "cohere:68cfaab320839548": "2026-09-03T16:54:17.203Z"
+    "cohere:68cfaab320839548": "2026-09-03T16:54:17.203Z",
+    "xai:5fc7a578f53f17f5": "2026-09-03T19:37:04.523Z"
   },
-  "updatedAt": "2026-09-03T16:54:17.203Z"
+  "updatedAt": "2026-09-03T19:37:04.523Z"
 }
