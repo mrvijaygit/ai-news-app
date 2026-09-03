@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "7f13f4ae79bd6cd66b1556e1c750bffc4bbd385e",
+      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+      "summary": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-03T16:16:28.000Z"
+    },
+    {
+      "id": "1e149a889d6a6b8dc35bceb6393275d0cdbe39b8",
+      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+      "summary": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-03T16:14:12.000Z"
+    },
+    {
+      "id": "45013122d99dd69ba75174b10b7aa6d2c0edead0",
+      "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+      "summary": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-03T16:10:39.000Z"
+    },
+    {
+      "id": "40a2051ba133076564be9a3ec056645bf56e872f",
+      "title": "Best practices for building agentic automations with Amazon Quick Automate",
+      "summary": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-03T16:08:28.000Z"
+    },
+    {
+      "id": "nvidia ai:4b60296e18afa95d",
+      "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+      "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents.... AI agents are learning to do more by working together. A...",
+      "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/Hcompany/neomme",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-03T13:13:48.000Z"
+    },
+    {
+      "id": "cohere:68cfaab320839548",
+      "title": "How Small Models Can Make A Big Impact For Enterprises",
+      "summary": "How Small Models Can Make A Big Impact For Enterprises",
+      "link": "https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
       "summary": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -1736,70 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-08-18T10:19:54.847Z"
-    },
-    {
-      "id": "nvidia ai:57e97a7b12c9369a",
-      "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
-      "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for... Robots need policies that can adapt to their sensors,...",
-      "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-19T16:00:00.000Z"
-    },
-    {
-      "id": "xai:a12dd6a66dd51433",
-      "title": "Grok 4.6 on Amazon Bedrock",
-      "summary": "Grok 4.6 on Amazon Bedrock",
-      "link": "https://x.ai/news/grok-4-6-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/replit",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "link": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-19T07:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-18T22:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/nvidia/chatgpt-work",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "link": "https://openai.com/index/nvidia/chatgpt-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "title": "Strengthening Democratic Oversight in National Security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-18T19:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-18T11:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-03T12:33:36.272Z"
+  "updatedAt": "2026-09-03T16:54:17.206Z"
 }
