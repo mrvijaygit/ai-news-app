@@ -542,7 +542,10 @@
     "nvidia ai:b65ffe0578d4906b",
     "google deepmind:55b014275a1ef77f",
     "262427adeddcaf49102f989ea5bfb8332e685f6c",
-    "https://openai.com/index/atv-big-air-tour"
+    "https://openai.com/index/atv-big-air-tour",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://huggingface.co/blog/funes",
+    "https://huggingface.co/blog/train-to-paint-with-code"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1053,7 +1056,10 @@
     "nvidia ai:b65ffe0578d4906b": "2026-09-02T18:26:24.018Z",
     "google deepmind:55b014275a1ef77f": "2026-09-02T18:26:24.018Z",
     "262427adeddcaf49102f989ea5bfb8332e685f6c": "2026-09-02T21:33:39.978Z",
-    "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:49:41.484Z"
+    "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:49:41.484Z",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T12:33:36.269Z",
+    "https://huggingface.co/blog/funes": "2026-09-03T12:33:36.269Z",
+    "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T12:33:36.269Z"
   },
-  "updatedAt": "2026-09-02T23:49:41.484Z"
+  "updatedAt": "2026-09-03T12:33:36.269Z"
 }

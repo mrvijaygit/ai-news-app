@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/funes",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "Give Your Coding Agents a Memory You Own",
+      "link": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/train-to-paint-with-code",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/atv-big-air-tour",
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
@@ -1772,34 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "id": "12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f",
-      "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
-      "summary": "Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-agnostic payment orchestration, and production-ready...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-18T18:56:14.000Z"
-    },
-    {
-      "id": "nvidia ai:c18ccea74c750d9f",
-      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
-      "summary": "Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the... Atomistic simulation requires three things: knowledge of the...",
-      "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-18T18:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "How Much Memory Does Your Agent Actually Need?",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-18T18:09:38.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T23:49:41.486Z"
+  "updatedAt": "2026-09-03T12:33:36.272Z"
 }
