@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:7f96b684a449083b",
+      "title": "Grok Imagine 1.5 Preview",
+      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+      "link": "https://x.ai/news/grok-imagine-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:35425ef3f910664b",
+      "title": "Grok Becomes the Voice of Vapi",
+      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
+      "link": "https://x.ai/news/grok-vapi",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:1829c617fdcb4281",
+      "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+      "summary": "Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook... Modern AI platforms are no longer a single application...",
+      "link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-03T22:36:02.000Z"
+    },
+    {
       "id": "https://openai.com/index/daybreak-for-frontline-defenders",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
@@ -1772,34 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-19T20:40:45.000Z"
-    },
-    {
-      "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "id": "xai:61a45589bea1e81d",
-      "title": "Grok Build is Now Open Source",
-      "summary": "Explore the harness behind our coding agent and TUI.",
-      "link": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:8a057b2058898150",
-      "title": "Explore the markets with Interactive Brokers and Grok",
-      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
-      "link": "https://x.ai/news/grok-interactive-brokers",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-03T22:17:38.127Z"
+  "updatedAt": "2026-09-04T00:45:23.326Z"
 }

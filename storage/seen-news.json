@@ -558,7 +558,8 @@
     "https://openai.com/index/legora-financial-statement-review-with-astra",
     "https://openai.com/index/playco-game-prototyping-with-astra",
     "https://openai.com/index/safety-overview-gpt-6-astra",
-    "xai:0d1046969d236781"
+    "xai:0d1046969d236781",
+    "nvidia ai:1829c617fdcb4281"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1085,7 +1086,8 @@
     "https://openai.com/index/legora-financial-statement-review-with-astra": "2026-09-03T22:17:38.125Z",
     "https://openai.com/index/playco-game-prototyping-with-astra": "2026-09-03T22:17:38.125Z",
     "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-03T22:17:38.125Z",
-    "xai:0d1046969d236781": "2026-09-03T22:17:38.125Z"
+    "xai:0d1046969d236781": "2026-09-03T22:17:38.125Z",
+    "nvidia ai:1829c617fdcb4281": "2026-09-04T00:45:23.324Z"
   },
-  "updatedAt": "2026-09-03T22:17:38.125Z"
+  "updatedAt": "2026-09-04T00:45:23.324Z"
 }
