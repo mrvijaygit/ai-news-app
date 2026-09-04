@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:61a45589bea1e81d",
+      "title": "Grok Build is Now Open Source",
+      "summary": "Explore the harness behind our coding agent and TUI.",
+      "link": "https://x.ai/news/grok-build-open-source",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8a057b2058898150",
+      "title": "Explore the markets with Interactive Brokers and Grok",
+      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
+      "link": "https://x.ai/news/grok-interactive-brokers",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:7f96b684a449083b",
       "title": "Grok Imagine 1.5 Preview",
       "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-19T22:13:20.000Z"
-    },
-    {
-      "id": "af8acee944e5733d5cf6210c21fccec2cc8b42a3",
-      "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
-      "summary": "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-19T22:06:09.000Z"
-    },
-    {
-      "id": "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
-      "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
-      "summary": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-19T20:40:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T00:45:23.326Z"
+  "updatedAt": "2026-09-04T05:33:20.784Z"
 }
