@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:0df93d3f276c36ce",
+      "title": "Setting Grok Bot loose on procurement",
+      "summary": "Setting Grok Bot loose on procurement",
+      "link": "https://x.ai/news/grok-bot-procurement",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:1c80298df842caf8",
+      "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+      "summary": "Enterprise work spans messages, decisions, projects, and obligations that change over time. An AI agent that starts without this context must reconstruct it... Enterprise work spans messages, decisions, projects, and...",
+      "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-04T18:04:55.000Z"
+    },
+    {
       "id": "bf15bf1accc979b1b510192d304b5091e2a44dc0",
       "title": "Designing lifecycle policies for AgentCore memory",
       "summary": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent...",
@@ -1781,25 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-20T00:00:00.000Z"
-    },
-    {
-      "id": "52fbb58a12b51e241c558edcf156926f2fb965b3",
-      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-      "summary": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many agentic AI systems...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T16:24:12.000Z"
-    },
-    {
-      "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T16:11:18.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:02:56.901Z"
+  "updatedAt": "2026-09-04T21:12:36.914Z"
 }
