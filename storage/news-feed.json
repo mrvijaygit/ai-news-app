@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "bf15bf1accc979b1b510192d304b5091e2a44dc0",
+      "title": "Designing lifecycle policies for AgentCore memory",
+      "summary": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-04T17:20:04.000Z"
+    },
+    {
+      "id": "5592874537562bba923f97fecd07ce9229f52eea",
+      "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+      "summary": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-04T16:16:00.000Z"
+    },
+    {
+      "id": "17430f2135d0d2a25ced64d7b16531770c79f592",
+      "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      "summary": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-04T16:12:17.000Z"
+    },
+    {
+      "id": "21315aba5de258a09ae4f10f0f46a916190e1bc0",
+      "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+      "summary": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-04T16:06:01.000Z"
+    },
+    {
+      "id": "nvidia ai:c55127c2aa1eccc4",
+      "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+      "summary": "Running reasoning and agentic AI at the edge has been harder than it needs to be. Until recently, models capable of multi-step reasoning were too large to run... Running reasoning and agentic AI at the edge has been...",
+      "link": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-04T16:21:04.000Z"
+    },
+    {
       "id": "xai:61a45589bea1e81d",
       "title": "Grok Build is Now Open Source",
       "summary": "Explore the harness behind our coding agent and TUI.",
@@ -1754,52 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-20T16:11:18.000Z"
-    },
-    {
-      "id": "e458bdc48b55905c2957360d67ec38bc45c8a526",
-      "title": "AWS vector solutions: Build agentic AI where your data lives",
-      "summary": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data migration required. This post covers six purpose-built...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T16:06:06.000Z"
-    },
-    {
-      "id": "9aa7f20719e8fd485b6ad4d2d63b184663def92d",
-      "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-      "summary": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T15:20:03.000Z"
-    },
-    {
-      "id": "mistral ai:b5c19cec3f97a5b3",
-      "title": "Agentic Search/",
-      "summary": "Agentic Search/",
-      "link": "https://mistral.ai/news/agentic-search/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-08-20T14:06:00.269Z"
-    },
-    {
-      "id": "nvidia ai:07f719b50ba9c2c3",
-      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-      "summary": "NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a... NVIDIA Holoscan is a platform for building real-time AI...",
-      "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-19T22:22:37.000Z"
-    },
-    {
-      "id": "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
-      "title": "Domain and publish date filters for Web Search on AgentCore",
-      "summary": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-19T22:13:20.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T05:33:20.784Z"
+  "updatedAt": "2026-09-04T18:02:56.901Z"
 }

@@ -559,7 +559,12 @@
     "https://openai.com/index/playco-game-prototyping-with-astra",
     "https://openai.com/index/safety-overview-gpt-6-astra",
     "xai:0d1046969d236781",
-    "nvidia ai:1829c617fdcb4281"
+    "nvidia ai:1829c617fdcb4281",
+    "bf15bf1accc979b1b510192d304b5091e2a44dc0",
+    "nvidia ai:c55127c2aa1eccc4",
+    "5592874537562bba923f97fecd07ce9229f52eea",
+    "17430f2135d0d2a25ced64d7b16531770c79f592",
+    "21315aba5de258a09ae4f10f0f46a916190e1bc0"
   ],
   "seenAt": {
     "3080a7799ade422bbe55136044702a7b0a6a88bb": "2026-07-06T18:53:33.707Z",
@@ -1087,7 +1092,12 @@
     "https://openai.com/index/playco-game-prototyping-with-astra": "2026-09-03T22:17:38.125Z",
     "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-03T22:17:38.125Z",
     "xai:0d1046969d236781": "2026-09-03T22:17:38.125Z",
-    "nvidia ai:1829c617fdcb4281": "2026-09-04T00:45:23.324Z"
+    "nvidia ai:1829c617fdcb4281": "2026-09-04T00:45:23.324Z",
+    "bf15bf1accc979b1b510192d304b5091e2a44dc0": "2026-09-04T18:02:56.898Z",
+    "nvidia ai:c55127c2aa1eccc4": "2026-09-04T18:02:56.898Z",
+    "5592874537562bba923f97fecd07ce9229f52eea": "2026-09-04T18:02:56.898Z",
+    "17430f2135d0d2a25ced64d7b16531770c79f592": "2026-09-04T18:02:56.898Z",
+    "21315aba5de258a09ae4f10f0f46a916190e1bc0": "2026-09-04T18:02:56.898Z"
   },
-  "updatedAt": "2026-09-04T00:45:23.324Z"
+  "updatedAt": "2026-09-04T18:02:56.898Z"
 }
