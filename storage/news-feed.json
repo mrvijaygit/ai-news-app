@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/gpt-6-astra",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-03T11:00:00.000Z"
+    },
+    {
       "id": "1cc1445c2783ef202a00ff4aadacbc028620a9eb",
       "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
       "summary": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "4f766a78e962cad52bb901c5ca408d902b8d04c5",
-      "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
-      "summary": "AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agents, now including time-based constraints. This post shows how Policy...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T16:31:28.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T23:40:47.832Z"
+  "updatedAt": "2026-09-05T07:22:01.235Z"
 }
