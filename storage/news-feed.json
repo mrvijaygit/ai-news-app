@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-06T08:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/gpt-6-astra",
       "title": "GPT-6 Astra: A new generation of intelligence",
       "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:3eb98dee9829b630",
-      "title": "Powering Gopuff's Go agent",
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "link": "https://x.ai/news/grok-gopuff",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-05T07:22:01.235Z"
+  "updatedAt": "2026-09-06T17:29:19.350Z"
 }
