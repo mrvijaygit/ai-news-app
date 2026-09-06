@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:764b42fb7740a988",
     "aab7835c24ac9ea0859bc1a5eac84f01ddb8a05d",
     "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "cohere:d083a5c148e257b6",
@@ -540,10 +539,10 @@
     "https://openai.com/index/gpt-6-astra",
     "xai:a795c67928ea0c3a",
     "xai:11603bc1501a6e92",
-    "https://openai.com/index/research-acceleration-view-inside-openai"
+    "https://openai.com/index/research-acceleration-view-inside-openai",
+    "xai:764b42fb7740a988"
   ],
   "seenAt": {
-    "xai:764b42fb7740a988": "2026-07-08T19:20:10.073Z",
     "aab7835c24ac9ea0859bc1a5eac84f01ddb8a05d": "2026-07-08T21:03:58.712Z",
     "https://openai.com/index/separating-signal-from-noise-coding-evaluations": "2026-07-08T21:03:58.712Z",
     "cohere:d083a5c148e257b6": "2026-07-09T10:22:11.947Z",
@@ -1049,7 +1048,8 @@
     "https://openai.com/index/gpt-6-astra": "2026-09-05T07:22:01.234Z",
     "xai:a795c67928ea0c3a": "2026-09-05T07:22:01.234Z",
     "xai:11603bc1501a6e92": "2026-09-05T07:22:01.234Z",
-    "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-06T17:29:19.348Z"
+    "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-06T17:29:19.348Z",
+    "xai:764b42fb7740a988": "2026-09-06T19:57:11.801Z"
   },
-  "updatedAt": "2026-09-06T17:29:19.348Z"
+  "updatedAt": "2026-09-06T19:57:11.801Z"
 }

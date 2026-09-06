@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:3eb98dee9829b630",
+      "title": "Powering Gopuff's Go agent",
+      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
+      "link": "https://x.ai/news/grok-gopuff",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/research-acceleration-view-inside-openai",
       "title": "Research acceleration: The view inside OpenAI",
       "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:2dff0f87787443f6",
-      "title": "Imagine Video 1.5 with References",
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-06T17:29:19.350Z"
+  "updatedAt": "2026-09-06T19:57:11.803Z"
 }
