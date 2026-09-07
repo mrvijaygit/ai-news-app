@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
       "id": "xai:95ae173e613df0d0",
       "title": "Grok Build on web and mobile",
       "summary": "Grok Build is now available on every plan, on the web and on mobile.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-20T21:46:03.000Z"
-    },
-    {
-      "id": "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130",
-      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
-      "summary": "In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual transformations, and train an XGBoost fraud detection model. All without...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T21:23:29.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T02:43:47.396Z"
+  "updatedAt": "2026-09-07T07:53:03.424Z"
 }
