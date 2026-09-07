@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:95ae173e613df0d0",
+      "title": "Grok Build on web and mobile",
+      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
+      "link": "https://x.ai/news/grok-build-for-everyone",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:dc8d8bf3f50d9717",
       "title": "Automations in Grok",
       "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-20T21:23:29.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-ai-futures",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-20T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-06T23:42:19.295Z"
+  "updatedAt": "2026-09-07T02:43:47.396Z"
 }
