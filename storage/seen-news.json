@@ -34,15 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:c5e1675f0a2912c2",
-    "nvidia ai:2b91c02e88e67c1a",
-    "nvidia ai:8d50478ddefd3388",
-    "5ab175a6cdde5523b8ccc6ce6820759707a05693",
-    "f38693695f066814841d089783bdd8f01dece5c1",
-    "54d76cceb6bd0af8db3a440ce3ba321b220e8a79",
-    "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c",
-    "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87",
-    "44719c394930a8bd8c11292c18a583053d398cee",
     "nvidia ai:720f88d0f07cfc81",
     "cohere:730e0ba6a465589d",
     "nvidia ai:b9133f427f3a40fe",
@@ -530,18 +521,14 @@
     "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "mistral ai:6f9eea204b49d871",
     "mistral ai:d0e0cfea2e2632f4",
-    "nvidia ai:086d6ae6f32f7144"
+    "nvidia ai:086d6ae6f32f7144",
+    "88667284f4eb315a303e44d42f1cb0df350f772a",
+    "b67e560ebca3a6f1cc0d7c775926ae2754591efa",
+    "f614da3b4841320cdbf65a639354a52d1b8d9360",
+    "704c7195eeddccd5c949a9cc276e4a8115c9d39e",
+    "726c7f8b855625652ff33861d4fa092983d4a5c4"
   ],
   "seenAt": {
-    "nvidia ai:c5e1675f0a2912c2": "2026-07-10T14:16:12.797Z",
-    "nvidia ai:2b91c02e88e67c1a": "2026-07-10T16:53:20.665Z",
-    "nvidia ai:8d50478ddefd3388": "2026-07-10T16:53:20.665Z",
-    "5ab175a6cdde5523b8ccc6ce6820759707a05693": "2026-07-10T16:53:20.665Z",
-    "f38693695f066814841d089783bdd8f01dece5c1": "2026-07-10T16:53:20.665Z",
-    "54d76cceb6bd0af8db3a440ce3ba321b220e8a79": "2026-07-10T16:53:20.665Z",
-    "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c": "2026-07-10T16:53:20.665Z",
-    "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87": "2026-07-10T16:53:20.665Z",
-    "44719c394930a8bd8c11292c18a583053d398cee": "2026-07-10T16:53:20.665Z",
     "nvidia ai:720f88d0f07cfc81": "2026-07-10T18:20:58.624Z",
     "cohere:730e0ba6a465589d": "2026-07-10T20:20:08.417Z",
     "nvidia ai:b9133f427f3a40fe": "2026-07-12T02:27:00.565Z",
@@ -1029,7 +1016,12 @@
     "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:53:03.421Z",
     "mistral ai:6f9eea204b49d871": "2026-09-08T08:33:29.573Z",
     "mistral ai:d0e0cfea2e2632f4": "2026-09-08T08:33:29.573Z",
-    "nvidia ai:086d6ae6f32f7144": "2026-09-08T13:16:40.719Z"
+    "nvidia ai:086d6ae6f32f7144": "2026-09-08T13:16:40.719Z",
+    "88667284f4eb315a303e44d42f1cb0df350f772a": "2026-09-08T17:43:56.381Z",
+    "b67e560ebca3a6f1cc0d7c775926ae2754591efa": "2026-09-08T17:43:56.381Z",
+    "f614da3b4841320cdbf65a639354a52d1b8d9360": "2026-09-08T17:43:56.381Z",
+    "704c7195eeddccd5c949a9cc276e4a8115c9d39e": "2026-09-08T17:43:56.381Z",
+    "726c7f8b855625652ff33861d4fa092983d4a5c4": "2026-09-08T17:43:56.381Z"
   },
-  "updatedAt": "2026-09-08T13:16:40.719Z"
+  "updatedAt": "2026-09-08T17:43:56.381Z"
 }
