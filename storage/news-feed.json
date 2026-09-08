@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/codex-quantum-computing-experiments",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-08T17:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-08T11:30:00.000Z"
+    },
+    {
+      "id": "ea7f9667a432b227c77a23d10cd0038932138567",
+      "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+      "summary": "Amazon SageMaker Feature Store now supports feature-level writes. With the new UpdateRecord API, you can update one or more feature values in a single call without reading or rewriting the entire record. It is available...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-08T18:29:15.000Z"
+    },
+    {
       "id": "88667284f4eb315a303e44d42f1cb0df350f772a",
       "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
       "summary": "Governing models across accounts is the next step after automatic model registration. This post extends managed MLflow and Amazon SageMaker AI Model Registry sync to two cross-account governance topologies: a...",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:7ec12ab2e0fe97fc",
-      "title": "Bringing real-time market sentiment to Tori, from eToro",
-      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
-      "link": "https://x.ai/news/grok-etoro",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:ff5204c103e06e09",
-      "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
-      "summary": "AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available... AI factories are power-constrained industrial systems. The...",
-      "link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-21T15:00:00.000Z"
-    },
-    {
-      "id": "xai:39cfa33b8f09da04",
-      "title": "Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-08T17:43:56.449Z"
+  "updatedAt": "2026-09-08T20:40:16.864Z"
 }
