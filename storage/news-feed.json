@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:086d6ae6f32f7144",
+      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+      "summary": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and... In September 2026, NVIDIA announced it is leaning into...",
+      "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
       "id": "mistral ai:6f9eea204b49d871",
       "title": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
       "summary": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
@@ -1790,16 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:fcaed616905a48a4",
-      "title": "News Jun 18, 2026 Self-improving memory for agents Brain is Perplexity's self-improving memory system for Computer that ",
-      "summary": "News Jun 18, 2026 Self-improving memory for agents Brain is Perplexity's self-improving memory system for Computer that",
-      "link": "https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-08T08:33:29.575Z"
+  "updatedAt": "2026-09-08T13:16:40.721Z"
 }
