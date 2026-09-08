@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "mistral ai:6f9eea204b49d871",
+      "title": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
+      "summary": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-08T05:38:54.179Z"
+    },
+    {
+      "id": "mistral ai:d0e0cfea2e2632f4",
+      "title": "Regional Inference Open Models New Compute/",
+      "summary": "Regional Inference Open Models New Compute/",
+      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-07T17:25:49.996Z"
+    },
+    {
       "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "title": "Supporting independent journalism in Ukraine",
       "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
@@ -1781,25 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:a232ddc41d6d7443",
-      "title": "Developers May 6, 2026 Introducing finance search in the Agent API In a single tool call, Finance Search combines licens",
-      "summary": "Developers May 6, 2026 Introducing finance search in the Agent API In a single tool call, Finance Search combines licens",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "95e4972674e71ff3cec032accfd9935a8cacf472",
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "summary": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-20T21:46:03.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T07:53:03.424Z"
+  "updatedAt": "2026-09-08T08:33:29.575Z"
 }
