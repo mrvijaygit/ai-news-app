@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:39cfa33b8f09da04",
+      "title": "Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7ec12ab2e0fe97fc",
+      "title": "Bringing real-time market sentiment to Tori, from eToro",
+      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
+      "link": "https://x.ai/news/grok-etoro",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "68d48019de714857964056351fc4d79e51c3ab9f",
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+      "summary": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-08T22:06:58.000Z"
+    },
+    {
       "id": "https://openai.com/index/codex-quantum-computing-experiments",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
@@ -1772,34 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-08-21T17:02:35.000Z"
-    },
-    {
-      "id": "ed00b717fca4a544868c35ad4ab20128af9b7c97",
-      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
-      "summary": "Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-21T16:57:01.000Z"
-    },
-    {
-      "id": "xai:e15e11a40907b4f4",
-      "title": "Introducing the Voice Agent Builder",
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "link": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:337b3f5c095a2baa",
-      "title": "Grok Build Plugin Marketplace",
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "link": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-08T20:40:16.864Z"
+  "updatedAt": "2026-09-08T23:09:31.807Z"
 }
