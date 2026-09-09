@@ -533,7 +533,11 @@
     "a77ad5a4cc8d539af020eba9f19a5636de04f505",
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "5a4826a00b8c3e2362294bd88790a97f7dfeae72",
-    "8b2b6f1fc936da150ec6ba65d555af391dc31a8e"
+    "8b2b6f1fc936da150ec6ba65d555af391dc31a8e",
+    "6973e0078540c7d789cc946cb3c7e1fd791a8c2f",
+    "nvidia ai:2cea4cdac5af3afc",
+    "nvidia ai:21e1801012f20d1d",
+    "https://openai.com/index/gpt-6-astra-next-generation-work"
   ],
   "seenAt": {
     "nvidia ai:b9133f427f3a40fe": "2026-07-12T02:27:00.565Z",
@@ -1035,7 +1039,11 @@
     "a77ad5a4cc8d539af020eba9f19a5636de04f505": "2026-09-09T17:00:48.566Z",
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": "2026-09-09T17:00:48.566Z",
     "5a4826a00b8c3e2362294bd88790a97f7dfeae72": "2026-09-09T20:21:08.265Z",
-    "8b2b6f1fc936da150ec6ba65d555af391dc31a8e": "2026-09-09T20:21:08.265Z"
+    "8b2b6f1fc936da150ec6ba65d555af391dc31a8e": "2026-09-09T20:21:08.265Z",
+    "6973e0078540c7d789cc946cb3c7e1fd791a8c2f": "2026-09-09T22:53:58.015Z",
+    "nvidia ai:2cea4cdac5af3afc": "2026-09-09T22:53:58.015Z",
+    "nvidia ai:21e1801012f20d1d": "2026-09-09T22:53:58.015Z",
+    "https://openai.com/index/gpt-6-astra-next-generation-work": "2026-09-09T22:53:58.015Z"
   },
-  "updatedAt": "2026-09-09T20:21:08.265Z"
+  "updatedAt": "2026-09-09T22:53:58.015Z"
 }
