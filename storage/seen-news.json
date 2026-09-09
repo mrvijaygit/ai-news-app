@@ -528,7 +528,10 @@
     "ea7f9667a432b227c77a23d10cd0038932138567",
     "https://openai.com/index/codex-quantum-computing-experiments",
     "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "68d48019de714857964056351fc4d79e51c3ab9f"
+    "68d48019de714857964056351fc4d79e51c3ab9f",
+    "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "a77ad5a4cc8d539af020eba9f19a5636de04f505",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
   ],
   "seenAt": {
     "nvidia ai:b9133f427f3a40fe": "2026-07-12T02:27:00.565Z",
@@ -1025,7 +1028,10 @@
     "ea7f9667a432b227c77a23d10cd0038932138567": "2026-09-08T20:40:16.862Z",
     "https://openai.com/index/codex-quantum-computing-experiments": "2026-09-08T20:40:16.862Z",
     "https://openai.com/index/introducing-chatgpt-images-2-5": "2026-09-08T20:40:16.862Z",
-    "68d48019de714857964056351fc4d79e51c3ab9f": "2026-09-08T23:09:31.805Z"
+    "68d48019de714857964056351fc4d79e51c3ab9f": "2026-09-08T23:09:31.805Z",
+    "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/": "2026-09-09T17:00:48.566Z",
+    "a77ad5a4cc8d539af020eba9f19a5636de04f505": "2026-09-09T17:00:48.566Z",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": "2026-09-09T17:00:48.566Z"
   },
-  "updatedAt": "2026-09-08T23:09:31.805Z"
+  "updatedAt": "2026-09-09T17:00:48.566Z"
 }

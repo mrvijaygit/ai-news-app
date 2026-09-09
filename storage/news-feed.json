@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "id": "a77ad5a4cc8d539af020eba9f19a5636de04f505",
+      "title": "Automate user-level custom permissions for Amazon Quick",
+      "summary": "Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-09T15:45:24.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-09T15:36:24.000Z"
+    },
+    {
       "id": "xai:e15e11a40907b4f4",
       "title": "Introducing the Voice Agent Builder",
       "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-08-24T15:00:00.000Z"
-    },
-    {
-      "id": "xai:47b1871a9102f71b",
-      "title": "Grok 4.6 on Google Enterprise Agent Platform",
-      "summary": "Grok 4.6 on Google Enterprise Agent Platform",
-      "link": "https://x.ai/news/grok-4-6-vertex-ai",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0d9562320cfd57b3",
-      "title": "Grok 4.6 on Vertex AI",
-      "summary": "Grok 4.6 on Vertex AI",
-      "link": "https://x.ai/news/grok-4-6-vertex-ai",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9fd7e7592c1ada50",
-      "title": "Grok Bot is now included with more plans",
-      "summary": "Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans.",
-      "link": "https://x.ai/news/grok-bot-more-plans",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-09T02:55:25.205Z"
+  "updatedAt": "2026-09-09T17:00:48.569Z"
 }
