@@ -572,7 +572,11 @@
     "mistral ai:f0f56cf73934ee7d",
     "mistral ai:5525858447cd5bbe",
     "mistral ai:f271c51cb4269e59",
-    "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "fc8628826e3a4de39ea612edabd4828bd56fe198",
+    "b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00",
+    "https://openai.com/index/introducing-chatgpt-financial-services",
+    "https://openai.com/index/introducing-the-agents-api"
   ],
   "seenAt": {
     "nvidia ai:3f9fb6b191e4a665": "2026-07-13T16:29:13.048Z",
@@ -1113,7 +1117,11 @@
     "mistral ai:f0f56cf73934ee7d": "2026-09-10T18:02:53.145Z",
     "mistral ai:5525858447cd5bbe": "2026-09-10T18:02:53.145Z",
     "mistral ai:f271c51cb4269e59": "2026-09-10T18:02:53.145Z",
-    "https://openai.com/index/introducing-gpt-live-1-in-the-api": "2026-09-10T18:02:53.145Z"
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api": "2026-09-10T18:02:53.145Z",
+    "fc8628826e3a4de39ea612edabd4828bd56fe198": "2026-09-10T21:22:08.273Z",
+    "b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00": "2026-09-10T21:22:08.273Z",
+    "https://openai.com/index/introducing-chatgpt-financial-services": "2026-09-10T21:22:08.273Z",
+    "https://openai.com/index/introducing-the-agents-api": "2026-09-10T21:22:08.273Z"
   },
-  "updatedAt": "2026-09-10T18:02:53.145Z"
+  "updatedAt": "2026-09-10T21:22:08.273Z"
 }

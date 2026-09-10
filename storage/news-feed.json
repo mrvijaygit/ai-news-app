@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "xai:ddc384453fa5c02a",
+      "title": "Grok for Outlook",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6dad33007ff48b3f",
+      "title": "Agent Dashboard in Grok Build",
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "link": "https://x.ai/news/agent-dashboard",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9689f95a1df38884",
+      "title": "Grok-1.5 Vision Preview",
+      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
+      "link": "https://x.ai/news/grok-1.5v",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f58ce5a98926f521",
+      "title": "Announcing Grok-1.5",
+      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
+      "link": "https://x.ai/news/grok-1.5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:eb3235d954e50c16",
+      "title": "Open Release of Grok-1",
+      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
+      "link": "https://x.ai/news/grok-os",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9c5cd59fc5d31e7d",
+      "title": "Announcing PromptIDE",
+      "summary": "Integrated development environment for prompt engineering and interpretability research.",
+      "link": "https://x.ai/news/prompt-ide",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "fc8628826e3a4de39ea612edabd4828bd56fe198",
+      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+      "summary": "TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This walkthrough shows...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-10T21:15:39.000Z"
+    },
+    {
+      "id": "b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00",
+      "title": "Amazon Quick is now generally available on desktop",
+      "summary": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-10T18:16:37.000Z"
+    },
+    {
       "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
@@ -1655,151 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:07bfdcfb3e2da3ae",
-      "title": "Grok Code Fast 1",
-      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
-      "link": "https://x.ai/news/grok-code-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:01e3b8304d8cac5f",
-      "title": "Announcing xAI for Government",
-      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
-      "link": "https://x.ai/news/government",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0b42cd3858907903",
-      "title": "Grok 4",
-      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
-      "link": "https://x.ai/news/grok-4",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5a8f9dcef91affc",
-      "title": "Grok 3 Beta — The Age of Reasoning Agents",
-      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
-      "link": "https://x.ai/news/grok-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3ab5a13705050098",
-      "title": "Grok 4.6 on Microsoft Foundry",
-      "summary": "Grok 4.6 on Microsoft Foundry",
-      "link": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:13a5a3be6d8e7c4c",
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
-      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
-      "link": "https://x.ai/news/grok-4-5-everywhere",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2eb1be0eab97116d",
-      "title": "xAI raises $6B Series C",
-      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
-      "link": "https://x.ai/news/series-c",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:8ed876cc63c6ba10",
-      "title": "Bringing Grok to Everyone",
-      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-1212",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:af3c22b058a0edce",
-      "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
-      "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s... Alibaba released the model weights for Qwen3.8-Flash-Next...",
-      "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-26T17:07:12.000Z"
-    },
-    {
-      "id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "xai:61ce3268fb7b0eb4",
-      "title": "Introducing Grok Bot",
-      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
-      "link": "https://x.ai/news/introducing-grok-bot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:c8e543b0022f670e",
-      "title": "Use Grok in Warp",
-      "summary": "Use your Grok and X Premium subscription inside Warp.",
-      "link": "https://x.ai/news/grok-warp",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "df64df944c17204a015d9f827bd37bc9ecaa7303",
-      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
-      "summary": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-26T19:13:35.000Z"
-    },
-    {
-      "id": "nvidia ai:58e1d08499fd40f8",
-      "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
-      "summary": "AI factories must support increasingly large models and more complex reasoning workloads. To keep up with the insatiable compute demands of AI workloads,... AI factories must support increasingly large models and more...",
-      "link": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-26T21:06:58.000Z"
-    },
-    {
-      "id": "nvidia ai:f95673a6a526341f",
-      "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
-      "summary": "Navigation enables a robot to turn perception and motion into purposeful autonomy. Unlike locomotion, which produces stable movement, navigation must be used to... Navigation enables a robot to turn perception and...",
-      "link": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-26T20:05:06.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T18:02:53.148Z"
+  "updatedAt": "2026-09-10T21:22:08.276Z"
 }
