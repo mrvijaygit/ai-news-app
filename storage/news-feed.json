@@ -1,6 +1,321 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/put-data-to-work",
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "link": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-10T15:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:cef3b088a3800354",
+      "title": "Mistral X Cloudera/",
+      "summary": "Mistral X Cloudera/",
+      "link": "https://mistral.ai/news/mistral-x-cloudera/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T15:02:24.715Z"
+    },
+    {
+      "id": "mistral ai:3f46b2a87af79c57",
+      "title": "About Mistral Ai/",
+      "summary": "About Mistral Ai/",
+      "link": "https://mistral.ai/news/about-mistral-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.610Z"
+    },
+    {
+      "id": "mistral ai:ce65a2412e6fad4e",
+      "title": "Announcing Mistral 7b/",
+      "summary": "Announcing Mistral 7b/",
+      "link": "https://mistral.ai/news/announcing-mistral-7b/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.607Z"
+    },
+    {
+      "id": "mistral ai:16105fa544eb6dce",
+      "title": "Le Chat Mistral/",
+      "summary": "Le Chat Mistral/",
+      "link": "https://mistral.ai/news/le-chat-mistral/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.602Z"
+    },
+    {
+      "id": "mistral ai:7598e7b6a6a58476",
+      "title": "Batch Api/",
+      "summary": "Batch Api/",
+      "link": "https://mistral.ai/news/batch-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.599Z"
+    },
+    {
+      "id": "mistral ai:8e9fee8d40c2eaab",
+      "title": "Mistral Large 2407/",
+      "summary": "Mistral Large 2407/",
+      "link": "https://mistral.ai/news/mistral-large-2407/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.580Z"
+    },
+    {
+      "id": "mistral ai:68213e4e59eee4c9",
+      "title": "Mistral Large/",
+      "summary": "Mistral Large/",
+      "link": "https://mistral.ai/news/mistral-large/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.577Z"
+    },
+    {
+      "id": "mistral ai:b6e4dd54512b958b",
+      "title": "Mistral Afp/",
+      "summary": "Mistral Afp/",
+      "link": "https://mistral.ai/news/mistral-afp/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.569Z"
+    },
+    {
+      "id": "mistral ai:2f35da223ff62c61",
+      "title": "Mistral Ai Non Production License Mnpl/",
+      "summary": "Mistral Ai Non Production License Mnpl/",
+      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.567Z"
+    },
+    {
+      "id": "mistral ai:3e6f80117879e8a8",
+      "title": "Mistral Chat/",
+      "summary": "Mistral Chat/",
+      "link": "https://mistral.ai/news/mistral-chat/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.564Z"
+    },
+    {
+      "id": "mistral ai:e3dd78b8805dbe0b",
+      "title": "Mistral Moderation/",
+      "summary": "Mistral Moderation/",
+      "link": "https://mistral.ai/news/mistral-moderation/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.518Z"
+    },
+    {
+      "id": "mistral ai:2684c38c8bee1d51",
+      "title": "Mistral Nemo/",
+      "summary": "Mistral Nemo/",
+      "link": "https://mistral.ai/news/mistral-nemo/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.516Z"
+    },
+    {
+      "id": "mistral ai:f305307e63dfac70",
+      "title": "Mixtral 8x22b/",
+      "summary": "Mixtral 8x22b/",
+      "link": "https://mistral.ai/news/mixtral-8x22b/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.513Z"
+    },
+    {
+      "id": "mistral ai:895fc0282e099c56",
+      "title": "Mixtral Of Experts/",
+      "summary": "Mixtral Of Experts/",
+      "link": "https://mistral.ai/news/mixtral-of-experts/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.511Z"
+    },
+    {
+      "id": "mistral ai:2f931a87b81423b5",
+      "title": "September 24 Release/",
+      "summary": "September 24 Release/",
+      "link": "https://mistral.ai/news/september-24-release/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.504Z"
+    },
+    {
+      "id": "mistral ai:3200a6ed3bf2fc3f",
+      "title": "Mistral Small 3/",
+      "summary": "Mistral Small 3/",
+      "link": "https://mistral.ai/news/mistral-small-3/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.500Z"
+    },
+    {
+      "id": "mistral ai:3173d3b961993ed0",
+      "title": "Mistral Saba/",
+      "summary": "Mistral Saba/",
+      "link": "https://mistral.ai/news/mistral-saba/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.490Z"
+    },
+    {
+      "id": "mistral ai:85942a562d8389aa",
+      "title": "Agentic Workflows From Meetings To Dev Tickets/",
+      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
+      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.487Z"
+    },
+    {
+      "id": "mistral ai:0f097c3d8b2312ab",
+      "title": "Mistral Ocr/",
+      "summary": "Mistral Ocr/",
+      "link": "https://mistral.ai/news/mistral-ocr/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.476Z"
+    },
+    {
+      "id": "mistral ai:7530c0446eb68381",
+      "title": "Mistral Small 3 1/",
+      "summary": "Mistral Small 3 1/",
+      "link": "https://mistral.ai/news/mistral-small-3-1/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.471Z"
+    },
+    {
+      "id": "mistral ai:8de9cb11a5d691dd",
+      "title": "Llm As Rag Judge/",
+      "summary": "Llm As Rag Judge/",
+      "link": "https://mistral.ai/news/llm-as-rag-judge/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.468Z"
+    },
+    {
+      "id": "mistral ai:2c2f096b6ec69517",
+      "title": "Mistral Medium 3/",
+      "summary": "Mistral Medium 3/",
+      "link": "https://mistral.ai/news/mistral-medium-3/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.465Z"
+    },
+    {
+      "id": "mistral ai:7c1f53b1edc0529a",
+      "title": "Agents Api/",
+      "summary": "Agents Api/",
+      "link": "https://mistral.ai/news/agents-api/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.423Z"
+    },
+    {
+      "id": "mistral ai:f0f56cf73934ee7d",
+      "title": "Mistral Code/",
+      "summary": "Mistral Code/",
+      "link": "https://mistral.ai/news/mistral-code/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.405Z"
+    },
+    {
+      "id": "mistral ai:5525858447cd5bbe",
+      "title": "Mistral Compute/",
+      "summary": "Mistral Compute/",
+      "link": "https://mistral.ai/news/mistral-compute/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.395Z"
+    },
+    {
+      "id": "mistral ai:f271c51cb4269e59",
+      "title": "Unlocking Potential Vision Language Models Satellite Imagery Fine Tuning/",
+      "summary": "Unlocking Potential Vision Language Models Satellite Imagery Fine Tuning/",
+      "link": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-10T14:01:55.366Z"
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "4c4240b0ba11b392a9635e42bce173f72181033c",
+      "title": "Model-agnostic PII detection with LLMs",
+      "summary": "A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-10T16:02:16.000Z"
+    },
+    {
+      "id": "d22d0d2e761e9e5191fef2c68e7f3e0287f67732",
+      "title": "Agent Evaluation Metric for multi-turn conversations",
+      "summary": "Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-10T15:55:41.000Z"
+    },
+    {
+      "id": "3a3d6d9806280d7f62975dd9e8cdb72b83dcc5d1",
+      "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+      "summary": "AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-10T15:53:05.000Z"
+    },
+    {
+      "id": "nvidia ai:9d6a9a5063697828",
+      "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+      "summary": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as... Deploying a large language model is only the first step toward...",
+      "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-10T16:55:32.000Z"
+    },
+    {
+      "id": "nvidia ai:210b11f51eba68d5",
+      "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+      "summary": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA... Biomolecular structure prediction is now often run at...",
+      "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-10T15:00:00.000Z"
+    },
+    {
       "id": "mistral ai:64f50d9a042d4a01",
       "title": "Mistral X Cloudera/",
       "summary": "Mistral X Cloudera/",
@@ -1484,322 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-08-26T20:05:06.000Z"
-    },
-    {
-      "id": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-26T10:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/learning-never-stops",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "link": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-26T10:00:00.000Z"
-    },
-    {
-      "id": "ef4c2cbf0c80f08b0a3b7288b5d3e79787f03342",
-      "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
-      "summary": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-26T16:36:35.000Z"
-    },
-    {
-      "id": "f5a77fb6b59e60eab7cd796826d4c487a56c8501",
-      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
-      "summary": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-26T16:31:32.000Z"
-    },
-    {
-      "id": "1e93ba86b7ae1669fbe51dab04bbc4c453221247",
-      "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
-      "summary": "The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting high-value data subsets, augmenting data with synthetic and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-26T16:24:05.000Z"
-    },
-    {
-      "id": "754286664acbb27c986bdae9cedda3b54d89bae4",
-      "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
-      "summary": "Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: quality checks, conversational (JSONL) formatting, reasoning...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-26T16:24:02.000Z"
-    },
-    {
-      "id": "nvidia ai:1fcd7921d6244b0e",
-      "title": "Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding",
-      "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s... Alibaba released the model weights for Qwen3.8-Flash-Next...",
-      "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-26T17:07:12.000Z"
-    },
-    {
-      "id": "xai:653374155ddf34e4",
-      "title": "API Public Beta",
-      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
-      "link": "https://x.ai/news/api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "72a57f49ae4a30c9171124efb14f5f05b1febd89",
-      "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
-      "summary": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-26T15:48:10.000Z"
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "xai:f5eec09fcb832980",
-      "title": "Series B funding round",
-      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
-      "link": "https://x.ai/news/series-b",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9689f95a1df38884",
-      "title": "Grok-1.5 Vision Preview",
-      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
-      "link": "https://x.ai/news/grok-1.5v",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f58ce5a98926f521",
-      "title": "Announcing Grok-1.5",
-      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
-      "link": "https://x.ai/news/grok-1.5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:eb3235d954e50c16",
-      "title": "Open Release of Grok-1",
-      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
-      "link": "https://x.ai/news/grok-os",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:9a550bf7351bbbfc",
-      "title": "Research Aug 25, 2026 A Local-First Agent for Private and Cost-Effective Knowledge Work A harness and model co-designed ",
-      "summary": "Research Aug 25, 2026 A Local-First Agent for Private and Cost-Effective Knowledge Work A harness and model co-designed",
-      "link": "https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:02686e8b453d3e70",
-      "title": "News Aug 25, 2026 Introducing Portable Computer for local-first AI Portable Computer runs Perplexity Computer entirely o",
-      "summary": "News Aug 25, 2026 Introducing Portable Computer for local-first AI Portable Computer runs Perplexity Computer entirely o",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:cf0b18a5309e7084",
-      "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
-      "summary": "When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,... When an LLM engine process fails, the standard recovery...",
-      "link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-25T20:57:54.000Z"
-    },
-    {
-      "id": "xai:a795c67928ea0c3a",
-      "title": "21 New Flagship Grok Voices",
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
-      "link": "https://x.ai/news/new-flagship-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "bcd03430b15f5c1675997d3f2fcc6d165ab30085",
-      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
-      "summary": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-25T19:00:09.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-admin-plugin",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "link": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "title": "The full stack behind abundant intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-25T07:05:00.000Z"
-    },
-    {
-      "id": "xai:6dad33007ff48b3f",
-      "title": "Agent Dashboard in Grok Build",
-      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
-      "link": "https://x.ai/news/agent-dashboard",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:11603bc1501a6e92",
-      "title": "Custom Voices",
-      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
-      "link": "https://x.ai/news/grok-custom-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/jalapeno-first-results",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-25T07:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:021df393d0749fc1",
-      "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
-      "summary": "For years, a Python developer who needed a GPU had two realistic choices: Learn NVIDIA CUDA C++ well enough to write an extension, set up a build toolchain, and... For years, a Python developer who needed a GPU had two...",
-      "link": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-25T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "Granite 4.2 LLMs: How They're Built",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "id": "xai:ddc384453fa5c02a",
-      "title": "Grok for Outlook",
-      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
-      "link": "https://x.ai/news/introducing-outlook-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "mistral ai:4aae3865b9f776ff",
-      "title": "Mistral X Humain/",
-      "summary": "Mistral X Humain/",
-      "link": "https://mistral.ai/news/mistral-x-humain/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-08-25T07:59:49.160Z"
-    },
-    {
-      "id": "https://openai.com/index/gpt-5-6-in-kiro",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-24T12:00:00.000Z"
-    },
-    {
-      "id": "1869206df2363735c9e3340493ba659c7c99406b",
-      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
-      "summary": "Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-24T19:32:14.000Z"
-    },
-    {
-      "id": "mistral ai:c6e70c2320f06dc7",
-      "title": "Mistral X Humain/",
-      "summary": "Mistral X Humain/",
-      "link": "https://mistral.ai/news/mistral-x-humain/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-08-24T19:00:17.288Z"
     }
   ],
-  "updatedAt": "2026-09-10T14:46:45.639Z"
+  "updatedAt": "2026-09-10T18:02:53.148Z"
 }
