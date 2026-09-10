@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:3c1d417ef141c708",
+      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+      "summary": "NVIDIA has one of the largest and most complex supply chains in the world, and its performance is measured from wafer-out to first token. The interval is in two... NVIDIA has one of the largest and most complex supply...",
+      "link": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-10T09:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "f61f463ab9563e66a529a7da9c9531a100084eab",
-      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-      "summary": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-24T16:22:03.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T22:53:58.016Z"
+  "updatedAt": "2026-09-10T10:32:10.627Z"
 }
