@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:16c4cffc8f18376e",
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now works with X",
+      "link": "https://x.ai/news/grok-bot-and-x",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:24ade0b14d4bf922",
+      "title": "Workflows in Grok Build",
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+      "link": "https://x.ai/news/workflows",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:764b42fb7740a988",
+      "title": "Introducing Grok 4.5",
+      "summary": "Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.",
+      "link": "https://x.ai/news/grok-4-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "a35b8e6267585714982a44274684919dd8bb62e5",
-      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
-      "summary": "AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-31T19:18:09.000Z"
-    },
-    {
-      "id": "323478b1ec9cbb8e9bd70aeb19b445443b64f0e8",
-      "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
-      "summary": "This post builds an enterprise agentic retrieval solution on the Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore. An agent reasons, routes across multiple knowledge bases, and returns cited answers,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-31T19:08:45.000Z"
-    },
-    {
-      "id": "aa6871124c0907be369777e6369d35b6c44e2000",
-      "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
-      "summary": "Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-31T18:56:12.000Z"
-    },
-    {
-      "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-31T04:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T19:25:57.139Z"
+  "updatedAt": "2026-09-11T22:12:37.392Z"
 }
