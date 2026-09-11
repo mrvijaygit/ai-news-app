@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:95e9b6d90fc1fb24",
+      "title": "Grok for PowerPoint",
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "link": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:fee1e6ce5633dfad",
+      "title": "Use Grok in OpenCode",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
+      "link": "https://x.ai/news/grok-opencode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f48d7b7c6e59faeb",
+      "title": "Use Grok in OpenClaw",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
+      "link": "https://x.ai/news/grok-openclaw",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a1e6fcd31f7e65d4",
+      "title": "Skills in web, iOS, and Android",
+      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
+      "link": "https://x.ai/news/grok-skills",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:4de6c4fbb944a39a",
       "title": "Connect Grok to Hermes Agent",
       "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:ae67cdc2e5ac21a4",
-      "title": "Grok Build 0.1 on API",
-      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
-      "link": "https://x.ai/news/grok-build-0-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:202301d15429884f",
-      "title": "Use Grok in Kilo Code",
-      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
-      "link": "https://x.ai/news/grok-kilocode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9d5659da9528b35d",
-      "title": "Introducing Grok Build",
-      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
-      "link": "https://x.ai/news/grok-build-cli",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-28T02:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:34:00.864Z"
+  "updatedAt": "2026-09-11T16:52:54.206Z"
 }
