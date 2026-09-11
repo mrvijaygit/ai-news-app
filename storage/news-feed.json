@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:4de6c4fbb944a39a",
+      "title": "Connect Grok to Hermes Agent",
+      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:58667f1086bc597d",
+      "title": "New Compute Partnership with Anthropic",
+      "summary": "SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.",
+      "link": "https://x.ai/news/anthropic-compute-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2a3af01c46c0903e",
+      "title": "Connectors in web, iOS, and Android",
+      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:b6d4ab19daa61b89",
+      "title": "Grok Imagine Quality Mode API",
+      "summary": "Higher realism. Stronger text rendering. Better creative control.",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f1d270907ee198a8",
+      "title": "Grok Voice Think Fast 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:533a462be2cea991",
       "title": "Grok Speech to Text and Text to Speech APIs",
       "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
@@ -1754,52 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-28T02:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:bf89ec03a105506f",
-      "title": "Regional Inference Open Models New Compute/",
-      "summary": "Regional Inference Open Models New Compute/",
-      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-08-28T09:10:00.737Z"
-    },
-    {
-      "id": "xai:95e9b6d90fc1fb24",
-      "title": "Grok for PowerPoint",
-      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
-      "link": "https://x.ai/news/introducing-powerpoint-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fee1e6ce5633dfad",
-      "title": "Use Grok in OpenCode",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f48d7b7c6e59faeb",
-      "title": "Use Grok in OpenClaw",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
-      "link": "https://x.ai/news/grok-openclaw",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a1e6fcd31f7e65d4",
-      "title": "Skills in web, iOS, and Android",
-      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-11T07:45:08.620Z"
+  "updatedAt": "2026-09-11T12:34:00.864Z"
 }
