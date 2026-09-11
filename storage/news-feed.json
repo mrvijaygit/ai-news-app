@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
+    {
+      "id": "xai:ae67cdc2e5ac21a4",
+      "title": "Grok Build 0.1 on API",
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "link": "https://x.ai/news/grok-build-0-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:202301d15429884f",
+      "title": "Use Grok in Kilo Code",
+      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
+      "link": "https://x.ai/news/grok-kilocode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9d5659da9528b35d",
+      "title": "Introducing Grok Build",
+      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
+      "link": "https://x.ai/news/grok-build-cli",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "9da22a53a45cf214e154c67bafd0a4bd7eefa26b",
+      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+      "summary": "Multi-agent systems fail in ways traditional monitoring misses. This post presents a dual-layer approach to monitoring production agents: Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-11T18:26:38.000Z"
+    },
+    {
+      "id": "4fe7cafaba3f92f547e3e291a89c2e4e2100f953",
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "summary": "Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarking harness that measures cost per correct answer, agent trajectory...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-11T18:24:38.000Z"
+    },
+    {
+      "id": "1b81a239f751889181ea1d02ab731440b400b140",
+      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "summary": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-11T18:23:17.000Z"
+    },
+    {
       "id": "xai:95e9b6d90fc1fb24",
       "title": "Grok for PowerPoint",
       "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
@@ -1736,70 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:4b42402df6c4e910",
-      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-      "summary": "Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next.... Agentic AI is changing how research is done. AI...",
-      "link": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-31T16:30:00.000Z"
-    },
-    {
-      "id": "nvidia ai:b3e349196818cc27",
-      "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-      "summary": "A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle... A perception stack is shaped by the vehicle that carries it....",
-      "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-08-31T16:00:00.000Z"
-    },
-    {
-      "id": "xai:16c4cffc8f18376e",
-      "title": "Grok Bot now works with X",
-      "summary": "Grok Bot now has a tighter integration with X.",
-      "link": "https://x.ai/news/grok-bot-and-x",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-08-28T06:00:00.000Z"
-    },
-    {
-      "id": "xai:24ade0b14d4bf922",
-      "title": "Workflows in Grok Build",
-      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
-      "link": "https://x.ai/news/workflows",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:764b42fb7740a988",
-      "title": "Introducing Grok 4.5",
-      "summary": "Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.",
-      "link": "https://x.ai/news/grok-4-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ab219090a4ec5ef2",
-      "title": "Grok Imagine Video 1.5",
-      "summary": "Improved quality at even faster speeds.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-11T16:52:54.206Z"
+  "updatedAt": "2026-09-11T19:25:57.139Z"
 }
