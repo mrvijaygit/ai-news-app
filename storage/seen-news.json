@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9",
-    "nvidia ai:bfaef5e335231f6f",
-    "cohere:5e1e0dae8726ce4f",
     "https://huggingface.co/blog/real-world-voiceeq",
     "nvidia ai:67531198132a7d0d",
     "https://huggingface.co/blog/allenai/shippy-tech-blog",
@@ -570,9 +567,6 @@
     "https://openai.com/index/cognition-devin-testing-with-astra"
   ],
   "seenAt": {
-    "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9": "2026-07-14T19:28:19.056Z",
-    "nvidia ai:bfaef5e335231f6f": "2026-07-14T19:28:19.056Z",
-    "cohere:5e1e0dae8726ce4f": "2026-07-14T19:28:19.056Z",
     "https://huggingface.co/blog/real-world-voiceeq": "2026-07-15T14:46:19.287Z",
     "nvidia ai:67531198132a7d0d": "2026-07-15T18:03:18.548Z",
     "https://huggingface.co/blog/allenai/shippy-tech-blog": "2026-07-15T18:03:18.548Z",
