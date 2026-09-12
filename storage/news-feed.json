@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "xai:5814f5ea763c956b",
+      "title": "Grok in Google Workspace",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "link": "https://x.ai/news/introducing-google-workspace-addon",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-08-31T07:00:00.000Z"
-    },
-    {
-      "id": "xai:4ea5ad07a0d56f40",
-      "title": "Introducing Grok 4.6",
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
-      "link": "https://x.ai/news/grok-4-6",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-12T00:52:44.832Z"
+  "updatedAt": "2026-09-12T05:22:03.588Z"
 }
