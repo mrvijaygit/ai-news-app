@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-11T16:00:00.000Z"
+    },
+    {
       "id": "xai:16c4cffc8f18376e",
       "title": "Grok Bot now works with X",
       "summary": "Grok Bot now works with X",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "0b043ce49f9a164fa994a19b2ff7903218809861",
-      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
-      "summary": "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-08-31T22:47:53.000Z"
-    },
-    {
-      "id": "xai:5814f5ea763c956b",
-      "title": "Grok in Google Workspace",
-      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
-      "link": "https://x.ai/news/introducing-google-workspace-addon",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-11T22:12:37.392Z"
+  "updatedAt": "2026-09-12T00:52:44.832Z"
 }

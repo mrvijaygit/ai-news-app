@@ -575,7 +575,9 @@
     "9da22a53a45cf214e154c67bafd0a4bd7eefa26b",
     "4fe7cafaba3f92f547e3e291a89c2e4e2100f953",
     "1b81a239f751889181ea1d02ab731440b400b140",
-    "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "https://openai.com/index/cognition-devin-testing-with-astra"
   ],
   "seenAt": {
     "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": "2026-07-14T12:08:20.864Z",
@@ -1119,7 +1121,9 @@
     "9da22a53a45cf214e154c67bafd0a4bd7eefa26b": "2026-09-11T19:25:57.137Z",
     "4fe7cafaba3f92f547e3e291a89c2e4e2100f953": "2026-09-11T19:25:57.137Z",
     "1b81a239f751889181ea1d02ab731440b400b140": "2026-09-11T19:25:57.137Z",
-    "https://openai.com/index/scaling-storage-one-billion-users-part-one": "2026-09-11T19:25:57.137Z"
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one": "2026-09-11T19:25:57.137Z",
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:52:44.830Z",
+    "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z"
   },
-  "updatedAt": "2026-09-11T19:25:57.137Z"
+  "updatedAt": "2026-09-12T00:52:44.830Z"
 }
