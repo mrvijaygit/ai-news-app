@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:61a45589bea1e81d",
     "nvidia ai:298b6def0a1f9dca",
     "nvidia ai:be03291fe9b67921",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -558,10 +557,10 @@
     "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "https://openai.com/index/cognition-devin-testing-with-astra",
     "perplexity ai:b7f4432f5259c0b5",
-    "perplexity ai:d1af1c75a51e9301"
+    "perplexity ai:d1af1c75a51e9301",
+    "xai:61a45589bea1e81d"
   ],
   "seenAt": {
-    "xai:61a45589bea1e81d": "2026-07-15T21:56:38.415Z",
     "nvidia ai:298b6def0a1f9dca": "2026-07-15T22:57:58.920Z",
     "nvidia ai:be03291fe9b67921": "2026-07-16T00:01:04.073Z",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": "2026-07-16T13:43:04.963Z",
@@ -1085,7 +1084,8 @@
     "https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:52:44.830Z",
     "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z",
     "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
-    "perplexity ai:d1af1c75a51e9301": "2026-09-13T02:58:35.342Z"
+    "perplexity ai:d1af1c75a51e9301": "2026-09-13T02:58:35.342Z",
+    "xai:61a45589bea1e81d": "2026-09-13T22:50:10.389Z"
   },
-  "updatedAt": "2026-09-13T02:58:35.342Z"
+  "updatedAt": "2026-09-13T22:50:10.389Z"
 }
