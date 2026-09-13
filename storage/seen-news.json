@@ -564,7 +564,9 @@
     "1b81a239f751889181ea1d02ab731440b400b140",
     "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "https://openai.com/index/cognition-devin-testing-with-astra"
+    "https://openai.com/index/cognition-devin-testing-with-astra",
+    "perplexity ai:b7f4432f5259c0b5",
+    "perplexity ai:d1af1c75a51e9301"
   ],
   "seenAt": {
     "https://huggingface.co/blog/real-world-voiceeq": "2026-07-15T14:46:19.287Z",
@@ -1097,7 +1099,9 @@
     "1b81a239f751889181ea1d02ab731440b400b140": "2026-09-11T19:25:57.137Z",
     "https://openai.com/index/scaling-storage-one-billion-users-part-one": "2026-09-11T19:25:57.137Z",
     "https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:52:44.830Z",
-    "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z"
+    "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z",
+    "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
+    "perplexity ai:d1af1c75a51e9301": "2026-09-13T02:58:35.342Z"
   },
-  "updatedAt": "2026-09-12T00:52:44.830Z"
+  "updatedAt": "2026-09-13T02:58:35.342Z"
 }

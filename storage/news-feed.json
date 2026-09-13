@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "perplexity ai:b7f4432f5259c0b5",
+      "title": "Research Sep 9, 2026 Q2D-Web: Evaluating First-Stage Retrievers at Scale A benchmark and leaderboard with 70 thousand ag",
+      "summary": "Research Sep 9, 2026 Q2D-Web: Evaluating First-Stage Retrievers at Scale A benchmark and leaderboard with 70 thousand ag",
+      "link": "https://www.perplexity.ai/hub/blog/q2d-web",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:d1af1c75a51e9301",
+      "title": "News Sep 1, 2026 Introducing Hybrid Compute on Mac Perplexity Computer uses cloud AI and local models on Mac, keeping se",
+      "summary": "News Sep 1, 2026 Introducing Hybrid Compute on Mac Perplexity Computer uses cloud AI and local models on Mac, keeping se",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:02686e8b453d3e70",
+      "title": "News Aug 25, 2026 Introducing Portable Computer for local-first AI Portable Computer runs Perplexity Computer entirely o",
+      "summary": "News Aug 25, 2026 Introducing Portable Computer for local-first AI Portable Computer runs Perplexity Computer entirely o",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:a232ddc41d6d7443",
+      "title": "Developers May 6, 2026 Introducing finance search in the Agent API In a single tool call, Finance Search combines licens",
+      "summary": "Developers May 6, 2026 Introducing finance search in the Agent API In a single tool call, Finance Search combines licens",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:4ea5ad07a0d56f40",
       "title": "Introducing Grok 4.6",
       "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-01T15:50:00.000Z"
-    },
-    {
-      "id": "48cbbe2c304a8279bcc16025341884fcd5d58fd7",
-      "title": "How Boomi Scribe streamlines documentation using AWS",
-      "summary": "Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-01T15:45:36.000Z"
-    },
-    {
-      "id": "nvidia ai:74971eff5bc1a209",
-      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-      "summary": "AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to... AI is changing the pace of cybersecurity. Agentic...",
-      "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-01T17:00:04.000Z"
-    },
-    {
-      "id": "nvidia ai:3c919050cccbbe5b",
-      "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
-      "summary": "The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently... The surge in AI adoption is transforming everything from...",
-      "link": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-01T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/webgpu-kernels",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "link": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-01T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-12T10:01:09.600Z"
+  "updatedAt": "2026-09-13T02:58:35.345Z"
 }
