@@ -34,15 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "cohere:61bf2ff2140552ea",
-    "nvidia ai:c74cd6a8a3b06674",
-    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "nvidia ai:ad53465eb15d78b0",
-    "c59281925c937a35e2ea6c2c422d783c98de7a26",
-    "https://openai.com/index/cars24",
     "6804c3e12f21b603b9634973a5e5fb1526d35aaa",
     "8e50afea9ffc6d052fce86614e4ef6027e9f4be3",
     "xai:dc8d8bf3f50d9717",
@@ -556,18 +547,15 @@
     "https://openai.com/index/cognition-devin-testing-with-astra",
     "perplexity ai:b7f4432f5259c0b5",
     "perplexity ai:d1af1c75a51e9301",
-    "xai:61a45589bea1e81d"
+    "xai:61a45589bea1e81d",
+    "nvidia ai:2b215ee9931c7d37",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "6306dc0dce0a1d4340a5b1693847b5829a3e5c97",
+    "8ccc6396f56013db85944a02959776c99f87290a",
+    "b9380fe5c5bdd3f3c76704d77744859dccb2c43c",
+    "https://openai.com/index/fyxer"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": "2026-07-16T13:43:04.963Z",
-    "cohere:61bf2ff2140552ea": "2026-07-16T15:36:46.605Z",
-    "nvidia ai:c74cd6a8a3b06674": "2026-07-16T17:11:41.649Z",
-    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb": "2026-07-16T17:11:41.649Z",
-    "https://openai.com/index/why-teens-deserve-access-safe-ai": "2026-07-16T17:11:41.649Z",
-    "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/": "2026-07-16T17:11:41.649Z",
-    "nvidia ai:ad53465eb15d78b0": "2026-07-16T17:11:41.649Z",
-    "c59281925c937a35e2ea6c2c422d783c98de7a26": "2026-07-16T17:11:41.649Z",
-    "https://openai.com/index/cars24": "2026-07-16T17:11:41.649Z",
     "6804c3e12f21b603b9634973a5e5fb1526d35aaa": "2026-07-16T20:53:59.166Z",
     "8e50afea9ffc6d052fce86614e4ef6027e9f4be3": "2026-07-16T22:00:46.014Z",
     "xai:dc8d8bf3f50d9717": "2026-07-16T22:00:46.014Z",
@@ -1081,7 +1069,13 @@
     "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z",
     "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
     "perplexity ai:d1af1c75a51e9301": "2026-09-13T02:58:35.342Z",
-    "xai:61a45589bea1e81d": "2026-09-13T22:50:10.389Z"
+    "xai:61a45589bea1e81d": "2026-09-13T22:50:10.389Z",
+    "nvidia ai:2b215ee9931c7d37": "2026-09-14T17:36:25.836Z",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": "2026-09-14T17:36:25.836Z",
+    "6306dc0dce0a1d4340a5b1693847b5829a3e5c97": "2026-09-14T17:36:25.836Z",
+    "8ccc6396f56013db85944a02959776c99f87290a": "2026-09-14T17:36:25.836Z",
+    "b9380fe5c5bdd3f3c76704d77744859dccb2c43c": "2026-09-14T17:36:25.836Z",
+    "https://openai.com/index/fyxer": "2026-09-14T17:36:25.836Z"
   },
-  "updatedAt": "2026-09-13T22:50:10.389Z"
+  "updatedAt": "2026-09-14T17:36:25.836Z"
 }

@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/fyxer",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "link": "https://openai.com/index/fyxer",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-14T16:00:00.000Z"
+    },
+    {
+      "id": "6306dc0dce0a1d4340a5b1693847b5829a3e5c97",
+      "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-14T15:58:57.000Z"
+    },
+    {
+      "id": "8ccc6396f56013db85944a02959776c99f87290a",
+      "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+      "summary": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-14T15:47:12.000Z"
+    },
+    {
+      "id": "b9380fe5c5bdd3f3c76704d77744859dccb2c43c",
+      "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+      "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-14T15:42:06.000Z"
+    },
+    {
+      "id": "nvidia ai:2b215ee9931c7d37",
+      "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+      "summary": "Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE... Mixture of experts (MoE) has become one of the defining...",
+      "link": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-14T16:39:15.000Z"
+    },
+    {
       "id": "perplexity ai:b7f4432f5259c0b5",
       "title": "Research Sep 9, 2026 Q2D-Web: Evaluating First-Stage Retrievers at Scale A benchmark and leaderboard with 70 thousand ag",
       "summary": "Research Sep 9, 2026 Q2D-Web: Evaluating First-Stage Retrievers at Scale A benchmark and leaderboard with 70 thousand ag",
@@ -1745,61 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-09-01T16:00:00.000Z"
-    },
-    {
-      "id": "google deepmind:f629c52294cbabdc",
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "Introducing agentic video understanding with Gemini",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-      "source": "Google DeepMind Blog",
-      "company": "Google DeepMind",
-      "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "c09782028dd4cf40d9245e4cd28716a51318e5b0",
-      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
-      "summary": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-01T16:17:54.000Z"
-    },
-    {
-      "id": "008129bbc0eabcb083993ebf3af85f5167177c99",
-      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
-      "summary": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-01T16:02:22.000Z"
-    },
-    {
-      "id": "6d27453be64ca6b4b4bfe0edebc3b8aa1367edf7",
-      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
-      "summary": "t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-01T15:50:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-13T02:58:35.345Z"
+  "updatedAt": "2026-09-14T17:36:25.839Z"
 }
