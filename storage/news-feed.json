@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
+      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-14T21:22:45.000Z"
+    },
+    {
+      "id": "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef",
+      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack 3LO...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-14T20:35:45.000Z"
+    },
+    {
       "id": "https://openai.com/index/fyxer",
       "title": "How Fyxer built an AI executive assistant people trust",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "fe5a761d13fdea1cd6343d646c1e042d79f66815",
-      "title": "Introducing Claude Fable 5.1 on AWS",
-      "summary": "Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud environment you...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-01T19:12:43.000Z"
-    },
-    {
-      "id": "https://openai.com/index/ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-01T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-14T17:36:25.839Z"
+  "updatedAt": "2026-09-14T21:24:59.040Z"
 }

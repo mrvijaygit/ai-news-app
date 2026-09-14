@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "6804c3e12f21b603b9634973a5e5fb1526d35aaa",
     "8e50afea9ffc6d052fce86614e4ef6027e9f4be3",
     "xai:dc8d8bf3f50d9717",
     "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -553,10 +552,11 @@
     "6306dc0dce0a1d4340a5b1693847b5829a3e5c97",
     "8ccc6396f56013db85944a02959776c99f87290a",
     "b9380fe5c5bdd3f3c76704d77744859dccb2c43c",
-    "https://openai.com/index/fyxer"
+    "https://openai.com/index/fyxer",
+    "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
+    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef"
   ],
   "seenAt": {
-    "6804c3e12f21b603b9634973a5e5fb1526d35aaa": "2026-07-16T20:53:59.166Z",
     "8e50afea9ffc6d052fce86614e4ef6027e9f4be3": "2026-07-16T22:00:46.014Z",
     "xai:dc8d8bf3f50d9717": "2026-07-16T22:00:46.014Z",
     "https://openai.com/index/a-scorecard-for-the-ai-age": "2026-07-17T14:40:43.997Z",
@@ -1075,7 +1075,9 @@
     "6306dc0dce0a1d4340a5b1693847b5829a3e5c97": "2026-09-14T17:36:25.836Z",
     "8ccc6396f56013db85944a02959776c99f87290a": "2026-09-14T17:36:25.836Z",
     "b9380fe5c5bdd3f3c76704d77744859dccb2c43c": "2026-09-14T17:36:25.836Z",
-    "https://openai.com/index/fyxer": "2026-09-14T17:36:25.836Z"
+    "https://openai.com/index/fyxer": "2026-09-14T17:36:25.836Z",
+    "5765f76e7a987692146e6fe2b1eb9962dcd91bac": "2026-09-14T21:24:59.038Z",
+    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef": "2026-09-14T21:24:59.038Z"
   },
-  "updatedAt": "2026-09-14T17:36:25.836Z"
+  "updatedAt": "2026-09-14T21:24:59.038Z"
 }
