@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:298b6def0a1f9dca",
-    "nvidia ai:be03291fe9b67921",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
     "cohere:61bf2ff2140552ea",
     "nvidia ai:c74cd6a8a3b06674",
@@ -561,8 +559,6 @@
     "xai:61a45589bea1e81d"
   ],
   "seenAt": {
-    "nvidia ai:298b6def0a1f9dca": "2026-07-15T22:57:58.920Z",
-    "nvidia ai:be03291fe9b67921": "2026-07-16T00:01:04.073Z",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": "2026-07-16T13:43:04.963Z",
     "cohere:61bf2ff2140552ea": "2026-07-16T15:36:46.605Z",
     "nvidia ai:c74cd6a8a3b06674": "2026-07-16T17:11:41.649Z",
