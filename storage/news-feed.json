@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "c9f41d7f970343e8cc614d389738c9638a75056d",
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-15T16:18:19.000Z"
+    },
+    {
+      "id": "cd519793c04f6ce372abfc901f9f14b3d13da36b",
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "summary": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) on...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-15T16:11:36.000Z"
+    },
+    {
+      "id": "bb01241ebaabc1f428ef8bc4f3eca39e4829e7f0",
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "summary": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-15T16:01:47.000Z"
+    },
+    {
+      "id": "nvidia ai:51fe30e45b00981f",
+      "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+      "summary": "How can a 30B-parameter model activate only 3B parameters per token, and still use the capacity of the larger model? Nemotron 3.5 Lightning illustrates the... How can a 30B-parameter model activate only 3B parameters...",
+      "link": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-15T17:00:11.000Z"
+    },
+    {
+      "id": "nvidia ai:1d02b3abab54dd05",
+      "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+      "summary": "Power is a defining constraint for AI factories. As AI workloads demand a full compute platform to serve them, each component of that platform must maximize... Power is a defining constraint for AI factories. As AI...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-15T16:55:00.000Z"
+    },
+    {
+      "id": "nvidia ai:75cedc70ae6f2876",
+      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+      "summary": "For operators of large-scale AI factories, maximizing continuous output is essential for productivity. In massive-scale AI training, every GPU in the cluster... For operators of large-scale AI factories, maximizing...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-15T16:55:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Your Agent Aced the Task. Will It Do It Again?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-15T16:00:44.000Z"
+    },
+    {
       "id": "nvidia ai:31d673605de68ba5",
       "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
       "summary": "Federated learning (FL) projects often begin with a straightforward setup: one server, a few clients, and one dataset at each site. As those projects grow, the... Federated learning (FL) projects often begin with a...",
@@ -1709,97 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/gilbert-tobin",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "link": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-01T01:00:00.000Z"
-    },
-    {
-      "id": "xai:aeb52aceb6679ea3",
-      "title": "Grok 4.5 in GitHub Copilot",
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-09-01T20:45:00.000Z"
-    },
-    {
-      "id": "xai:392dca10a759ab7c",
-      "title": "Introducing Build Mode",
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
-      "link": "https://x.ai/news/grok-build-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ea7ad631cd2df309",
-      "title": "Introducing /goal",
-      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
-      "link": "https://x.ai/news/introducing-goal",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/benchmirt",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "summary": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "link": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-01T21:39:07.000Z"
-    },
-    {
-      "id": "https://openai.com/index/path-to-astra",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "link": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-01T13:00:00.000Z"
-    },
-    {
-      "id": "xai:950769d2f630ca6f",
-      "title": "Grok on Databricks",
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "link": "https://x.ai/news/grok-databricks",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6fb78d5fa6c818ae",
-      "title": "Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:000376eced0f7685",
-      "title": "Grok on Amazon Bedrock",
-      "summary": "Grok models are now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-15T15:30:59.963Z"
+  "updatedAt": "2026-09-15T19:29:56.336Z"
 }
