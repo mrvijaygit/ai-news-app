@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "8e50afea9ffc6d052fce86614e4ef6027e9f4be3",
-    "xai:dc8d8bf3f50d9717",
     "https://openai.com/index/a-scorecard-for-the-ai-age",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "c7c7b20143e9236cf53af22804c327ab641f9a42",
@@ -554,11 +552,10 @@
     "b9380fe5c5bdd3f3c76704d77744859dccb2c43c",
     "https://openai.com/index/fyxer",
     "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
-    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef"
+    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef",
+    "xai:dc8d8bf3f50d9717"
   ],
   "seenAt": {
-    "8e50afea9ffc6d052fce86614e4ef6027e9f4be3": "2026-07-16T22:00:46.014Z",
-    "xai:dc8d8bf3f50d9717": "2026-07-16T22:00:46.014Z",
     "https://openai.com/index/a-scorecard-for-the-ai-age": "2026-07-17T14:40:43.997Z",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": "2026-07-17T16:12:33.305Z",
     "c7c7b20143e9236cf53af22804c327ab641f9a42": "2026-07-17T18:03:01.483Z",
@@ -1077,7 +1074,8 @@
     "b9380fe5c5bdd3f3c76704d77744859dccb2c43c": "2026-09-14T17:36:25.836Z",
     "https://openai.com/index/fyxer": "2026-09-14T17:36:25.836Z",
     "5765f76e7a987692146e6fe2b1eb9962dcd91bac": "2026-09-14T21:24:59.038Z",
-    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef": "2026-09-14T21:24:59.038Z"
+    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef": "2026-09-14T21:24:59.038Z",
+    "xai:dc8d8bf3f50d9717": "2026-09-15T00:14:01.681Z"
   },
-  "updatedAt": "2026-09-14T21:24:59.038Z"
+  "updatedAt": "2026-09-15T00:14:01.681Z"
 }
