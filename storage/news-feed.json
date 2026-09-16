@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e14bedc28fd4dbb8",
+      "title": "Introducing Grok Voice Think Fast 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:392dca10a759ab7c",
       "title": "Introducing Build Mode",
       "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-02T21:22:05.000Z"
-    },
-    {
-      "id": "google deepmind:55b014275a1ef77f",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "source": "Google DeepMind Blog",
-      "company": "Google DeepMind",
-      "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "e771b13b28ead96c665aa300c29b20385700a5dd",
-      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
-      "summary": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-02T18:18:47.000Z"
     }
   ],
-  "updatedAt": "2026-09-15T22:41:47.802Z"
+  "updatedAt": "2026-09-16T07:09:58.763Z"
 }
