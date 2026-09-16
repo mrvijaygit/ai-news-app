@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "mistral ai:36ea4e96420f4de9",
+      "title": "Mistral X Mozilla/",
+      "summary": "Mistral X Mozilla/",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-09-16T07:35:58.879Z"
+    },
+    {
       "id": "xai:56410469519f91d2",
       "title": "Grok 4.6 in GitHub Copilot",
       "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "id": "262427adeddcaf49102f989ea5bfb8332e685f6c",
-      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
-      "summary": "Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-02T21:22:05.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T07:09:58.763Z"
+  "updatedAt": "2026-09-16T13:04:34.170Z"
 }

@@ -559,7 +559,8 @@
     "bb01241ebaabc1f428ef8bc4f3eca39e4829e7f0",
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+    "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "mistral ai:36ea4e96420f4de9"
   ],
   "seenAt": {
     "nvidia ai:74bd045b72dafac4": "2026-07-20T15:08:57.280Z",
@@ -1087,7 +1088,8 @@
     "bb01241ebaabc1f428ef8bc4f3eca39e4829e7f0": "2026-09-15T19:29:56.334Z",
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": "2026-09-15T19:29:56.334Z",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": "2026-09-15T19:29:56.334Z",
-    "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": "2026-09-15T19:29:56.334Z"
+    "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": "2026-09-15T19:29:56.334Z",
+    "mistral ai:36ea4e96420f4de9": "2026-09-16T13:04:34.168Z"
   },
-  "updatedAt": "2026-09-15T19:29:56.334Z"
+  "updatedAt": "2026-09-16T13:04:34.168Z"
 }
