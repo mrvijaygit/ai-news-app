@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "id": "xai:9eeeefc09b0959e7",
+      "title": "Memory in Grok Build",
+      "summary": "Memory in Grok Build",
+      "link": "https://x.ai/news/grok-build-memory",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "fd565c39336c51430810e927ad66178c9158fbf3",
+      "title": "Improving HCLS AI reasoning with open-source agent skills",
+      "summary": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-16T19:00:00.000Z"
+    },
+    {
+      "id": "1e1539eea3be4ce999a3a6472187f690d96aec84",
+      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+      "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-16T18:59:25.000Z"
+    },
+    {
+      "id": "nvidia ai:b2f58651e9a24a89",
+      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+      "summary": "AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through... AI agents are moving from cloud data centers to...",
+      "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-16T20:37:07.000Z"
+    },
+    {
       "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "title": "Helping older adults use AI in everyday life",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -1754,52 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-03T16:14:12.000Z"
-    },
-    {
-      "id": "45013122d99dd69ba75174b10b7aa6d2c0edead0",
-      "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
-      "summary": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-03T16:10:39.000Z"
-    },
-    {
-      "id": "40a2051ba133076564be9a3ec056645bf56e872f",
-      "title": "Best practices for building agentic automations with Amazon Quick Automate",
-      "summary": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-03T16:08:28.000Z"
-    },
-    {
-      "id": "nvidia ai:4b60296e18afa95d",
-      "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
-      "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents.... AI agents are learning to do more by working together. A...",
-      "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/Hcompany/neomme",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "link": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-03T13:13:48.000Z"
-    },
-    {
-      "id": "cohere:68cfaab320839548",
-      "title": "How Small Models Can Make A Big Impact For Enterprises",
-      "summary": "How Small Models Can Make A Big Impact For Enterprises",
-      "link": "https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-09-02T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T17:56:24.124Z"
+  "updatedAt": "2026-09-16T20:55:34.017Z"
 }
