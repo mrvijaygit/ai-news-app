@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-16T16:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-16T13:00:00.000Z"
+    },
+    {
+      "id": "4fc315fa9f77dfa231ce4ad1a494c418d1a77b51",
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "summary": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-16T15:47:39.000Z"
+    },
+    {
+      "id": "nvidia ai:63530b2f84f9f53d",
+      "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+      "summary": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to... cuTile Rust () is a tile-based system for safe,...",
+      "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-16T16:28:59.000Z"
+    },
+    {
       "id": "mistral ai:36ea4e96420f4de9",
       "title": "Mistral X Mozilla/",
       "summary": "Mistral X Mozilla/",
@@ -1763,43 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-09-02T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/funes",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "Give Your Coding Agents a Memory You Own",
-      "link": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/train-to-paint-with-code",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "link": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/atv-big-air-tour",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "link": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-16T13:04:34.170Z"
+  "updatedAt": "2026-09-16T17:56:24.124Z"
 }

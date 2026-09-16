@@ -560,7 +560,11 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "mistral ai:36ea4e96420f4de9"
+    "mistral ai:36ea4e96420f4de9",
+    "nvidia ai:63530b2f84f9f53d",
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "4fc315fa9f77dfa231ce4ad1a494c418d1a77b51",
+    "https://openai.com/index/reimagining-advertising-with-ai"
   ],
   "seenAt": {
     "nvidia ai:74bd045b72dafac4": "2026-07-20T15:08:57.280Z",
@@ -1089,7 +1093,11 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": "2026-09-15T19:29:56.334Z",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": "2026-09-15T19:29:56.334Z",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": "2026-09-15T19:29:56.334Z",
-    "mistral ai:36ea4e96420f4de9": "2026-09-16T13:04:34.168Z"
+    "mistral ai:36ea4e96420f4de9": "2026-09-16T13:04:34.168Z",
+    "nvidia ai:63530b2f84f9f53d": "2026-09-16T17:56:24.089Z",
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": "2026-09-16T17:56:24.089Z",
+    "4fc315fa9f77dfa231ce4ad1a494c418d1a77b51": "2026-09-16T17:56:24.089Z",
+    "https://openai.com/index/reimagining-advertising-with-ai": "2026-09-16T17:56:24.089Z"
   },
-  "updatedAt": "2026-09-16T13:04:34.168Z"
+  "updatedAt": "2026-09-16T17:56:24.089Z"
 }
