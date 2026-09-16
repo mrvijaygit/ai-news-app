@@ -569,7 +569,9 @@
     "fd565c39336c51430810e927ad66178c9158fbf3",
     "1e1539eea3be4ce999a3a6472187f690d96aec84",
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "xai:9eeeefc09b0959e7"
+    "xai:9eeeefc09b0959e7",
+    "nvidia ai:a3845a3ee3dff19c",
+    "https://openai.com/index/model-misalignment-reporting-framework"
   ],
   "seenAt": {
     "nvidia ai:74bd045b72dafac4": "2026-07-20T15:08:57.280Z",
@@ -1107,7 +1109,9 @@
     "fd565c39336c51430810e927ad66178c9158fbf3": "2026-09-16T20:55:34.015Z",
     "1e1539eea3be4ce999a3a6472187f690d96aec84": "2026-09-16T20:55:34.015Z",
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value": "2026-09-16T20:55:34.015Z",
-    "xai:9eeeefc09b0959e7": "2026-09-16T20:55:34.015Z"
+    "xai:9eeeefc09b0959e7": "2026-09-16T20:55:34.015Z",
+    "nvidia ai:a3845a3ee3dff19c": "2026-09-16T23:31:50.208Z",
+    "https://openai.com/index/model-misalignment-reporting-framework": "2026-09-16T23:31:50.208Z"
   },
-  "updatedAt": "2026-09-16T20:55:34.015Z"
+  "updatedAt": "2026-09-16T23:31:50.208Z"
 }
