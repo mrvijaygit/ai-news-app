@@ -571,7 +571,10 @@
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "xai:9eeeefc09b0959e7",
     "nvidia ai:a3845a3ee3dff19c",
-    "https://openai.com/index/model-misalignment-reporting-framework"
+    "https://openai.com/index/model-misalignment-reporting-framework",
+    "49c842b44edb1dd5449d9240e495051aa126e2d3",
+    "3897ac24762f2462158b7a05b94713494788aa8c",
+    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779"
   ],
   "seenAt": {
     "nvidia ai:74bd045b72dafac4": "2026-07-20T15:08:57.280Z",
@@ -1111,7 +1114,10 @@
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value": "2026-09-16T20:55:34.015Z",
     "xai:9eeeefc09b0959e7": "2026-09-16T20:55:34.015Z",
     "nvidia ai:a3845a3ee3dff19c": "2026-09-16T23:31:50.208Z",
-    "https://openai.com/index/model-misalignment-reporting-framework": "2026-09-16T23:31:50.208Z"
+    "https://openai.com/index/model-misalignment-reporting-framework": "2026-09-16T23:31:50.208Z",
+    "49c842b44edb1dd5449d9240e495051aa126e2d3": "2026-09-17T18:47:00.752Z",
+    "3897ac24762f2462158b7a05b94713494788aa8c": "2026-09-17T18:47:00.752Z",
+    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779": "2026-09-17T18:47:00.752Z"
   },
-  "updatedAt": "2026-09-16T23:31:50.208Z"
+  "updatedAt": "2026-09-17T18:47:00.752Z"
 }
