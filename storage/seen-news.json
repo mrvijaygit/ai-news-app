@@ -574,7 +574,11 @@
     "https://openai.com/index/model-misalignment-reporting-framework",
     "49c842b44edb1dd5449d9240e495051aa126e2d3",
     "3897ac24762f2462158b7a05b94713494788aa8c",
-    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779"
+    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779",
+    "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "https://openai.com/index/astra-for-law",
+    "cohere:99f2dee5a43332af",
+    "cohere:0d758ae28485e5ae"
   ],
   "seenAt": {
     "nvidia ai:74bd045b72dafac4": "2026-07-20T15:08:57.280Z",
@@ -1117,7 +1121,11 @@
     "https://openai.com/index/model-misalignment-reporting-framework": "2026-09-16T23:31:50.208Z",
     "49c842b44edb1dd5449d9240e495051aa126e2d3": "2026-09-17T18:47:00.752Z",
     "3897ac24762f2462158b7a05b94713494788aa8c": "2026-09-17T18:47:00.752Z",
-    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779": "2026-09-17T18:47:00.752Z"
+    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779": "2026-09-17T18:47:00.752Z",
+    "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/": "2026-09-17T21:53:53.645Z",
+    "https://openai.com/index/astra-for-law": "2026-09-17T21:53:53.645Z",
+    "cohere:99f2dee5a43332af": "2026-09-17T21:53:53.645Z",
+    "cohere:0d758ae28485e5ae": "2026-09-17T21:53:53.645Z"
   },
-  "updatedAt": "2026-09-17T18:47:00.752Z"
+  "updatedAt": "2026-09-17T21:53:53.645Z"
 }

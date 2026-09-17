@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/astra-for-law",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "link": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "id": "xai:0d1046969d236781",
+      "title": "Grok Bot for Enterprise",
+      "summary": "Sep 3, 2026",
+      "link": "https://x.ai/news/grok-bot-for-enterprise",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a12dd6a66dd51433",
+      "title": "Grok 4.6 on Amazon Bedrock",
+      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
+      "link": "https://x.ai/news/grok-4-6-amazon-bedrock",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "cohere:99f2dee5a43332af",
+      "title": "Cohere And Open Text Partner To Bring Trusted Ai",
+      "summary": "Cohere And Open Text Partner To Bring Trusted Ai",
+      "link": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:0d758ae28485e5ae",
+      "title": "Cohere And Aleph Alpha Sign Agreement",
+      "summary": "Cohere And Aleph Alpha Sign Agreement",
+      "link": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "id": "49c842b44edb1dd5449d9240e495051aa126e2d3",
       "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
       "summary": "Wood Mackenzie built APEX, a shared agentic AI platform on Amazon Bedrock AgentCore so every team can ship production agents without rebuilding runtime, identity, observability, and guardrails from scratch. Learn why...",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:35425ef3f910664b",
-      "title": "Grok Becomes the Voice of Vapi",
-      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
-      "link": "https://x.ai/news/grok-vapi",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:1829c617fdcb4281",
-      "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
-      "summary": "Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook... Modern AI platforms are no longer a single application...",
-      "link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-03T22:36:02.000Z"
-    },
-    {
-      "id": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-03T13:15:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "title": "Safety overview: GPT-6 Astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-03T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T18:47:00.754Z"
+  "updatedAt": "2026-09-17T21:53:53.686Z"
 }
