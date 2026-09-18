@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/cooley-gopublic",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/astra-for-law",
       "title": "Introducing Astra for Law",
       "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-17T21:53:53.686Z"
+  "updatedAt": "2026-09-18T03:02:10.579Z"
 }
