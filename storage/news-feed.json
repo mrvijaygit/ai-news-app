@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:6e55d5bdb3ee3ce4",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "summary": "Sep 18, 2026",
+      "link": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f4eff736ac48416d",
+      "title": "Biosecurity at the frontier",
+      "summary": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
+      "link": "https://x.ai/news/biosafety-at-the-frontier",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:bb33a9a1ead76d5b",
+      "title": "Benchmarking LLM Inference at Scale with AIPerf",
+      "summary": "You’re deploying a model on a system. It starts up, prompts are getting responses. Now the hard question: Is this fast? Your instincts might lead you to send... You’re deploying a model on a system. It starts up,...",
+      "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-18T19:04:41.000Z"
+    },
+    {
       "id": "xai:61a45589bea1e81d",
       "title": "Grok Build is Now Open Source",
       "summary": "Explore the harness behind our coding agent and TUI.",
@@ -1772,34 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-09-03T11:00:00.000Z"
-    },
-    {
-      "id": "1cc1445c2783ef202a00ff4aadacbc028620a9eb",
-      "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
-      "summary": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-04T21:45:52.000Z"
-    },
-    {
-      "id": "xai:0df93d3f276c36ce",
-      "title": "Setting Grok Bot loose on procurement",
-      "summary": "Setting Grok Bot loose on procurement",
-      "link": "https://x.ai/news/grok-bot-procurement",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:1c80298df842caf8",
-      "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
-      "summary": "Enterprise work spans messages, decisions, projects, and obligations that change over time. An AI agent that starts without this context must reconstruct it... Enterprise work spans messages, decisions, projects, and...",
-      "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-04T18:04:55.000Z"
     }
   ],
-  "updatedAt": "2026-09-18T17:27:32.596Z"
+  "updatedAt": "2026-09-18T20:21:02.903Z"
 }
