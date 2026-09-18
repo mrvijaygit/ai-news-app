@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "2ee3ed6a4b11eb69260daaa48214c0e6564f2a28",
+      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "summary": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-18T20:52:14.000Z"
+    },
+    {
       "id": "xai:6e55d5bdb3ee3ce4",
       "title": "Introducing Grok Voice Transcribe 2.0",
       "summary": "Sep 18, 2026",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-09-06T08:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/gpt-6-astra",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "link": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-03T11:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-18T20:21:02.903Z"
+  "updatedAt": "2026-09-18T22:59:27.363Z"
 }
