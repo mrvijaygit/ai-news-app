@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/australian-youth-safety-blueprint",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
       "id": "2ee3ed6a4b11eb69260daaa48214c0e6564f2a28",
       "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
       "summary": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference...",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-06T08:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-18T22:59:27.363Z"
+  "updatedAt": "2026-09-19T06:59:11.373Z"
 }
