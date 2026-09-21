@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/v7",
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "link": "https://openai.com/index/v7",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "xai:e3a36f0ed959a8ae",
+      "title": "Introducing Grok 4.7",
+      "summary": "Sep 21, 2026",
+      "link": "https://x.ai/news/grok-4-7",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "3e72f6421874630d0f6484fc3707a6d7794a7bcf",
+      "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+      "summary": "Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validates features in R, trains an XGBoost model in Python, deploys a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-21T16:34:21.000Z"
+    },
+    {
+      "id": "f12234cf73981f2490e4c489bbcca4d6e19975e0",
+      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      "summary": "Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life sciences tenants using Amazon Bedrock AgentCore Code Interpreter in VPC...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-21T16:27:34.000Z"
+    },
+    {
+      "id": "43a40d8ac294a3b8cb40d4d820e61fb2a2f1dfb6",
+      "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+      "summary": "EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Amazon SageMaker and Amazon Bedrock to extract, summarize, and query...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-21T16:24:40.000Z"
+    },
+    {
+      "id": "nvidia ai:3794eeb4c20b2c3a",
+      "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+      "summary": "Weather-sensitive industries increasingly have access to observations that offer an earlier, more local view of changing conditions. Energy companies collect... Weather-sensitive industries increasingly have access to...",
+      "link": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-21T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-21T13:44:34.000Z"
+    },
+    {
       "id": "https://openai.com/index/australian-youth-safety-blueprint",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
@@ -1736,70 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-09-08T12:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:6f9eea204b49d871",
-      "title": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
-      "summary": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
-      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-08T05:38:54.179Z"
-    },
-    {
-      "id": "mistral ai:d0e0cfea2e2632f4",
-      "title": "Regional Inference Open Models New Compute/",
-      "summary": "Regional Inference Open Models New Compute/",
-      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-07T17:25:49.996Z"
-    },
-    {
-      "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "xai:95ae173e613df0d0",
-      "title": "Grok Build on web and mobile",
-      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
-      "link": "https://x.ai/news/grok-build-for-everyone",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:dc8d8bf3f50d9717",
-      "title": "Automations in Grok",
-      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
-      "link": "https://x.ai/news/grok-automations",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2dff0f87787443f6",
-      "title": "Imagine Video 1.5 with References",
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3eb98dee9829b630",
-      "title": "Powering Gopuff's Go agent",
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "link": "https://x.ai/news/grok-gopuff",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-19T06:59:11.373Z"
+  "updatedAt": "2026-09-21T17:49:05.814Z"
 }
