@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/nunchaku-diffusers",
     "410934ec87b141703e6c3bc069789dbcf4a5c5cd",
     "cc479b57e1ea0c463df5c4d0bc58065791625e96",
     "b8492994fb11ad3c2c2ec564ae4776af15643304",
@@ -556,7 +555,6 @@
     "xai:ddc384453fa5c02a"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/nunchaku-diffusers": "2026-07-23T07:30:31.404Z",
     "410934ec87b141703e6c3bc069789dbcf4a5c5cd": "2026-07-23T17:17:55.062Z",
     "cc479b57e1ea0c463df5c4d0bc58065791625e96": "2026-07-23T17:17:55.062Z",
     "b8492994fb11ad3c2c2ec564ae4776af15643304": "2026-07-23T17:17:55.062Z",
