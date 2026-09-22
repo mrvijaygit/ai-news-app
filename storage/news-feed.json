@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-22T18:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "xai:2f8c13d813a7402e",
+      "title": "How SpaceXAI is using Grok Bot to scale customer support",
+      "summary": "How SpaceXAI is using Grok Bot to scale customer support",
+      "link": "https://x.ai/news/grok-bot-customer-support",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "xai:5fc7a578f53f17f5",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+      "link": "https://x.ai/news/designing-grok-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:39cfa33b8f09da04",
+      "title": "Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "f91c4872e4efa50ad6fa1a0161799f318feef3c1",
+      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+      "summary": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T18:10:22.000Z"
+    },
+    {
+      "id": "2e3d91b641ca237ade2f2527a383a24847fe5ded",
+      "title": "Claude Opus 5.5 is now available on AWS",
+      "summary": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's new in Opus 5.5,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T17:28:01.000Z"
+    },
+    {
+      "id": "aa00d9c221ad9292cfbcc5630acd0f904e2648ad",
+      "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+      "summary": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T17:18:13.000Z"
+    },
+    {
+      "id": "b9998174e9c0e9055ac7cefe40c88652e9606651",
+      "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+      "summary": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T15:46:07.000Z"
+    },
+    {
+      "id": "de6c2facc757c64fbd0ea27218c6d35c1221274f",
+      "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+      "summary": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T15:35:53.000Z"
+    },
+    {
+      "id": "dbd3f22e7d336a47137d152cb1d4539976157498",
+      "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+      "summary": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T15:30:34.000Z"
+    },
+    {
+      "id": "nvidia ai:d2b92deae8781b61",
+      "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+      "summary": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated... As large language model (LLM) inference increasingly...",
+      "link": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-22T17:27:41.000Z"
+    },
+    {
+      "id": "nvidia ai:e73aa81eeab1e96d",
+      "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+      "summary": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement... AI factories are power-limited systems that deliver...",
+      "link": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-22T17:16:28.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/evaleval-aisi",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "link": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "bc39639b8f4e4cc7c356256fa699e460f9a01fa5",
       "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
       "summary": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates...",
@@ -1673,133 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:64f50d9a042d4a01",
-      "title": "Mistral X Cloudera/",
-      "summary": "Mistral X Cloudera/",
-      "link": "https://mistral.ai/news/mistral-x-cloudera/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T10:54:52.580Z"
-    },
-    {
-      "id": "nvidia ai:3c1d417ef141c708",
-      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-      "summary": "NVIDIA has one of the largest and most complex supply chains in the world, and its performance is measured from wafer-out to first token. The interval is in two... NVIDIA has one of the largest and most complex supply...",
-      "link": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-10T09:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-09T11:00:00.000Z"
-    },
-    {
-      "id": "6973e0078540c7d789cc946cb3c7e1fd791a8c2f",
-      "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-      "summary": "Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-09T22:26:29.000Z"
-    },
-    {
-      "id": "nvidia ai:2cea4cdac5af3afc",
-      "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-      "summary": "Encode-prefill-decode (EPD) disaggregation is an inference optimization technique for multimodal models that separates the vision encoder stage from the prefill... Encode-prefill-decode (EPD) disaggregation is an...",
-      "link": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-09T20:31:04.000Z"
-    },
-    {
-      "id": "nvidia ai:21e1801012f20d1d",
-      "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
-      "summary": "Every NVIDIA CUDA Toolkit release adds functionality and performance improvements that help developers get more from NVIDIA GPUs and the broader NVIDIA software... Every NVIDIA CUDA Toolkit release adds functionality...",
-      "link": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-09T20:24:12.000Z"
-    },
-    {
-      "id": "xai:9fd7e7592c1ada50",
-      "title": "Grok Bot is now included with more plans",
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
-      "link": "https://x.ai/news/grok-bot-more-plans",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "5a4826a00b8c3e2362294bd88790a97f7dfeae72",
-      "title": "ICYMI: What landed for AI builders in August 2026",
-      "summary": "A recap of August 2026 launches for AI builders across Amazon Bedrock, Amazon Bedrock AgentCore, and Strands: million-token context for OpenAI models, cross-Region inference, agents that run for up to 14 days on...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-09T20:01:03.000Z"
-    },
-    {
-      "id": "8b2b6f1fc936da150ec6ba65d555af391dc31a8e",
-      "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
-      "summary": "Learn how Heurist built Heurist Finance, a conversational AI investment workbench, on Amazon Bedrock AgentCore. This customer story shows how AgentCore payments, Identity, Memory, Code Interpreter, and Observability let...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-09T18:11:12.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "id": "a77ad5a4cc8d539af020eba9f19a5636de04f505",
-      "title": "Automate user-level custom permissions for Amazon Quick",
-      "summary": "Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-09T15:45:24.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-09T15:36:24.000Z"
-    },
-    {
-      "id": "xai:e15e11a40907b4f4",
-      "title": "Introducing the Voice Agent Builder",
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "link": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:337b3f5c095a2baa",
-      "title": "Grok Build Plugin Marketplace",
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "link": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-22T15:24:11.171Z"
+  "updatedAt": "2026-09-22T19:32:24.356Z"
 }
