@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Better prompt caching for GPT-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-22T21:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-22T12:00:00.000Z"
+    },
+    {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "title": "Introducing GPT-6 Sol and Luna",
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
@@ -1754,52 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "4c4240b0ba11b392a9635e42bce173f72181033c",
-      "title": "Model-agnostic PII detection with LLMs",
-      "summary": "A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T16:02:16.000Z"
-    },
-    {
-      "id": "d22d0d2e761e9e5191fef2c68e7f3e0287f67732",
-      "title": "Agent Evaluation Metric for multi-turn conversations",
-      "summary": "Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T15:55:41.000Z"
-    },
-    {
-      "id": "3a3d6d9806280d7f62975dd9e8cdb72b83dcc5d1",
-      "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
-      "summary": "AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T15:53:05.000Z"
-    },
-    {
-      "id": "nvidia ai:9d6a9a5063697828",
-      "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-      "summary": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as... Deploying a large language model is only the first step toward...",
-      "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-10T16:55:32.000Z"
-    },
-    {
-      "id": "nvidia ai:210b11f51eba68d5",
-      "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-      "summary": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA... Biomolecular structure prediction is now often run at...",
-      "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-22T19:32:24.356Z"
+  "updatedAt": "2026-09-22T22:42:16.898Z"
 }

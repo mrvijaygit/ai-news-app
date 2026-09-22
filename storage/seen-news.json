@@ -565,7 +565,9 @@
     "https://openai.com/index/priorities-principles-third-party-assessments",
     "xai:2f8c13d813a7402e",
     "https://huggingface.co/blog/evaleval-aisi",
-    "xai:5814f5ea763c956b"
+    "xai:5814f5ea763c956b",
+    "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
   ],
   "seenAt": {
     "xai:202301d15429884f": "2026-07-26T09:09:34.926Z",
@@ -1099,7 +1101,9 @@
     "https://openai.com/index/priorities-principles-third-party-assessments": "2026-09-22T19:32:24.355Z",
     "xai:2f8c13d813a7402e": "2026-09-22T19:32:24.355Z",
     "https://huggingface.co/blog/evaleval-aisi": "2026-09-22T19:32:24.355Z",
-    "xai:5814f5ea763c956b": "2026-09-22T19:32:24.355Z"
+    "xai:5814f5ea763c956b": "2026-09-22T19:32:24.355Z",
+    "https://openai.com/index/better-prompt-caching-for-gpt-6": "2026-09-22T22:42:16.895Z",
+    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra": "2026-09-22T22:42:16.895Z"
   },
-  "updatedAt": "2026-09-22T19:32:24.355Z"
+  "updatedAt": "2026-09-22T22:42:16.895Z"
 }
