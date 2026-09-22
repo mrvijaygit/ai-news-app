@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "bc39639b8f4e4cc7c356256fa699e460f9a01fa5",
+      "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+      "summary": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T15:19:54.000Z"
+    },
+    {
+      "id": "5066ec9c015f24d80bf639cd7289221c5f05bc08",
+      "title": "Extending public sector intelligence with Agentforce and AWS",
+      "summary": "Public sector agencies process large volumes of unstructured evidence, such as body camera footage and scanned documents. This post shows how to combine Amazon Bedrock Data Automation with the Model Context Protocol...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-22T15:17:45.000Z"
+    },
+    {
+      "id": "nvidia ai:fc2091c4ef94c7e6",
+      "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+      "summary": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while... NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and...",
+      "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-22T13:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:58837c0a0fabf70b",
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+      "summary": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between... GPU acceleration can speed up compute-intensive...",
+      "link": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-22T12:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "title": "Transformers now runs llama.cpp quants",
       "summary": "Transformers now runs llama.cpp quants",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:39cfa33b8f09da04",
-      "title": "Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7ec12ab2e0fe97fc",
-      "title": "Bringing real-time market sentiment to Tori, from eToro",
-      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
-      "link": "https://x.ai/news/grok-etoro",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "68d48019de714857964056351fc4d79e51c3ab9f",
-      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-      "summary": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-08T22:06:58.000Z"
-    },
-    {
-      "id": "https://openai.com/index/codex-quantum-computing-experiments",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-08T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-22T10:54:44.161Z"
+  "updatedAt": "2026-09-22T15:24:11.171Z"
 }
