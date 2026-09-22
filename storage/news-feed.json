@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "Transformers now runs llama.cpp quants",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:9af63b13d38be52d",
       "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
       "summary": "The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability... The compute and memory demands of generative AI...",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-09-08T17:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-08T11:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-22T00:33:52.162Z"
+  "updatedAt": "2026-09-22T10:54:44.161Z"
 }

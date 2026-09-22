@@ -552,7 +552,8 @@
     "56dfeac3bfef33ff7b19f174cf3e455627c66990",
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "nvidia ai:9af63b13d38be52d",
-    "xai:24ade0b14d4bf922"
+    "xai:24ade0b14d4bf922",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants"
   ],
   "seenAt": {
     "xai:9d5659da9528b35d": "2026-07-24T13:29:25.367Z",
@@ -1073,7 +1074,8 @@
     "56dfeac3bfef33ff7b19f174cf3e455627c66990": "2026-09-21T21:40:16.536Z",
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": "2026-09-21T21:40:16.536Z",
     "nvidia ai:9af63b13d38be52d": "2026-09-22T00:33:52.160Z",
-    "xai:24ade0b14d4bf922": "2026-09-22T00:33:52.160Z"
+    "xai:24ade0b14d4bf922": "2026-09-22T00:33:52.160Z",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants": "2026-09-22T10:54:44.158Z"
   },
-  "updatedAt": "2026-09-22T00:33:52.160Z"
+  "updatedAt": "2026-09-22T10:54:44.158Z"
 }
