@@ -571,7 +571,16 @@
     "https://huggingface.co/blog/nvidia/nemotron-diarization",
     "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
     "https://openai.com/index/ringg",
-    "nvidia ai:337ba53e2339ea6c"
+    "nvidia ai:337ba53e2339ea6c",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "a9e8fc8015478951f1ebf38e854088e6f49fee5e",
+    "nvidia ai:782b49dcd7ff9a24",
+    "c1a90bbe3003b17df7a04a90397d54eee1db68bd",
+    "cced8883b9ee496209b96642a8ac01881e403508",
+    "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "https://openai.com/index/introducing-mentalhealthbench",
+    "https://openai.com/index/airbnb-gpt-6-astra"
   ],
   "seenAt": {
     "xai:202301d15429884f": "2026-07-26T09:09:34.926Z",
@@ -1111,7 +1120,16 @@
     "https://huggingface.co/blog/nvidia/nemotron-diarization": "2026-09-23T13:19:17.060Z",
     "https://openai.com/index/grab-openai-ai-skills-southeast-asia": "2026-09-23T13:19:17.060Z",
     "https://openai.com/index/ringg": "2026-09-23T18:13:19.141Z",
-    "nvidia ai:337ba53e2339ea6c": "2026-09-23T18:13:19.141Z"
+    "nvidia ai:337ba53e2339ea6c": "2026-09-23T18:13:19.141Z",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": "2026-09-23T22:00:47.181Z",
+    "a9e8fc8015478951f1ebf38e854088e6f49fee5e": "2026-09-23T22:00:47.181Z",
+    "nvidia ai:782b49dcd7ff9a24": "2026-09-23T22:00:47.181Z",
+    "c1a90bbe3003b17df7a04a90397d54eee1db68bd": "2026-09-23T22:00:47.181Z",
+    "cced8883b9ee496209b96642a8ac01881e403508": "2026-09-23T22:00:47.181Z",
+    "https://openai.com/index/harvey-from-context-to-confidence-with-astra": "2026-09-23T22:00:47.181Z",
+    "https://openai.com/index/invideo-builds-with-gpt-6-astra": "2026-09-23T22:00:47.181Z",
+    "https://openai.com/index/introducing-mentalhealthbench": "2026-09-23T22:00:47.181Z",
+    "https://openai.com/index/airbnb-gpt-6-astra": "2026-09-23T22:00:47.181Z"
   },
-  "updatedAt": "2026-09-23T18:13:19.141Z"
+  "updatedAt": "2026-09-23T22:00:47.181Z"
 }

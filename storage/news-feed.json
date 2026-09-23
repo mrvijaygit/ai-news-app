@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-mentalhealthbench",
+      "title": "Introducing MentalHealthBench",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-23T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/airbnb-gpt-6-astra",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-23T01:00:00.000Z"
+    },
+    {
+      "id": "a9e8fc8015478951f1ebf38e854088e6f49fee5e",
+      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+      "summary": "HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock AgentCore. Using Model Context Protocol (MCP), HAL delivers governed...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-23T18:41:09.000Z"
+    },
+    {
+      "id": "c1a90bbe3003b17df7a04a90397d54eee1db68bd",
+      "title": "Agentic conversational video intelligence built on AWS",
+      "summary": "Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates Amazon Bedrock, Amazon Rekognition, and Amazon Transcribe at runtime,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-23T18:21:54.000Z"
+    },
+    {
+      "id": "cced8883b9ee496209b96642a8ac01881e403508",
+      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "summary": "Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-23T18:17:44.000Z"
+    },
+    {
+      "id": "nvidia ai:782b49dcd7ff9a24",
+      "title": "Manage Kubernetes Node Fleets with NodeWright",
+      "summary": "Kubernetes manages what runs on your nodes. Managing the nodes themselves is the challenge: kernel settings, system packages, storage layouts, security agents,... Kubernetes manages what runs on your nodes. Managing the...",
+      "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-23T18:25:49.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-23T18:41:40.000Z"
+    },
+    {
       "id": "https://openai.com/index/ringg",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
@@ -1718,88 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-09-10T14:01:55.513Z"
-    },
-    {
-      "id": "mistral ai:895fc0282e099c56",
-      "title": "Mixtral Of Experts/",
-      "summary": "Mixtral Of Experts/",
-      "link": "https://mistral.ai/news/mixtral-of-experts/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.511Z"
-    },
-    {
-      "id": "mistral ai:2f931a87b81423b5",
-      "title": "September 24 Release/",
-      "summary": "September 24 Release/",
-      "link": "https://mistral.ai/news/september-24-release/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.504Z"
-    },
-    {
-      "id": "mistral ai:3200a6ed3bf2fc3f",
-      "title": "Mistral Small 3/",
-      "summary": "Mistral Small 3/",
-      "link": "https://mistral.ai/news/mistral-small-3/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.500Z"
-    },
-    {
-      "id": "mistral ai:3173d3b961993ed0",
-      "title": "Mistral Saba/",
-      "summary": "Mistral Saba/",
-      "link": "https://mistral.ai/news/mistral-saba/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.490Z"
-    },
-    {
-      "id": "mistral ai:85942a562d8389aa",
-      "title": "Agentic Workflows From Meetings To Dev Tickets/",
-      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
-      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.487Z"
-    },
-    {
-      "id": "mistral ai:0f097c3d8b2312ab",
-      "title": "Mistral Ocr/",
-      "summary": "Mistral Ocr/",
-      "link": "https://mistral.ai/news/mistral-ocr/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.476Z"
-    },
-    {
-      "id": "mistral ai:7530c0446eb68381",
-      "title": "Mistral Small 3 1/",
-      "summary": "Mistral Small 3 1/",
-      "link": "https://mistral.ai/news/mistral-small-3-1/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.471Z"
-    },
-    {
-      "id": "mistral ai:8de9cb11a5d691dd",
-      "title": "Llm As Rag Judge/",
-      "summary": "Llm As Rag Judge/",
-      "link": "https://mistral.ai/news/llm-as-rag-judge/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.468Z"
-    },
-    {
-      "id": "mistral ai:2c2f096b6ec69517",
-      "title": "Mistral Medium 3/",
-      "summary": "Mistral Medium 3/",
-      "link": "https://mistral.ai/news/mistral-medium-3/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.465Z"
     }
   ],
-  "updatedAt": "2026-09-23T18:13:19.144Z"
+  "updatedAt": "2026-09-23T22:00:47.184Z"
 }
