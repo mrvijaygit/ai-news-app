@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/ringg",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "link": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:337ba53e2339ea6c",
+      "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+      "summary": "An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software... An AI coding agent’s patch can pass tests yet fail when the...",
+      "link": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-23T16:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
       "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
@@ -1772,34 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-09-10T14:01:55.465Z"
-    },
-    {
-      "id": "mistral ai:7c1f53b1edc0529a",
-      "title": "Agents Api/",
-      "summary": "Agents Api/",
-      "link": "https://mistral.ai/news/agents-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.423Z"
-    },
-    {
-      "id": "mistral ai:f0f56cf73934ee7d",
-      "title": "Mistral Code/",
-      "summary": "Mistral Code/",
-      "link": "https://mistral.ai/news/mistral-code/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.405Z"
-    },
-    {
-      "id": "mistral ai:5525858447cd5bbe",
-      "title": "Mistral Compute/",
-      "summary": "Mistral Compute/",
-      "link": "https://mistral.ai/news/mistral-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.395Z"
     }
   ],
-  "updatedAt": "2026-09-23T13:19:17.063Z"
+  "updatedAt": "2026-09-23T18:13:19.144Z"
 }
