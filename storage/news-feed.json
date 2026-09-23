@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "summary": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-23T13:17:01.000Z"
+    },
+    {
       "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "title": "Better prompt caching for GPT-6",
       "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
@@ -1781,25 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-09-10T14:01:55.395Z"
-    },
-    {
-      "id": "mistral ai:f271c51cb4269e59",
-      "title": "Unlocking Potential Vision Language Models Satellite Imagery Fine Tuning/",
-      "summary": "Unlocking Potential Vision Language Models Satellite Imagery Fine Tuning/",
-      "link": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.366Z"
-    },
-    {
-      "id": "xai:406de15113b3310a",
-      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
-      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
-      "link": "https://x.ai/news/grok-4-6-vertex-ai",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-22T22:42:16.898Z"
+  "updatedAt": "2026-09-23T13:19:17.063Z"
 }
