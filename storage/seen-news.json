@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:202301d15429884f",
     "nvidia ai:e6b937d377572d9e",
     "nvidia ai:7e44461855f8efb6",
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -581,10 +580,11 @@
     "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "https://openai.com/index/introducing-mentalhealthbench",
     "https://openai.com/index/airbnb-gpt-6-astra",
-    "nvidia ai:16c19c1b73bc71d1"
+    "nvidia ai:16c19c1b73bc71d1",
+    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "xai:202301d15429884f"
   ],
   "seenAt": {
-    "xai:202301d15429884f": "2026-07-26T09:09:34.926Z",
     "nvidia ai:e6b937d377572d9e": "2026-07-27T04:33:31.109Z",
     "nvidia ai:7e44461855f8efb6": "2026-07-27T04:33:31.109Z",
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams": "2026-07-27T12:18:28.345Z",
@@ -1131,7 +1131,9 @@
     "https://openai.com/index/invideo-builds-with-gpt-6-astra": "2026-09-23T22:00:47.181Z",
     "https://openai.com/index/introducing-mentalhealthbench": "2026-09-23T22:00:47.181Z",
     "https://openai.com/index/airbnb-gpt-6-astra": "2026-09-23T22:00:47.181Z",
-    "nvidia ai:16c19c1b73bc71d1": "2026-09-24T01:01:35.429Z"
+    "nvidia ai:16c19c1b73bc71d1": "2026-09-24T01:01:35.429Z",
+    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": "2026-09-24T13:08:40.767Z",
+    "xai:202301d15429884f": "2026-09-24T13:08:40.767Z"
   },
-  "updatedAt": "2026-09-24T01:01:35.429Z"
+  "updatedAt": "2026-09-24T13:08:40.767Z"
 }
