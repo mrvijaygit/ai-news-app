@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb",
+      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+      "summary": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-24T16:12:47.000Z"
+    },
+    {
+      "id": "427cff8805a421ac08f11c5e6f8349509b2ca46f",
+      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+      "summary": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-24T16:06:46.000Z"
+    },
+    {
+      "id": "nvidia ai:769dd955f0bfdd07",
+      "title": "Efficient MoE Training for Biological Foundation Models",
+      "summary": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding... As language models grow, scaling dense architectures...",
+      "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-24T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "summary": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-24T14:08:57.000Z"
+    },
+    {
       "id": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
       "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
       "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
@@ -1763,43 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-09-10T14:01:55.577Z"
-    },
-    {
-      "id": "mistral ai:b6e4dd54512b958b",
-      "title": "Mistral Afp/",
-      "summary": "Mistral Afp/",
-      "link": "https://mistral.ai/news/mistral-afp/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.569Z"
-    },
-    {
-      "id": "mistral ai:2f35da223ff62c61",
-      "title": "Mistral Ai Non Production License Mnpl/",
-      "summary": "Mistral Ai Non Production License Mnpl/",
-      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.567Z"
-    },
-    {
-      "id": "mistral ai:3e6f80117879e8a8",
-      "title": "Mistral Chat/",
-      "summary": "Mistral Chat/",
-      "link": "https://mistral.ai/news/mistral-chat/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.564Z"
-    },
-    {
-      "id": "mistral ai:e3dd78b8805dbe0b",
-      "title": "Mistral Moderation/",
-      "summary": "Mistral Moderation/",
-      "link": "https://mistral.ai/news/mistral-moderation/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.518Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:08:40.800Z"
+  "updatedAt": "2026-09-24T18:08:32.824Z"
 }
