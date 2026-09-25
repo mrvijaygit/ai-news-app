@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:ae67cdc2e5ac21a4",
-    "xai:a1e6fcd31f7e65d4",
     "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
     "mistral ai:4724f35f442e729f",
     "mistral ai:cc8a62a9a002c9f0",
@@ -582,11 +580,11 @@
     "d32b748fe9d6f6dd6643926259f6ad08cf697479",
     "3b00dd9f3c6b3b5dda58a9808f9dba8711724685",
     "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd",
-    "ea9c3794156b7050a4cb777dc63887c488fc15b1"
+    "ea9c3794156b7050a4cb777dc63887c488fc15b1",
+    "xai:ae67cdc2e5ac21a4",
+    "xai:a1e6fcd31f7e65d4"
   ],
   "seenAt": {
-    "xai:ae67cdc2e5ac21a4": "2026-07-27T22:57:43.976Z",
-    "xai:a1e6fcd31f7e65d4": "2026-07-27T22:57:43.976Z",
     "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/": "2026-07-28T16:06:06.045Z",
     "mistral ai:4724f35f442e729f": "2026-07-28T16:06:06.045Z",
     "mistral ai:cc8a62a9a002c9f0": "2026-07-28T16:06:06.045Z",
@@ -1133,7 +1131,9 @@
     "d32b748fe9d6f6dd6643926259f6ad08cf697479": "2026-09-25T16:27:05.742Z",
     "3b00dd9f3c6b3b5dda58a9808f9dba8711724685": "2026-09-25T16:27:05.742Z",
     "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd": "2026-09-25T16:27:05.742Z",
-    "ea9c3794156b7050a4cb777dc63887c488fc15b1": "2026-09-25T20:13:05.054Z"
+    "ea9c3794156b7050a4cb777dc63887c488fc15b1": "2026-09-25T20:13:05.054Z",
+    "xai:ae67cdc2e5ac21a4": "2026-09-25T23:46:36.166Z",
+    "xai:a1e6fcd31f7e65d4": "2026-09-25T23:46:36.166Z"
   },
-  "updatedAt": "2026-09-25T20:13:05.054Z"
+  "updatedAt": "2026-09-25T23:46:36.166Z"
 }
