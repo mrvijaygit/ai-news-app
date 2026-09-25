@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "nvidia ai:bcdba2806bbfbcd4",
-    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "meta ai:e0245e4fd9622805",
-    "cohere:b178a883b3851e9e",
     "72b5c0a199d504fa88551498e1266ad76dcde68f",
     "c5575b29b284222ddffe4c5ab493d8ec88e90f92",
     "nvidia ai:9d1f755def01ef14",
@@ -584,14 +579,14 @@
     "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb",
     "427cff8805a421ac08f11c5e6f8349509b2ca46f",
     "nvidia ai:769dd955f0bfdd07",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "https://openai.com/index/proaction",
+    "b119ac0e22c146d6b8a4049102737ff963987138",
+    "d32b748fe9d6f6dd6643926259f6ad08cf697479",
+    "3b00dd9f3c6b3b5dda58a9808f9dba8711724685",
+    "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/nvidia/cosmos-h-dreams": "2026-07-27T12:18:28.345Z",
-    "nvidia ai:bcdba2806bbfbcd4": "2026-07-27T12:18:28.345Z",
-    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": "2026-07-27T12:18:28.345Z",
-    "meta ai:e0245e4fd9622805": "2026-07-27T15:39:40.599Z",
-    "cohere:b178a883b3851e9e": "2026-07-27T15:39:40.599Z",
     "72b5c0a199d504fa88551498e1266ad76dcde68f": "2026-07-27T17:39:22.537Z",
     "c5575b29b284222ddffe4c5ab493d8ec88e90f92": "2026-07-27T17:39:22.537Z",
     "nvidia ai:9d1f755def01ef14": "2026-07-27T17:39:22.537Z",
@@ -1137,7 +1132,12 @@
     "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb": "2026-09-24T18:08:32.822Z",
     "427cff8805a421ac08f11c5e6f8349509b2ca46f": "2026-09-24T18:08:32.822Z",
     "nvidia ai:769dd955f0bfdd07": "2026-09-24T18:08:32.822Z",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": "2026-09-24T18:08:32.822Z"
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": "2026-09-24T18:08:32.822Z",
+    "https://openai.com/index/proaction": "2026-09-25T16:27:05.742Z",
+    "b119ac0e22c146d6b8a4049102737ff963987138": "2026-09-25T16:27:05.742Z",
+    "d32b748fe9d6f6dd6643926259f6ad08cf697479": "2026-09-25T16:27:05.742Z",
+    "3b00dd9f3c6b3b5dda58a9808f9dba8711724685": "2026-09-25T16:27:05.742Z",
+    "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd": "2026-09-25T16:27:05.742Z"
   },
-  "updatedAt": "2026-09-24T18:08:32.822Z"
+  "updatedAt": "2026-09-25T16:27:05.742Z"
 }

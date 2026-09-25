@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/proaction",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-25T19:00:00.000Z"
+    },
+    {
+      "id": "b119ac0e22c146d6b8a4049102737ff963987138",
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-25T16:18:07.000Z"
+    },
+    {
+      "id": "d32b748fe9d6f6dd6643926259f6ad08cf697479",
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-25T16:15:22.000Z"
+    },
+    {
+      "id": "3b00dd9f3c6b3b5dda58a9808f9dba8711724685",
+      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "summary": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-25T16:09:46.000Z"
+    },
+    {
+      "id": "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd",
+      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "summary": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-25T15:54:42.000Z"
+    },
+    {
       "id": "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb",
       "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
       "summary": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore...",
@@ -1754,52 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-09-10T14:01:55.610Z"
-    },
-    {
-      "id": "mistral ai:ce65a2412e6fad4e",
-      "title": "Announcing Mistral 7b/",
-      "summary": "Announcing Mistral 7b/",
-      "link": "https://mistral.ai/news/announcing-mistral-7b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.607Z"
-    },
-    {
-      "id": "mistral ai:16105fa544eb6dce",
-      "title": "Le Chat Mistral/",
-      "summary": "Le Chat Mistral/",
-      "link": "https://mistral.ai/news/le-chat-mistral/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.602Z"
-    },
-    {
-      "id": "mistral ai:7598e7b6a6a58476",
-      "title": "Batch Api/",
-      "summary": "Batch Api/",
-      "link": "https://mistral.ai/news/batch-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.599Z"
-    },
-    {
-      "id": "mistral ai:8e9fee8d40c2eaab",
-      "title": "Mistral Large 2407/",
-      "summary": "Mistral Large 2407/",
-      "link": "https://mistral.ai/news/mistral-large-2407/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.580Z"
-    },
-    {
-      "id": "mistral ai:68213e4e59eee4c9",
-      "title": "Mistral Large/",
-      "summary": "Mistral Large/",
-      "link": "https://mistral.ai/news/mistral-large/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.577Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:08:32.824Z"
+  "updatedAt": "2026-09-25T16:27:05.746Z"
 }
