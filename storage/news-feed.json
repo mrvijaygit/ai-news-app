@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "ea9c3794156b7050a4cb777dc63887c488fc15b1",
+      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-25T16:29:50.000Z"
+    },
+    {
       "id": "https://openai.com/index/proaction",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -1790,16 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-09-10T15:02:24.715Z"
-    },
-    {
-      "id": "mistral ai:3f46b2a87af79c57",
-      "title": "About Mistral Ai/",
-      "summary": "About Mistral Ai/",
-      "link": "https://mistral.ai/news/about-mistral-ai/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T14:01:55.610Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:27:05.746Z"
+  "updatedAt": "2026-09-25T20:13:05.056Z"
 }
