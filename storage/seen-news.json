@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "cohere:23c2255ecc39c980",
-    "cohere:d42664121fc8a046",
-    "5399570beb6fc51047d9138d06247cfdb4cf8d63",
     "nvidia ai:f007ae2693ef8223",
     "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
     "https://openai.com/index/chatgpt-for-academic-researchers",
@@ -560,9 +557,6 @@
     "xai:aeb52aceb6679ea3"
   ],
   "seenAt": {
-    "cohere:23c2255ecc39c980": "2026-07-29T14:02:16.774Z",
-    "cohere:d42664121fc8a046": "2026-07-29T14:02:16.774Z",
-    "5399570beb6fc51047d9138d06247cfdb4cf8d63": "2026-07-29T16:18:21.832Z",
     "nvidia ai:f007ae2693ef8223": "2026-07-29T18:04:05.243Z",
     "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c": "2026-07-29T18:04:05.243Z",
     "https://openai.com/index/chatgpt-for-academic-researchers": "2026-07-29T18:04:05.243Z",
