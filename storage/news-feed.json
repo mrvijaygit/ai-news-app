@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "be959add1e3f236c1c0a04b0919aa38f042b4622",
+      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "summary": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-28T16:15:46.000Z"
+    },
+    {
+      "id": "aec2d25cc981395a6fa5ae4a221b4e0ba14ccbf2",
+      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "summary": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-28T16:15:17.000Z"
+    },
+    {
+      "id": "6122eefc7690836dc43c93a6f5a9bd795f679f12",
+      "title": "Implementing synthetic monitoring using Amazon Nova Act",
+      "summary": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-28T15:56:32.000Z"
+    },
+    {
+      "id": "nvidia ai:3d09fd9237066f93",
+      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "summary": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of... To understand where agentic AI stands today, consider the last...",
+      "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-28T08:56:55.000Z"
+    },
+    {
+      "id": "nvidia ai:0ba9ca7ea7d489bf",
+      "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "summary": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that... AI agents can be given a goal, write code, use tools, and keep...",
+      "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-28T08:55:00.000Z"
+    },
+    {
+      "id": "nvidia ai:37877c90736a43ae",
+      "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+      "summary": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a... Every unused watt is capacity left on the table. AI...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-28T01:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/Hcompany/holo4",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "Holo4: powering generalist computer-use agents",
+      "link": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-28T09:44:05.000Z"
+    },
+    {
       "id": "ea9c3794156b7050a4cb777dc63887c488fc15b1",
       "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
       "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and...",
@@ -1736,70 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "fc8628826e3a4de39ea612edabd4828bd56fe198",
-      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
-      "summary": "TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This walkthrough shows...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T21:15:39.000Z"
-    },
-    {
-      "id": "b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00",
-      "title": "Amazon Quick is now generally available on desktop",
-      "summary": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T18:16:37.000Z"
-    },
-    {
-      "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/put-data-to-work",
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "link": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:cef3b088a3800354",
-      "title": "Mistral X Cloudera/",
-      "summary": "Mistral X Cloudera/",
-      "link": "https://mistral.ai/news/mistral-x-cloudera/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-09-10T15:02:24.715Z"
     }
   ],
-  "updatedAt": "2026-09-25T20:13:05.056Z"
+  "updatedAt": "2026-09-28T18:24:07.454Z"
 }
