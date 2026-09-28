@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:2e646289ec06db99",
-    "nvidia ai:c71236959e96bcd4",
     "https://openai.com/index/avatarin",
     "https://openai.com/index/unive",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
@@ -536,11 +534,13 @@
     "nvidia ai:3d09fd9237066f93",
     "nvidia ai:0ba9ca7ea7d489bf",
     "nvidia ai:37877c90736a43ae",
-    "xai:e14bedc28fd4dbb8"
+    "xai:e14bedc28fd4dbb8",
+    "9a90cb3d7623d517b6c268aadcd85bbf56a68dde",
+    "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "cfc2607374dece7ff26f26b3922adbbb2e24f173",
+    "https://openai.com/index/basis-tax-workbook-with-astra"
   ],
   "seenAt": {
-    "nvidia ai:2e646289ec06db99": "2026-07-30T23:02:26.739Z",
-    "nvidia ai:c71236959e96bcd4": "2026-07-30T23:02:26.739Z",
     "https://openai.com/index/avatarin": "2026-07-31T02:29:51.704Z",
     "https://openai.com/index/unive": "2026-07-31T09:40:53.072Z",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": "2026-07-31T16:42:49.227Z",
@@ -1041,7 +1041,11 @@
     "nvidia ai:3d09fd9237066f93": "2026-09-28T18:24:07.453Z",
     "nvidia ai:0ba9ca7ea7d489bf": "2026-09-28T18:24:07.453Z",
     "nvidia ai:37877c90736a43ae": "2026-09-28T18:24:07.453Z",
-    "xai:e14bedc28fd4dbb8": "2026-09-28T18:24:07.453Z"
+    "xai:e14bedc28fd4dbb8": "2026-09-28T18:24:07.453Z",
+    "9a90cb3d7623d517b6c268aadcd85bbf56a68dde": "2026-09-28T23:39:52.597Z",
+    "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/": "2026-09-28T23:39:52.597Z",
+    "cfc2607374dece7ff26f26b3922adbbb2e24f173": "2026-09-28T23:39:52.597Z",
+    "https://openai.com/index/basis-tax-workbook-with-astra": "2026-09-28T23:39:52.597Z"
   },
-  "updatedAt": "2026-09-28T18:24:07.453Z"
+  "updatedAt": "2026-09-28T23:39:52.597Z"
 }
