@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/devday-2026-recap",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-dots",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "link": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "xai:07bfdcfb3e2da3ae",
+      "title": "Grok Code Fast 1",
+      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
+      "link": "https://x.ai/news/grok-code-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:01e3b8304d8cac5f",
+      "title": "Announcing xAI for Government",
+      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+      "link": "https://x.ai/news/government",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:0b42cd3858907903",
+      "title": "Grok 4",
+      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
+      "link": "https://x.ai/news/grok-4",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5a8f9dcef91affc",
+      "title": "Grok 3 Beta — The Age of Reasoning Agents",
+      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+      "link": "https://x.ai/news/grok-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2eb1be0eab97116d",
+      "title": "xAI raises $6B Series C",
+      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+      "link": "https://x.ai/news/series-c",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8ed876cc63c6ba10",
+      "title": "Bringing Grok to Everyone",
+      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-1212",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5423ee5e4457fb03",
+      "title": "Grok Image Generation Release",
+      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-image-generation-release",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "66c26dd8eb3c8cf25a769df1c1979dc7b8a86fa5",
+      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+      "summary": "GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-29T19:34:14.000Z"
+    },
+    {
+      "id": "nvidia ai:1880372921f81b20",
+      "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+      "summary": "Parallel work, model-family isolation, reversible changes, and GPU-backed validation shaped an open source project designed around coding agents NVIDIA TensorRT... Parallel work, model-family isolation, reversible...",
+      "link": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-29T19:10:51.000Z"
+    },
+    {
+      "id": "nvidia ai:85ece042a014833d",
+      "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+      "summary": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability... Vision-language models have made it possible to build...",
+      "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-29T18:35:09.000Z"
+    },
+    {
       "id": "xai:ddc384453fa5c02a",
       "title": "Grok for Outlook",
       "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
@@ -1682,124 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:ca490edf223f2ebf",
-      "title": "Grok Collections API",
-      "summary": "State-of-the-art RAG system built directly into our API.",
-      "link": "https://x.ai/news/grok-collections-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:1fb88c3b251902a2",
-      "title": "Supporting the DOW's mission with AI",
-      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
-      "link": "https://x.ai/news/us-gov-dept-of-war",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3a1d72b884b69902",
-      "title": "Grok Voice Agent API",
-      "summary": "Bringing the power of Grok Voice to all developers.",
-      "link": "https://x.ai/news/grok-voice-agent-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:e0e2c8f7889b9ed7",
-      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
-      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
-      "link": "https://x.ai/news/el-salvador-partnership",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:10e8261a0b7d99f9",
-      "title": "Grok 4.1 Fast and Agent Tools API",
-      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
-      "link": "https://x.ai/news/grok-4-1-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:03b62e9ad296bc89",
-      "title": "Grok goes Global with KSA",
-      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
-      "link": "https://x.ai/news/grok-goes-global",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:cb89379e9df365fb",
-      "title": "Grok 4.1",
-      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
-      "link": "https://x.ai/news/grok-4-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:792ef6ba62d36e10",
-      "title": "Expanding xAI for Government with GSA OneGov",
-      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
-      "link": "https://x.ai/news/onegov",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:349feed19ac68219",
-      "title": "Grok 4 Fast",
-      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
-      "link": "https://x.ai/news/grok-4-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3ab5a13705050098",
-      "title": "Grok 4.6 on Microsoft Foundry",
-      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
-      "link": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:61ce3268fb7b0eb4",
-      "title": "Introducing Grok Bot",
-      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
-      "link": "https://x.ai/news/introducing-grok-bot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:13a5a3be6d8e7c4c",
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
-      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
-      "link": "https://x.ai/news/grok-4-5-everywhere",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:c8e543b0022f670e",
-      "title": "Use Grok in Warp",
-      "summary": "Use your Grok and X Premium subscription inside Warp.",
-      "link": "https://x.ai/news/grok-warp",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-09-29T17:33:52.348Z"
+  "updatedAt": "2026-09-29T21:48:36.246Z"
 }
