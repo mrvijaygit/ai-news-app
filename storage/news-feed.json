@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "xai:ddc384453fa5c02a",
+      "title": "Grok for Outlook",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6dad33007ff48b3f",
+      "title": "Agent Dashboard in Grok Build",
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "link": "https://x.ai/news/agent-dashboard",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "85610690682b8b1fa3e1af451a034eda90d65cfa",
+      "title": "Prompt engineering by Quick component: Patterns and pitfalls",
+      "summary": "Part 2 of our Amazon Quick prompt engineering series goes component by component. Learn the prompt patterns that get the best results from Amazon Quick Research, Quick Flows, Quick Sight, chat agents, and action...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-29T16:27:33.000Z"
+    },
+    {
+      "id": "479e7dbfafc38939d38af9cc3a27e5f2d32dc044",
+      "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
+      "summary": "Manually extracting data from hundreds of vendor contracts doesn't scale, and RAG chat tools fall short on portfolio-wide questions. This post shares a contract intelligence platform on AWS that uses AI agents to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-29T16:14:24.000Z"
+    },
+    {
+      "id": "c8a9d3a3948ee260503419fe425f5000daf39358",
+      "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
+      "summary": "Condé Nast's editorial teams spent an average of 250 minutes per task searching a library of more than 140,000 videos using only titles and descriptions. Working with the AWS Generative AI Innovation Center, they built...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-29T15:55:17.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-29T15:30:38.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-29T13:07:00.000Z"
+    },
+    {
       "id": "xai:3e11ccf07939781a",
       "title": "Grok-2 Beta Release",
       "summary": "We announce our new Grok-2 and Grok-2 mini models.",
@@ -1709,97 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:07bfdcfb3e2da3ae",
-      "title": "Grok Code Fast 1",
-      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
-      "link": "https://x.ai/news/grok-code-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:01e3b8304d8cac5f",
-      "title": "Announcing xAI for Government",
-      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
-      "link": "https://x.ai/news/government",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0b42cd3858907903",
-      "title": "Grok 4",
-      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
-      "link": "https://x.ai/news/grok-4",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5a8f9dcef91affc",
-      "title": "Grok 3 Beta — The Age of Reasoning Agents",
-      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
-      "link": "https://x.ai/news/grok-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2eb1be0eab97116d",
-      "title": "xAI raises $6B Series C",
-      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
-      "link": "https://x.ai/news/series-c",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:8ed876cc63c6ba10",
-      "title": "Bringing Grok to Everyone",
-      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-1212",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "32206d53293b6830e987ee4659338e8d02374647",
-      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-      "summary": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T21:58:09.000Z"
-    },
-    {
-      "id": "3b91429cf30acb250cd56430f226e5855e1f213f",
-      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-      "summary": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network....",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-10T21:37:49.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-29T04:03:15.309Z"
+  "updatedAt": "2026-09-29T17:33:52.348Z"
 }

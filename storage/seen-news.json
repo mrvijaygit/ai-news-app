@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/unive",
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "64799e5f6577ed834ae5241ca5bcee136c4fc073",
-    "nvidia ai:bf2eea4a9c938c00",
     "7566a36ce07e1d565d3c4c626b0957bbfa8d654a",
     "cohere:eeadc9345fabb5c8",
     "xai:4126c5521b9e1336",
@@ -537,13 +533,14 @@
     "9a90cb3d7623d517b6c268aadcd85bbf56a68dde",
     "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "cfc2607374dece7ff26f26b3922adbbb2e24f173",
-    "https://openai.com/index/basis-tax-workbook-with-astra"
+    "https://openai.com/index/basis-tax-workbook-with-astra",
+    "85610690682b8b1fa3e1af451a034eda90d65cfa",
+    "479e7dbfafc38939d38af9cc3a27e5f2d32dc044",
+    "c8a9d3a3948ee260503419fe425f5000daf39358",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
   ],
   "seenAt": {
-    "https://openai.com/index/unive": "2026-07-31T09:40:53.072Z",
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": "2026-07-31T16:42:49.227Z",
-    "64799e5f6577ed834ae5241ca5bcee136c4fc073": "2026-07-31T16:42:49.227Z",
-    "nvidia ai:bf2eea4a9c938c00": "2026-07-31T16:42:49.227Z",
     "7566a36ce07e1d565d3c4c626b0957bbfa8d654a": "2026-07-31T20:16:58.954Z",
     "cohere:eeadc9345fabb5c8": "2026-07-31T20:16:58.954Z",
     "xai:4126c5521b9e1336": "2026-07-31T20:16:58.954Z",
@@ -1043,7 +1040,12 @@
     "9a90cb3d7623d517b6c268aadcd85bbf56a68dde": "2026-09-28T23:39:52.597Z",
     "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/": "2026-09-28T23:39:52.597Z",
     "cfc2607374dece7ff26f26b3922adbbb2e24f173": "2026-09-28T23:39:52.597Z",
-    "https://openai.com/index/basis-tax-workbook-with-astra": "2026-09-28T23:39:52.597Z"
+    "https://openai.com/index/basis-tax-workbook-with-astra": "2026-09-28T23:39:52.597Z",
+    "85610690682b8b1fa3e1af451a034eda90d65cfa": "2026-09-29T17:33:52.346Z",
+    "479e7dbfafc38939d38af9cc3a27e5f2d32dc044": "2026-09-29T17:33:52.346Z",
+    "c8a9d3a3948ee260503419fe425f5000daf39358": "2026-09-29T17:33:52.346Z",
+    "https://huggingface.co/blog/nvidia/kumo-tabular": "2026-09-29T17:33:52.346Z",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": "2026-09-29T17:33:52.346Z"
   },
-  "updatedAt": "2026-09-28T23:39:52.597Z"
+  "updatedAt": "2026-09-29T17:33:52.346Z"
 }
