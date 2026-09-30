@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-09-30T10:30:00.000Z"
+    },
+    {
+      "id": "xai:4ea5ad07a0d56f40",
+      "title": "Introducing Grok 4.6",
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "link": "https://x.ai/news/grok-4-6",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "6f62e0665479ef5d4ffddb480328d07ce719281b",
+      "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+      "summary": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-30T15:37:15.000Z"
+    },
+    {
+      "id": "37f0383beadfcb1c0bb959bcb5b53ec408457b0c",
+      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+      "summary": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-09-30T15:21:57.000Z"
+    },
+    {
+      "id": "nvidia ai:0060067412cf8f23",
+      "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+      "summary": "AI infrastructure engineers, storage developers, and cloud service providers need fast and secure access to high-capacity file and object storage to support AI... AI infrastructure engineers, storage developers, and...",
+      "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-30T19:13:02.000Z"
+    },
+    {
+      "id": "nvidia ai:cae77dc6d7044191",
+      "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+      "summary": "An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching... An agent can finish a task and still take an inefficient...",
+      "link": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-09-30T16:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/open-tts-leaderboard",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
       "id": "xai:16c4cffc8f18376e",
       "title": "Grok Bot now works with X",
       "summary": "Grok Bot now has a tighter integration with X.",
@@ -1736,70 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-09-15T16:55:00.000Z"
-    },
-    {
-      "id": "nvidia ai:75cedc70ae6f2876",
-      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "summary": "For operators of large-scale AI factories, maximizing continuous output is essential for productivity. In massive-scale AI training, every GPU in the cluster... For operators of large-scale AI factories, maximizing...",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-15T16:55:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "Your Agent Aced the Task. Will It Do It Again?",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-15T16:00:44.000Z"
-    },
-    {
-      "id": "nvidia ai:31d673605de68ba5",
-      "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
-      "summary": "Federated learning (FL) projects often begin with a straightforward setup: one server, a few clients, and one dataset at each site. As those projects grow, the... Federated learning (FL) projects often begin with a...",
-      "link": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-15T15:00:00.000Z"
-    },
-    {
-      "id": "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-14T21:22:45.000Z"
-    },
-    {
-      "id": "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef",
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack 3LO...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-14T20:35:45.000Z"
-    },
-    {
-      "id": "https://openai.com/index/fyxer",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "link": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-14T12:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-09-14T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:34:26.235Z"
+  "updatedAt": "2026-09-30T19:47:22.923Z"
 }

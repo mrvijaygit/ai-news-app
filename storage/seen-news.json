@@ -543,7 +543,13 @@
     "xai:4126c5521b9e1336",
     "5ee89c1b26308404d27592d483f282630a0d18d9",
     "6e28f69c4f4137454e595f46fee566a1249a74da",
-    "xai:2dff0f87787443f6"
+    "xai:2dff0f87787443f6",
+    "nvidia ai:0060067412cf8f23",
+    "nvidia ai:cae77dc6d7044191",
+    "6f62e0665479ef5d4ffddb480328d07ce719281b",
+    "37f0383beadfcb1c0bb959bcb5b53ec408457b0c",
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "https://huggingface.co/blog/open-tts-leaderboard"
   ],
   "seenAt": {
     "xai:7f96b684a449083b": "2026-08-03T06:18:33.392Z",
@@ -1055,7 +1061,13 @@
     "xai:4126c5521b9e1336": "2026-09-29T21:48:36.244Z",
     "5ee89c1b26308404d27592d483f282630a0d18d9": "2026-09-30T07:54:14.167Z",
     "6e28f69c4f4137454e595f46fee566a1249a74da": "2026-09-30T07:54:14.167Z",
-    "xai:2dff0f87787443f6": "2026-09-30T07:54:14.167Z"
+    "xai:2dff0f87787443f6": "2026-09-30T07:54:14.167Z",
+    "nvidia ai:0060067412cf8f23": "2026-09-30T19:47:22.887Z",
+    "nvidia ai:cae77dc6d7044191": "2026-09-30T19:47:22.887Z",
+    "6f62e0665479ef5d4ffddb480328d07ce719281b": "2026-09-30T19:47:22.887Z",
+    "37f0383beadfcb1c0bb959bcb5b53ec408457b0c": "2026-09-30T19:47:22.887Z",
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": "2026-09-30T19:47:22.887Z",
+    "https://huggingface.co/blog/open-tts-leaderboard": "2026-09-30T19:47:22.887Z"
   },
-  "updatedAt": "2026-09-30T07:54:14.167Z"
+  "updatedAt": "2026-09-30T19:47:22.887Z"
 }
