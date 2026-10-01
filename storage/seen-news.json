@@ -556,7 +556,12 @@
     "eddd32e530c0079d18534b2ed62f93bed3e79a48",
     "https://openai.com/index/albertsons-reimagining-retail",
     "25fee08b394eb9f6fc3d5f7816ae0b5b9c74ce20",
-    "https://huggingface.co/blog/allenai/olmocore3"
+    "https://huggingface.co/blog/allenai/olmocore3",
+    "nvidia ai:a0114d079d3c2904",
+    "nvidia ai:bfc8eb4e8d31f1da",
+    "2ecc9b560bbf992d1aef9266dfef2641bd2fd889",
+    "https://openai.com/index/the-eternal-complement",
+    "https://openai.com/index/the-den-family-social"
   ],
   "seenAt": {
     "xai:7f96b684a449083b": "2026-08-03T06:18:33.392Z",
@@ -1081,7 +1086,12 @@
     "eddd32e530c0079d18534b2ed62f93bed3e79a48": "2026-10-01T17:15:15.186Z",
     "https://openai.com/index/albertsons-reimagining-retail": "2026-10-01T17:15:15.186Z",
     "25fee08b394eb9f6fc3d5f7816ae0b5b9c74ce20": "2026-10-01T17:15:15.186Z",
-    "https://huggingface.co/blog/allenai/olmocore3": "2026-10-01T17:15:15.186Z"
+    "https://huggingface.co/blog/allenai/olmocore3": "2026-10-01T17:15:15.186Z",
+    "nvidia ai:a0114d079d3c2904": "2026-10-01T22:18:26.220Z",
+    "nvidia ai:bfc8eb4e8d31f1da": "2026-10-01T22:18:26.220Z",
+    "2ecc9b560bbf992d1aef9266dfef2641bd2fd889": "2026-10-01T22:18:26.220Z",
+    "https://openai.com/index/the-eternal-complement": "2026-10-01T22:18:26.220Z",
+    "https://openai.com/index/the-den-family-social": "2026-10-01T22:18:26.220Z"
   },
-  "updatedAt": "2026-10-01T17:15:15.186Z"
+  "updatedAt": "2026-10-01T22:18:26.220Z"
 }
