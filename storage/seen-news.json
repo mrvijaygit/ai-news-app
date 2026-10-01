@@ -550,7 +550,8 @@
     "37f0383beadfcb1c0bb959bcb5b53ec408457b0c",
     "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "https://huggingface.co/blog/open-tts-leaderboard",
-    "nvidia ai:3fb297b1c25c6db3"
+    "nvidia ai:3fb297b1c25c6db3",
+    "nvidia ai:4722378f6ce9bc2f"
   ],
   "seenAt": {
     "xai:7f96b684a449083b": "2026-08-03T06:18:33.392Z",
@@ -1069,7 +1070,8 @@
     "37f0383beadfcb1c0bb959bcb5b53ec408457b0c": "2026-09-30T19:47:22.887Z",
     "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": "2026-09-30T19:47:22.887Z",
     "https://huggingface.co/blog/open-tts-leaderboard": "2026-09-30T19:47:22.887Z",
-    "nvidia ai:3fb297b1c25c6db3": "2026-09-30T23:25:12.846Z"
+    "nvidia ai:3fb297b1c25c6db3": "2026-09-30T23:25:12.846Z",
+    "nvidia ai:4722378f6ce9bc2f": "2026-10-01T10:48:59.651Z"
   },
-  "updatedAt": "2026-09-30T23:25:12.846Z"
+  "updatedAt": "2026-10-01T10:48:59.651Z"
 }

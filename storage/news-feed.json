@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "nvidia ai:4722378f6ce9bc2f",
+      "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+      "summary": "Automatic speech recognition must handle how people actually speak, not only the languages and styles that dominate pretraining data. Regional dialects and... Automatic speech recognition must handle how people actually...",
+      "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-01T05:00:00.000Z"
+    },
+    {
       "id": "nvidia ai:3fb297b1c25c6db3",
       "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
       "summary": "Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of... Generative recommender (GR) systems are emerging as a...",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-15T16:01:47.000Z"
-    },
-    {
-      "id": "nvidia ai:51fe30e45b00981f",
-      "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
-      "summary": "How can a 30B-parameter model activate only 3B parameters per token, and still use the capacity of the larger model? Nemotron 3.5 Lightning illustrates the... How can a 30B-parameter model activate only 3B parameters...",
-      "link": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-15T17:00:11.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T23:25:12.955Z"
+  "updatedAt": "2026-10-01T10:48:59.654Z"
 }
