@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e14bedc28fd4dbb8",
+      "title": "Introducing Grok Voice Think Fast 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-02T04:01:31.000Z"
+    },
+    {
       "id": "xai:392dca10a759ab7c",
       "title": "Introducing Build Mode",
       "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
@@ -1772,34 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-16T19:00:00.000Z"
-    },
-    {
-      "id": "1e1539eea3be4ce999a3a6472187f690d96aec84",
-      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-      "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-16T18:59:25.000Z"
-    },
-    {
-      "id": "nvidia ai:b2f58651e9a24a89",
-      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
-      "summary": "AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through... AI agents are moving from cloud data centers to...",
-      "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-16T20:37:07.000Z"
-    },
-    {
-      "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-16T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-02T01:57:58.832Z"
+  "updatedAt": "2026-10-02T08:09:24.831Z"
 }
