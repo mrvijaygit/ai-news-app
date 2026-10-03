@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "nvidia ai:22b0e2c77d3ffc2a",
     "https://openai.com/index/circles",
     "nvidia ai:d6019b17c802db8e",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -566,11 +564,10 @@
     "c348d5804487175a62b36b622fd99ec800d9aef8",
     "https://huggingface.co/blog/allenai/astabrief",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "https://openai.com/index/chatham-financial"
+    "https://openai.com/index/chatham-financial",
+    "cohere:476361745b3e51fd"
   ],
   "seenAt": {
-    "https://openai.com/index/continuous-voice-interaction-with-gpt-live": "2026-08-03T20:24:27.860Z",
-    "nvidia ai:22b0e2c77d3ffc2a": "2026-08-04T00:05:34.122Z",
     "https://openai.com/index/circles": "2026-08-04T04:10:02.680Z",
     "nvidia ai:d6019b17c802db8e": "2026-08-04T15:27:32.991Z",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b": "2026-08-04T15:27:32.991Z",
@@ -1101,7 +1098,8 @@
     "c348d5804487175a62b36b622fd99ec800d9aef8": "2026-10-02T20:18:39.883Z",
     "https://huggingface.co/blog/allenai/astabrief": "2026-10-02T20:18:39.883Z",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/": "2026-10-02T20:18:39.883Z",
-    "https://openai.com/index/chatham-financial": "2026-10-02T20:18:39.883Z"
+    "https://openai.com/index/chatham-financial": "2026-10-02T20:18:39.883Z",
+    "cohere:476361745b3e51fd": "2026-10-03T00:07:36.052Z"
   },
-  "updatedAt": "2026-10-02T20:18:39.883Z"
+  "updatedAt": "2026-10-03T00:07:36.052Z"
 }

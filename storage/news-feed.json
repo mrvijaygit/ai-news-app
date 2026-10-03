@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "cohere:476361745b3e51fd",
+      "title": "Cohere And Open Text Partner To Bring Trusted Ai",
+      "summary": "Cohere And Open Text Partner To Bring Trusted Ai",
+      "link": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/practical-guide-building-gpt-6",
       "title": "A model guide for the GPT-6 family",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "49c842b44edb1dd5449d9240e495051aa126e2d3",
-      "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
-      "summary": "Wood Mackenzie built APEX, a shared agentic AI platform on Amazon Bedrock AgentCore so every team can ship production agents without rebuilding runtime, identity, observability, and guardrails from scratch. Learn why...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-17T15:41:03.000Z"
     }
   ],
-  "updatedAt": "2026-10-02T20:18:39.885Z"
+  "updatedAt": "2026-10-03T00:07:36.059Z"
 }
