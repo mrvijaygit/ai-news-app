@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "The Agent Said It Was Done. The Database Disagreed.",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-03T22:56:48.000Z"
+    },
+    {
       "id": "cohere:476361745b3e51fd",
       "title": "Cohere And Open Text Partner To Bring Trusted Ai",
       "summary": "Cohere And Open Text Partner To Bring Trusted Ai",
@@ -1790,16 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:0d758ae28485e5ae",
-      "title": "Cohere And Aleph Alpha Sign Agreement",
-      "summary": "Cohere And Aleph Alpha Sign Agreement",
-      "link": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-09-16T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-03T00:07:36.059Z"
+  "updatedAt": "2026-10-04T02:21:42.683Z"
 }

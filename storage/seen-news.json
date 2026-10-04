@@ -555,7 +555,8 @@
     "https://huggingface.co/blog/allenai/astabrief",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "https://openai.com/index/chatham-financial",
-    "cohere:476361745b3e51fd"
+    "cohere:476361745b3e51fd",
+    "https://huggingface.co/blog/microsoft/thinkingbox"
   ],
   "seenAt": {
     "71e2b371359c204069dc89ff11b182c9b6470b7f": "2026-08-05T18:18:02.920Z",
@@ -1079,7 +1080,8 @@
     "https://huggingface.co/blog/allenai/astabrief": "2026-10-02T20:18:39.883Z",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/": "2026-10-02T20:18:39.883Z",
     "https://openai.com/index/chatham-financial": "2026-10-02T20:18:39.883Z",
-    "cohere:476361745b3e51fd": "2026-10-03T00:07:36.052Z"
+    "cohere:476361745b3e51fd": "2026-10-03T00:07:36.052Z",
+    "https://huggingface.co/blog/microsoft/thinkingbox": "2026-10-04T02:21:42.680Z"
   },
-  "updatedAt": "2026-10-03T00:07:36.052Z"
+  "updatedAt": "2026-10-04T02:21:42.680Z"
 }
