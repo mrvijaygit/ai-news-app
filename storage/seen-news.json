@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/hsp-gruppe",
-    "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
-    "2a928f9693d6d62c930b66459b34bc9a6dc2b18a",
-    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b",
     "xai:3eb98dee9829b630",
     "xai:7ec12ab2e0fe97fc",
     "https://huggingface.co/blog/muse-glimmer",
@@ -576,13 +572,16 @@
     "356978dbc1d5c1b11d1e19e188aec10e4dad4778",
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "cohere:63e37fd290c61c41",
-    "cohere:edbdcabb5644c7f9"
+    "cohere:edbdcabb5644c7f9",
+    "nvidia ai:67b288233059bca6",
+    "https://openai.com/index/atlassian-partnership",
+    "e7f0e6d82f4014267fce625aa988675764125d64",
+    "5d18d7c185c27c43c714e55ee57af834c975f4ac",
+    "mistral ai:4603202ab2a41760",
+    "mistral ai:5babb63ae47177f0",
+    "https://huggingface.co/blog/tiiuae/falcon-emirati"
   ],
   "seenAt": {
-    "https://openai.com/index/hsp-gruppe": "2026-08-07T09:58:12.117Z",
-    "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d": "2026-08-07T16:50:41.568Z",
-    "2a928f9693d6d62c930b66459b34bc9a6dc2b18a": "2026-08-07T16:50:41.568Z",
-    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b": "2026-08-07T16:50:41.568Z",
     "xai:3eb98dee9829b630": "2026-08-08T18:32:19.253Z",
     "xai:7ec12ab2e0fe97fc": "2026-08-09T20:27:45.754Z",
     "https://huggingface.co/blog/muse-glimmer": "2026-08-10T11:04:24.112Z",
@@ -1121,7 +1120,14 @@
     "356978dbc1d5c1b11d1e19e188aec10e4dad4778": "2026-10-05T23:41:13.338Z",
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement": "2026-10-05T23:41:13.338Z",
     "cohere:63e37fd290c61c41": "2026-10-05T23:41:13.338Z",
-    "cohere:edbdcabb5644c7f9": "2026-10-05T23:41:13.338Z"
+    "cohere:edbdcabb5644c7f9": "2026-10-05T23:41:13.338Z",
+    "nvidia ai:67b288233059bca6": "2026-10-06T17:52:06.376Z",
+    "https://openai.com/index/atlassian-partnership": "2026-10-06T17:52:06.376Z",
+    "e7f0e6d82f4014267fce625aa988675764125d64": "2026-10-06T17:52:06.376Z",
+    "5d18d7c185c27c43c714e55ee57af834c975f4ac": "2026-10-06T17:52:06.376Z",
+    "mistral ai:4603202ab2a41760": "2026-10-06T17:52:06.376Z",
+    "mistral ai:5babb63ae47177f0": "2026-10-06T17:52:06.376Z",
+    "https://huggingface.co/blog/tiiuae/falcon-emirati": "2026-10-06T17:52:06.376Z"
   },
-  "updatedAt": "2026-10-05T23:41:13.338Z"
+  "updatedAt": "2026-10-06T17:52:06.376Z"
 }

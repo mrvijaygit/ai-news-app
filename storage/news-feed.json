@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/atlassian-partnership",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:4603202ab2a41760",
+      "title": "Mistral Large 4/",
+      "summary": "Mistral Large 4/",
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-06T15:24:14.171Z"
+    },
+    {
+      "id": "mistral ai:5babb63ae47177f0",
+      "title": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
+      "summary": "Mistral Makes Sovereign Open Weight Ai To Frontier/",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-06T11:14:31.627Z"
+    },
+    {
+      "id": "e7f0e6d82f4014267fce625aa988675764125d64",
+      "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+      "summary": "Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code Editor environments...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-06T15:47:02.000Z"
+    },
+    {
+      "id": "5d18d7c185c27c43c714e55ee57af834c975f4ac",
+      "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+      "summary": "Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-06T15:45:42.000Z"
+    },
+    {
+      "id": "nvidia ai:67b288233059bca6",
+      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+      "summary": "GPU-accelerated Kubernetes clusters depend on compatible versions across dozens of components, each on its own release cycle: host kernels, GPU drivers,... GPU-accelerated Kubernetes clusters depend on compatible...",
+      "link": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-06T16:13:47.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "summary": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-06T06:44:39.000Z"
+    },
+    {
       "id": "xai:e3a36f0ed959a8ae",
       "title": "Introducing Grok 4.7",
       "summary": "Sep 21, 2026",
@@ -1736,70 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:337b3f5c095a2baa",
-      "title": "Grok Build Plugin Marketplace",
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "link": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "xai:2f8c13d813a7402e",
-      "title": "How SpaceXAI is using Grok Bot to scale customer support",
-      "summary": "How SpaceXAI is using Grok Bot to scale customer support",
-      "link": "https://x.ai/news/grok-bot-customer-support",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "xai:5fc7a578f53f17f5",
-      "title": "Designing Grok Bot for a world of persistent agents",
-      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
-      "link": "https://x.ai/news/designing-grok-bot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:39cfa33b8f09da04",
-      "title": "Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "f91c4872e4efa50ad6fa1a0161799f318feef3c1",
-      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "summary": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-22T18:10:22.000Z"
     }
   ],
-  "updatedAt": "2026-10-06T04:42:20.829Z"
+  "updatedAt": "2026-10-06T17:52:06.379Z"
 }
