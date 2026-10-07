@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "link": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:7e05291999b870b1",
+      "title": "Mistral Large 4/",
+      "summary": "Mistral Large 4/",
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-07T20:14:24.220Z"
+    },
+    {
+      "id": "xai:48149f58a03dc5dd",
+      "title": "Introducing Grok for Outlook",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7b96a44598fc39a3",
+      "title": "Introducing Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:da595bebdd196f91",
+      "title": "Introducing Grok for Word",
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "link": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1e12b8abb16a83ce",
+      "title": "Introducing Grok for PowerPoint",
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "link": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "0ff2b32f3802714df60aafa631f537ec3996dfd3",
+      "title": "Introducing Claude Haiku 5.5 on AWS",
+      "summary": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-07T18:52:10.000Z"
+    },
+    {
+      "id": "nvidia ai:604e38d08bba2084",
+      "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+      "summary": "AI factories are some of the most complex operations in the world, combining GPUs, CPUs, switches, DPUs, and SuperNICs alongside schedulers, orchestration... AI factories are some of the most complex operations in the...",
+      "link": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-07T16:00:00.000Z"
+    },
+    {
+      "id": "cohere:281bd6b6d3690315",
+      "title": "Introducing North 2",
+      "summary": "Introducing North 2",
+      "link": "https://cohere.com/blog/introducing-north-2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/teens-learn-and-plan",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
@@ -1709,97 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-28T15:56:32.000Z"
-    },
-    {
-      "id": "nvidia ai:3d09fd9237066f93",
-      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-      "summary": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of... To understand where agentic AI stands today, consider the last...",
-      "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-28T08:56:55.000Z"
-    },
-    {
-      "id": "nvidia ai:0ba9ca7ea7d489bf",
-      "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-      "summary": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that... AI agents can be given a goal, write code, use tools, and keep...",
-      "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-28T08:55:00.000Z"
-    },
-    {
-      "id": "nvidia ai:37877c90736a43ae",
-      "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
-      "summary": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a... Every unused watt is capacity left on the table. AI...",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-28T01:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/Hcompany/holo4",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "Holo4: powering generalist computer-use agents",
-      "link": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-28T09:44:05.000Z"
-    },
-    {
-      "id": "ea9c3794156b7050a4cb777dc63887c488fc15b1",
-      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
-      "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-25T16:29:50.000Z"
-    },
-    {
-      "id": "https://openai.com/index/proaction",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "link": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-25T19:00:00.000Z"
-    },
-    {
-      "id": "b119ac0e22c146d6b8a4049102737ff963987138",
-      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
-      "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-25T16:18:07.000Z"
-    },
-    {
-      "id": "d32b748fe9d6f6dd6643926259f6ad08cf697479",
-      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-      "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-25T16:15:22.000Z"
-    },
-    {
-      "id": "3b00dd9f3c6b3b5dda58a9808f9dba8711724685",
-      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
-      "summary": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-25T16:09:46.000Z"
-    },
-    {
-      "id": "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd",
-      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
-      "summary": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-25T15:54:42.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T17:12:40.529Z"
+  "updatedAt": "2026-10-07T22:38:16.182Z"
 }

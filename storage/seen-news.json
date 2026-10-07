@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:3eb98dee9829b630",
     "xai:7ec12ab2e0fe97fc",
     "https://huggingface.co/blog/muse-glimmer",
     "nvidia ai:300f58fb9ef76c30",
@@ -597,10 +596,19 @@
     "https://openai.com/index/teens-learn-and-plan",
     "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "mistral ai:c0a8561f7e103489",
-    "anthropic:a567552a2860409d"
+    "anthropic:a567552a2860409d",
+    "mistral ai:7e05291999b870b1",
+    "0ff2b32f3802714df60aafa631f537ec3996dfd3",
+    "nvidia ai:604e38d08bba2084",
+    "https://openai.com/index/radisson",
+    "https://openai.com/index/gpt-6-for-everyone",
+    "cohere:281bd6b6d3690315",
+    "xai:48149f58a03dc5dd",
+    "xai:7b96a44598fc39a3",
+    "xai:da595bebdd196f91",
+    "xai:1e12b8abb16a83ce"
   ],
   "seenAt": {
-    "xai:3eb98dee9829b630": "2026-08-08T18:32:19.253Z",
     "xai:7ec12ab2e0fe97fc": "2026-08-09T20:27:45.754Z",
     "https://huggingface.co/blog/muse-glimmer": "2026-08-10T11:04:24.112Z",
     "nvidia ai:300f58fb9ef76c30": "2026-08-10T14:22:20.633Z",
@@ -1163,7 +1171,17 @@
     "https://openai.com/index/teens-learn-and-plan": "2026-10-07T17:12:40.526Z",
     "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/": "2026-10-07T17:12:40.526Z",
     "mistral ai:c0a8561f7e103489": "2026-10-07T17:12:40.526Z",
-    "anthropic:a567552a2860409d": "2026-10-07T17:12:40.526Z"
+    "anthropic:a567552a2860409d": "2026-10-07T17:12:40.526Z",
+    "mistral ai:7e05291999b870b1": "2026-10-07T22:38:16.179Z",
+    "0ff2b32f3802714df60aafa631f537ec3996dfd3": "2026-10-07T22:38:16.179Z",
+    "nvidia ai:604e38d08bba2084": "2026-10-07T22:38:16.179Z",
+    "https://openai.com/index/radisson": "2026-10-07T22:38:16.179Z",
+    "https://openai.com/index/gpt-6-for-everyone": "2026-10-07T22:38:16.179Z",
+    "cohere:281bd6b6d3690315": "2026-10-07T22:38:16.179Z",
+    "xai:48149f58a03dc5dd": "2026-10-07T22:38:16.179Z",
+    "xai:7b96a44598fc39a3": "2026-10-07T22:38:16.179Z",
+    "xai:da595bebdd196f91": "2026-10-07T22:38:16.179Z",
+    "xai:1e12b8abb16a83ce": "2026-10-07T22:38:16.179Z"
   },
-  "updatedAt": "2026-10-07T17:12:40.526Z"
+  "updatedAt": "2026-10-07T22:38:16.179Z"
 }
