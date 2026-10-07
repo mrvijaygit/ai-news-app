@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/jump-trading",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "link": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "Advancing computer use with Ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-06T10:00:00.000Z"
+    },
+    {
+      "id": "xai:5fc7a578f53f17f5",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+      "link": "https://x.ai/news/designing-grok-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:39cfa33b8f09da04",
+      "title": "Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "923519c839c137326cec150f20986e906ba708bc",
+      "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+      "summary": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-06T19:19:15.000Z"
+    },
+    {
+      "id": "nvidia ai:2055f03c08a2c2dd",
+      "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+      "summary": "GPU applications increasingly need networking and data movement to behave like first-class GPU-controlled operations rather than host-driven services. When the... GPU applications increasingly need networking and data...",
+      "link": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-06T19:07:02.000Z"
+    },
+    {
       "id": "https://openai.com/index/atlassian-partnership",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
@@ -1727,79 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "xai:406de15113b3310a",
-      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
-      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
-      "link": "https://x.ai/news/grok-4-6-vertex-ai",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:337ba53e2339ea6c",
-      "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
-      "summary": "An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software... An AI coding agent’s patch can pass tests yet fail when the...",
-      "link": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-23T16:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "summary": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-23T13:17:01.000Z"
-    },
-    {
-      "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-22T21:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
-      "id": "xai:9fd7e7592c1ada50",
-      "title": "Grok Bot is now included with more plans",
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
-      "link": "https://x.ai/news/grok-bot-more-plans",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:e15e11a40907b4f4",
-      "title": "Introducing the Voice Agent Builder",
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "link": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-06T17:52:06.379Z"
+  "updatedAt": "2026-10-07T02:02:40.207Z"
 }

@@ -579,7 +579,12 @@
     "5d18d7c185c27c43c714e55ee57af834c975f4ac",
     "mistral ai:4603202ab2a41760",
     "mistral ai:5babb63ae47177f0",
-    "https://huggingface.co/blog/tiiuae/falcon-emirati"
+    "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "923519c839c137326cec150f20986e906ba708bc",
+    "nvidia ai:2055f03c08a2c2dd",
+    "https://openai.com/index/jump-trading",
+    "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "https://openai.com/index/advancing-computer-use-with-ironclad"
   ],
   "seenAt": {
     "xai:3eb98dee9829b630": "2026-08-08T18:32:19.253Z",
@@ -1127,7 +1132,12 @@
     "5d18d7c185c27c43c714e55ee57af834c975f4ac": "2026-10-06T17:52:06.376Z",
     "mistral ai:4603202ab2a41760": "2026-10-06T17:52:06.376Z",
     "mistral ai:5babb63ae47177f0": "2026-10-06T17:52:06.376Z",
-    "https://huggingface.co/blog/tiiuae/falcon-emirati": "2026-10-06T17:52:06.376Z"
+    "https://huggingface.co/blog/tiiuae/falcon-emirati": "2026-10-06T17:52:06.376Z",
+    "923519c839c137326cec150f20986e906ba708bc": "2026-10-07T02:02:40.204Z",
+    "nvidia ai:2055f03c08a2c2dd": "2026-10-07T02:02:40.204Z",
+    "https://openai.com/index/jump-trading": "2026-10-07T02:02:40.204Z",
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": "2026-10-07T02:02:40.204Z",
+    "https://openai.com/index/advancing-computer-use-with-ironclad": "2026-10-07T02:02:40.204Z"
   },
-  "updatedAt": "2026-10-06T17:52:06.376Z"
+  "updatedAt": "2026-10-07T02:02:40.204Z"
 }
