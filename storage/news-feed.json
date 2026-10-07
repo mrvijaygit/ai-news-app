@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "anthropic:a567552a2860409d",
+      "title": "Expanding the Cyber Verification Program",
+      "summary": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "source": "Anthropic News",
+      "company": "Anthropic",
+      "publishedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:07ef94a8ea52c8cf",
+      "title": "Regional Inference Open Models New Compute/",
+      "summary": "Regional Inference Open Models New Compute/",
+      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-07T13:21:06.062Z"
+    },
+    {
+      "id": "mistral ai:c0a8561f7e103489",
+      "title": "Mistral Large 4/",
+      "summary": "Mistral Large 4/",
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-07T09:16:14.087Z"
+    },
+    {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "93bdbf76581c7169c13af9e7eca9f14e1f921f75",
+      "title": "Beyond hours saved: Building the business case for agentic automation",
+      "summary": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-07T15:50:00.000Z"
+    },
+    {
+      "id": "fa0afddf27418d623ced214e96ba970d813f2f4c",
+      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+      "summary": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with cross-Region...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-07T15:48:46.000Z"
+    },
+    {
+      "id": "c4faaee6740a8b2bfe0bba8a988399d299da211b",
+      "title": "Automate remediation post AWS DevOps Agent investigation",
+      "summary": "AWS DevOps Agent can diagnose production incidents but is kept in observe-and-report mode so it does not change resources directly. This post shows how to use AWS Lambda Durable Functions, Amazon EventBridge, and Amazon...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-07T15:46:49.000Z"
+    },
+    {
+      "id": "15fb4f1a6de54cf66fb9eb96e6a07de1ebd20734",
+      "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
+      "summary": "Cornerstone OnDemand built Orion AI, a multi-agent system on Amazon Bedrock and Strands Agents, to turn database operations from reactive firefighting into proactive automation. A three-person team cut database...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-07T15:38:28.000Z"
+    },
+    {
+      "id": "nvidia ai:71beb6d08c469847",
+      "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+      "summary": "Supply chain problems are expanding across more SKUs, lanes, and constraints than ever before, while energy grids are balancing more distributed sources in real... Supply chain problems are expanding across more SKUs,...",
+      "link": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-07T15:45:00.000Z"
+    },
+    {
+      "id": "nvidia ai:f90218e739ff1c1d",
+      "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+      "summary": "Observatories and telescopes, lasers and X-ray light sources, and other high-throughput instruments generate image data faster than CPU-bound pipelines can... Observatories and telescopes, lasers and X-ray light...",
+      "link": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-07T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "title": "Multimodal open d1 decision models for the edge",
+      "summary": "Multimodal open d1 decision models for the edge",
+      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-07T16:54:33.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "summary": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-07T12:45:31.000Z"
+    },
+    {
       "id": "https://openai.com/index/jump-trading",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
@@ -1655,151 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-25T15:54:42.000Z"
-    },
-    {
-      "id": "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb",
-      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "summary": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-24T16:12:47.000Z"
-    },
-    {
-      "id": "427cff8805a421ac08f11c5e6f8349509b2ca46f",
-      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
-      "summary": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-24T16:06:46.000Z"
-    },
-    {
-      "id": "nvidia ai:769dd955f0bfdd07",
-      "title": "Efficient MoE Training for Biological Foundation Models",
-      "summary": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding... As language models grow, scaling dense architectures...",
-      "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-24T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "summary": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-24T14:08:57.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-23T02:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:16c19c1b73bc71d1",
-      "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
-      "summary": "Radiology AI has made remarkable strides in detecting abnormalities across chest X-rays, pathology slides, and 2D scans. Yet one of the most clinically rich and... Radiology AI has made remarkable strides in detecting...",
-      "link": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-23T22:54:56.000Z"
-    },
-    {
-      "id": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-mentalhealthbench",
-      "title": "Introducing MentalHealthBench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "link": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-23T10:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/airbnb-gpt-6-astra",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "link": "https://openai.com/index/airbnb-gpt-6-astra",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-23T01:00:00.000Z"
-    },
-    {
-      "id": "a9e8fc8015478951f1ebf38e854088e6f49fee5e",
-      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
-      "summary": "HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock AgentCore. Using Model Context Protocol (MCP), HAL delivers governed...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-23T18:41:09.000Z"
-    },
-    {
-      "id": "c1a90bbe3003b17df7a04a90397d54eee1db68bd",
-      "title": "Agentic conversational video intelligence built on AWS",
-      "summary": "Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates Amazon Bedrock, Amazon Rekognition, and Amazon Transcribe at runtime,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-23T18:21:54.000Z"
-    },
-    {
-      "id": "cced8883b9ee496209b96642a8ac01881e403508",
-      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
-      "summary": "Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-23T18:17:44.000Z"
-    },
-    {
-      "id": "nvidia ai:782b49dcd7ff9a24",
-      "title": "Manage Kubernetes Node Fleets with NodeWright",
-      "summary": "Kubernetes manages what runs on your nodes. Managing the nodes themselves is the challenge: kernel settings, system packages, storage layouts, security agents,... Kubernetes manages what runs on your nodes. Managing the...",
-      "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-23T18:25:49.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-23T18:41:40.000Z"
-    },
-    {
-      "id": "https://openai.com/index/ringg",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "link": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T02:02:40.207Z"
+  "updatedAt": "2026-10-07T17:12:40.529Z"
 }
