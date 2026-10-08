@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "title": "Introducing Falcon ASR",
+      "summary": "Introducing Falcon ASR",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-07T13:21:03.000Z"
+    },
+    {
       "id": "https://openai.com/index/radisson",
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-28T16:15:17.000Z"
-    },
-    {
-      "id": "6122eefc7690836dc43c93a6f5a9bd795f679f12",
-      "title": "Implementing synthetic monitoring using Amazon Nova Act",
-      "summary": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-28T15:56:32.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T22:38:16.182Z"
+  "updatedAt": "2026-10-08T17:10:26.583Z"
 }
