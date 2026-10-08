@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/oracle",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "link": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/pollo-ai",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "link": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "id": "0d337b36c3f07d0b91dbfe91ce290d78c3de5f56",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "summary": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-08T18:33:29.000Z"
+    },
+    {
+      "id": "nvidia ai:8106ed6f66f9a80e",
+      "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+      "summary": "Preparing CAD assets for robotics simulation requires more than converting geometry to OpenUSD: developers must configure and validate materials, collision... Preparing CAD assets for robotics simulation requires more...",
+      "link": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-08T20:57:55.000Z"
+    },
+    {
+      "id": "nvidia ai:7904e5feec995d5d",
+      "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+      "summary": "The NVIDIA KGMON team placed second in the KDD Cup 2026 Data Agents competition with a system built around a simple idea of making an agent's harness smaller,... The NVIDIA KGMON team placed second in the KDD Cup 2026...",
+      "link": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-08T18:30:02.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/building-with-ml-intern",
+      "title": "The model that didn't exist, so you made it yourself",
+      "summary": "The model that didn't exist, so you made it yourself",
+      "link": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/tiiuae/falcon-asr",
       "title": "Introducing Falcon ASR",
       "summary": "Introducing Falcon ASR",
@@ -1745,61 +1799,7 @@
       "source": "Google AI Blog",
       "company": "Google AI / Gemini",
       "publishedAt": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "id": "xai:0df93d3f276c36ce",
-      "title": "Setting Grok Bot loose on procurement",
-      "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
-      "link": "https://x.ai/news/grok-bot-procurement",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "9a90cb3d7623d517b6c268aadcd85bbf56a68dde",
-      "title": "Grok 4.7 is now available on Amazon Bedrock",
-      "summary": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-28T22:13:16.000Z"
-    },
-    {
-      "id": "cfc2607374dece7ff26f26b3922adbbb2e24f173",
-      "title": "Introducing Claude Sonnet 5.5 on AWS",
-      "summary": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-28T18:57:13.000Z"
-    },
-    {
-      "id": "be959add1e3f236c1c0a04b0919aa38f042b4622",
-      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
-      "summary": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-28T16:15:46.000Z"
-    },
-    {
-      "id": "aec2d25cc981395a6fa5ae4a221b4e0ba14ccbf2",
-      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
-      "summary": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-28T16:15:17.000Z"
     }
   ],
-  "updatedAt": "2026-10-08T17:10:26.583Z"
+  "updatedAt": "2026-10-08T22:49:54.501Z"
 }
