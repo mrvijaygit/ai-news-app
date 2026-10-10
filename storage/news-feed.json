@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
+      "id": "47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e",
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "summary": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-09T15:38:39.000Z"
+    },
+    {
+      "id": "b70b3126633995a55ec3140e570c01681b054d89",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "summary": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-09T15:35:02.000Z"
+    },
+    {
       "id": "xai:0df93d3f276c36ce",
       "title": "Setting Grok Bot loose on procurement",
       "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
@@ -1772,34 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:f58ce5a98926f521",
-      "title": "Announcing Grok-1.5",
-      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
-      "link": "https://x.ai/news/grok-1.5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:eb3235d954e50c16",
-      "title": "Open Release of Grok-1",
-      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
-      "link": "https://x.ai/news/grok-os",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-09T02:44:16.336Z"
+  "updatedAt": "2026-10-10T15:00:56.670Z"
 }
