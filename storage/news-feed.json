@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9689f95a1df38884",
+      "title": "Grok-1.5 Vision Preview",
+      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
+      "link": "https://x.ai/news/grok-1.5v",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:f58ce5a98926f521",
       "title": "Announcing Grok-1.5",
       "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
@@ -1772,34 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-09-29T16:14:24.000Z"
-    },
-    {
-      "id": "c8a9d3a3948ee260503419fe425f5000daf39358",
-      "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
-      "summary": "Condé Nast's editorial teams spent an average of 250 minutes per task searching a library of more than 140,000 videos using only titles and descriptions. Working with the AWS Generative AI Innovation Center, they built...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-29T15:55:17.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "summary": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-29T15:30:38.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-09-29T13:07:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-10T19:42:17.241Z"
+  "updatedAt": "2026-10-10T23:11:00.301Z"
 }
