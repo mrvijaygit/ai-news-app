@@ -34,12 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "86cd8b92b90187d96c8febe2b94e065d6f61fea4",
-    "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb",
-    "fb996b8e2bd613674bdace88551fde7534cd730b",
-    "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "xai:4ea5ad07a0d56f40",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "nvidia ai:b914e54180de85a0",
     "nvidia ai:6a0a3e2541136c9f",
@@ -593,15 +587,10 @@
     "b70b3126633995a55ec3140e570c01681b054d89",
     "https://openai.com/index/asana-browser-agent",
     "xai:337b3f5c095a2baa",
-    "xai:61ce3268fb7b0eb4"
+    "xai:61ce3268fb7b0eb4",
+    "xai:4ea5ad07a0d56f40"
   ],
   "seenAt": {
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": "2026-08-12T14:22:53.565Z",
-    "86cd8b92b90187d96c8febe2b94e065d6f61fea4": "2026-08-12T14:22:53.565Z",
-    "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb": "2026-08-12T14:22:53.565Z",
-    "fb996b8e2bd613674bdace88551fde7534cd730b": "2026-08-12T14:22:53.565Z",
-    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-12T14:22:53.565Z",
-    "xai:4ea5ad07a0d56f40": "2026-08-12T15:55:57.283Z",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-12T16:56:10.752Z",
     "nvidia ai:b914e54180de85a0": "2026-08-12T16:56:10.752Z",
     "nvidia ai:6a0a3e2541136c9f": "2026-08-12T18:57:51.496Z",
@@ -1155,7 +1144,8 @@
     "b70b3126633995a55ec3140e570c01681b054d89": "2026-10-10T15:00:56.668Z",
     "https://openai.com/index/asana-browser-agent": "2026-10-10T15:00:56.668Z",
     "xai:337b3f5c095a2baa": "2026-10-10T15:00:56.668Z",
-    "xai:61ce3268fb7b0eb4": "2026-10-10T19:42:17.239Z"
+    "xai:61ce3268fb7b0eb4": "2026-10-10T19:42:17.239Z",
+    "xai:4ea5ad07a0d56f40": "2026-10-11T16:31:21.002Z"
   },
-  "updatedAt": "2026-10-10T19:42:17.239Z"
+  "updatedAt": "2026-10-11T16:31:21.002Z"
 }
