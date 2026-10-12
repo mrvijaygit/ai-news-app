@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284",
-    "f7e47af42f400e3f4aeaea3b8fcc2ab80d496253",
     "b5d7724d73cc7030cb1cb40507aa91d081f551a4",
     "d43548b1e99c28788ed7a26a925c28aa7e306fa7",
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
@@ -584,11 +582,17 @@
     "https://openai.com/index/asana-browser-agent",
     "xai:337b3f5c095a2baa",
     "xai:61ce3268fb7b0eb4",
-    "xai:4ea5ad07a0d56f40"
+    "xai:4ea5ad07a0d56f40",
+    "nvidia ai:7cfc5f6538eec296",
+    "f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3",
+    "b4bf8b1e23545b34c9db567b51d0eb1551605184",
+    "perplexity ai:5ba83b06e00500b3",
+    "perplexity ai:5aadd7a1a5de61dd",
+    "perplexity ai:9de0875736bd3021",
+    "perplexity ai:0c51029b60d02743",
+    "perplexity ai:a1d169f8fe12702e"
   ],
   "seenAt": {
-    "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284": "2026-08-13T15:55:37.923Z",
-    "f7e47af42f400e3f4aeaea3b8fcc2ab80d496253": "2026-08-13T15:55:37.923Z",
     "b5d7724d73cc7030cb1cb40507aa91d081f551a4": "2026-08-13T16:53:58.589Z",
     "d43548b1e99c28788ed7a26a925c28aa7e306fa7": "2026-08-13T16:53:58.589Z",
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-13T17:55:07.944Z",
@@ -1137,7 +1141,15 @@
     "https://openai.com/index/asana-browser-agent": "2026-10-10T15:00:56.668Z",
     "xai:337b3f5c095a2baa": "2026-10-10T15:00:56.668Z",
     "xai:61ce3268fb7b0eb4": "2026-10-10T19:42:17.239Z",
-    "xai:4ea5ad07a0d56f40": "2026-10-11T16:31:21.002Z"
+    "xai:4ea5ad07a0d56f40": "2026-10-11T16:31:21.002Z",
+    "nvidia ai:7cfc5f6538eec296": "2026-10-12T16:27:54.665Z",
+    "f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3": "2026-10-12T16:27:54.665Z",
+    "b4bf8b1e23545b34c9db567b51d0eb1551605184": "2026-10-12T16:27:54.665Z",
+    "perplexity ai:5ba83b06e00500b3": "2026-10-12T16:27:54.665Z",
+    "perplexity ai:5aadd7a1a5de61dd": "2026-10-12T16:27:54.665Z",
+    "perplexity ai:9de0875736bd3021": "2026-10-12T16:27:54.665Z",
+    "perplexity ai:0c51029b60d02743": "2026-10-12T16:27:54.665Z",
+    "perplexity ai:a1d169f8fe12702e": "2026-10-12T16:27:54.665Z"
   },
-  "updatedAt": "2026-10-11T16:31:21.002Z"
+  "updatedAt": "2026-10-12T16:27:54.665Z"
 }
