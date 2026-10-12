@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "xai:8202d17660c6b5b4",
+      "title": "Introducing The X Subscription",
+      "summary": "Introducing The X Subscription",
+      "link": "https://x.ai/news/x-subscription",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "xai:f71d88029bf9681b",
+      "title": "Memory in Grok Build",
+      "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
+      "link": "https://x.ai/news/grok-build-memory",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6dad33007ff48b3f",
+      "title": "Agent Dashboard in Grok Build",
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "link": "https://x.ai/news/agent-dashboard",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "e20b8171cff84e878ab96622856dfe3f22a41ff0",
+      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "summary": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-12T17:52:22.000Z"
+    },
+    {
+      "id": "perplexity ai:7e60d6ae07225569",
+      "title": "Oct 12, 2026 Building shared workspaces for people and agents How Perplexity Projects keep long-running work persistent,",
+      "summary": "Oct 12, 2026 Building shared workspaces for people and agents How Perplexity Projects keep long-running work persistent,",
+      "link": "https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
       "id": "f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3",
       "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
       "summary": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime...",
@@ -1727,79 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:01e3b8304d8cac5f",
-      "title": "Announcing xAI for Government",
-      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
-      "link": "https://x.ai/news/government",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0b42cd3858907903",
-      "title": "Grok 4",
-      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
-      "link": "https://x.ai/news/grok-4",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5a8f9dcef91affc",
-      "title": "Grok 3 Beta — The Age of Reasoning Agents",
-      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
-      "link": "https://x.ai/news/grok-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2eb1be0eab97116d",
-      "title": "xAI raises $6B Series C",
-      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
-      "link": "https://x.ai/news/series-c",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:8ed876cc63c6ba10",
-      "title": "Bringing Grok to Everyone",
-      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-1212",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "66c26dd8eb3c8cf25a769df1c1979dc7b8a86fa5",
-      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-      "summary": "GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-29T19:34:14.000Z"
-    },
-    {
-      "id": "nvidia ai:1880372921f81b20",
-      "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
-      "summary": "Parallel work, model-family isolation, reversible changes, and GPU-backed validation shaped an open source project designed around coding agents NVIDIA TensorRT... Parallel work, model-family isolation, reversible...",
-      "link": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-29T19:10:51.000Z"
     }
   ],
-  "updatedAt": "2026-10-12T16:27:54.667Z"
+  "updatedAt": "2026-10-12T23:27:18.417Z"
 }

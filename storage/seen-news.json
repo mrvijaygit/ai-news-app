@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "b5d7724d73cc7030cb1cb40507aa91d081f551a4",
-    "d43548b1e99c28788ed7a26a925c28aa7e306fa7",
-    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "https://openai.com/index/previewing-ultrafast",
-    "https://openai.com/index/builders-guide-to-gpt-5-6",
     "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "5a3280b9270a601999f904d82bfca05f0f783e68",
     "93b011a326051e62ed303da1c918720e315d449d",
@@ -590,14 +585,13 @@
     "perplexity ai:5aadd7a1a5de61dd",
     "perplexity ai:9de0875736bd3021",
     "perplexity ai:0c51029b60d02743",
-    "perplexity ai:a1d169f8fe12702e"
+    "perplexity ai:a1d169f8fe12702e",
+    "e20b8171cff84e878ab96622856dfe3f22a41ff0",
+    "xai:8202d17660c6b5b4",
+    "perplexity ai:7e60d6ae07225569",
+    "xai:f71d88029bf9681b"
   ],
   "seenAt": {
-    "b5d7724d73cc7030cb1cb40507aa91d081f551a4": "2026-08-13T16:53:58.589Z",
-    "d43548b1e99c28788ed7a26a925c28aa7e306fa7": "2026-08-13T16:53:58.589Z",
-    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-13T17:55:07.944Z",
-    "https://openai.com/index/previewing-ultrafast": "2026-08-13T17:55:07.944Z",
-    "https://openai.com/index/builders-guide-to-gpt-5-6": "2026-08-13T18:58:25.137Z",
     "https://huggingface.co/blog/state-of-open-models-summer-2026": "2026-08-14T15:47:14.615Z",
     "5a3280b9270a601999f904d82bfca05f0f783e68": "2026-08-14T16:48:42.962Z",
     "93b011a326051e62ed303da1c918720e315d449d": "2026-08-14T16:48:42.962Z",
@@ -1149,7 +1143,11 @@
     "perplexity ai:5aadd7a1a5de61dd": "2026-10-12T16:27:54.665Z",
     "perplexity ai:9de0875736bd3021": "2026-10-12T16:27:54.665Z",
     "perplexity ai:0c51029b60d02743": "2026-10-12T16:27:54.665Z",
-    "perplexity ai:a1d169f8fe12702e": "2026-10-12T16:27:54.665Z"
+    "perplexity ai:a1d169f8fe12702e": "2026-10-12T16:27:54.665Z",
+    "e20b8171cff84e878ab96622856dfe3f22a41ff0": "2026-10-12T23:27:18.415Z",
+    "xai:8202d17660c6b5b4": "2026-10-12T23:27:18.415Z",
+    "perplexity ai:7e60d6ae07225569": "2026-10-12T23:27:18.415Z",
+    "xai:f71d88029bf9681b": "2026-10-12T23:27:18.415Z"
   },
-  "updatedAt": "2026-10-12T16:27:54.665Z"
+  "updatedAt": "2026-10-12T23:27:18.415Z"
 }
