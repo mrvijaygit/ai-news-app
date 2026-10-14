@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:c8e543b0022f670e",
     "xai:95e9b6d90fc1fb24",
     "xai:ab219090a4ec5ef2",
     "xai:000376eced0f7685",
@@ -595,10 +594,12 @@
     "nvidia ai:1a977e9ff505bc40",
     "https://openai.com/index/higgsfield-longer-videos-voice",
     "xai:56410469519f91d2",
-    "xai:6dad33007ff48b3f"
+    "xai:6dad33007ff48b3f",
+    "nvidia ai:afa0af1d91492d85",
+    "0c79d3a743bd70e676fa029365ec191931b2b410",
+    "xai:c8e543b0022f670e"
   ],
   "seenAt": {
-    "xai:c8e543b0022f670e": "2026-08-14T20:26:47.293Z",
     "xai:95e9b6d90fc1fb24": "2026-08-15T20:18:26.784Z",
     "xai:ab219090a4ec5ef2": "2026-08-16T06:33:14.145Z",
     "xai:000376eced0f7685": "2026-08-16T21:16:06.876Z",
@@ -1159,7 +1160,10 @@
     "nvidia ai:1a977e9ff505bc40": "2026-10-13T20:02:57.664Z",
     "https://openai.com/index/higgsfield-longer-videos-voice": "2026-10-13T20:02:57.664Z",
     "xai:56410469519f91d2": "2026-10-13T20:02:57.664Z",
-    "xai:6dad33007ff48b3f": "2026-10-13T20:02:57.664Z"
+    "xai:6dad33007ff48b3f": "2026-10-13T20:02:57.664Z",
+    "nvidia ai:afa0af1d91492d85": "2026-10-14T00:06:51.410Z",
+    "0c79d3a743bd70e676fa029365ec191931b2b410": "2026-10-14T00:06:51.410Z",
+    "xai:c8e543b0022f670e": "2026-10-14T00:06:51.410Z"
   },
-  "updatedAt": "2026-10-13T20:02:57.664Z"
+  "updatedAt": "2026-10-14T00:06:51.410Z"
 }
