@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:184b4ddafc029cbf",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,... Always-on agents are taking on longer, more complex...",
+      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-15T18:01:00.000Z"
+    },
+    {
+      "id": "nvidia ai:baaf1f3bf633a8a8",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72  ",
+      "summary": "Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on... Meta launches Muse Spark Open, a coding-optimized 816B...",
+      "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-15T18:00:01.000Z"
+    },
+    {
+      "id": "cohere:453f406c7e0c7017",
+      "title": "Cohere And Aisle Sign Letter Of Intent To Advance Cyber Resilient Sovereign Ai",
+      "summary": "Cohere And Aisle Sign Letter Of Intent To Advance Cyber Resilient Sovereign Ai",
+      "link": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:3ac991d0fb118a5c",
+      "title": "Agent Sprawl",
+      "summary": "Agent Sprawl",
+      "link": "https://cohere.com/blog/agent-sprawl",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
       "id": "xai:4ea5ad07a0d56f40",
       "title": "Introducing Grok 4.6",
       "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
@@ -1754,52 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-10-05T17:25:20.000Z"
-    },
-    {
-      "id": "cf6f95ea7bf1aafa4505939aad0e550912dc69a2",
-      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
-      "summary": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-05T17:23:19.000Z"
-    },
-    {
-      "id": "e22db81f9de569eb9635812b9194903d60b6defd",
-      "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
-      "summary": "Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-05T15:56:28.000Z"
-    },
-    {
-      "id": "9ef1f1b789cbe6fd45278d748b65ebf4500d6c5e",
-      "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
-      "summary": "Build a Retrieval Augmented Generation (RAG) application on Amazon Bedrock Managed Knowledge Base with LangChain, and see how agentic retrieval handles the multi-part questions that single-shot retrieval answers poorly....",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-05T15:53:56.000Z"
-    },
-    {
-      "id": "356978dbc1d5c1b11d1e19e188aec10e4dad4778",
-      "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
-      "summary": "Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent supply chain...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-05T15:50:01.000Z"
-    },
-    {
-      "id": "cohere:63e37fd290c61c41",
-      "title": "Cohere And Pwc Partner To Accelerate Secure Enterprise Ai Adoption",
-      "summary": "Cohere And Pwc Partner To Accelerate Secure Enterprise Ai Adoption",
-      "link": "https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-10-05T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-15T17:59:30.324Z"
+  "updatedAt": "2026-10-15T21:14:12.642Z"
 }

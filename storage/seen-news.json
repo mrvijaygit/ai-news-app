@@ -618,7 +618,11 @@
     "379390b4bb32581d87fbb3af3ac3000f67e1f7df",
     "nvidia ai:032047a0dfb94907",
     "https://huggingface.co/blog/meta-muse-spark-open",
-    "perplexity ai:0d01d6c28be4a195"
+    "perplexity ai:0d01d6c28be4a195",
+    "nvidia ai:184b4ddafc029cbf",
+    "nvidia ai:baaf1f3bf633a8a8",
+    "cohere:453f406c7e0c7017",
+    "cohere:3ac991d0fb118a5c"
   ],
   "seenAt": {
     "xai:000376eced0f7685": "2026-08-16T21:16:06.876Z",
@@ -1205,7 +1209,11 @@
     "379390b4bb32581d87fbb3af3ac3000f67e1f7df": "2026-10-15T17:59:30.322Z",
     "nvidia ai:032047a0dfb94907": "2026-10-15T17:59:30.322Z",
     "https://huggingface.co/blog/meta-muse-spark-open": "2026-10-15T17:59:30.322Z",
-    "perplexity ai:0d01d6c28be4a195": "2026-10-15T17:59:30.322Z"
+    "perplexity ai:0d01d6c28be4a195": "2026-10-15T17:59:30.322Z",
+    "nvidia ai:184b4ddafc029cbf": "2026-10-15T21:14:12.640Z",
+    "nvidia ai:baaf1f3bf633a8a8": "2026-10-15T21:14:12.640Z",
+    "cohere:453f406c7e0c7017": "2026-10-15T21:14:12.640Z",
+    "cohere:3ac991d0fb118a5c": "2026-10-15T21:14:12.640Z"
   },
-  "updatedAt": "2026-10-15T17:59:30.322Z"
+  "updatedAt": "2026-10-15T21:14:12.640Z"
 }
