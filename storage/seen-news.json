@@ -613,7 +613,12 @@
     "xai:d14f086860d8757d",
     "xai:f4eca61a7bbcb22c",
     "xai:ab219090a4ec5ef2",
-    "xai:fd568373c89a8554"
+    "xai:fd568373c89a8554",
+    "8370f01f72d733de10ec1ce843e1456b54b19515",
+    "379390b4bb32581d87fbb3af3ac3000f67e1f7df",
+    "nvidia ai:032047a0dfb94907",
+    "https://huggingface.co/blog/meta-muse-spark-open",
+    "perplexity ai:0d01d6c28be4a195"
   ],
   "seenAt": {
     "xai:000376eced0f7685": "2026-08-16T21:16:06.876Z",
@@ -1195,7 +1200,12 @@
     "xai:d14f086860d8757d": "2026-10-15T14:49:31.074Z",
     "xai:f4eca61a7bbcb22c": "2026-10-15T14:49:31.074Z",
     "xai:ab219090a4ec5ef2": "2026-10-15T14:49:31.074Z",
-    "xai:fd568373c89a8554": "2026-10-15T14:49:31.074Z"
+    "xai:fd568373c89a8554": "2026-10-15T14:49:31.074Z",
+    "8370f01f72d733de10ec1ce843e1456b54b19515": "2026-10-15T17:59:30.322Z",
+    "379390b4bb32581d87fbb3af3ac3000f67e1f7df": "2026-10-15T17:59:30.322Z",
+    "nvidia ai:032047a0dfb94907": "2026-10-15T17:59:30.322Z",
+    "https://huggingface.co/blog/meta-muse-spark-open": "2026-10-15T17:59:30.322Z",
+    "perplexity ai:0d01d6c28be4a195": "2026-10-15T17:59:30.322Z"
   },
-  "updatedAt": "2026-10-15T14:49:31.074Z"
+  "updatedAt": "2026-10-15T17:59:30.322Z"
 }

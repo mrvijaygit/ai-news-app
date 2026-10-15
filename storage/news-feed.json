@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "xai:4ea5ad07a0d56f40",
+      "title": "Introducing Grok 4.6",
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "link": "https://x.ai/news/grok-4-6",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:392dca10a759ab7c",
+      "title": "Introducing Build Mode",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "link": "https://x.ai/news/grok-build-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:aeb52aceb6679ea3",
+      "title": "Grok 4.5 in GitHub Copilot",
+      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ea7ad631cd2df309",
+      "title": "Introducing /goal",
+      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
+      "link": "https://x.ai/news/introducing-goal",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:950769d2f630ca6f",
+      "title": "Grok on Databricks",
+      "summary": "Grok models are now available on Databricks Agent Bricks.",
+      "link": "https://x.ai/news/grok-databricks",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:000376eced0f7685",
+      "title": "Grok on Amazon Bedrock",
+      "summary": "Grok models are now available via Amazon Bedrock.",
+      "link": "https://x.ai/news/grok-amazon-bedrock",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "8370f01f72d733de10ec1ce843e1456b54b19515",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "summary": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-15T17:43:35.000Z"
+    },
+    {
+      "id": "379390b4bb32581d87fbb3af3ac3000f67e1f7df",
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "summary": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-15T15:05:35.000Z"
+    },
+    {
+      "id": "nvidia ai:032047a0dfb94907",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,... Always-on agents are taking on longer, more complex...",
+      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-15T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "link": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:0d01d6c28be4a195",
+      "title": "News Oct 15, 2026 Open-sourcing SPACE, the sandbox platform behind Computer Perplexity open-sources SPACE, the sandbox p",
+      "summary": "News Oct 15, 2026 Open-sourcing SPACE, the sandbox platform behind Computer Perplexity open-sources SPACE, the sandbox p",
+      "link": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/amp-beyond-coding",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
@@ -1691,115 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:edbdcabb5644c7f9",
-      "title": "Introducing North 2",
-      "summary": "Introducing North 2",
-      "link": "https://cohere.com/blog/introducing-north-2",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "The Agent Said It Was Done. The Database Disagreed.",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-03T22:56:48.000Z"
-    },
-    {
-      "id": "cohere:476361745b3e51fd",
-      "title": "Cohere And Open Text Partner To Bring Trusted Ai",
-      "summary": "Cohere And Open Text Partner To Bring Trusted Ai",
-      "link": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/practical-guide-building-gpt-6",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-02T16:15:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/chatham-financial",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "link": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "id": "2f2cd30ac2942c76cf89e1fbda1bc39b085e37cc",
-      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "summary": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks through the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-02T15:48:26.000Z"
-    },
-    {
-      "id": "f34004e8575c136497f5d3d9f5a7791f5549d448",
-      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "summary": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gateway, with...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-02T15:46:05.000Z"
-    },
-    {
-      "id": "c348d5804487175a62b36b622fd99ec800d9aef8",
-      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "summary": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-02T15:44:20.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/astabrief",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "link": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-02T15:19:50.000Z"
-    },
-    {
-      "id": "xai:56410469519f91d2",
-      "title": "Grok 4.6 in GitHub Copilot",
-      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-4-6-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:e14bedc28fd4dbb8",
-      "title": "Introducing Grok Voice Think Fast 2.0",
-      "summary": "Introducing our most capable speech-to-speech voice model.",
-      "link": "https://x.ai/news/grok-voice-think-fast-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-15T14:49:31.076Z"
+  "updatedAt": "2026-10-15T17:59:30.324Z"
 }
