@@ -1,6 +1,249 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/amp-beyond-coding",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/third-moment-research",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "link": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "xai:d14f086860d8757d",
+      "title": "Introducing Grok Voice 3.0",
+      "summary": "Oct 14, 2026",
+      "link": "https://x.ai/news/grok-voice-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6e55d5bdb3ee3ce4",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "summary": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+      "link": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:16c4cffc8f18376e",
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now has a tighter integration with X.",
+      "link": "https://x.ai/news/grok-bot-and-x",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f4eca61a7bbcb22c",
+      "title": "Introducing Grok Voice 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5814f5ea763c956b",
+      "title": "Grok in Google Workspace",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "link": "https://x.ai/news/introducing-google-workspace-addon",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:24ade0b14d4bf922",
+      "title": "Workflows in Grok Build",
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+      "link": "https://x.ai/news/workflows",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:764b42fb7740a988",
+      "title": "Introducing Grok 4.5",
+      "summary": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
+      "link": "https://x.ai/news/grok-4-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ae67cdc2e5ac21a4",
+      "title": "Grok Build 0.1 on API",
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "link": "https://x.ai/news/grok-build-0-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:202301d15429884f",
+      "title": "Use Grok in Kilo Code",
+      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
+      "link": "https://x.ai/news/grok-kilocode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9d5659da9528b35d",
+      "title": "Introducing Grok Build",
+      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
+      "link": "https://x.ai/news/grok-build-cli",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:fee1e6ce5633dfad",
+      "title": "Use Grok in OpenCode",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
+      "link": "https://x.ai/news/grok-opencode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:fd568373c89a8554",
+      "title": "Grok Voice 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "e171b39a3994cf60cede0f83b63b3eeb1990c5b0",
+      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "summary": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-14T16:24:07.000Z"
+    },
+    {
+      "id": "d7fcbb6e54548bceb8e3c5489bb676b9bb401df4",
+      "title": "Generate presentations with Amazon Bedrock AgentCore",
+      "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-14T13:58:43.000Z"
+    },
+    {
+      "id": "e450e4e25d2199a8263f8d40fbee33f9f2e8a25b",
+      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "summary": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-14T13:53:33.000Z"
+    },
+    {
+      "id": "e6ff6df24e30f88e005340fdee64687eef73ffa9",
+      "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+      "summary": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-14T13:14:36.000Z"
+    },
+    {
+      "id": "nvidia ai:ff8ebb9924b417c9",
+      "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+      "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes... AI agents offer remarkable productivity gains in complex chip...",
+      "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-14T16:10:45.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "Apertus 1.5 Release Notes",
+      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-15T09:08:45.000Z"
+    },
+    {
+      "id": "cohere:0929b2d50cdfdc2d",
+      "title": "Enterprise Ai Maturity Model",
+      "summary": "Enterprise Ai Maturity Model",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:6298026ac91864f2",
+      "title": "Lessons From Scaling Teams Of Frontier Coding Agents",
+      "summary": "Lessons From Scaling Teams Of Frontier Coding Agents",
+      "link": "https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:d6ff93bc7c8274d1",
+      "title": "Enterprise Ai Maturity Model Pt2",
+      "summary": "Enterprise Ai Maturity Model Pt2",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:82bc66997f4b1cba",
+      "title": "Oct 14, 2026 What Are MCP Tools and How Do AI Models Use Them? Learn what MCP tools are, how AI models find and call the",
+      "summary": "Oct 14, 2026 What Are MCP Tools and How Do AI Models Use Them? Learn what MCP tools are, how AI models find and call the",
+      "link": "https://www.perplexity.ai/hub/blog/mcp-tools",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:157f0296a9af898f",
+      "title": "Oct 14, 2026 How SPACE routes requests to the right sandbox execution Perplexity's SPACE binds AI agent requests to the ",
+      "summary": "Oct 14, 2026 How SPACE routes requests to the right sandbox execution Perplexity's SPACE binds AI agent requests to the",
+      "link": "https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "xai:f48d7b7c6e59faeb",
       "title": "Use Grok in OpenClaw",
       "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
@@ -1556,250 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "xai:392dca10a759ab7c",
-      "title": "Introducing Build Mode",
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
-      "link": "https://x.ai/news/grok-build-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:aeb52aceb6679ea3",
-      "title": "Grok 4.5 in GitHub Copilot",
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ea7ad631cd2df309",
-      "title": "Introducing /goal",
-      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
-      "link": "https://x.ai/news/introducing-goal",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:950769d2f630ca6f",
-      "title": "Grok on Databricks",
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "link": "https://x.ai/news/grok-databricks",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6fb78d5fa6c818ae",
-      "title": "Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:000376eced0f7685",
-      "title": "Grok on Amazon Bedrock",
-      "summary": "Grok models are now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/the-eternal-complement",
-      "title": "The eternal complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-01T17:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/the-den-family-social",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "link": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "xai:4126c5521b9e1336",
-      "title": "Composer 2.5",
-      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
-      "link": "https://x.ai/news/composer-2-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-01T22:06:14.000Z"
-    },
-    {
-      "id": "2ecc9b560bbf992d1aef9266dfef2641bd2fd889",
-      "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
-      "summary": "Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memory subsystem works...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-01T17:34:56.000Z"
-    },
-    {
-      "id": "nvidia ai:a0114d079d3c2904",
-      "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
-      "summary": "AI agents are becoming a standard part of development workflows, but general-purpose agents weren't built with specialized infrastructure software such as... AI agents are becoming a standard part of development...",
-      "link": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-01T18:13:29.000Z"
-    },
-    {
-      "id": "nvidia ai:bfc8eb4e8d31f1da",
-      "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
-      "summary": "Adding AI models to local applications requires a portable model format, a reliable runtime, and acceleration that works across target systems. Do Inference Now... Adding AI models to local applications requires a...",
-      "link": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-01T17:59:27.000Z"
-    },
-    {
-      "id": "https://openai.com/index/albertsons-reimagining-retail",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "id": "a3fcfb203f7dac7a81a6c684d4d3209b33fdbf65",
-      "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
-      "summary": "Ambient agents respond to events such as an Amazon S3 upload, a schedule, or an alert instead of waiting for a chat prompt. This post walks through building framework-agnostic ambient agents on Amazon Bedrock AgentCore...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-01T16:40:24.000Z"
-    },
-    {
-      "id": "eddd32e530c0079d18534b2ed62f93bed3e79a48",
-      "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
-      "summary": "Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-scoped API keys for developers, and OIDC federation for...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-01T16:32:23.000Z"
-    },
-    {
-      "id": "25fee08b394eb9f6fc3d5f7816ae0b5b9c74ce20",
-      "title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
-      "summary": "See how uniopen, a retail platform from Taiwan's Uni-President Enterprises Group, adapted Amazon Nova 2 Lite to its content-moderation policies using supervised fine-tuning in Amazon SageMaker AI and prompt...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-01T15:33:01.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/olmocore3",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "summary": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "link": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-01T15:01:43.000Z"
-    },
-    {
-      "id": "nvidia ai:4722378f6ce9bc2f",
-      "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
-      "summary": "Automatic speech recognition must handle how people actually speak, not only the languages and styles that dominate pretraining data. Regional dialects and... Automatic speech recognition must handle how people actually...",
-      "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-01T05:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:3fb297b1c25c6db3",
-      "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
-      "summary": "Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of... Generative recommender (GR) systems are emerging as a...",
-      "link": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-30T20:54:59.000Z"
-    },
-    {
-      "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-09-30T10:30:00.000Z"
-    },
-    {
-      "id": "xai:4ea5ad07a0d56f40",
-      "title": "Introducing Grok 4.6",
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
-      "link": "https://x.ai/news/grok-4-6",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "6f62e0665479ef5d4ffddb480328d07ce719281b",
-      "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-      "summary": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-30T15:37:15.000Z"
-    },
-    {
-      "id": "37f0383beadfcb1c0bb959bcb5b53ec408457b0c",
-      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-      "summary": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-09-30T15:21:57.000Z"
-    },
-    {
-      "id": "nvidia ai:0060067412cf8f23",
-      "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
-      "summary": "AI infrastructure engineers, storage developers, and cloud service providers need fast and secure access to high-capacity file and object storage to support AI... AI infrastructure engineers, storage developers, and...",
-      "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-30T19:13:02.000Z"
-    },
-    {
-      "id": "nvidia ai:cae77dc6d7044191",
-      "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
-      "summary": "An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching... An agent can finish a task and still take an inefficient...",
-      "link": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-09-30T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-14T05:45:51.529Z"
+  "updatedAt": "2026-10-15T14:49:31.076Z"
 }
