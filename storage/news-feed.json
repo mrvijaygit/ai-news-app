@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-16T01:44:47.000Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
@@ -1790,16 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:41.014Z"
-    },
-    {
-      "id": "6f3957c3db7756d44ae371ed56bdd96fe96046a0",
-      "title": "Introducing GLM 5.3 on Amazon Bedrock",
-      "summary": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-05T23:25:17.000Z"
     }
   ],
-  "updatedAt": "2026-10-16T00:03:11.380Z"
+  "updatedAt": "2026-10-16T05:23:50.287Z"
 }

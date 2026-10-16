@@ -623,7 +623,8 @@
     "cohere:453f406c7e0c7017",
     "cohere:3ac991d0fb118a5c",
     "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "xai:000376eced0f7685"
+    "xai:000376eced0f7685",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
   ],
   "seenAt": {
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/": "2026-08-17T08:38:07.873Z",
@@ -1215,7 +1216,8 @@
     "cohere:453f406c7e0c7017": "2026-10-15T21:14:12.640Z",
     "cohere:3ac991d0fb118a5c": "2026-10-15T21:14:12.640Z",
     "https://openai.com/index/introducing-the-rosalind-academic-plan": "2026-10-16T00:03:11.378Z",
-    "xai:000376eced0f7685": "2026-10-16T00:03:11.378Z"
+    "xai:000376eced0f7685": "2026-10-16T00:03:11.378Z",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T05:23:50.284Z"
   },
-  "updatedAt": "2026-10-16T00:03:11.378Z"
+  "updatedAt": "2026-10-16T05:23:50.284Z"
 }
