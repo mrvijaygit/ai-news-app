@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:6fb78d5fa6c818ae",
     "https://openai.com/index/chatgpt-for-teens",
     "https://huggingface.co/blog/multi-vector-encoder",
     "950b40d5dbbd76bbebf419549700238549cd23fa",
@@ -624,10 +623,11 @@
     "nvidia ai:9e59ed06027e7315",
     "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
     "perplexity ai:27b82b62801a908c",
-    "xai:950769d2f630ca6f"
+    "xai:950769d2f630ca6f",
+    "df0b1ae32a5ba63d5856db229a66706d4090e8ef",
+    "https://openai.com/index/stack-overflow-chatgpt-plugin"
   ],
   "seenAt": {
-    "xai:6fb78d5fa6c818ae": "2026-08-17T20:21:55.127Z",
     "https://openai.com/index/chatgpt-for-teens": "2026-08-18T11:21:21.844Z",
     "https://huggingface.co/blog/multi-vector-encoder": "2026-08-18T14:29:05.279Z",
     "950b40d5dbbd76bbebf419549700238549cd23fa": "2026-08-18T17:22:30.128Z",
@@ -1217,7 +1217,9 @@
     "nvidia ai:9e59ed06027e7315": "2026-10-16T19:15:42.145Z",
     "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7": "2026-10-16T19:15:42.145Z",
     "perplexity ai:27b82b62801a908c": "2026-10-16T19:15:42.145Z",
-    "xai:950769d2f630ca6f": "2026-10-16T19:15:42.145Z"
+    "xai:950769d2f630ca6f": "2026-10-16T19:15:42.145Z",
+    "df0b1ae32a5ba63d5856db229a66706d4090e8ef": "2026-10-16T22:28:36.063Z",
+    "https://openai.com/index/stack-overflow-chatgpt-plugin": "2026-10-16T22:28:36.063Z"
   },
-  "updatedAt": "2026-10-16T19:15:42.145Z"
+  "updatedAt": "2026-10-16T22:28:36.063Z"
 }

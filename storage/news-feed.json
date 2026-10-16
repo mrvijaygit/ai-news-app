@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "df0b1ae32a5ba63d5856db229a66706d4090e8ef",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-16T20:48:16.000Z"
+    },
+    {
       "id": "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
       "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
       "summary": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker...",
@@ -1781,25 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:44.103Z"
-    },
-    {
-      "id": "mistral ai:c9e2b11fd999fc84",
-      "title": "Llm As Rag Judge/",
-      "summary": "Llm As Rag Judge/",
-      "link": "https://mistral.ai/news/llm-as-rag-judge/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:43.845Z"
-    },
-    {
-      "id": "mistral ai:320b12fae45a44e8",
-      "title": "Mistral Medium 3/",
-      "summary": "Mistral Medium 3/",
-      "link": "https://mistral.ai/news/mistral-medium-3/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:43.838Z"
     }
   ],
-  "updatedAt": "2026-10-16T19:15:42.146Z"
+  "updatedAt": "2026-10-16T22:28:36.066Z"
 }
