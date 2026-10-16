@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "summary": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-16T15:23:10.000Z"
+    },
+    {
+      "id": "nvidia ai:9e59ed06027e7315",
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As... AI agents are changing how software gets built....",
+      "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-16T17:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:27b82b62801a908c",
+      "title": "Oct 16, 2026 What is LLM security? How to mitigate the OWASP top 10 safety risks A guide to LLM security that walks thro",
+      "summary": "Oct 16, 2026 What is LLM security? How to mitigate the OWASP top 10 safety risks A guide to LLM security that walks thro",
+      "link": "https://www.perplexity.ai/hub/blog/llm-security",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/reflection-beam",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -1772,34 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:43.838Z"
-    },
-    {
-      "id": "mistral ai:88bbcf372acd86a4",
-      "title": "Agents Api/",
-      "summary": "Agents Api/",
-      "link": "https://mistral.ai/news/agents-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:43.297Z"
-    },
-    {
-      "id": "mistral ai:64879cf7451cd1b1",
-      "title": "Mistral Code/",
-      "summary": "Mistral Code/",
-      "link": "https://mistral.ai/news/mistral-code/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:42.520Z"
-    },
-    {
-      "id": "mistral ai:28fe025c2348d385",
-      "title": "Mistral Compute/",
-      "summary": "Mistral Compute/",
-      "link": "https://mistral.ai/news/mistral-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:42.111Z"
     }
   ],
-  "updatedAt": "2026-10-16T15:09:49.434Z"
+  "updatedAt": "2026-10-16T19:15:42.146Z"
 }

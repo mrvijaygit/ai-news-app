@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "09559dd685a47bca5e3b94a074ceb00bc15d872e",
-    "xai:950769d2f630ca6f",
-    "nvidia ai:d9909f4fdcb8ce93",
-    "260b6c2a8563247ec9062f215bd15158f9de68e8",
     "xai:6fb78d5fa6c818ae",
     "https://openai.com/index/chatgpt-for-teens",
     "https://huggingface.co/blog/multi-vector-encoder",
@@ -624,13 +620,13 @@
     "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "xai:000376eced0f7685",
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "https://huggingface.co/blog/reflection-beam"
+    "https://huggingface.co/blog/reflection-beam",
+    "nvidia ai:9e59ed06027e7315",
+    "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
+    "perplexity ai:27b82b62801a908c",
+    "xai:950769d2f630ca6f"
   ],
   "seenAt": {
-    "09559dd685a47bca5e3b94a074ceb00bc15d872e": "2026-08-17T16:22:10.014Z",
-    "xai:950769d2f630ca6f": "2026-08-17T17:23:29.214Z",
-    "nvidia ai:d9909f4fdcb8ce93": "2026-08-17T18:33:18.078Z",
-    "260b6c2a8563247ec9062f215bd15158f9de68e8": "2026-08-17T18:33:18.078Z",
     "xai:6fb78d5fa6c818ae": "2026-08-17T20:21:55.127Z",
     "https://openai.com/index/chatgpt-for-teens": "2026-08-18T11:21:21.844Z",
     "https://huggingface.co/blog/multi-vector-encoder": "2026-08-18T14:29:05.279Z",
@@ -1217,7 +1213,11 @@
     "https://openai.com/index/introducing-the-rosalind-academic-plan": "2026-10-16T00:03:11.378Z",
     "xai:000376eced0f7685": "2026-10-16T00:03:11.378Z",
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T05:23:50.284Z",
-    "https://huggingface.co/blog/reflection-beam": "2026-10-16T15:09:49.432Z"
+    "https://huggingface.co/blog/reflection-beam": "2026-10-16T15:09:49.432Z",
+    "nvidia ai:9e59ed06027e7315": "2026-10-16T19:15:42.145Z",
+    "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7": "2026-10-16T19:15:42.145Z",
+    "perplexity ai:27b82b62801a908c": "2026-10-16T19:15:42.145Z",
+    "xai:950769d2f630ca6f": "2026-10-16T19:15:42.145Z"
   },
-  "updatedAt": "2026-10-16T15:09:49.432Z"
+  "updatedAt": "2026-10-16T19:15:42.145Z"
 }
