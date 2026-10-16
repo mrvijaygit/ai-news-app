@@ -623,7 +623,8 @@
     "cohere:3ac991d0fb118a5c",
     "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "xai:000376eced0f7685",
-    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "https://huggingface.co/blog/reflection-beam"
   ],
   "seenAt": {
     "09559dd685a47bca5e3b94a074ceb00bc15d872e": "2026-08-17T16:22:10.014Z",
@@ -1215,7 +1216,8 @@
     "cohere:3ac991d0fb118a5c": "2026-10-15T21:14:12.640Z",
     "https://openai.com/index/introducing-the-rosalind-academic-plan": "2026-10-16T00:03:11.378Z",
     "xai:000376eced0f7685": "2026-10-16T00:03:11.378Z",
-    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T05:23:50.284Z"
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T05:23:50.284Z",
+    "https://huggingface.co/blog/reflection-beam": "2026-10-16T15:09:49.432Z"
   },
-  "updatedAt": "2026-10-16T05:23:50.284Z"
+  "updatedAt": "2026-10-16T15:09:49.432Z"
 }

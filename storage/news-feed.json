@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/reflection-beam",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -1790,16 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:42.111Z"
-    },
-    {
-      "id": "mistral ai:e55cfa288f65543f",
-      "title": "Unlocking Potential Vision Language Models Satellite Imagery Fine Tuning/",
-      "summary": "Unlocking Potential Vision Language Models Satellite Imagery Fine Tuning/",
-      "link": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:41.014Z"
     }
   ],
-  "updatedAt": "2026-10-16T05:23:50.287Z"
+  "updatedAt": "2026-10-16T15:09:49.434Z"
 }
