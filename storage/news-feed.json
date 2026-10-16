@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-15T19:00:00.000Z"
+    },
+    {
       "id": "xai:56410469519f91d2",
       "title": "Grok 4.6 in GitHub Copilot",
       "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-10-05T23:25:17.000Z"
-    },
-    {
-      "id": "0cbe16ca98bef589de7fcf6ba5ec623095bdb76d",
-      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-      "summary": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-05T17:25:20.000Z"
     }
   ],
-  "updatedAt": "2026-10-15T21:14:12.642Z"
+  "updatedAt": "2026-10-16T00:03:11.380Z"
 }
