@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:c853a1287bb2aaed",
-    "nvidia ai:751706184f6d58a8",
     "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
     "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
@@ -611,8 +609,6 @@
     "xai:a12dd6a66dd51433"
   ],
   "seenAt": {
-    "nvidia ai:c853a1287bb2aaed": "2026-08-19T18:29:16.309Z",
-    "nvidia ai:751706184f6d58a8": "2026-08-19T18:29:16.309Z",
     "https://openai.com/index/offering-zero-data-retention-for-frontier-models": "2026-08-19T20:22:12.157Z",
     "c8a1920ea27bb2b98220333ddad20cccdbbe4727": "2026-08-19T21:21:15.201Z",
     "77ee46a42e265aa4cd77fe76cd7d06934591ec84": "2026-08-19T22:20:27.866Z",
