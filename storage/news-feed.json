@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589",
+      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+      "summary": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-19T16:49:19.000Z"
+    },
+    {
+      "id": "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074",
+      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+      "summary": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-19T16:23:22.000Z"
+    },
+    {
+      "id": "3be758421ce5b5c9a23f149082c2bc420bfa9905",
+      "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+      "summary": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-19T16:05:17.000Z"
+    },
+    {
+      "id": "02a1dd975b2fff9f32ce315def712a434de65bee",
+      "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+      "summary": "Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed context across turns,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-19T16:03:23.000Z"
+    },
+    {
+      "id": "nvidia ai:763d8f029a51a497",
+      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to... NVIDIA CUDA Tile (cuTile) is a Python-based DSL and...",
+      "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-19T17:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
@@ -1754,52 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:45.689Z"
-    },
-    {
-      "id": "mistral ai:1e4b107f12bf44fc",
-      "title": "Mistral Small 3/",
-      "summary": "Mistral Small 3/",
-      "link": "https://mistral.ai/news/mistral-small-3/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:45.587Z"
-    },
-    {
-      "id": "mistral ai:129532dcb403dcf6",
-      "title": "Agentic Workflows From Meetings To Dev Tickets/",
-      "summary": "Agentic Workflows From Meetings To Dev Tickets/",
-      "link": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:44.751Z"
-    },
-    {
-      "id": "mistral ai:aedb4f2632cd89f2",
-      "title": "Mistral Saba/",
-      "summary": "Mistral Saba/",
-      "link": "https://mistral.ai/news/mistral-saba/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:44.670Z"
-    },
-    {
-      "id": "mistral ai:c722edf1753ba1b7",
-      "title": "Mistral Ocr/",
-      "summary": "Mistral Ocr/",
-      "link": "https://mistral.ai/news/mistral-ocr/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:44.532Z"
-    },
-    {
-      "id": "mistral ai:69443cde5c0cbd89",
-      "title": "Mistral Small 3 1/",
-      "summary": "Mistral Small 3 1/",
-      "link": "https://mistral.ai/news/mistral-small-3-1/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:44.103Z"
     }
   ],
-  "updatedAt": "2026-10-16T22:28:36.066Z"
+  "updatedAt": "2026-10-19T18:58:05.521Z"
 }

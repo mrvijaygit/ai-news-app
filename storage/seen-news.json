@@ -34,13 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "mistral ai:b5c19cec3f97a5b3",
-    "9aa7f20719e8fd485b6ad4d2d63b184663def92d",
-    "52fbb58a12b51e241c558edcf156926f2fb965b3",
-    "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
-    "e458bdc48b55905c2957360d67ec38bc45c8a526",
-    "https://openai.com/index/stampli",
-    "4f766a78e962cad52bb901c5ca408d902b8d04c5",
     "xai:95ae173e613df0d0",
     "https://openai.com/index/introducing-ai-futures",
     "95e4972674e71ff3cec032accfd9935a8cacf472",
@@ -601,16 +594,14 @@
     "xai:950769d2f630ca6f",
     "df0b1ae32a5ba63d5856db229a66706d4090e8ef",
     "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "xai:a12dd6a66dd51433"
+    "xai:a12dd6a66dd51433",
+    "nvidia ai:763d8f029a51a497",
+    "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589",
+    "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074",
+    "3be758421ce5b5c9a23f149082c2bc420bfa9905",
+    "02a1dd975b2fff9f32ce315def712a434de65bee"
   ],
   "seenAt": {
-    "mistral ai:b5c19cec3f97a5b3": "2026-08-20T14:32:05.487Z",
-    "9aa7f20719e8fd485b6ad4d2d63b184663def92d": "2026-08-20T15:29:31.894Z",
-    "52fbb58a12b51e241c558edcf156926f2fb965b3": "2026-08-20T16:30:13.696Z",
-    "d0376fa78aeb5acfd7edb22f7e3658ad0679a620": "2026-08-20T16:30:13.696Z",
-    "e458bdc48b55905c2957360d67ec38bc45c8a526": "2026-08-20T16:30:13.696Z",
-    "https://openai.com/index/stampli": "2026-08-20T16:30:13.696Z",
-    "4f766a78e962cad52bb901c5ca408d902b8d04c5": "2026-08-20T17:24:48.475Z",
     "xai:95ae173e613df0d0": "2026-08-20T19:27:41.576Z",
     "https://openai.com/index/introducing-ai-futures": "2026-08-20T20:23:31.423Z",
     "95e4972674e71ff3cec032accfd9935a8cacf472": "2026-08-20T22:22:35.244Z",
@@ -1171,7 +1162,12 @@
     "xai:950769d2f630ca6f": "2026-10-16T19:15:42.145Z",
     "df0b1ae32a5ba63d5856db229a66706d4090e8ef": "2026-10-16T22:28:36.063Z",
     "https://openai.com/index/stack-overflow-chatgpt-plugin": "2026-10-16T22:28:36.063Z",
-    "xai:a12dd6a66dd51433": "2026-10-18T17:46:57.218Z"
+    "xai:a12dd6a66dd51433": "2026-10-18T17:46:57.218Z",
+    "nvidia ai:763d8f029a51a497": "2026-10-19T18:58:05.470Z",
+    "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589": "2026-10-19T18:58:05.470Z",
+    "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074": "2026-10-19T18:58:05.470Z",
+    "3be758421ce5b5c9a23f149082c2bc420bfa9905": "2026-10-19T18:58:05.470Z",
+    "02a1dd975b2fff9f32ce315def712a434de65bee": "2026-10-19T18:58:05.470Z"
   },
-  "updatedAt": "2026-10-18T17:46:57.218Z"
+  "updatedAt": "2026-10-19T18:58:05.470Z"
 }
