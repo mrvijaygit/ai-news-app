@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/low-resource-programming-languages",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "id": "caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
+      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+      "summary": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-19T21:14:44.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/hf-torchneuron",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "link": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
       "id": "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589",
       "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
       "summary": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as...",
@@ -1772,34 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:46.634Z"
-    },
-    {
-      "id": "mistral ai:638c48b4c1b2b554",
-      "title": "Mixtral 8x22b/",
-      "summary": "Mixtral 8x22b/",
-      "link": "https://mistral.ai/news/mixtral-8x22b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:46.514Z"
-    },
-    {
-      "id": "mistral ai:4d265410542409bf",
-      "title": "Mixtral Of Experts/",
-      "summary": "Mixtral Of Experts/",
-      "link": "https://mistral.ai/news/mixtral-of-experts/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:46.431Z"
-    },
-    {
-      "id": "mistral ai:8aeaa8f3423b58f7",
-      "title": "September 24 Release/",
-      "summary": "September 24 Release/",
-      "link": "https://mistral.ai/news/september-24-release/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:45.689Z"
     }
   ],
-  "updatedAt": "2026-10-19T18:58:05.521Z"
+  "updatedAt": "2026-10-19T22:50:12.676Z"
 }

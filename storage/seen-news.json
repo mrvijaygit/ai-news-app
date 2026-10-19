@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:95ae173e613df0d0",
-    "https://openai.com/index/introducing-ai-futures",
-    "95e4972674e71ff3cec032accfd9935a8cacf472",
-    "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130",
     "perplexity ai:3ef44650da238843",
     "perplexity ai:47d4cda03aede7bf",
     "perplexity ai:fcaed616905a48a4",
@@ -599,13 +595,13 @@
     "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589",
     "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074",
     "3be758421ce5b5c9a23f149082c2bc420bfa9905",
-    "02a1dd975b2fff9f32ce315def712a434de65bee"
+    "02a1dd975b2fff9f32ce315def712a434de65bee",
+    "caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
+    "https://openai.com/index/low-resource-programming-languages",
+    "https://huggingface.co/blog/hf-torchneuron",
+    "xai:95ae173e613df0d0"
   ],
   "seenAt": {
-    "xai:95ae173e613df0d0": "2026-08-20T19:27:41.576Z",
-    "https://openai.com/index/introducing-ai-futures": "2026-08-20T20:23:31.423Z",
-    "95e4972674e71ff3cec032accfd9935a8cacf472": "2026-08-20T22:22:35.244Z",
-    "b4b1b2f1e88dd9dc5407ae1305eefc9e70d6e130": "2026-08-20T22:22:35.244Z",
     "perplexity ai:3ef44650da238843": "2026-08-21T03:54:07.586Z",
     "perplexity ai:47d4cda03aede7bf": "2026-08-21T03:54:07.586Z",
     "perplexity ai:fcaed616905a48a4": "2026-08-21T03:54:07.586Z",
@@ -1167,7 +1163,11 @@
     "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589": "2026-10-19T18:58:05.470Z",
     "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074": "2026-10-19T18:58:05.470Z",
     "3be758421ce5b5c9a23f149082c2bc420bfa9905": "2026-10-19T18:58:05.470Z",
-    "02a1dd975b2fff9f32ce315def712a434de65bee": "2026-10-19T18:58:05.470Z"
+    "02a1dd975b2fff9f32ce315def712a434de65bee": "2026-10-19T18:58:05.470Z",
+    "caf8c9cd8fb47f7d05ebc18e6193092824fb5c28": "2026-10-19T22:50:12.674Z",
+    "https://openai.com/index/low-resource-programming-languages": "2026-10-19T22:50:12.674Z",
+    "https://huggingface.co/blog/hf-torchneuron": "2026-10-19T22:50:12.674Z",
+    "xai:95ae173e613df0d0": "2026-10-19T22:50:12.674Z"
   },
-  "updatedAt": "2026-10-19T18:58:05.470Z"
+  "updatedAt": "2026-10-19T22:50:12.674Z"
 }
