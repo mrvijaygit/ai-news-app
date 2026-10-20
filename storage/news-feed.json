@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
+      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-19T23:32:19.000Z"
+    },
+    {
       "id": "https://openai.com/index/low-resource-programming-languages",
       "title": "Advancing Coding in Low-Resource Programming Languages",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
@@ -1790,16 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:47.150Z"
-    },
-    {
-      "id": "mistral ai:6a93d037f66630dd",
-      "title": "Mistral Nemo/",
-      "summary": "Mistral Nemo/",
-      "link": "https://mistral.ai/news/mistral-nemo/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:46.634Z"
     }
   ],
-  "updatedAt": "2026-10-19T22:50:12.676Z"
+  "updatedAt": "2026-10-20T01:32:01.634Z"
 }
