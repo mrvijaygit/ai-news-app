@@ -1,6 +1,159 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-20T10:00:00.000Z"
+    },
+    {
+      "id": "47fdf366d1959d8569ea858c6045c42e45b756f5",
+      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T17:59:07.000Z"
+    },
+    {
+      "id": "4732e547b3ba87197c5a5faf5d2f273ac726daf1",
+      "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+      "summary": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T17:52:50.000Z"
+    },
+    {
+      "id": "e95a562fb3248db86864f803ae6d83c71f277e90",
+      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+      "summary": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T17:48:27.000Z"
+    },
+    {
+      "id": "71eb785a1fd13603c3885408903f8aca0b20d311",
+      "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+      "summary": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T17:34:04.000Z"
+    },
+    {
+      "id": "64795cdbf69a431d795a47585bec95352a07ed61",
+      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "summary": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T16:42:53.000Z"
+    },
+    {
+      "id": "3a6f4d4b37bd5f432ae64ac9368553ce7e94b9ac",
+      "title": "Discover tools at runtime with AWS Agent Registry",
+      "summary": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T16:22:24.000Z"
+    },
+    {
+      "id": "05547fd2bd22554636c30cf4bb67047887b0d94a",
+      "title": "Securing AI agent identity with X.509 PKI on AWS",
+      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T16:03:48.000Z"
+    },
+    {
+      "id": "d3c3a7c789540007b485ac6f7137782fb5e6c556",
+      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "summary": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T15:57:57.000Z"
+    },
+    {
+      "id": "35a19d20a9faf60985c6eccdb143b93a0781a1a3",
+      "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+      "summary": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T15:39:04.000Z"
+    },
+    {
+      "id": "27b90480a1f289c553a54c263feab25503621afe",
+      "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+      "summary": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T15:36:39.000Z"
+    },
+    {
+      "id": "bd75beff5300c4d9af16336dedefd68e74f7e8fb",
+      "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
+      "summary": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon Bedrock AgentCore through the AtScale MCP server. Identity...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-20T15:33:54.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-20T18:17:47.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/fairstress",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "link": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-20T16:09:19.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-20T15:19:48.000Z"
+    },
+    {
+      "id": "perplexity ai:122f4914f68b1b89",
+      "title": "News Oct 20, 2026 Perplexity Computer now runs fully local on Mac Perplexity Computer runs fully local on Mac: Work acro",
+      "summary": "News Oct 20, 2026 Perplexity Computer now runs fully local on Mac Perplexity Computer runs fully local on Mac: Work acro",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:dd95c9dbf37af6b2",
+      "title": "Oct 20, 2026 What Is an AI Gateway? A Guide to Routing, Cost Control, and Governance for LLM and Agent Traffic An AI gat",
+      "summary": "Oct 20, 2026 What Is an AI Gateway? A Guide to Routing, Cost Control, and Governance for LLM and Agent Traffic An AI gat",
+      "link": "https://www.perplexity.ai/hub/blog/ai-gateway",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
       "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
@@ -1646,160 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:a12dd6a66dd51433",
-      "title": "Grok 4.6 on Amazon Bedrock",
-      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-4-6-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:95ae173e613df0d0",
-      "title": "Grok Build on web and mobile",
-      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
-      "link": "https://x.ai/news/grok-build-for-everyone",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2dff0f87787443f6",
-      "title": "Imagine Video 1.5 with References",
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:dc8d8bf3f50d9717",
-      "title": "Automations in Grok",
-      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
-      "link": "https://x.ai/news/grok-automations",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:61a45589bea1e81d",
-      "title": "Grok Build is Now Open Source",
-      "summary": "Explore the harness behind our coding agent and TUI.",
-      "link": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-05T10:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:f1d8a8627ddacb32",
-      "title": "Mistral X Cloudera/",
-      "summary": "Mistral X Cloudera/",
-      "link": "https://mistral.ai/news/mistral-x-cloudera/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T23:03:43.118Z"
-    },
-    {
-      "id": "mistral ai:8ac0bf5fe5331c20",
-      "title": "Mistral X Mozilla/",
-      "summary": "Mistral X Mozilla/",
-      "link": "https://mistral.ai/news/mistral-x-mozilla/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T23:03:31.719Z"
-    },
-    {
-      "id": "mistral ai:ef2ab53ef7fb6dfe",
-      "title": "About Mistral Ai/",
-      "summary": "About Mistral Ai/",
-      "link": "https://mistral.ai/news/about-mistral-ai/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:50.460Z"
-    },
-    {
-      "id": "mistral ai:e94c8d5bfb13a8fd",
-      "title": "Announcing Mistral 7b/",
-      "summary": "Announcing Mistral 7b/",
-      "link": "https://mistral.ai/news/announcing-mistral-7b/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:50.388Z"
-    },
-    {
-      "id": "mistral ai:b5ca5a2fe909b0fe",
-      "title": "Batch Api/",
-      "summary": "Batch Api/",
-      "link": "https://mistral.ai/news/batch-api/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:49.604Z"
-    },
-    {
-      "id": "mistral ai:769865da65f7c4b1",
-      "title": "Le Chat Mistral/",
-      "summary": "Le Chat Mistral/",
-      "link": "https://mistral.ai/news/le-chat-mistral/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:48.684Z"
-    },
-    {
-      "id": "mistral ai:60dd2920e47e6528",
-      "title": "Mistral Afp/",
-      "summary": "Mistral Afp/",
-      "link": "https://mistral.ai/news/mistral-afp/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:48.016Z"
-    },
-    {
-      "id": "mistral ai:30bef57aaa5e9441",
-      "title": "Mistral Ai Non Production License Mnpl/",
-      "summary": "Mistral Ai Non Production License Mnpl/",
-      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:47.934Z"
-    },
-    {
-      "id": "mistral ai:56d9230fd8d979b0",
-      "title": "Mistral Chat/",
-      "summary": "Mistral Chat/",
-      "link": "https://mistral.ai/news/mistral-chat/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:47.390Z"
-    },
-    {
-      "id": "mistral ai:c97f1145189815ee",
-      "title": "Mistral Large/",
-      "summary": "Mistral Large/",
-      "link": "https://mistral.ai/news/mistral-large/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:47.306Z"
     }
   ],
-  "updatedAt": "2026-10-20T13:17:24.070Z"
+  "updatedAt": "2026-10-20T18:18:07.799Z"
 }
