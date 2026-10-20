@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:5baa701118b2de26",
+      "title": "Oct 20, 2026 Perplexity brings Computer to enterprise infrastructure with Valarian Perplexity and Valarian bring Compute",
+      "summary": "Oct 20, 2026 Perplexity brings Computer to enterprise infrastructure with Valarian Perplexity and Valarian bring Compute",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-brings-computer-to-enterprise-infrastructure-with-valarian",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
       "id": "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
       "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
       "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom...",
@@ -1781,25 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-10-05T16:53:47.306Z"
-    },
-    {
-      "id": "mistral ai:e294a760fff76c34",
-      "title": "Mistral Large 2407/",
-      "summary": "Mistral Large 2407/",
-      "link": "https://mistral.ai/news/mistral-large-2407/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:47.285Z"
-    },
-    {
-      "id": "mistral ai:03fb48dd8cee4a4a",
-      "title": "Mistral Moderation/",
-      "summary": "Mistral Moderation/",
-      "link": "https://mistral.ai/news/mistral-moderation/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-05T16:53:47.150Z"
     }
   ],
-  "updatedAt": "2026-10-20T01:32:01.634Z"
+  "updatedAt": "2026-10-20T13:17:24.070Z"
 }

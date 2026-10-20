@@ -596,7 +596,9 @@
     "https://openai.com/index/low-resource-programming-languages",
     "https://huggingface.co/blog/hf-torchneuron",
     "xai:95ae173e613df0d0",
-    "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50"
+    "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
+    "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "perplexity ai:5baa701118b2de26"
   ],
   "seenAt": {
     "nvidia ai:a1e1014ff8db0597": "2026-08-21T13:41:38.611Z",
@@ -1161,7 +1163,9 @@
     "https://openai.com/index/low-resource-programming-languages": "2026-10-19T22:50:12.674Z",
     "https://huggingface.co/blog/hf-torchneuron": "2026-10-19T22:50:12.674Z",
     "xai:95ae173e613df0d0": "2026-10-19T22:50:12.674Z",
-    "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50": "2026-10-20T01:32:01.460Z"
+    "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50": "2026-10-20T01:32:01.460Z",
+    "https://huggingface.co/blog/anylanguagemodel-1-0": "2026-10-20T13:17:24.068Z",
+    "perplexity ai:5baa701118b2de26": "2026-10-20T13:17:24.068Z"
   },
-  "updatedAt": "2026-10-20T01:32:01.460Z"
+  "updatedAt": "2026-10-20T13:17:24.068Z"
 }
