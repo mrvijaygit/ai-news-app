@@ -617,7 +617,14 @@
     "nvidia ai:10e60a0b812dbca8",
     "nvidia ai:74624e24103f43a0",
     "mistral ai:da76cb5aa6ef49a0",
-    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "54e8299bd0c441c1532fc17ed8f18dacc33ccc0d",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "https://openai.com/index/openai-models-google-cloud",
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "https://openai.com/index/building-chatgpt-ad-stack",
+    "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
   ],
   "seenAt": {
     "xai:8a057b2058898150": "2026-08-24T05:34:33.935Z",
@@ -1203,7 +1210,14 @@
     "nvidia ai:10e60a0b812dbca8": "2026-10-21T12:51:44.711Z",
     "nvidia ai:74624e24103f43a0": "2026-10-21T12:51:44.711Z",
     "mistral ai:da76cb5aa6ef49a0": "2026-10-21T12:51:44.711Z",
-    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/": "2026-10-21T12:51:44.711Z"
+    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/": "2026-10-21T12:51:44.711Z",
+    "54e8299bd0c441c1532fc17ed8f18dacc33ccc0d": "2026-10-21T21:12:34.845Z",
+    "https://huggingface.co/blog/nvidia/kumo-relational": "2026-10-21T21:12:34.845Z",
+    "https://openai.com/index/chatgpt-ads-expands-26-new-countries": "2026-10-21T21:12:34.845Z",
+    "https://openai.com/index/openai-models-google-cloud": "2026-10-21T21:12:34.845Z",
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": "2026-10-21T21:12:34.845Z",
+    "https://openai.com/index/building-chatgpt-ad-stack": "2026-10-21T21:12:34.845Z",
+    "https://openai.com/index/scaling-ai-research-for-complex-biological-data": "2026-10-21T21:12:34.845Z"
   },
-  "updatedAt": "2026-10-21T12:51:44.711Z"
+  "updatedAt": "2026-10-21T21:12:34.845Z"
 }
