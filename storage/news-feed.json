@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:da76cb5aa6ef49a0",
+      "title": "Mistral Nvidia Ai For Industrial Engineering/",
+      "summary": "Mistral Nvidia Ai For Industrial Engineering/",
+      "link": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-21T09:13:14.546Z"
+    },
+    {
+      "id": "nvidia ai:47ced520532d899c",
+      "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+      "summary": "Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino... Protein design is a search problem. Choose amino acids for...",
+      "link": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-21T12:30:00.000Z"
+    },
+    {
+      "id": "nvidia ai:dac2cac424f45985",
+      "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+      "summary": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using... An AI agent can complete its assignment and still cross a...",
+      "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-21T09:52:16.000Z"
+    },
+    {
+      "id": "nvidia ai:d3a3e495c8334324",
+      "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+      "summary": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex... Autonomous agents can work for hours on complex tasks,...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-21T09:50:14.000Z"
+    },
+    {
+      "id": "nvidia ai:10e60a0b812dbca8",
+      "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+      "summary": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams... Building an AI factory digital twin requires developers...",
+      "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-21T09:38:49.000Z"
+    },
+    {
+      "id": "nvidia ai:74624e24103f43a0",
+      "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+      "summary": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,... AI factories turn energy into intelligence. But before an...",
+      "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-21T09:35:32.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-21T12:51:24.000Z"
+    },
+    {
       "id": "https://openai.com/index/terminal-x",
       "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
       "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
@@ -1727,79 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-07T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "title": "Multimodal open d1 decision models for the edge",
-      "summary": "Multimodal open d1 decision models for the edge",
-      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-07T16:54:33.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-07T12:45:31.000Z"
-    },
-    {
-      "id": "https://openai.com/index/jump-trading",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "link": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "id": "xai:5fc7a578f53f17f5",
-      "title": "Designing Grok Bot for a world of persistent agents",
-      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
-      "link": "https://x.ai/news/designing-grok-bot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:39cfa33b8f09da04",
-      "title": "Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:337b3f5c095a2baa",
-      "title": "Grok Build Plugin Marketplace",
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "link": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-21T01:14:47.599Z"
+  "updatedAt": "2026-10-21T12:51:44.713Z"
 }
