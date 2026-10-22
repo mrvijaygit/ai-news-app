@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "34e5ea1686b4ddadf422c6b8da002f20b620869c",
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "summary": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-21T23:38:38.000Z"
+    },
+    {
+      "id": "592e790776f1a784bac6fdbee94e1681b38d082b",
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "summary": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-21T23:36:47.000Z"
+    },
+    {
+      "id": "bc3c26fa1b9f32217f78b6ea7dade55d7572f14d",
+      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "summary": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-21T21:23:26.000Z"
+    },
+    {
       "id": "https://openai.com/index/openai-models-google-cloud",
       "title": "OpenAI models are coming to Google Cloud",
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
@@ -1745,61 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-07T16:00:00.000Z"
-    },
-    {
-      "id": "cohere:281bd6b6d3690315",
-      "title": "Introducing North 2",
-      "summary": "Introducing North 2",
-      "link": "https://cohere.com/blog/introducing-north-2",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "anthropic:a567552a2860409d",
-      "title": "Expanding the Cyber Verification Program",
-      "summary": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "link": "https://www.anthropic.com/news/cyber-verification-program",
-      "source": "Anthropic News",
-      "company": "Anthropic",
-      "publishedAt": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:07ef94a8ea52c8cf",
-      "title": "Regional Inference Open Models New Compute/",
-      "summary": "Regional Inference Open Models New Compute/",
-      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-07T13:21:06.062Z"
-    },
-    {
-      "id": "mistral ai:c0a8561f7e103489",
-      "title": "Mistral Large 4/",
-      "summary": "Mistral Large 4/",
-      "link": "https://mistral.ai/news/mistral-large-4/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-07T09:16:14.087Z"
     }
   ],
-  "updatedAt": "2026-10-21T21:12:34.848Z"
+  "updatedAt": "2026-10-22T00:24:39.084Z"
 }
