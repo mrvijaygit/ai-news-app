@@ -644,7 +644,8 @@
     "https://openai.com/index/uber-chatgpt-work-rollout",
     "xai:837b362f8e0610c4",
     "perplexity ai:1ee40064c610c618",
-    "xai:2517241f707dd2a2"
+    "xai:2517241f707dd2a2",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training"
   ],
   "seenAt": {
     "xai:8a057b2058898150": "2026-08-24T05:34:33.935Z",
@@ -1257,7 +1258,8 @@
     "https://openai.com/index/uber-chatgpt-work-rollout": "2026-10-22T20:24:22.988Z",
     "xai:837b362f8e0610c4": "2026-10-22T20:24:22.988Z",
     "perplexity ai:1ee40064c610c618": "2026-10-22T20:24:22.988Z",
-    "xai:2517241f707dd2a2": "2026-10-22T20:24:22.988Z"
+    "xai:2517241f707dd2a2": "2026-10-22T20:24:22.988Z",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-22T23:52:03.703Z"
   },
-  "updatedAt": "2026-10-22T20:24:22.988Z"
+  "updatedAt": "2026-10-22T23:52:03.703Z"
 }
