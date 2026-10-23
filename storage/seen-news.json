@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "mistral ai:c6e70c2320f06dc7",
-    "xai:406de15113b3310a",
-    "1869206df2363735c9e3340493ba659c7c99406b",
-    "https://openai.com/index/gpt-5-6-in-kiro",
     "mistral ai:4aae3865b9f776ff",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
@@ -643,13 +639,14 @@
     "nvidia ai:2b863e1f0b9fde6b",
     "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "b1f9be62942b6b77e09ee44eda01d25e5a58cfc4",
-    "nvidia ai:cb9eeb4be2b4ab47"
+    "nvidia ai:cb9eeb4be2b4ab47",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "cohere:233545f3c85b043a",
+    "cohere:a41777412c6b94d7",
+    "cohere:f1ca3e6774e1f3c0",
+    "xai:406de15113b3310a"
   ],
   "seenAt": {
-    "mistral ai:c6e70c2320f06dc7": "2026-08-24T19:25:41.124Z",
-    "xai:406de15113b3310a": "2026-08-24T19:25:41.124Z",
-    "1869206df2363735c9e3340493ba659c7c99406b": "2026-08-24T20:25:26.880Z",
-    "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T20:25:26.880Z",
     "mistral ai:4aae3865b9f776ff": "2026-08-25T08:37:16.659Z",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-25T12:40:08.432Z",
     "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-25T15:38:19.175Z",
@@ -1255,7 +1252,12 @@
     "nvidia ai:2b863e1f0b9fde6b": "2026-10-23T18:52:20.970Z",
     "https://openai.com/index/scaling-storage-one-billion-users-part-two": "2026-10-23T18:52:20.970Z",
     "b1f9be62942b6b77e09ee44eda01d25e5a58cfc4": "2026-10-23T18:52:20.970Z",
-    "nvidia ai:cb9eeb4be2b4ab47": "2026-10-23T18:52:20.970Z"
+    "nvidia ai:cb9eeb4be2b4ab47": "2026-10-23T18:52:20.970Z",
+    "https://openai.com/index/securing-our-frontier-model-training-environment": "2026-10-23T21:49:53.108Z",
+    "cohere:233545f3c85b043a": "2026-10-23T21:49:53.108Z",
+    "cohere:a41777412c6b94d7": "2026-10-23T21:49:53.108Z",
+    "cohere:f1ca3e6774e1f3c0": "2026-10-23T21:49:53.108Z",
+    "xai:406de15113b3310a": "2026-10-23T21:49:53.108Z"
   },
-  "updatedAt": "2026-10-23T18:52:20.970Z"
+  "updatedAt": "2026-10-23T21:49:53.108Z"
 }

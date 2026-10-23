@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-23T10:00:00.000Z"
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Speech to Speech APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "cohere:233545f3c85b043a",
+      "title": "Introducing Confidential Computing On Cohere Model Vault",
+      "summary": "Introducing Confidential Computing On Cohere Model Vault",
+      "link": "https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:a41777412c6b94d7",
+      "title": "Cohere And Aisle Sign Letter Of Intent To Advance Cyber Resilient Sovereign Ai",
+      "summary": "Cohere And Aisle Sign Letter Of Intent To Advance Cyber Resilient Sovereign Ai",
+      "link": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:f1ca3e6774e1f3c0",
+      "title": "Inside Cohere Model Vault Building Verifiable Confidential Ai Inference",
+      "summary": "Inside Cohere Model Vault Building Verifiable Confidential Ai Inference",
+      "link": "https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:8ed876cc63c6ba10",
-      "title": "Bringing Grok to Everyone",
-      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-1212",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:8202d17660c6b5b4",
-      "title": "Introducing The X Subscription",
-      "summary": "Introducing The X Subscription",
-      "link": "https://x.ai/news/x-subscription",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": "2026-10-12T00:00:00.000Z"
-    },
-    {
-      "id": "xai:f71d88029bf9681b",
-      "title": "Memory in Grok Build",
-      "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
-      "link": "https://x.ai/news/grok-build-memory",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a795c67928ea0c3a",
-      "title": "21 New Flagship Grok Voices",
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
-      "link": "https://x.ai/news/new-flagship-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6dad33007ff48b3f",
-      "title": "Agent Dashboard in Grok Build",
-      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
-      "link": "https://x.ai/news/agent-dashboard",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-23T18:52:20.972Z"
+  "updatedAt": "2026-10-23T21:49:53.110Z"
 }
