@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:a1d169f8fe12702e",
+      "title": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
+      "summary": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
+      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:f5eec09fcb832980",
       "title": "Series B funding round",
       "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-12T16:00:54.000Z"
-    },
-    {
-      "id": "perplexity ai:5ba83b06e00500b3",
-      "title": "Research Oct 7, 2026 Multimodal embeddings beyond a single vector A new family of late-interaction models for text and i",
-      "summary": "Research Oct 7, 2026 Multimodal embeddings beyond a single vector A new family of late-interaction models for text and i",
-      "link": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:5aadd7a1a5de61dd",
-      "title": "News Oct 1, 2026 Perplexity and American Express make AI easier for growing businesses Discover 10 business Skills from ",
-      "summary": "News Oct 1, 2026 Perplexity and American Express make AI easier for growing businesses Discover 10 business Skills from",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-and-american-express-make-ai-easier-for-growing-businesses",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:9de0875736bd3021",
-      "title": "Ideas Sep 29, 2026 How we engineer safer agents Layered safeguards, independent monitoring, and human oversight across P",
-      "summary": "Ideas Sep 29, 2026 How we engineer safer agents Layered safeguards, independent monitoring, and human oversight across P",
-      "link": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-23T09:04:04.063Z"
+  "updatedAt": "2026-10-23T14:38:42.336Z"
 }

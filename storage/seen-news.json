@@ -644,7 +644,8 @@
     "xai:837b362f8e0610c4",
     "perplexity ai:1ee40064c610c618",
     "xai:2517241f707dd2a2",
-    "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/torch-neuronx-model-support"
   ],
   "seenAt": {
     "nvidia ai:19d11fc90536e14b": "2026-08-24T15:35:25.861Z",
@@ -1257,7 +1258,8 @@
     "xai:837b362f8e0610c4": "2026-10-22T20:24:22.988Z",
     "perplexity ai:1ee40064c610c618": "2026-10-22T20:24:22.988Z",
     "xai:2517241f707dd2a2": "2026-10-22T20:24:22.988Z",
-    "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-22T23:52:03.703Z"
+    "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-22T23:52:03.703Z",
+    "https://huggingface.co/blog/torch-neuronx-model-support": "2026-10-23T14:38:42.333Z"
   },
-  "updatedAt": "2026-10-22T23:52:03.703Z"
+  "updatedAt": "2026-10-23T14:38:42.333Z"
 }
