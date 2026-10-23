@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9689f95a1df38884",
+      "title": "Grok-1.5 Vision Preview",
+      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
+      "link": "https://x.ai/news/grok-1.5v",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f58ce5a98926f521",
+      "title": "Announcing Grok-1.5",
+      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
+      "link": "https://x.ai/news/grok-1.5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:0df93d3f276c36ce",
       "title": "Setting Grok Bot loose on procurement",
       "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
@@ -1772,34 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:0c51029b60d02743",
-      "title": "News Sep 29, 2026 Computer adds Automations for ongoing work Schedule tasks or trigger them with events in Perplexity Co",
-      "summary": "News Sep 29, 2026 Computer adds Automations for ongoing work Schedule tasks or trigger them with events in Perplexity Co",
-      "link": "https://www.perplexity.ai/hub/blog/computer-adds-automations-for-ongoing-work",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:a1d169f8fe12702e",
-      "title": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
-      "summary": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
-      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-23T03:14:46.026Z"
+  "updatedAt": "2026-10-23T09:04:04.063Z"
 }

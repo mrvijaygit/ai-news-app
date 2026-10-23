@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:8a057b2058898150",
     "nvidia ai:19d11fc90536e14b",
     "nvidia ai:6499f514e07c6d71",
     "nvidia ai:c29bd3fc88cdb040",
@@ -648,7 +647,6 @@
     "https://huggingface.co/blog/microsoft/thinkingbox-training"
   ],
   "seenAt": {
-    "xai:8a057b2058898150": "2026-08-24T05:34:33.935Z",
     "nvidia ai:19d11fc90536e14b": "2026-08-24T15:35:25.861Z",
     "nvidia ai:6499f514e07c6d71": "2026-08-24T15:35:25.861Z",
     "nvidia ai:c29bd3fc88cdb040": "2026-08-24T15:35:25.861Z",
