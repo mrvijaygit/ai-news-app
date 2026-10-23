@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "id": "d4a0021627e124e1cbf32bd2a1426e1abfda6b33",
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-23T17:48:54.000Z"
+    },
+    {
+      "id": "b1f9be62942b6b77e09ee44eda01d25e5a58cfc4",
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "summary": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform....",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-23T16:21:36.000Z"
+    },
+    {
+      "id": "nvidia ai:d93b809b8dea2a07",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "summary": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and... The Global Performance Tuner is a feature for automatic...",
+      "link": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-23T17:27:52.000Z"
+    },
+    {
+      "id": "nvidia ai:2b863e1f0b9fde6b",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+      "summary": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For... Deploying a trained neural network involves more than...",
+      "link": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-23T17:27:35.000Z"
+    },
+    {
+      "id": "nvidia ai:cb9eeb4be2b4ab47",
+      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "summary": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions... Teaching a robot to navigate an obstacle course...",
+      "link": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-23T14:58:32.000Z"
+    },
+    {
+      "id": "perplexity ai:9de0875736bd3021",
+      "title": "Ideas Sep 29, 2026 How we engineer safer agents Layered safeguards, independent monitoring, and human oversight across P",
+      "summary": "Ideas Sep 29, 2026 How we engineer safer agents Layered safeguards, independent monitoring, and human oversight across P",
+      "link": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:3e11ccf07939781a",
       "title": "Grok-2 Beta Release",
       "summary": "We announce our new Grok-2 and Grok-2 mini models.",
@@ -1736,70 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:11603bc1501a6e92",
-      "title": "Custom Voices",
-      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.",
-      "link": "https://x.ai/news/grok-custom-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:653374155ddf34e4",
-      "title": "API Public Beta",
-      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
-      "link": "https://x.ai/news/api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "e20b8171cff84e878ab96622856dfe3f22a41ff0",
-      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "summary": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-12T17:52:22.000Z"
-    },
-    {
-      "id": "perplexity ai:7e60d6ae07225569",
-      "title": "Oct 12, 2026 Building shared workspaces for people and agents How Perplexity Projects keep long-running work persistent,",
-      "summary": "Oct 12, 2026 Building shared workspaces for people and agents How Perplexity Projects keep long-running work persistent,",
-      "link": "https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-12T00:00:00.000Z"
-    },
-    {
-      "id": "f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3",
-      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "summary": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-12T15:51:46.000Z"
-    },
-    {
-      "id": "b4bf8b1e23545b34c9db567b51d0eb1551605184",
-      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "summary": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-12T15:50:14.000Z"
-    },
-    {
-      "id": "nvidia ai:7cfc5f6538eec296",
-      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
-      "summary": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are... Hybrid models interleave state-space model (SSM) layers...",
-      "link": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-12T16:00:54.000Z"
     }
   ],
-  "updatedAt": "2026-10-23T14:38:42.336Z"
+  "updatedAt": "2026-10-23T18:52:20.972Z"
 }
