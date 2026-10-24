@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:01e3b8304d8cac5f",
+      "title": "Announcing xAI for Government",
+      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+      "link": "https://x.ai/news/government",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:0b42cd3858907903",
+      "title": "Grok 4",
+      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
+      "link": "https://x.ai/news/grok-4",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5a8f9dcef91affc",
+      "title": "Grok 3 Beta — The Age of Reasoning Agents",
+      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+      "link": "https://x.ai/news/grok-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2eb1be0eab97116d",
+      "title": "xAI raises $6B Series C",
+      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+      "link": "https://x.ai/news/series-c",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:f71d88029bf9681b",
       "title": "Memory in Grok Build",
       "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
@@ -1763,43 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-10-13T16:03:31.000Z"
-    },
-    {
-      "id": "925aef534e91c4fa81028a17497d83107c32ab6e",
-      "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-      "summary": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message screenshots, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-13T15:54:49.000Z"
-    },
-    {
-      "id": "57fb1aeaa95150736b7378dbd28aa9e97e0d4632",
-      "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-      "summary": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-13T15:52:20.000Z"
-    },
-    {
-      "id": "a36fde525cae2db63b1b86626409e8ab9462e559",
-      "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
-      "summary": "AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-13T15:17:09.000Z"
-    },
-    {
-      "id": "nvidia ai:1a977e9ff505bc40",
-      "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-      "summary": "Today, NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to... Today, NVIDIA is making the full NVIDIA Run:ai platform...",
-      "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-13T14:19:40.000Z"
     }
   ],
-  "updatedAt": "2026-10-24T00:14:17.321Z"
+  "updatedAt": "2026-10-24T05:21:20.231Z"
 }
