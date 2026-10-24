@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "mistral ai:4aae3865b9f776ff",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "nvidia ai:021df393d0749fc1",
@@ -647,7 +646,6 @@
     "xai:406de15113b3310a"
   ],
   "seenAt": {
-    "mistral ai:4aae3865b9f776ff": "2026-08-25T08:37:16.659Z",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-25T12:40:08.432Z",
     "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-25T15:38:19.175Z",
     "nvidia ai:021df393d0749fc1": "2026-08-25T15:38:19.175Z",
