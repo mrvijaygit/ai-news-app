@@ -621,7 +621,12 @@
     "xai:406de15113b3310a",
     "xai:3ab5a13705050098",
     "nvidia ai:a2dd141a62b62bd5",
-    "nvidia ai:e3e5ad1175647fa2"
+    "nvidia ai:e3e5ad1175647fa2",
+    "24d8d5b36e78caf18670ef6d83892be19ec25356",
+    "de80c503415138bb46de169401d016e12857bb15",
+    "5e1286dfb4f90dcf4a044cccd75a633bcf5c972a",
+    "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "https://openai.com/index/introducing-gpt-6-1-terra"
   ],
   "seenAt": {
     "3c57691eafa2d6c582d04d51debd371df1ea818e": "2026-08-27T23:32:37.581Z",
@@ -1211,7 +1216,12 @@
     "xai:406de15113b3310a": "2026-10-23T21:49:53.108Z",
     "xai:3ab5a13705050098": "2026-10-26T03:03:00.456Z",
     "nvidia ai:a2dd141a62b62bd5": "2026-10-26T16:26:49.599Z",
-    "nvidia ai:e3e5ad1175647fa2": "2026-10-26T16:26:49.599Z"
+    "nvidia ai:e3e5ad1175647fa2": "2026-10-26T16:26:49.599Z",
+    "24d8d5b36e78caf18670ef6d83892be19ec25356": "2026-10-26T21:18:33.093Z",
+    "de80c503415138bb46de169401d016e12857bb15": "2026-10-26T21:18:33.093Z",
+    "5e1286dfb4f90dcf4a044cccd75a633bcf5c972a": "2026-10-26T21:18:33.093Z",
+    "https://openai.com/index/chatgpt-expanding-world-of-work": "2026-10-26T21:18:33.093Z",
+    "https://openai.com/index/introducing-gpt-6-1-terra": "2026-10-26T21:18:33.093Z"
   },
-  "updatedAt": "2026-10-26T16:26:49.599Z"
+  "updatedAt": "2026-10-26T21:18:33.093Z"
 }

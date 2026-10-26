@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-26T10:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "24d8d5b36e78caf18670ef6d83892be19ec25356",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "summary": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-26T17:56:58.000Z"
+    },
+    {
+      "id": "de80c503415138bb46de169401d016e12857bb15",
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "summary": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-26T17:27:20.000Z"
+    },
+    {
+      "id": "5e1286dfb4f90dcf4a044cccd75a633bcf5c972a",
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "summary": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-26T17:15:14.000Z"
+    },
+    {
       "id": "nvidia ai:a2dd141a62b62bd5",
       "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
       "summary": "AI Factories are some of the most technologically complex operational environments ever created. Hundreds of thousands of GPUs, NVIDIA Spectrum-X Ethernet... AI Factories are some of the most technologically complex...",
@@ -1754,52 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-13T21:33:21.000Z"
-    },
-    {
-      "id": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-10-13T16:00:00.000Z"
-    },
-    {
-      "id": "xai:792ef6ba62d36e10",
-      "title": "Expanding xAI for Government with GSA OneGov",
-      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
-      "link": "https://x.ai/news/onegov",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:349feed19ac68219",
-      "title": "Grok 4 Fast",
-      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
-      "link": "https://x.ai/news/grok-4-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:07bfdcfb3e2da3ae",
-      "title": "Grok Code Fast 1",
-      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
-      "link": "https://x.ai/news/grok-code-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-26T16:26:49.602Z"
+  "updatedAt": "2026-10-26T21:18:33.095Z"
 }
