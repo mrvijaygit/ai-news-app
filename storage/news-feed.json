@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "nvidia ai:a2dd141a62b62bd5",
+      "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+      "summary": "AI Factories are some of the most technologically complex operational environments ever created. Hundreds of thousands of GPUs, NVIDIA Spectrum-X Ethernet... AI Factories are some of the most technologically complex...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:e3e5ad1175647fa2",
+      "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+      "summary": "Training large-scale AI models on thousands of GPUs is a high-stakes operation where monitoring and automation must be built-in to optimize cluster resiliency... Training large-scale AI models on thousands of GPUs is a...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-26T15:00:00.000Z"
+    },
+    {
       "id": "xai:01e3b8304d8cac5f",
       "title": "Announcing xAI for Government",
       "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "96270fda2506ac4609e9172e331312d358ae21d1",
-      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "summary": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-13T17:17:25.000Z"
-    },
-    {
-      "id": "ab143ebe8db2864cd1a1dc85aca1d8077f428d42",
-      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
-      "summary": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-13T16:03:31.000Z"
     }
   ],
-  "updatedAt": "2026-10-24T05:21:20.231Z"
+  "updatedAt": "2026-10-26T16:26:49.602Z"
 }
