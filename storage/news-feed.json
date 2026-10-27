@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:e0e2c8f7889b9ed7",
+      "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
+      "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
+      "link": "https://x.ai/news/el-salvador-partnership",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e8261a0b7d99f9",
+      "title": "Grok 4.1 Fast and Agent Tools API",
+      "summary": "Bringing the next generation of tool-calling agents to the xAI API",
+      "link": "https://x.ai/news/grok-4-1-fast",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:03b62e9ad296bc89",
+      "title": "Grok goes Global with KSA",
+      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
+      "link": "https://x.ai/news/grok-goes-global",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cb89379e9df365fb",
+      "title": "Grok 4.1",
+      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
+      "link": "https://x.ai/news/grok-4-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/greptile-code-review-codex-astra",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:c8e543b0022f670e",
-      "title": "Use Grok in Warp",
-      "summary": "Use your Grok and X Premium subscription inside Warp.",
-      "link": "https://x.ai/news/grok-warp",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ca490edf223f2ebf",
-      "title": "Grok Collections API",
-      "summary": "State-of-the-art RAG system built directly into our API.",
-      "link": "https://x.ai/news/grok-collections-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:1fb88c3b251902a2",
-      "title": "Supporting the DOW's mission with AI",
-      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
-      "link": "https://x.ai/news/us-gov-dept-of-war",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3a1d72b884b69902",
-      "title": "Grok Voice Agent API",
-      "summary": "Bringing the power of Grok Voice to all developers.",
-      "link": "https://x.ai/news/grok-voice-agent-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-27T01:04:50.307Z"
+  "updatedAt": "2026-10-27T07:14:36.345Z"
 }
