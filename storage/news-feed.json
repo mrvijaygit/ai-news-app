@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "xai:c8e543b0022f670e",
+      "title": "Use Grok in Warp",
+      "summary": "Use your Grok and X Premium subscription inside Warp.",
+      "link": "https://x.ai/news/grok-warp",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ca490edf223f2ebf",
+      "title": "Grok Collections API",
+      "summary": "State-of-the-art RAG system built directly into our API.",
+      "link": "https://x.ai/news/grok-collections-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1fb88c3b251902a2",
+      "title": "Supporting the DOW's mission with AI",
+      "summary": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
+      "link": "https://x.ai/news/us-gov-dept-of-war",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3a1d72b884b69902",
+      "title": "Grok Voice Agent API",
+      "summary": "Bringing the power of Grok Voice to all developers.",
+      "link": "https://x.ai/news/grok-voice-agent-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:e0e2c8f7889b9ed7",
       "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
       "summary": "Announcing Our Transformative Partnership with the Government of El Salvador.",
@@ -1763,43 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:dc4c15bc25a49149",
-      "title": "Introducing Grok Business and Grok Enterprise",
-      "summary": "The best assistant in the world is now Enterprise ready.",
-      "link": "https://x.ai/news/grok-business",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3ab5a13705050098",
-      "title": "Grok 4.6 on Microsoft Foundry",
-      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
-      "link": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:61ce3268fb7b0eb4",
-      "title": "Introducing Grok Bot",
-      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
-      "link": "https://x.ai/news/introducing-grok-bot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:13a5a3be6d8e7c4c",
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
-      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
-      "link": "https://x.ai/news/grok-4-5-everywhere",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-27T07:14:36.345Z"
+  "updatedAt": "2026-10-27T13:54:56.133Z"
 }
