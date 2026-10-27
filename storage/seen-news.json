@@ -624,7 +624,19 @@
     "https://openai.com/index/introducing-gpt-6-1-terra",
     "https://openai.com/index/greptile-code-review-codex-astra",
     "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "https://huggingface.co/blog/LiquidAI/lfm3",
+    "4fef4e2052ceafe5be77506f74414eb6efbd5cd7",
+    "nvidia ai:307aa7818a0e30ff",
+    "2d980147c58e5ff4accadbbed4d31bf94e438c61",
+    "1e1c377670e004fec0787c3710e67b118ba3c87f",
+    "https://huggingface.co/blog/allenai/novelty-bench",
+    "nvidia ai:02ef29172caa0e62",
+    "nvidia ai:a2a8f9b65c832a0c",
+    "https://openai.com/index/oracle-apps-in-chatgpt",
+    "xai:baa124cdb1a14d9b",
+    "perplexity ai:242917013d3d302e",
+    "xai:1f5db63d6e074558"
   ],
   "seenAt": {
     "ac351c6a258d9c6b09e4e26e7198133fc26a60a3": "2026-08-28T20:40:42.292Z",
@@ -1217,7 +1229,19 @@
     "https://openai.com/index/introducing-gpt-6-1-terra": "2026-10-26T21:18:33.093Z",
     "https://openai.com/index/greptile-code-review-codex-astra": "2026-10-27T01:04:50.304Z",
     "https://openai.com/index/building-scientific-understanding-with-academic-communities": "2026-10-27T01:04:50.304Z",
-    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": "2026-10-27T01:04:50.304Z"
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": "2026-10-27T01:04:50.304Z",
+    "https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-27T19:12:09.007Z",
+    "4fef4e2052ceafe5be77506f74414eb6efbd5cd7": "2026-10-27T19:12:09.007Z",
+    "nvidia ai:307aa7818a0e30ff": "2026-10-27T19:12:09.007Z",
+    "2d980147c58e5ff4accadbbed4d31bf94e438c61": "2026-10-27T19:12:09.007Z",
+    "1e1c377670e004fec0787c3710e67b118ba3c87f": "2026-10-27T19:12:09.007Z",
+    "https://huggingface.co/blog/allenai/novelty-bench": "2026-10-27T19:12:09.007Z",
+    "nvidia ai:02ef29172caa0e62": "2026-10-27T19:12:09.007Z",
+    "nvidia ai:a2a8f9b65c832a0c": "2026-10-27T19:12:09.007Z",
+    "https://openai.com/index/oracle-apps-in-chatgpt": "2026-10-27T19:12:09.007Z",
+    "xai:baa124cdb1a14d9b": "2026-10-27T19:12:09.007Z",
+    "perplexity ai:242917013d3d302e": "2026-10-27T19:12:09.007Z",
+    "xai:1f5db63d6e074558": "2026-10-27T19:12:09.007Z"
   },
-  "updatedAt": "2026-10-27T01:04:50.304Z"
+  "updatedAt": "2026-10-27T19:12:09.007Z"
 }
