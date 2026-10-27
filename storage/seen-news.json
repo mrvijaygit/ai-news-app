@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "3c57691eafa2d6c582d04d51debd371df1ea818e",
-    "a396074812fe8a0090f88e23aed4ff7add4538d3",
-    "61ebfd4bb75d20f4c4d64b731c1e86a4ebed0031",
-    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "anthropic:86e159653d16bcd7",
     "ac351c6a258d9c6b09e4e26e7198133fc26a60a3",
     "nvidia ai:a7b460648e6edcc8",
     "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278",
@@ -626,14 +621,12 @@
     "de80c503415138bb46de169401d016e12857bb15",
     "5e1286dfb4f90dcf4a044cccd75a633bcf5c972a",
     "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "https://openai.com/index/introducing-gpt-6-1-terra"
+    "https://openai.com/index/introducing-gpt-6-1-terra",
+    "https://openai.com/index/greptile-code-review-codex-astra",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
   ],
   "seenAt": {
-    "3c57691eafa2d6c582d04d51debd371df1ea818e": "2026-08-27T23:32:37.581Z",
-    "a396074812fe8a0090f88e23aed4ff7add4538d3": "2026-08-27T23:32:37.581Z",
-    "61ebfd4bb75d20f4c4d64b731c1e86a4ebed0031": "2026-08-27T23:32:37.581Z",
-    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": "2026-08-27T23:32:37.581Z",
-    "anthropic:86e159653d16bcd7": "2026-08-27T23:32:37.581Z",
     "ac351c6a258d9c6b09e4e26e7198133fc26a60a3": "2026-08-28T20:40:42.292Z",
     "nvidia ai:a7b460648e6edcc8": "2026-08-28T20:40:42.292Z",
     "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278": "2026-08-28T20:40:42.292Z",
@@ -1221,7 +1214,10 @@
     "de80c503415138bb46de169401d016e12857bb15": "2026-10-26T21:18:33.093Z",
     "5e1286dfb4f90dcf4a044cccd75a633bcf5c972a": "2026-10-26T21:18:33.093Z",
     "https://openai.com/index/chatgpt-expanding-world-of-work": "2026-10-26T21:18:33.093Z",
-    "https://openai.com/index/introducing-gpt-6-1-terra": "2026-10-26T21:18:33.093Z"
+    "https://openai.com/index/introducing-gpt-6-1-terra": "2026-10-26T21:18:33.093Z",
+    "https://openai.com/index/greptile-code-review-codex-astra": "2026-10-27T01:04:50.304Z",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": "2026-10-27T01:04:50.304Z",
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": "2026-10-27T01:04:50.304Z"
   },
-  "updatedAt": "2026-10-26T21:18:33.093Z"
+  "updatedAt": "2026-10-27T01:04:50.304Z"
 }
