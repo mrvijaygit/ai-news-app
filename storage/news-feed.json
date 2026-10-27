@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/retell-ai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "link": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-27T15:00:00.000Z"
+    },
+    {
+      "id": "xai:f48d7b7c6e59faeb",
+      "title": "Use Grok in OpenClaw",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
+      "link": "https://x.ai/news/grok-openclaw",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a1e6fcd31f7e65d4",
+      "title": "Skills in web, iOS, and Android",
+      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
+      "link": "https://x.ai/news/grok-skills",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4de6c4fbb944a39a",
+      "title": "Connect Grok to Hermes Agent",
+      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2a3af01c46c0903e",
+      "title": "Connectors in web, iOS, and Android",
+      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:b6d4ab19daa61b89",
+      "title": "Grok Imagine Quality Mode API",
+      "summary": "Higher realism. Stronger text rendering. Better creative control.",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:533a462be2cea991",
+      "title": "Grok Speech to Text and Text to Speech APIs",
+      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
+      "link": "https://x.ai/news/grok-stt-and-tts-apis",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:cf57fe0bf7fb2ed6",
+      "title": "xAI joins SpaceX",
+      "summary": "SpaceX announced today that it has acquired xAI.",
+      "link": "https://x.ai/news/xai-joins-spacex",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6bb0a0c96a2a6ec2",
+      "title": "Grok Imagine API",
+      "summary": "State-of-the-art video generation across quality, cost, and latency.",
+      "link": "https://x.ai/news/grok-imagine-api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:10e73b074ce809ee",
+      "title": "xAI Raises $20B Series E",
+      "summary": "xAI is rapidly accelerating its progress in building advanced AI.",
+      "link": "https://x.ai/news/series-e",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "nvidia ai:1f1c84958f046dfa",
+      "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+      "summary": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads... Many AI workloads need only a fraction of a GPU. Giving...",
+      "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-27T20:50:39.000Z"
+    },
+    {
+      "id": "cohere:b40426f5199fbbc1",
+      "title": "Concerning Behaviour Popular Open Weight Ai Model",
+      "summary": "Concerning Behaviour Popular Open Weight Ai Model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:0b5e9b5a041d9306",
+      "title": "Inside Cohere Model Vault Building Verifiable Confidential Ai Inference",
+      "summary": "Inside Cohere Model Vault Building Verifiable Confidential Ai Inference",
+      "link": "https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/oracle-apps-in-chatgpt",
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
@@ -1682,124 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:24ade0b14d4bf922",
-      "title": "Workflows in Grok Build",
-      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
-      "link": "https://x.ai/news/workflows",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:764b42fb7740a988",
-      "title": "Introducing Grok 4.5",
-      "summary": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
-      "link": "https://x.ai/news/grok-4-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ab219090a4ec5ef2",
-      "title": "Grok Imagine Video 1.5",
-      "summary": "Improved quality at even faster speeds.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ae67cdc2e5ac21a4",
-      "title": "Grok Build 0.1 on API",
-      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
-      "link": "https://x.ai/news/grok-build-0-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:202301d15429884f",
-      "title": "Use Grok in Kilo Code",
-      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
-      "link": "https://x.ai/news/grok-kilocode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9d5659da9528b35d",
-      "title": "Introducing Grok Build",
-      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
-      "link": "https://x.ai/news/grok-build-cli",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fee1e6ce5633dfad",
-      "title": "Use Grok in OpenCode",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fd568373c89a8554",
-      "title": "Grok Voice 1.0",
-      "summary": "Our most capable voice agent is now available via API.",
-      "link": "https://x.ai/news/grok-voice-think-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "e171b39a3994cf60cede0f83b63b3eeb1990c5b0",
-      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "summary": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-14T16:24:07.000Z"
-    },
-    {
-      "id": "d7fcbb6e54548bceb8e3c5489bb676b9bb401df4",
-      "title": "Generate presentations with Amazon Bedrock AgentCore",
-      "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-14T13:58:43.000Z"
-    },
-    {
-      "id": "e450e4e25d2199a8263f8d40fbee33f9f2e8a25b",
-      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "summary": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-14T13:53:33.000Z"
-    },
-    {
-      "id": "e6ff6df24e30f88e005340fdee64687eef73ffa9",
-      "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-      "summary": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-14T13:14:36.000Z"
-    },
-    {
-      "id": "nvidia ai:ff8ebb9924b417c9",
-      "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
-      "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes... AI agents offer remarkable productivity gains in complex chip...",
-      "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-14T16:10:45.000Z"
     }
   ],
-  "updatedAt": "2026-10-27T19:12:09.010Z"
+  "updatedAt": "2026-10-27T23:26:54.298Z"
 }

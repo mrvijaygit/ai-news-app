@@ -34,11 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "ac351c6a258d9c6b09e4e26e7198133fc26a60a3",
-    "nvidia ai:a7b460648e6edcc8",
-    "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278",
-    "mistral ai:bf89ec03a105506f",
-    "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "xai:16c4cffc8f18376e",
     "xai:e15e11a40907b4f4",
@@ -636,14 +631,13 @@
     "https://openai.com/index/oracle-apps-in-chatgpt",
     "xai:baa124cdb1a14d9b",
     "perplexity ai:242917013d3d302e",
-    "xai:1f5db63d6e074558"
+    "xai:1f5db63d6e074558",
+    "nvidia ai:1f1c84958f046dfa",
+    "https://openai.com/index/retell-ai",
+    "cohere:b40426f5199fbbc1",
+    "cohere:0b5e9b5a041d9306"
   ],
   "seenAt": {
-    "ac351c6a258d9c6b09e4e26e7198133fc26a60a3": "2026-08-28T20:40:42.292Z",
-    "nvidia ai:a7b460648e6edcc8": "2026-08-28T20:40:42.292Z",
-    "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278": "2026-08-28T20:40:42.292Z",
-    "mistral ai:bf89ec03a105506f": "2026-08-28T20:40:42.292Z",
-    "https://openai.com/index/supporting-next-generation-ai-startups-thailand": "2026-08-28T20:40:42.292Z",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T03:03:35.675Z",
     "xai:16c4cffc8f18376e": "2026-08-29T22:17:31.979Z",
     "xai:e15e11a40907b4f4": "2026-08-30T20:29:55.705Z",
@@ -1241,7 +1235,11 @@
     "https://openai.com/index/oracle-apps-in-chatgpt": "2026-10-27T19:12:09.007Z",
     "xai:baa124cdb1a14d9b": "2026-10-27T19:12:09.007Z",
     "perplexity ai:242917013d3d302e": "2026-10-27T19:12:09.007Z",
-    "xai:1f5db63d6e074558": "2026-10-27T19:12:09.007Z"
+    "xai:1f5db63d6e074558": "2026-10-27T19:12:09.007Z",
+    "nvidia ai:1f1c84958f046dfa": "2026-10-27T23:26:54.296Z",
+    "https://openai.com/index/retell-ai": "2026-10-27T23:26:54.296Z",
+    "cohere:b40426f5199fbbc1": "2026-10-27T23:26:54.296Z",
+    "cohere:0b5e9b5a041d9306": "2026-10-27T23:26:54.296Z"
   },
-  "updatedAt": "2026-10-27T19:12:09.007Z"
+  "updatedAt": "2026-10-27T23:26:54.296Z"
 }
