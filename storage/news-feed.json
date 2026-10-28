@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "xai:24ade0b14d4bf922",
+      "title": "Workflows in Grok Build",
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+      "link": "https://x.ai/news/workflows",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:764b42fb7740a988",
+      "title": "Introducing Grok 4.5",
+      "summary": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
+      "link": "https://x.ai/news/grok-4-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ae67cdc2e5ac21a4",
+      "title": "Grok Build 0.1 on API",
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "link": "https://x.ai/news/grok-build-0-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:202301d15429884f",
+      "title": "Use Grok in Kilo Code",
+      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
+      "link": "https://x.ai/news/grok-kilocode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9d5659da9528b35d",
+      "title": "Introducing Grok Build",
+      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
+      "link": "https://x.ai/news/grok-build-cli",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:fee1e6ce5633dfad",
+      "title": "Use Grok in OpenCode",
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
+      "link": "https://x.ai/news/grok-opencode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:fd568373c89a8554",
+      "title": "Grok Voice 1.0",
+      "summary": "Our most capable voice agent is now available via API.",
+      "link": "https://x.ai/news/grok-voice-think-fast-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/retell-ai",
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
       "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
@@ -1727,79 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/amp-beyond-coding",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/third-moment-research",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "link": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "title": "The EU’s next chapter in AI is agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "xai:d14f086860d8757d",
-      "title": "Introducing Grok Voice 3.0",
-      "summary": "Oct 14, 2026",
-      "link": "https://x.ai/news/grok-voice-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6e55d5bdb3ee3ce4",
-      "title": "Introducing Grok Voice Transcribe 2.0",
-      "summary": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
-      "link": "https://x.ai/news/grok-voice-transcribe-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:16c4cffc8f18376e",
-      "title": "Grok Bot now works with X",
-      "summary": "Grok Bot now has a tighter integration with X.",
-      "link": "https://x.ai/news/grok-bot-and-x",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f4eca61a7bbcb22c",
-      "title": "Introducing Grok Voice 2.0",
-      "summary": "Introducing our most capable speech-to-speech voice model.",
-      "link": "https://x.ai/news/grok-voice-think-fast-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5814f5ea763c956b",
-      "title": "Grok in Google Workspace",
-      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
-      "link": "https://x.ai/news/introducing-google-workspace-addon",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-27T23:26:54.298Z"
+  "updatedAt": "2026-10-28T03:51:18.831Z"
 }
