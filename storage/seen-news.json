@@ -637,7 +637,11 @@
     "cohere:0b5e9b5a041d9306",
     "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
     "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "https://openai.com/index/legora"
+    "https://openai.com/index/legora",
+    "8bd827344f7a730b420aced0542c5d0dd666efbf",
+    "ad7c54a5a92c3c3ab550b696c83e5204108e2c13",
+    "e072f14329aeef9ebf20997fc4d53f2767473ad7",
+    "https://openai.com/index/openai-servicenow-partnership-expansion"
   ],
   "seenAt": {
     "xai:16c4cffc8f18376e": "2026-08-29T22:17:31.979Z",
@@ -1243,7 +1247,11 @@
     "cohere:0b5e9b5a041d9306": "2026-10-27T23:26:54.296Z",
     "https://openai.com/index/legora-agentic-operating-system-for-legal-work": "2026-10-28T10:18:32.608Z",
     "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": "2026-10-28T16:57:29.191Z",
-    "https://openai.com/index/legora": "2026-10-28T16:57:29.191Z"
+    "https://openai.com/index/legora": "2026-10-28T16:57:29.191Z",
+    "8bd827344f7a730b420aced0542c5d0dd666efbf": "2026-10-28T21:31:34.177Z",
+    "ad7c54a5a92c3c3ab550b696c83e5204108e2c13": "2026-10-28T21:31:34.177Z",
+    "e072f14329aeef9ebf20997fc4d53f2767473ad7": "2026-10-28T21:31:34.177Z",
+    "https://openai.com/index/openai-servicenow-partnership-expansion": "2026-10-28T21:31:34.177Z"
   },
-  "updatedAt": "2026-10-28T16:57:29.191Z"
+  "updatedAt": "2026-10-28T21:31:34.177Z"
 }
