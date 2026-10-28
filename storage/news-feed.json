@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-28T09:30:00.000Z"
+    },
+    {
+      "id": "xai:d14f086860d8757d",
+      "title": "Introducing Grok Voice 3.0",
+      "summary": "Oct 14, 2026",
+      "link": "https://x.ai/news/grok-voice-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6e55d5bdb3ee3ce4",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "summary": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+      "link": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:16c4cffc8f18376e",
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now has a tighter integration with X.",
+      "link": "https://x.ai/news/grok-bot-and-x",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f4eca61a7bbcb22c",
+      "title": "Introducing Grok Voice 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5814f5ea763c956b",
+      "title": "Grok in Google Workspace",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "link": "https://x.ai/news/introducing-google-workspace-addon",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:24ade0b14d4bf922",
       "title": "Workflows in Grok Build",
       "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:4126c5521b9e1336",
-      "title": "Composer 2.5",
-      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
-      "link": "https://x.ai/news/composer-2-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "8370f01f72d733de10ec1ce843e1456b54b19515",
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "summary": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-15T17:43:35.000Z"
-    },
-    {
-      "id": "379390b4bb32581d87fbb3af3ac3000f67e1f7df",
-      "title": "Trust in Depth: Giving agents more autonomy without losing control",
-      "summary": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-15T15:05:35.000Z"
-    },
-    {
-      "id": "nvidia ai:032047a0dfb94907",
-      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,... Always-on agents are taking on longer, more complex...",
-      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-15T15:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/meta-muse-spark-open",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:0d01d6c28be4a195",
-      "title": "News Oct 15, 2026 Open-sourcing SPACE, the sandbox platform behind Computer Perplexity open-sources SPACE, the sandbox p",
-      "summary": "News Oct 15, 2026 Open-sourcing SPACE, the sandbox platform behind Computer Perplexity open-sources SPACE, the sandbox p",
-      "link": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-10-28T03:51:18.831Z"
+  "updatedAt": "2026-10-28T10:18:32.610Z"
 }

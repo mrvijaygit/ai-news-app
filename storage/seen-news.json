@@ -634,7 +634,8 @@
     "nvidia ai:1f1c84958f046dfa",
     "https://openai.com/index/retell-ai",
     "cohere:b40426f5199fbbc1",
-    "cohere:0b5e9b5a041d9306"
+    "cohere:0b5e9b5a041d9306",
+    "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
   ],
   "seenAt": {
     "xai:16c4cffc8f18376e": "2026-08-29T22:17:31.979Z",
@@ -1237,7 +1238,8 @@
     "nvidia ai:1f1c84958f046dfa": "2026-10-27T23:26:54.296Z",
     "https://openai.com/index/retell-ai": "2026-10-27T23:26:54.296Z",
     "cohere:b40426f5199fbbc1": "2026-10-27T23:26:54.296Z",
-    "cohere:0b5e9b5a041d9306": "2026-10-27T23:26:54.296Z"
+    "cohere:0b5e9b5a041d9306": "2026-10-27T23:26:54.296Z",
+    "https://openai.com/index/legora-agentic-operating-system-for-legal-work": "2026-10-28T10:18:32.608Z"
   },
-  "updatedAt": "2026-10-27T23:26:54.296Z"
+  "updatedAt": "2026-10-28T10:18:32.608Z"
 }
