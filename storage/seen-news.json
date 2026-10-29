@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:e15e11a40907b4f4",
     "nvidia ai:4b42402df6c4e910",
     "nvidia ai:b3e349196818cc27",
     "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -648,10 +647,21 @@
     "https://huggingface.co/blog/announcing-project-protostar",
     "https://huggingface.co/blog/mistral-large4",
     "https://huggingface.co/blog/anydecisionmodel",
-    "perplexity ai:ec2a49c2e115c547"
+    "perplexity ai:ec2a49c2e115c547",
+    "106cb441d765c495deeab0901e357357287aed51",
+    "d49218181a0d92fa2228059f54218aae84fd0b63",
+    "mistral ai:4df9714beba2142e",
+    "https://openai.com/index/updated-model-spec",
+    "1638ab30d37c69083638027cdd108a42db1e855a",
+    "3b5d85c9b7debe771c9397243d2a7ae65f84c3cf",
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "cohere:c1819e5f1729fad7",
+    "cohere:84a0d17d07b99e4d",
+    "perplexity ai:6e03e3eac87876f7",
+    "xai:e15e11a40907b4f4",
+    "perplexity ai:e038690bd8937d14"
   ],
   "seenAt": {
-    "xai:e15e11a40907b4f4": "2026-08-30T20:29:55.705Z",
     "nvidia ai:4b42402df6c4e910": "2026-08-31T17:50:18.774Z",
     "nvidia ai:b3e349196818cc27": "2026-08-31T17:50:18.774Z",
     "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-08-31T17:50:18.774Z",
@@ -1265,7 +1275,19 @@
     "https://huggingface.co/blog/announcing-project-protostar": "2026-10-29T15:03:23.552Z",
     "https://huggingface.co/blog/mistral-large4": "2026-10-29T15:03:23.552Z",
     "https://huggingface.co/blog/anydecisionmodel": "2026-10-29T15:03:23.552Z",
-    "perplexity ai:ec2a49c2e115c547": "2026-10-29T15:03:23.552Z"
+    "perplexity ai:ec2a49c2e115c547": "2026-10-29T15:03:23.552Z",
+    "106cb441d765c495deeab0901e357357287aed51": "2026-10-29T20:50:08.892Z",
+    "d49218181a0d92fa2228059f54218aae84fd0b63": "2026-10-29T20:50:08.892Z",
+    "mistral ai:4df9714beba2142e": "2026-10-29T20:50:08.892Z",
+    "https://openai.com/index/updated-model-spec": "2026-10-29T20:50:08.892Z",
+    "1638ab30d37c69083638027cdd108a42db1e855a": "2026-10-29T20:50:08.892Z",
+    "3b5d85c9b7debe771c9397243d2a7ae65f84c3cf": "2026-10-29T20:50:08.892Z",
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment": "2026-10-29T20:50:08.892Z",
+    "cohere:c1819e5f1729fad7": "2026-10-29T20:50:08.892Z",
+    "cohere:84a0d17d07b99e4d": "2026-10-29T20:50:08.892Z",
+    "perplexity ai:6e03e3eac87876f7": "2026-10-29T20:50:08.892Z",
+    "xai:e15e11a40907b4f4": "2026-10-29T20:50:08.892Z",
+    "perplexity ai:e038690bd8937d14": "2026-10-29T20:50:08.892Z"
   },
-  "updatedAt": "2026-10-29T15:03:23.552Z"
+  "updatedAt": "2026-10-29T20:50:08.892Z"
 }

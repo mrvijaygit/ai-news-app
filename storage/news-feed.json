@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-29T17:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-29T09:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:4df9714beba2142e",
+      "title": "Mistral Large 4 Oss/",
+      "summary": "Mistral Large 4 Oss/",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-29T17:33:42.728Z"
+    },
+    {
+      "id": "106cb441d765c495deeab0901e357357287aed51",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-29T20:16:40.000Z"
+    },
+    {
+      "id": "d49218181a0d92fa2228059f54218aae84fd0b63",
+      "title": "Building intent-driven UI testing with Amazon Nova Act",
+      "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-29T18:20:27.000Z"
+    },
+    {
+      "id": "1638ab30d37c69083638027cdd108a42db1e855a",
+      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+      "summary": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-29T16:54:52.000Z"
+    },
+    {
+      "id": "3b5d85c9b7debe771c9397243d2a7ae65f84c3cf",
+      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+      "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-29T16:11:08.000Z"
+    },
+    {
+      "id": "cohere:c1819e5f1729fad7",
+      "title": "Financial Research Assistant Cohere Aws",
+      "summary": "Financial Research Assistant Cohere Aws",
+      "link": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:84a0d17d07b99e4d",
+      "title": "Agent Sprawl",
+      "summary": "Agent Sprawl",
+      "link": "https://cohere.com/blog/agent-sprawl",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:e038690bd8937d14",
+      "title": "News Oct 28, 2026 New FedRAMP certification brings Perplexity to more government workflows Federal agencies can search t",
+      "summary": "News Oct 28, 2026 New FedRAMP certification brings Perplexity to more government workflows Federal agencies can search t",
+      "link": "https://www.perplexity.ai/hub/blog/new-fedramp-certification-brings-perplexity-to-more-government-workflows",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:6e03e3eac87876f7",
+      "title": "Oct 29, 2026 Text embeddings explained: how they work [+examples] This guide explains what text embeddings are, how they",
+      "summary": "Oct 29, 2026 Text embeddings explained: how they work [+examples] This guide explains what text embeddings are, how they",
+      "link": "https://www.perplexity.ai/hub/blog/text-embeddings",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
       "id": "mistral ai:14cd2220bb25c90f",
       "title": "Mistral Large 4/",
       "summary": "Mistral Large 4/",
@@ -1700,106 +1799,7 @@
       "source": "Hugging Face Blog",
       "company": "Hugging Face",
       "publishedAt": "2026-10-20T16:09:19.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-20T15:19:48.000Z"
-    },
-    {
-      "id": "perplexity ai:122f4914f68b1b89",
-      "title": "News Oct 20, 2026 Perplexity Computer now runs fully local on Mac Perplexity Computer runs fully local on Mac: Work acro",
-      "summary": "News Oct 20, 2026 Perplexity Computer now runs fully local on Mac Perplexity Computer runs fully local on Mac: Work acro",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:dd95c9dbf37af6b2",
-      "title": "Oct 20, 2026 What Is an AI Gateway? A Guide to Routing, Cost Control, and Governance for LLM and Agent Traffic An AI gat",
-      "summary": "Oct 20, 2026 What Is an AI Gateway? A Guide to Routing, Cost Control, and Governance for LLM and Agent Traffic An AI gat",
-      "link": "https://www.perplexity.ai/hub/blog/ai-gateway",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:5baa701118b2de26",
-      "title": "Oct 20, 2026 Perplexity brings Computer to enterprise infrastructure with Valarian Perplexity and Valarian bring Compute",
-      "summary": "Oct 20, 2026 Perplexity brings Computer to enterprise infrastructure with Valarian Perplexity and Valarian bring Compute",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-brings-computer-to-enterprise-infrastructure-with-valarian",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
-      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-19T23:32:19.000Z"
-    },
-    {
-      "id": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing Coding in Low-Resource Programming Languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-19T12:00:00.000Z"
-    },
-    {
-      "id": "caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
-      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
-      "summary": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-19T21:14:44.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/hf-torchneuron",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "link": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589",
-      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
-      "summary": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-19T16:49:19.000Z"
-    },
-    {
-      "id": "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074",
-      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
-      "summary": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-19T16:23:22.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T15:03:23.555Z"
+  "updatedAt": "2026-10-29T20:50:08.894Z"
 }
