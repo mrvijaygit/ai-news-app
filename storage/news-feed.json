@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4ea5ad07a0d56f40",
+      "title": "Introducing Grok 4.6",
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "link": "https://x.ai/news/grok-4-6",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:392dca10a759ab7c",
+      "title": "Introducing Build Mode",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "link": "https://x.ai/news/grok-build-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-16T17:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:27b82b62801a908c",
-      "title": "Oct 16, 2026 What is LLM security? How to mitigate the OWASP top 10 safety risks A guide to LLM security that walks thro",
-      "summary": "Oct 16, 2026 What is LLM security? How to mitigate the OWASP top 10 safety risks A guide to LLM security that walks thro",
-      "link": "https://www.perplexity.ai/hub/blog/llm-security",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/reflection-beam",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "link": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-16T01:44:47.000Z"
     }
   ],
-  "updatedAt": "2026-10-28T21:31:34.180Z"
+  "updatedAt": "2026-10-29T01:30:05.464Z"
 }

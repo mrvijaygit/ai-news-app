@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:16c4cffc8f18376e",
     "xai:e15e11a40907b4f4",
     "nvidia ai:4b42402df6c4e910",
     "nvidia ai:b3e349196818cc27",
@@ -641,10 +640,10 @@
     "8bd827344f7a730b420aced0542c5d0dd666efbf",
     "ad7c54a5a92c3c3ab550b696c83e5204108e2c13",
     "e072f14329aeef9ebf20997fc4d53f2767473ad7",
-    "https://openai.com/index/openai-servicenow-partnership-expansion"
+    "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "xai:16c4cffc8f18376e"
   ],
   "seenAt": {
-    "xai:16c4cffc8f18376e": "2026-08-29T22:17:31.979Z",
     "xai:e15e11a40907b4f4": "2026-08-30T20:29:55.705Z",
     "nvidia ai:4b42402df6c4e910": "2026-08-31T17:50:18.774Z",
     "nvidia ai:b3e349196818cc27": "2026-08-31T17:50:18.774Z",
@@ -1251,7 +1250,8 @@
     "8bd827344f7a730b420aced0542c5d0dd666efbf": "2026-10-28T21:31:34.177Z",
     "ad7c54a5a92c3c3ab550b696c83e5204108e2c13": "2026-10-28T21:31:34.177Z",
     "e072f14329aeef9ebf20997fc4d53f2767473ad7": "2026-10-28T21:31:34.177Z",
-    "https://openai.com/index/openai-servicenow-partnership-expansion": "2026-10-28T21:31:34.177Z"
+    "https://openai.com/index/openai-servicenow-partnership-expansion": "2026-10-28T21:31:34.177Z",
+    "xai:16c4cffc8f18376e": "2026-10-29T01:30:05.461Z"
   },
-  "updatedAt": "2026-10-28T21:31:34.177Z"
+  "updatedAt": "2026-10-29T01:30:05.461Z"
 }
