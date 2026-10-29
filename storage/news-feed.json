@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "mistral ai:14cd2220bb25c90f",
+      "title": "Mistral Large 4/",
+      "summary": "Mistral Large 4/",
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-29T14:44:39.701Z"
+    },
+    {
+      "id": "mistral ai:8ff5f9f91b97319b",
+      "title": "Mistral Large 4 Oss/",
+      "summary": "Mistral Large 4 Oss/",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-10-29T14:41:33.810Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "Granite Switch 4.1.1 — Update models like you update software",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-29T13:37:07.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/announcing-project-protostar",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/anydecisionmodel",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:ec2a49c2e115c547",
+      "title": "Oct 28, 2026 New FedRAMP certification brings Perplexity to more government workflows Federal agencies can search the li",
+      "summary": "Oct 28, 2026 New FedRAMP certification brings Perplexity to more government workflows Federal agencies can search the li",
+      "link": "https://www.perplexity.ai/hub/blog/new-fedramp-certification-brings-perplexity-to-more-government-workflows",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
       "id": "xai:56410469519f91d2",
       "title": "Grok 4.6 in GitHub Copilot",
       "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
@@ -1736,70 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-10-19T16:23:22.000Z"
-    },
-    {
-      "id": "3be758421ce5b5c9a23f149082c2bc420bfa9905",
-      "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
-      "summary": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-19T16:05:17.000Z"
-    },
-    {
-      "id": "02a1dd975b2fff9f32ce315def712a434de65bee",
-      "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
-      "summary": "Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed context across turns,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-19T16:03:23.000Z"
-    },
-    {
-      "id": "nvidia ai:763d8f029a51a497",
-      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-      "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to... NVIDIA CUDA Tile (cuTile) is a Python-based DSL and...",
-      "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-19T17:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "id": "df0b1ae32a5ba63d5856db229a66706d4090e8ef",
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-16T20:48:16.000Z"
-    },
-    {
-      "id": "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
-      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "summary": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-16T15:23:10.000Z"
-    },
-    {
-      "id": "nvidia ai:9e59ed06027e7315",
-      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
-      "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As... AI agents are changing how software gets built....",
-      "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-16T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T01:30:05.464Z"
+  "updatedAt": "2026-10-29T15:03:23.555Z"
 }

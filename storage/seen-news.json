@@ -641,7 +641,14 @@
     "ad7c54a5a92c3c3ab550b696c83e5204108e2c13",
     "e072f14329aeef9ebf20997fc4d53f2767473ad7",
     "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "xai:16c4cffc8f18376e"
+    "xai:16c4cffc8f18376e",
+    "mistral ai:14cd2220bb25c90f",
+    "mistral ai:8ff5f9f91b97319b",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "https://huggingface.co/blog/announcing-project-protostar",
+    "https://huggingface.co/blog/mistral-large4",
+    "https://huggingface.co/blog/anydecisionmodel",
+    "perplexity ai:ec2a49c2e115c547"
   ],
   "seenAt": {
     "xai:e15e11a40907b4f4": "2026-08-30T20:29:55.705Z",
@@ -1251,7 +1258,14 @@
     "ad7c54a5a92c3c3ab550b696c83e5204108e2c13": "2026-10-28T21:31:34.177Z",
     "e072f14329aeef9ebf20997fc4d53f2767473ad7": "2026-10-28T21:31:34.177Z",
     "https://openai.com/index/openai-servicenow-partnership-expansion": "2026-10-28T21:31:34.177Z",
-    "xai:16c4cffc8f18376e": "2026-10-29T01:30:05.461Z"
+    "xai:16c4cffc8f18376e": "2026-10-29T01:30:05.461Z",
+    "mistral ai:14cd2220bb25c90f": "2026-10-29T15:03:23.552Z",
+    "mistral ai:8ff5f9f91b97319b": "2026-10-29T15:03:23.552Z",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": "2026-10-29T15:03:23.552Z",
+    "https://huggingface.co/blog/announcing-project-protostar": "2026-10-29T15:03:23.552Z",
+    "https://huggingface.co/blog/mistral-large4": "2026-10-29T15:03:23.552Z",
+    "https://huggingface.co/blog/anydecisionmodel": "2026-10-29T15:03:23.552Z",
+    "perplexity ai:ec2a49c2e115c547": "2026-10-29T15:03:23.552Z"
   },
-  "updatedAt": "2026-10-29T01:30:05.461Z"
+  "updatedAt": "2026-10-29T15:03:23.552Z"
 }
