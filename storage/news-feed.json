@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-30T09:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/credit-saison",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "link": "https://openai.com/index/credit-saison",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "41aec09d2cbe015b77317f1301154eea531d9cf8",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "summary": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-30T17:32:20.000Z"
+    },
+    {
+      "id": "698175f4da06f51671986617198b154f2e828670",
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-10-30T17:27:45.000Z"
+    },
+    {
+      "id": "nvidia ai:ad35322db3bf336b",
+      "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+      "summary": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces... Building an autonomous agent requires a model, a harness,...",
+      "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-30T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:a68eb77539fd0618",
+      "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+      "summary": "NVIDIA GPUDirect Storage (GDS) accelerates GPU storage access in on-premises and cloud environments. It provides a robust, portable, and efficient data path... NVIDIA GPUDirect Storage (GDS) accelerates GPU storage...",
+      "link": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-10-30T15:01:36.000Z"
+    },
+    {
+      "id": "cohere:1d2852f512e6e6cc",
+      "title": "Cohere Canada Commitment",
+      "summary": "Cohere Canada Commitment",
+      "link": "https://cohere.com/blog/cohere-canada-commitment",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:5cc78d63e810709f",
+      "title": "Oct 30, 2026 How to Fine-Tune an LLM [and When to Use RAG or Prompting Instead] This guide explains how to fine-tune an ",
+      "summary": "Oct 30, 2026 How to Fine-Tune an LLM [and When to Use RAG or Prompting Instead] This guide explains how to fine-tune an",
+      "link": "https://www.perplexity.ai/hub/blog/fine-tuning-llm",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/updated-model-spec",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -1727,79 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-10-20T16:42:53.000Z"
-    },
-    {
-      "id": "3a6f4d4b37bd5f432ae64ac9368553ce7e94b9ac",
-      "title": "Discover tools at runtime with AWS Agent Registry",
-      "summary": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T16:22:24.000Z"
-    },
-    {
-      "id": "05547fd2bd22554636c30cf4bb67047887b0d94a",
-      "title": "Securing AI agent identity with X.509 PKI on AWS",
-      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T16:03:48.000Z"
-    },
-    {
-      "id": "d3c3a7c789540007b485ac6f7137782fb5e6c556",
-      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
-      "summary": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T15:57:57.000Z"
-    },
-    {
-      "id": "35a19d20a9faf60985c6eccdb143b93a0781a1a3",
-      "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
-      "summary": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T15:39:04.000Z"
-    },
-    {
-      "id": "27b90480a1f289c553a54c263feab25503621afe",
-      "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
-      "summary": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T15:36:39.000Z"
-    },
-    {
-      "id": "bd75beff5300c4d9af16336dedefd68e74f7e8fb",
-      "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
-      "summary": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon Bedrock AgentCore through the AtScale MCP server. Identity...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T15:33:54.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-20T18:17:47.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "link": "https://huggingface.co/blog/allenai/fairstress",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-20T16:09:19.000Z"
     }
   ],
-  "updatedAt": "2026-10-29T20:50:08.894Z"
+  "updatedAt": "2026-10-30T18:57:40.881Z"
 }

@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:4b42402df6c4e910",
-    "nvidia ai:b3e349196818cc27",
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "a35b8e6267585714982a44274684919dd8bb62e5",
     "323478b1ec9cbb8e9bd70aeb19b445443b64f0e8",
     "aa6871124c0907be369777e6369d35b6c44e2000",
@@ -659,12 +656,17 @@
     "cohere:84a0d17d07b99e4d",
     "perplexity ai:6e03e3eac87876f7",
     "xai:e15e11a40907b4f4",
-    "perplexity ai:e038690bd8937d14"
+    "perplexity ai:e038690bd8937d14",
+    "41aec09d2cbe015b77317f1301154eea531d9cf8",
+    "698175f4da06f51671986617198b154f2e828670",
+    "nvidia ai:ad35322db3bf336b",
+    "nvidia ai:a68eb77539fd0618",
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "cohere:1d2852f512e6e6cc",
+    "perplexity ai:5cc78d63e810709f",
+    "https://openai.com/index/credit-saison"
   ],
   "seenAt": {
-    "nvidia ai:4b42402df6c4e910": "2026-08-31T17:50:18.774Z",
-    "nvidia ai:b3e349196818cc27": "2026-08-31T17:50:18.774Z",
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-08-31T17:50:18.774Z",
     "a35b8e6267585714982a44274684919dd8bb62e5": "2026-08-31T22:23:25.152Z",
     "323478b1ec9cbb8e9bd70aeb19b445443b64f0e8": "2026-08-31T22:23:25.152Z",
     "aa6871124c0907be369777e6369d35b6c44e2000": "2026-08-31T22:23:25.152Z",
@@ -1287,7 +1289,15 @@
     "cohere:84a0d17d07b99e4d": "2026-10-29T20:50:08.892Z",
     "perplexity ai:6e03e3eac87876f7": "2026-10-29T20:50:08.892Z",
     "xai:e15e11a40907b4f4": "2026-10-29T20:50:08.892Z",
-    "perplexity ai:e038690bd8937d14": "2026-10-29T20:50:08.892Z"
+    "perplexity ai:e038690bd8937d14": "2026-10-29T20:50:08.892Z",
+    "41aec09d2cbe015b77317f1301154eea531d9cf8": "2026-10-30T18:57:40.878Z",
+    "698175f4da06f51671986617198b154f2e828670": "2026-10-30T18:57:40.878Z",
+    "nvidia ai:ad35322db3bf336b": "2026-10-30T18:57:40.878Z",
+    "nvidia ai:a68eb77539fd0618": "2026-10-30T18:57:40.878Z",
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": "2026-10-30T18:57:40.878Z",
+    "cohere:1d2852f512e6e6cc": "2026-10-30T18:57:40.878Z",
+    "perplexity ai:5cc78d63e810709f": "2026-10-30T18:57:40.878Z",
+    "https://openai.com/index/credit-saison": "2026-10-30T18:57:40.878Z"
   },
-  "updatedAt": "2026-10-29T20:50:08.892Z"
+  "updatedAt": "2026-10-30T18:57:40.878Z"
 }
