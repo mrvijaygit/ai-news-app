@@ -1,6 +1,159 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-02T15:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "link": "https://openai.com/index/lifeval",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-02T09:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "id": "mistral ai:903820a7bfa2aeaa",
+      "title": "Mistral Large 4 Oss/",
+      "summary": "Mistral Large 4 Oss/",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-02T15:55:24.869Z"
+    },
+    {
+      "id": "mistral ai:71774decdc05dd6c",
+      "title": "Mistral Ocr/",
+      "summary": "Mistral Ocr/",
+      "link": "https://mistral.ai/news/mistral-ocr/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-02T15:23:33.683Z"
+    },
+    {
+      "id": "xai:62a3c4bd334a8a1d",
+      "title": "Giving every team a data scientist with Grok Bot",
+      "summary": "Giving every team a data scientist with Grok Bot",
+      "link": "https://x.ai/news/data-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "xai:9e2ab772b6096aab",
+      "title": "Introducing The X Subscription",
+      "summary": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+      "link": "https://x.ai/news/x-subscription",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "43ca16f9eb64c74c6edd06ac90851b607a986aa7",
+      "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "summary": "This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-02T17:11:21.000Z"
+    },
+    {
+      "id": "bfaccd13e686a1fa304f832d5c944c11e78cf85e",
+      "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      "summary": "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-02T17:01:31.000Z"
+    },
+    {
+      "id": "7f22d91d237dea8bc76d43cd708cd0a6ac2b6478",
+      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+      "summary": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-02T17:01:16.000Z"
+    },
+    {
+      "id": "2ed0532609086bac2f9175750e90dc9bbbd0ab45",
+      "title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
+      "summary": "Circle K's DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-02T17:00:58.000Z"
+    },
+    {
+      "id": "nvidia ai:5c1973efbfd58128",
+      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "summary": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state... In distributed AI workloads, a single error can produce...",
+      "link": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-02T23:39:34.000Z"
+    },
+    {
+      "id": "nvidia ai:d4e27123618e3b9f",
+      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+      "summary": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,... Configuring and optimizing Kubernetes for new GPU hardware such...",
+      "link": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:bff544f7de649e6b",
+      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+      "summary": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into... Physical AI developers working with world models face...",
+      "link": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:6e852cf0d0e62048",
+      "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+      "summary": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,... NVIDIA DSX AI Factory Platform brings together...",
+      "link": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-02T16:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:6e61efac6f701ae6",
+      "title": "Nov 2, 2026 BrowseSafe++: Building stronger defenses against real-world prompt injection An open benchmark and two light",
+      "summary": "Nov 2, 2026 BrowseSafe++: Building stronger defenses against real-world prompt injection An open benchmark and two light",
+      "link": "https://www.perplexity.ai/hub/blog/browsesafe-plus-plus",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:936c01a58376ecc1",
+      "title": "Nov 2, 2026 AI agent memory: How to build AI agents with persistent context This guide explains what AI agent memory is,",
+      "summary": "Nov 2, 2026 AI agent memory: How to build AI agents with persistent context This guide explains what AI agent memory is,",
+      "link": "https://www.perplexity.ai/hub/blog/ai-agent-memory",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/fair-use-benefits-everyone",
       "title": "Fair use benefits everyone",
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
@@ -1646,160 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-21T09:52:16.000Z"
-    },
-    {
-      "id": "nvidia ai:d3a3e495c8334324",
-      "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
-      "summary": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex... Autonomous agents can work for hours on complex tasks,...",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-21T09:50:14.000Z"
-    },
-    {
-      "id": "nvidia ai:10e60a0b812dbca8",
-      "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-      "summary": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams... Building an AI factory digital twin requires developers...",
-      "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-21T09:38:49.000Z"
-    },
-    {
-      "id": "nvidia ai:74624e24103f43a0",
-      "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
-      "summary": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,... AI factories turn energy into intelligence. But before an...",
-      "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-21T09:35:32.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-21T12:51:24.000Z"
-    },
-    {
-      "id": "https://openai.com/index/terminal-x",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "link": "https://openai.com/index/terminal-x",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
-      "id": "xai:e3a36f0ed959a8ae",
-      "title": "Introducing Grok 4.7",
-      "summary": "SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
-      "link": "https://x.ai/news/grok-4-7",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0d1046969d236781",
-      "title": "Grok Bot for Enterprise",
-      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
-      "link": "https://x.ai/news/grok-bot-for-enterprise",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f4eff736ac48416d",
-      "title": "Biosecurity at the frontier",
-      "summary": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
-      "link": "https://x.ai/news/biosafety-at-the-frontier",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ec5f6eabb30b6076",
-      "title": "Using Grok Bot to detect and respond to incidents",
-      "summary": "Using Grok Bot to detect and respond to incidents",
-      "link": "https://x.ai/news/incident-sweep",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "xai:a12dd6a66dd51433",
-      "title": "Grok 4.6 on Amazon Bedrock",
-      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-4-6-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:95ae173e613df0d0",
-      "title": "Grok Build on web and mobile",
-      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
-      "link": "https://x.ai/news/grok-build-for-everyone",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2dff0f87787443f6",
-      "title": "Imagine Video 1.5 with References",
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:dc8d8bf3f50d9717",
-      "title": "Automations in Grok",
-      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
-      "link": "https://x.ai/news/grok-automations",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:61a45589bea1e81d",
-      "title": "Grok Build is Now Open Source",
-      "summary": "Explore the harness behind our coding agent and TUI.",
-      "link": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "733fa955e4db373fd2ec88938f4d9a6aa8ad0a49",
-      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "summary": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-20T21:14:10.000Z"
-    },
-    {
-      "id": "https://openai.com/index/ted-taylor-restaurant",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-20T10:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-30T22:50:58.971Z"
+  "updatedAt": "2026-11-03T01:58:29.094Z"
 }
