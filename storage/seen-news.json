@@ -644,7 +644,16 @@
     "xai:5fc7a578f53f17f5",
     "xai:0d1046969d236781",
     "https://huggingface.co/blog/transformers-mic",
-    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "https://huggingface.co/blog/allenai/statebench",
+    "a3db7b2c3fdf8a48e563f027e982fa25a50c5a02",
+    "1350dc3292e99da0becbb3e875f11092aaa597f1",
+    "5ba6fab2d05a0a1835c7f5d2cacc32e13156d4b9",
+    "070b0dd86152d3c36e4ca952542e5bc8e5351104",
+    "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d",
+    "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "243ff9e7da7a3c94f7f227ce021754f4345e7b3d",
+    "https://openai.com/index/heimstaden"
   ],
   "seenAt": {
     "bf15bf1accc979b1b510192d304b5091e2a44dc0": "2026-09-04T18:02:56.898Z",
@@ -1257,7 +1266,16 @@
     "xai:5fc7a578f53f17f5": "2026-11-03T01:58:29.092Z",
     "xai:0d1046969d236781": "2026-11-03T01:58:29.092Z",
     "https://huggingface.co/blog/transformers-mic": "2026-11-03T09:14:38.770Z",
-    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": "2026-11-03T09:14:38.770Z"
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": "2026-11-03T09:14:38.770Z",
+    "https://huggingface.co/blog/allenai/statebench": "2026-11-03T17:29:42.172Z",
+    "a3db7b2c3fdf8a48e563f027e982fa25a50c5a02": "2026-11-03T17:29:42.172Z",
+    "1350dc3292e99da0becbb3e875f11092aaa597f1": "2026-11-03T17:29:42.172Z",
+    "5ba6fab2d05a0a1835c7f5d2cacc32e13156d4b9": "2026-11-03T17:29:42.172Z",
+    "070b0dd86152d3c36e4ca952542e5bc8e5351104": "2026-11-03T17:29:42.172Z",
+    "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d": "2026-11-03T17:29:42.172Z",
+    "https://huggingface.co/blog/ibm-research/palette-deck-building": "2026-11-03T17:29:42.172Z",
+    "243ff9e7da7a3c94f7f227ce021754f4345e7b3d": "2026-11-03T17:29:42.172Z",
+    "https://openai.com/index/heimstaden": "2026-11-03T17:29:42.172Z"
   },
-  "updatedAt": "2026-11-03T09:14:38.770Z"
+  "updatedAt": "2026-11-03T17:29:42.172Z"
 }

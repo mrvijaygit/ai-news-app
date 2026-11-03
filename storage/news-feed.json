@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/heimstaden",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "link": "https://openai.com/index/heimstaden",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-03T08:00:00.000Z"
+    },
+    {
+      "id": "xai:5fc7a578f53f17f5",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+      "link": "https://x.ai/news/designing-grok-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "a3db7b2c3fdf8a48e563f027e982fa25a50c5a02",
+      "title": "Bring structured and unstructured data together with Amazon Quick",
+      "summary": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-03T16:49:29.000Z"
+    },
+    {
+      "id": "1350dc3292e99da0becbb3e875f11092aaa597f1",
+      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "summary": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity....",
+      "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-03T16:47:40.000Z"
+    },
+    {
+      "id": "5ba6fab2d05a0a1835c7f5d2cacc32e13156d4b9",
+      "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+      "summary": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-03T16:43:20.000Z"
+    },
+    {
+      "id": "070b0dd86152d3c36e4ca952542e5bc8e5351104",
+      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+      "summary": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-03T16:41:13.000Z"
+    },
+    {
+      "id": "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d",
+      "title": "Building ultra-low-latency voice AI applications on AWS",
+      "summary": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-03T16:40:54.000Z"
+    },
+    {
+      "id": "243ff9e7da7a3c94f7f227ce021754f4345e7b3d",
+      "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "summary": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-03T16:32:54.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/statebench",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "StateBench: Testing how language models track state changes over long documents",
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-03T17:15:21.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-03T16:35:36.000Z"
+    },
+    {
       "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
@@ -1700,106 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-22T16:11:31.000Z"
-    },
-    {
-      "id": "perplexity ai:1ee40064c610c618",
-      "title": "Oct 22, 2026 How to evaluate AI agents: test sets, graders, and regression checks A practical six-step guide to evaluati",
-      "summary": "Oct 22, 2026 How to evaluate AI agents: test sets, graders, and regression checks A practical six-step guide to evaluati",
-      "link": "https://www.perplexity.ai/hub/blog/ai-agent-evaluation",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-22T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "summary": "Ensemble forecasting with IBM Granite time-series models",
-      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-22T07:51:31.000Z"
-    },
-    {
-      "id": "xai:9fd7e7592c1ada50",
-      "title": "Grok Bot is now included with more plans",
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
-      "link": "https://x.ai/news/grok-bot-more-plans",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:406de15113b3310a",
-      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
-      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
-      "link": "https://x.ai/news/grok-4-6-vertex-ai",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:e15e11a40907b4f4",
-      "title": "Introducing the Voice Agent Builder",
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "link": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "34e5ea1686b4ddadf422c6b8da002f20b620869c",
-      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
-      "summary": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-21T23:38:38.000Z"
-    },
-    {
-      "id": "592e790776f1a784bac6fdbee94e1681b38d082b",
-      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "summary": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-21T23:36:47.000Z"
-    },
-    {
-      "id": "bc3c26fa1b9f32217f78b6ea7dade55d7572f14d",
-      "title": "Adaptive agentic intelligence framework using Strands Agents",
-      "summary": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-21T21:23:26.000Z"
-    },
-    {
-      "id": "https://openai.com/index/openai-models-google-cloud",
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-21T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-03T09:14:38.772Z"
+  "updatedAt": "2026-11-03T17:29:42.235Z"
 }
