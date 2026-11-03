@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-03T12:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/cisco-cyber",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "link": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-03T08:00:00.000Z"
+    },
+    {
+      "id": "mistral ai:bd976e85f0fc9395",
+      "title": "Mistral Large 4 Oss/",
+      "summary": "Mistral Large 4 Oss/",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-03T22:40:12.940Z"
+    },
+    {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:1a377458bfd6694e",
+      "title": "Research Nov 2, 2026 BrowseSafe++: Building stronger defenses against real-world prompt injection An open benchmark and ",
+      "summary": "Research Nov 2, 2026 BrowseSafe++: Building stronger defenses against real-world prompt injection An open benchmark and",
+      "link": "https://www.perplexity.ai/hub/blog/browsesafe-plus-plus",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:f32d6905bf2d46ab",
+      "title": "Nov 3, 2026 Autonomous agents: what they are and how they work This guide explains what autonomous agents are, how they ",
+      "summary": "Nov 3, 2026 Autonomous agents: what they are and how they work This guide explains what autonomous agents are, how they",
+      "link": "https://www.perplexity.ai/hub/blog/autonomous-agent",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/heimstaden",
       "title": "Heimstaden is changing residential real estate management with AI",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
@@ -1727,79 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-10-22T18:01:53.000Z"
-    },
-    {
-      "id": "123e9274ff10d780d0521efd9bdc03cfb23cff08",
-      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-22T18:00:04.000Z"
-    },
-    {
-      "id": "85d3ed31b82ab8523ac7effc5500095e66ae8521",
-      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
-      "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-22T18:00:01.000Z"
-    },
-    {
-      "id": "9bd193b4e42ef70bdb7e98ad7ab3c3f9df6f367e",
-      "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-      "summary": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-22T17:48:22.000Z"
-    },
-    {
-      "id": "351e07d8236b8a05fa15e510dcb5b937d7a9dec8",
-      "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
-      "summary": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-22T17:45:58.000Z"
-    },
-    {
-      "id": "bc1e8aba2e409ec4403d397afa02816caf7e4b6e",
-      "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
-      "summary": "Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-22T16:30:06.000Z"
-    },
-    {
-      "id": "7b42b92d3553785669b6b7f2bc67061098c8e566",
-      "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
-      "summary": "Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-22T16:25:57.000Z"
-    },
-    {
-      "id": "nvidia ai:e48ad150e7b64fe9",
-      "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
-      "summary": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI... GPU applications are processing ever-growing datasets...",
-      "link": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-22T16:39:09.000Z"
-    },
-    {
-      "id": "nvidia ai:366760ec48207e66",
-      "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
-      "summary": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting... AI developers aren’t just running a single model anymore—they’re...",
-      "link": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-22T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-03T17:29:42.235Z"
+  "updatedAt": "2026-11-03T22:51:14.801Z"
 }

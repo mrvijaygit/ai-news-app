@@ -34,13 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "bf15bf1accc979b1b510192d304b5091e2a44dc0",
-    "nvidia ai:c55127c2aa1eccc4",
-    "5592874537562bba923f97fecd07ce9229f52eea",
-    "17430f2135d0d2a25ced64d7b16531770c79f592",
-    "21315aba5de258a09ae4f10f0f46a916190e1bc0",
-    "nvidia ai:1c80298df842caf8",
-    "xai:0df93d3f276c36ce",
     "1cc1445c2783ef202a00ff4aadacbc028620a9eb",
     "https://openai.com/index/gpt-6-astra",
     "xai:a795c67928ea0c3a",
@@ -653,16 +646,15 @@
     "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d",
     "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "243ff9e7da7a3c94f7f227ce021754f4345e7b3d",
-    "https://openai.com/index/heimstaden"
+    "https://openai.com/index/heimstaden",
+    "mistral ai:bd976e85f0fc9395",
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "https://openai.com/index/cisco-cyber",
+    "perplexity ai:f32d6905bf2d46ab",
+    "xai:0df93d3f276c36ce",
+    "perplexity ai:1a377458bfd6694e"
   ],
   "seenAt": {
-    "bf15bf1accc979b1b510192d304b5091e2a44dc0": "2026-09-04T18:02:56.898Z",
-    "nvidia ai:c55127c2aa1eccc4": "2026-09-04T18:02:56.898Z",
-    "5592874537562bba923f97fecd07ce9229f52eea": "2026-09-04T18:02:56.898Z",
-    "17430f2135d0d2a25ced64d7b16531770c79f592": "2026-09-04T18:02:56.898Z",
-    "21315aba5de258a09ae4f10f0f46a916190e1bc0": "2026-09-04T18:02:56.898Z",
-    "nvidia ai:1c80298df842caf8": "2026-09-04T21:12:36.857Z",
-    "xai:0df93d3f276c36ce": "2026-09-04T21:12:36.857Z",
     "1cc1445c2783ef202a00ff4aadacbc028620a9eb": "2026-09-04T23:40:47.830Z",
     "https://openai.com/index/gpt-6-astra": "2026-09-05T07:22:01.234Z",
     "xai:a795c67928ea0c3a": "2026-09-05T07:22:01.234Z",
@@ -1275,7 +1267,13 @@
     "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d": "2026-11-03T17:29:42.172Z",
     "https://huggingface.co/blog/ibm-research/palette-deck-building": "2026-11-03T17:29:42.172Z",
     "243ff9e7da7a3c94f7f227ce021754f4345e7b3d": "2026-11-03T17:29:42.172Z",
-    "https://openai.com/index/heimstaden": "2026-11-03T17:29:42.172Z"
+    "https://openai.com/index/heimstaden": "2026-11-03T17:29:42.172Z",
+    "mistral ai:bd976e85f0fc9395": "2026-11-03T22:51:14.798Z",
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world": "2026-11-03T22:51:14.798Z",
+    "https://openai.com/index/cisco-cyber": "2026-11-03T22:51:14.798Z",
+    "perplexity ai:f32d6905bf2d46ab": "2026-11-03T22:51:14.798Z",
+    "xai:0df93d3f276c36ce": "2026-11-03T22:51:14.798Z",
+    "perplexity ai:1a377458bfd6694e": "2026-11-03T22:51:14.798Z"
   },
-  "updatedAt": "2026-11-03T17:29:42.172Z"
+  "updatedAt": "2026-11-03T22:51:14.798Z"
 }
