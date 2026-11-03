@@ -642,7 +642,9 @@
     "perplexity ai:936c01a58376ecc1",
     "xai:9e2ab772b6096aab",
     "xai:5fc7a578f53f17f5",
-    "xai:0d1046969d236781"
+    "xai:0d1046969d236781",
+    "https://huggingface.co/blog/transformers-mic",
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
   ],
   "seenAt": {
     "bf15bf1accc979b1b510192d304b5091e2a44dc0": "2026-09-04T18:02:56.898Z",
@@ -1253,7 +1255,9 @@
     "perplexity ai:936c01a58376ecc1": "2026-11-03T01:58:29.092Z",
     "xai:9e2ab772b6096aab": "2026-11-03T01:58:29.092Z",
     "xai:5fc7a578f53f17f5": "2026-11-03T01:58:29.092Z",
-    "xai:0d1046969d236781": "2026-11-03T01:58:29.092Z"
+    "xai:0d1046969d236781": "2026-11-03T01:58:29.092Z",
+    "https://huggingface.co/blog/transformers-mic": "2026-11-03T09:14:38.770Z",
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": "2026-11-03T09:14:38.770Z"
   },
-  "updatedAt": "2026-11-03T01:58:29.092Z"
+  "updatedAt": "2026-11-03T09:14:38.770Z"
 }
