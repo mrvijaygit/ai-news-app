@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "1cc1445c2783ef202a00ff4aadacbc028620a9eb",
-    "https://openai.com/index/gpt-6-astra",
-    "xai:a795c67928ea0c3a",
-    "xai:11603bc1501a6e92",
     "https://openai.com/index/research-acceleration-view-inside-openai",
     "xai:764b42fb7740a988",
     "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -652,13 +648,18 @@
     "https://openai.com/index/cisco-cyber",
     "perplexity ai:f32d6905bf2d46ab",
     "xai:0df93d3f276c36ce",
-    "perplexity ai:1a377458bfd6694e"
+    "perplexity ai:1a377458bfd6694e",
+    "nvidia ai:96bc7a771273970f",
+    "9c5c128f7a31e5e43f3eafba7ef1c3537f53e875",
+    "f002aac1d7eda07b2b65eb10ab1188bfa0625420",
+    "ec8f216d6e33b15ef288b415453d9a3caa46a158",
+    "86f7643574ae8df6cc5e69fb4f2fae28796c9da8",
+    "nvidia ai:e1783b129c8a09d0",
+    "https://openai.com/index/daybreak-red-aws-govcloud",
+    "xai:a795c67928ea0c3a",
+    "xai:11603bc1501a6e92"
   ],
   "seenAt": {
-    "1cc1445c2783ef202a00ff4aadacbc028620a9eb": "2026-09-04T23:40:47.830Z",
-    "https://openai.com/index/gpt-6-astra": "2026-09-05T07:22:01.234Z",
-    "xai:a795c67928ea0c3a": "2026-09-05T07:22:01.234Z",
-    "xai:11603bc1501a6e92": "2026-09-05T07:22:01.234Z",
     "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-06T17:29:19.348Z",
     "xai:764b42fb7740a988": "2026-09-06T19:57:11.801Z",
     "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:53:03.421Z",
@@ -1273,7 +1274,16 @@
     "https://openai.com/index/cisco-cyber": "2026-11-03T22:51:14.798Z",
     "perplexity ai:f32d6905bf2d46ab": "2026-11-03T22:51:14.798Z",
     "xai:0df93d3f276c36ce": "2026-11-03T22:51:14.798Z",
-    "perplexity ai:1a377458bfd6694e": "2026-11-03T22:51:14.798Z"
+    "perplexity ai:1a377458bfd6694e": "2026-11-03T22:51:14.798Z",
+    "nvidia ai:96bc7a771273970f": "2026-11-04T18:24:50.886Z",
+    "9c5c128f7a31e5e43f3eafba7ef1c3537f53e875": "2026-11-04T18:24:50.886Z",
+    "f002aac1d7eda07b2b65eb10ab1188bfa0625420": "2026-11-04T18:24:50.886Z",
+    "ec8f216d6e33b15ef288b415453d9a3caa46a158": "2026-11-04T18:24:50.886Z",
+    "86f7643574ae8df6cc5e69fb4f2fae28796c9da8": "2026-11-04T18:24:50.886Z",
+    "nvidia ai:e1783b129c8a09d0": "2026-11-04T18:24:50.886Z",
+    "https://openai.com/index/daybreak-red-aws-govcloud": "2026-11-04T18:24:50.886Z",
+    "xai:a795c67928ea0c3a": "2026-11-04T18:24:50.886Z",
+    "xai:11603bc1501a6e92": "2026-11-04T18:24:50.886Z"
   },
-  "updatedAt": "2026-11-03T22:51:14.798Z"
+  "updatedAt": "2026-11-04T18:24:50.886Z"
 }
