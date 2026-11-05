@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/devrev-enterprise-self-service",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "xai:2517241f707dd2a2",
+      "title": "How SpaceXSI is using Grok Bot to scale customer support",
+      "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
+      "link": "https://x.ai/news/grok-bot-customer-support",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "af187d4dcc140f40d628b5b7a009df4d46179afa",
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-04T18:46:36.000Z"
+    },
+    {
+      "id": "nvidia ai:8fe0682a4c0850c9",
+      "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+      "summary": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards... As GPU clusters scale, operations span compute, network,...",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-04T22:00:17.000Z"
+    },
+    {
+      "id": "nvidia ai:f34525991bd1d68b",
+      "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+      "summary": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock... As artificial intelligence and accelerated computing continue...",
+      "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-04T18:46:07.000Z"
+    },
+    {
+      "id": "perplexity ai:aade58eaa29f52c4",
+      "title": "Nov 4, 2026 Web grounding for the Decisions API Ground decisions in current web facts with Perplexity’s Decisions API. A",
+      "summary": "Nov 4, 2026 Web grounding for the Decisions API Ground decisions in current web facts with Perplexity’s Decisions API. A",
+      "link": "https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/daybreak-red-aws-govcloud",
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:48149f58a03dc5dd",
-      "title": "Introducing Grok for Outlook",
-      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
-      "link": "https://x.ai/news/introducing-outlook-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7b96a44598fc39a3",
-      "title": "Introducing Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:da595bebdd196f91",
-      "title": "Introducing Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:1e12b8abb16a83ce",
-      "title": "Introducing Grok for PowerPoint",
-      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
-      "link": "https://x.ai/news/introducing-powerpoint-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-04T18:24:50.889Z"
+  "updatedAt": "2026-11-05T00:06:23.651Z"
 }
