@@ -662,7 +662,8 @@
     "af187d4dcc140f40d628b5b7a009df4d46179afa",
     "nvidia ai:f34525991bd1d68b",
     "https://openai.com/index/devrev-enterprise-self-service",
-    "perplexity ai:aade58eaa29f52c4"
+    "perplexity ai:aade58eaa29f52c4",
+    "https://openai.com/index/introducing-images-2-6"
   ],
   "seenAt": {
     "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-06T17:29:19.348Z",
@@ -1293,7 +1294,8 @@
     "af187d4dcc140f40d628b5b7a009df4d46179afa": "2026-11-05T00:06:23.648Z",
     "nvidia ai:f34525991bd1d68b": "2026-11-05T00:06:23.648Z",
     "https://openai.com/index/devrev-enterprise-self-service": "2026-11-05T00:06:23.648Z",
-    "perplexity ai:aade58eaa29f52c4": "2026-11-05T00:06:23.648Z"
+    "perplexity ai:aade58eaa29f52c4": "2026-11-05T00:06:23.648Z",
+    "https://openai.com/index/introducing-images-2-6": "2026-11-05T07:40:02.540Z"
   },
-  "updatedAt": "2026-11-05T00:06:23.648Z"
+  "updatedAt": "2026-11-05T07:40:02.540Z"
 }
