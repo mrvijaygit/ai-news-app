@@ -677,7 +677,16 @@
     "https://openai.com/index/australian-universities-ai-native-graduates",
     "https://openai.com/index/merge-builds-with-openai",
     "https://openai.com/ads/customers/flipsnack",
-    "perplexity ai:8bd5ba0a0bffa304"
+    "perplexity ai:8bd5ba0a0bffa304",
+    "nvidia ai:9b404a941d407874",
+    "45834970ac5a8ce39a39de22bbc2ae33f7618139",
+    "755c7d8248913b9c1698eceff615a3e12637e5e9",
+    "64b64349a40669287b5c781082e75c92e2cc9153",
+    "568f99493ce9fc7f0fbe42c57947610f9ca4666c",
+    "c0f0c6e1e028e85f24cb91645e1a321ffca6e02a",
+    "c5e92a0371483b3162fb07723de361bea61a1cce",
+    "300480516c367305f4d8824ac5917a409db07911",
+    "7f770c3595174ddce3e090066fd2d16df2549723"
   ],
   "seenAt": {
     "mistral ai:6f9eea204b49d871": "2026-09-08T08:33:29.573Z",
@@ -1323,7 +1332,16 @@
     "https://openai.com/index/australian-universities-ai-native-graduates": "2026-11-06T03:05:50.306Z",
     "https://openai.com/index/merge-builds-with-openai": "2026-11-06T03:05:50.306Z",
     "https://openai.com/ads/customers/flipsnack": "2026-11-06T03:05:50.306Z",
-    "perplexity ai:8bd5ba0a0bffa304": "2026-11-06T03:05:50.306Z"
+    "perplexity ai:8bd5ba0a0bffa304": "2026-11-06T03:05:50.306Z",
+    "nvidia ai:9b404a941d407874": "2026-11-06T18:50:21.818Z",
+    "45834970ac5a8ce39a39de22bbc2ae33f7618139": "2026-11-06T18:50:21.818Z",
+    "755c7d8248913b9c1698eceff615a3e12637e5e9": "2026-11-06T18:50:21.818Z",
+    "64b64349a40669287b5c781082e75c92e2cc9153": "2026-11-06T18:50:21.818Z",
+    "568f99493ce9fc7f0fbe42c57947610f9ca4666c": "2026-11-06T18:50:21.818Z",
+    "c0f0c6e1e028e85f24cb91645e1a321ffca6e02a": "2026-11-06T18:50:21.818Z",
+    "c5e92a0371483b3162fb07723de361bea61a1cce": "2026-11-06T18:50:21.818Z",
+    "300480516c367305f4d8824ac5917a409db07911": "2026-11-06T18:50:21.818Z",
+    "7f770c3595174ddce3e090066fd2d16df2549723": "2026-11-06T18:50:21.818Z"
   },
-  "updatedAt": "2026-11-06T03:05:50.306Z"
+  "updatedAt": "2026-11-06T18:50:21.818Z"
 }
