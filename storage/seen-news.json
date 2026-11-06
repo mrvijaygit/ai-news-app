@@ -674,7 +674,11 @@
     "https://huggingface.co/blog/phonon-tts",
     "perplexity ai:f64ccbdd625e2b2d",
     "xai:764b42fb7740a988",
-    "perplexity ai:dc11ff2c22ad7d30"
+    "perplexity ai:dc11ff2c22ad7d30",
+    "https://openai.com/index/australian-universities-ai-native-graduates",
+    "https://openai.com/index/merge-builds-with-openai",
+    "https://openai.com/ads/customers/flipsnack",
+    "perplexity ai:8bd5ba0a0bffa304"
   ],
   "seenAt": {
     "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:53:03.421Z",
@@ -1317,7 +1321,11 @@
     "https://huggingface.co/blog/phonon-tts": "2026-11-05T22:30:04.285Z",
     "perplexity ai:f64ccbdd625e2b2d": "2026-11-05T22:30:04.285Z",
     "xai:764b42fb7740a988": "2026-11-05T22:30:04.285Z",
-    "perplexity ai:dc11ff2c22ad7d30": "2026-11-05T22:30:04.285Z"
+    "perplexity ai:dc11ff2c22ad7d30": "2026-11-05T22:30:04.285Z",
+    "https://openai.com/index/australian-universities-ai-native-graduates": "2026-11-06T03:05:50.306Z",
+    "https://openai.com/index/merge-builds-with-openai": "2026-11-06T03:05:50.306Z",
+    "https://openai.com/ads/customers/flipsnack": "2026-11-06T03:05:50.306Z",
+    "perplexity ai:8bd5ba0a0bffa304": "2026-11-06T03:05:50.306Z"
   },
-  "updatedAt": "2026-11-05T22:30:04.285Z"
+  "updatedAt": "2026-11-06T03:05:50.306Z"
 }
