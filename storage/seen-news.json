@@ -686,7 +686,9 @@
     "c0f0c6e1e028e85f24cb91645e1a321ffca6e02a",
     "c5e92a0371483b3162fb07723de361bea61a1cce",
     "300480516c367305f4d8824ac5917a409db07911",
-    "7f770c3595174ddce3e090066fd2d16df2549723"
+    "7f770c3595174ddce3e090066fd2d16df2549723",
+    "nvidia ai:bcae5b277fba05e1",
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
   ],
   "seenAt": {
     "mistral ai:6f9eea204b49d871": "2026-09-08T08:33:29.573Z",
@@ -1341,7 +1343,9 @@
     "c0f0c6e1e028e85f24cb91645e1a321ffca6e02a": "2026-11-06T18:50:21.818Z",
     "c5e92a0371483b3162fb07723de361bea61a1cce": "2026-11-06T18:50:21.818Z",
     "300480516c367305f4d8824ac5917a409db07911": "2026-11-06T18:50:21.818Z",
-    "7f770c3595174ddce3e090066fd2d16df2549723": "2026-11-06T18:50:21.818Z"
+    "7f770c3595174ddce3e090066fd2d16df2549723": "2026-11-06T18:50:21.818Z",
+    "nvidia ai:bcae5b277fba05e1": "2026-11-06T23:37:47.706Z",
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": "2026-11-06T23:37:47.706Z"
   },
-  "updatedAt": "2026-11-06T18:50:21.818Z"
+  "updatedAt": "2026-11-06T23:37:47.706Z"
 }
