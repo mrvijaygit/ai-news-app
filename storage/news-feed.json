@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:1f5db63d6e074558",
+      "title": "Team Bots: shared AI teammates that learn as they work",
+      "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
+      "link": "https://x.ai/news/team-bots",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3ab5a13705050098",
+      "title": "Grok 4.6 on Microsoft Foundry",
+      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
+      "link": "https://x.ai/news/grok-4-6-microsoft-foundry",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:61ce3268fb7b0eb4",
       "title": "Introducing Grok Bot",
       "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
@@ -1781,25 +1799,7 @@
       "source": "Cohere Blog",
       "company": "Cohere",
       "publishedAt": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "id": "cohere:0b5e9b5a041d9306",
-      "title": "Inside Cohere Model Vault Building Verifiable Confidential Ai Inference",
-      "summary": "Inside Cohere Model Vault Building Verifiable Confidential Ai Inference",
-      "link": "https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-10-26T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-27T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-07T04:29:45.471Z"
+  "updatedAt": "2026-11-07T11:28:32.636Z"
 }
