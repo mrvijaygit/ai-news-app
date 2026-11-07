@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:61ce3268fb7b0eb4",
+      "title": "Introducing Grok Bot",
+      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+      "link": "https://x.ai/news/introducing-grok-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:13a5a3be6d8e7c4c",
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
+      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
+      "link": "https://x.ai/news/grok-4-5-everywhere",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:dc4c15bc25a49149",
+      "title": "Introducing Grok Business and Grok Enterprise",
+      "summary": "The best assistant in the world is now Enterprise ready.",
+      "link": "https://x.ai/news/grok-business",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
@@ -1772,34 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-10-27T07:00:00.000Z"
-    },
-    {
-      "id": "xai:baa124cdb1a14d9b",
-      "title": "Your next sales teammate should be a Grok Bot",
-      "summary": "Your next sales teammate should be a Grok Bot",
-      "link": "https://x.ai/news/grok-bot-sales",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "id": "xai:1f5db63d6e074558",
-      "title": "Team Bots: shared AI teammates that learn as they work",
-      "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
-      "link": "https://x.ai/news/team-bots",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3ab5a13705050098",
-      "title": "Grok 4.6 on Microsoft Foundry",
-      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
-      "link": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-06T23:37:47.709Z"
+  "updatedAt": "2026-11-07T04:29:45.471Z"
 }
