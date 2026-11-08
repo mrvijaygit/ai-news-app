@@ -676,7 +676,9 @@
     "300480516c367305f4d8824ac5917a409db07911",
     "7f770c3595174ddce3e090066fd2d16df2549723",
     "nvidia ai:bcae5b277fba05e1",
-    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "mistral ai:f7712cd74643fbbd",
+    "mistral ai:dc0dffe572e81ceb"
   ],
   "seenAt": {
     "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/": "2026-09-09T17:00:48.566Z",
@@ -1321,7 +1323,9 @@
     "300480516c367305f4d8824ac5917a409db07911": "2026-11-06T18:50:21.818Z",
     "7f770c3595174ddce3e090066fd2d16df2549723": "2026-11-06T18:50:21.818Z",
     "nvidia ai:bcae5b277fba05e1": "2026-11-06T23:37:47.706Z",
-    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": "2026-11-06T23:37:47.706Z"
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": "2026-11-06T23:37:47.706Z",
+    "mistral ai:f7712cd74643fbbd": "2026-11-08T15:45:26.191Z",
+    "mistral ai:dc0dffe572e81ceb": "2026-11-08T15:45:26.191Z"
   },
-  "updatedAt": "2026-11-06T23:37:47.706Z"
+  "updatedAt": "2026-11-08T15:45:26.191Z"
 }

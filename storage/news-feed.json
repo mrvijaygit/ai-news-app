@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "mistral ai:f7712cd74643fbbd",
+      "title": "Mistral Large/",
+      "summary": "Mistral Large/",
+      "link": "https://mistral.ai/news/mistral-large/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-08T08:56:31.248Z"
+    },
+    {
+      "id": "mistral ai:dc0dffe572e81ceb",
+      "title": "Mistral Large 2407/",
+      "summary": "Mistral Large 2407/",
+      "link": "https://mistral.ai/news/mistral-large-2407/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-08T08:55:27.576Z"
+    },
+    {
       "id": "xai:1f5db63d6e074558",
       "title": "Team Bots: shared AI teammates that learn as they work",
       "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "nvidia ai:1f1c84958f046dfa",
-      "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
-      "summary": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads... Many AI workloads need only a fraction of a GPU. Giving...",
-      "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-27T20:50:39.000Z"
-    },
-    {
-      "id": "cohere:b40426f5199fbbc1",
-      "title": "Concerning Behaviour Popular Open Weight Ai Model",
-      "summary": "Concerning Behaviour Popular Open Weight Ai Model",
-      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-10-27T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-07T11:28:32.636Z"
+  "updatedAt": "2026-11-08T15:45:26.193Z"
 }
