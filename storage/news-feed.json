@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-10T14:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-10T13:00:00.000Z"
+    },
+    {
+      "id": "xai:d14f086860d8757d",
+      "title": "Introducing Grok Voice 3.0",
+      "summary": "Oct 14, 2026",
+      "link": "https://x.ai/news/grok-voice-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6e55d5bdb3ee3ce4",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "summary": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+      "link": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:16c4cffc8f18376e",
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now has a tighter integration with X.",
+      "link": "https://x.ai/news/grok-bot-and-x",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f4eca61a7bbcb22c",
+      "title": "Introducing Grok Voice 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5814f5ea763c956b",
+      "title": "Grok in Google Workspace",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "link": "https://x.ai/news/introducing-google-workspace-addon",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:24ade0b14d4bf922",
+      "title": "Workflows in Grok Build",
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+      "link": "https://x.ai/news/workflows",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:764b42fb7740a988",
+      "title": "Introducing Grok 4.5",
+      "summary": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
+      "link": "https://x.ai/news/grok-4-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ae67cdc2e5ac21a4",
+      "title": "Grok Build 0.1 on API",
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "link": "https://x.ai/news/grok-build-0-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "78fec7a3d16c37b034f25f58b80fa621d5222843",
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients....",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-10T16:59:43.000Z"
+    },
+    {
+      "id": "nvidia ai:e2cf82f4204e9a20",
+      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "summary": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide... Autonomous vehicle (AV) developers need reasoning...",
+      "link": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:e61511c9a543c618",
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "summary": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per... AI agents spend most of their time idle, waiting on a human...",
+      "link": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:899257f4e477f72e",
+      "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+      "summary": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference... NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory...",
+      "link": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:a5dc2f0da2817367",
+      "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "summary": "NVIDIA is announcing two open source projects for building and operating managed Kubernetes services on GPU infrastructure—NVIDIA Kubernetes Engine (NVKE) and... NVIDIA is announcing two open source projects for...",
+      "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/decision",
+      "title": "Decision Models in Hugging Face",
+      "summary": "Decision Models in Hugging Face",
+      "link": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:0d01d6c28be4a195",
+      "title": "News Oct 15, 2026 Open-sourcing SPACE, the sandbox platform behind Computer Perplexity open-sources SPACE, the sandbox p",
+      "summary": "News Oct 15, 2026 Open-sourcing SPACE, the sandbox platform behind Computer Perplexity open-sources SPACE, the sandbox p",
+      "link": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:202301d15429884f",
       "title": "Use Grok in Kilo Code",
       "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
@@ -1619,187 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:6e03e3eac87876f7",
-      "title": "Oct 29, 2026 Text embeddings explained: how they work [+examples] This guide explains what text embeddings are, how they",
-      "summary": "Oct 29, 2026 Text embeddings explained: how they work [+examples] This guide explains what text embeddings are, how they",
-      "link": "https://www.perplexity.ai/hub/blog/text-embeddings",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:14cd2220bb25c90f",
-      "title": "Mistral Large 4/",
-      "summary": "Mistral Large 4/",
-      "link": "https://mistral.ai/news/mistral-large-4/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-29T14:44:39.701Z"
-    },
-    {
-      "id": "mistral ai:8ff5f9f91b97319b",
-      "title": "Mistral Large 4 Oss/",
-      "summary": "Mistral Large 4 Oss/",
-      "link": "https://mistral.ai/news/mistral-large-4-oss/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-10-29T14:41:33.810Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "Granite Switch 4.1.1 — Update models like you update software",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-29T13:37:07.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/announcing-project-protostar",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "link": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/mistral-large4",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "link": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/anydecisionmodel",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "link": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:ec2a49c2e115c547",
-      "title": "Oct 28, 2026 New FedRAMP certification brings Perplexity to more government workflows Federal agencies can search the li",
-      "summary": "Oct 28, 2026 New FedRAMP certification brings Perplexity to more government workflows Federal agencies can search the li",
-      "link": "https://www.perplexity.ai/hub/blog/new-fedramp-certification-brings-perplexity-to-more-government-workflows",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "id": "xai:56410469519f91d2",
-      "title": "Grok 4.6 in GitHub Copilot",
-      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-4-6-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4ea5ad07a0d56f40",
-      "title": "Introducing Grok 4.6",
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
-      "link": "https://x.ai/news/grok-4-6",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:392dca10a759ab7c",
-      "title": "Introducing Build Mode",
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
-      "link": "https://x.ai/news/grok-build-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-28T13:15:00.000Z"
-    },
-    {
-      "id": "xai:aeb52aceb6679ea3",
-      "title": "Grok 4.5 in GitHub Copilot",
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ea7ad631cd2df309",
-      "title": "Introducing /goal",
-      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
-      "link": "https://x.ai/news/introducing-goal",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:950769d2f630ca6f",
-      "title": "Grok on Databricks",
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "link": "https://x.ai/news/grok-databricks",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:000376eced0f7685",
-      "title": "Grok on Amazon Bedrock",
-      "summary": "Grok models are now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "8bd827344f7a730b420aced0542c5d0dd666efbf",
-      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-      "summary": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-28T18:28:26.000Z"
-    },
-    {
-      "id": "ad7c54a5a92c3c3ab550b696c83e5204108e2c13",
-      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
-      "summary": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-28T18:19:54.000Z"
-    },
-    {
-      "id": "e072f14329aeef9ebf20997fc4d53f2767473ad7",
-      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
-      "summary": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-28T18:12:13.000Z"
-    },
-    {
-      "id": "https://openai.com/index/legora",
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "link": "https://openai.com/index/legora",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-28T09:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T09:10:43.396Z"
+  "updatedAt": "2026-11-10T17:27:08.113Z"
 }

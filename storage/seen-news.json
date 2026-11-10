@@ -641,7 +641,16 @@
     "https://openai.com/index/control-room",
     "https://openai.com/index/coderabbit-codex-daybreak",
     "https://openai.com/index/kuken",
-    "perplexity ai:042d8b73fd8c4f85"
+    "perplexity ai:042d8b73fd8c4f85",
+    "78fec7a3d16c37b034f25f58b80fa621d5222843",
+    "nvidia ai:e2cf82f4204e9a20",
+    "nvidia ai:e61511c9a543c618",
+    "nvidia ai:899257f4e477f72e",
+    "nvidia ai:a5dc2f0da2817367",
+    "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "https://huggingface.co/blog/decision"
   ],
   "seenAt": {
     "9da22a53a45cf214e154c67bafd0a4bd7eefa26b": "2026-09-11T19:25:57.137Z",
@@ -1251,7 +1260,16 @@
     "https://openai.com/index/control-room": "2026-11-10T01:51:42.661Z",
     "https://openai.com/index/coderabbit-codex-daybreak": "2026-11-10T01:51:42.661Z",
     "https://openai.com/index/kuken": "2026-11-10T01:51:42.661Z",
-    "perplexity ai:042d8b73fd8c4f85": "2026-11-10T01:51:42.661Z"
+    "perplexity ai:042d8b73fd8c4f85": "2026-11-10T01:51:42.661Z",
+    "78fec7a3d16c37b034f25f58b80fa621d5222843": "2026-11-10T17:27:08.111Z",
+    "nvidia ai:e2cf82f4204e9a20": "2026-11-10T17:27:08.111Z",
+    "nvidia ai:e61511c9a543c618": "2026-11-10T17:27:08.111Z",
+    "nvidia ai:899257f4e477f72e": "2026-11-10T17:27:08.111Z",
+    "nvidia ai:a5dc2f0da2817367": "2026-11-10T17:27:08.111Z",
+    "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": "2026-11-10T17:27:08.111Z",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": "2026-11-10T17:27:08.111Z",
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": "2026-11-10T17:27:08.111Z",
+    "https://huggingface.co/blog/decision": "2026-11-10T17:27:08.111Z"
   },
-  "updatedAt": "2026-11-10T01:51:42.661Z"
+  "updatedAt": "2026-11-10T17:27:08.111Z"
 }
