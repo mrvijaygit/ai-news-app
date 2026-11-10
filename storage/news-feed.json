@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/control-room",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "link": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-09T13:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/coderabbit-codex-daybreak",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/kuken",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "link": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "id": "b0e4e95ccb178c5e51191d02022d9a631c23c383",
+      "title": "How skills and agents work in AWS Quick",
+      "summary": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-10T00:21:34.000Z"
+    },
+    {
+      "id": "85e11029965ec714b8161f63f048a12f65fd6a97",
+      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-09T20:13:18.000Z"
+    },
+    {
+      "id": "19f307961a8c6e7fb1931729bc0b823ac590bfec",
+      "title": "Introducing Claude Fable 5.2 on AWS",
+      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-09T20:04:37.000Z"
+    },
+    {
+      "id": "3e5b07e97d0a4f1f703ec7e89ab19f1b40aaa262",
+      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-09T20:01:20.000Z"
+    },
+    {
+      "id": "333ca621d84290b49ff9a6ae139d900744bc2faa",
+      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+      "summary": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-09T19:05:54.000Z"
+    },
+    {
+      "id": "08caff2b840ccbd409e94a190d5802d3f577d510",
+      "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+      "summary": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-09T18:55:43.000Z"
+    },
+    {
+      "id": "153d15ac18681eb063b39b6822cf9c34c5480f9b",
+      "title": "Professional work deserves professional tools. Meet AWS Quick.",
+      "summary": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-09T18:43:30.000Z"
+    },
+    {
+      "id": "nvidia ai:7dc5fa735e94d671",
+      "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "summary": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a... Picture guiding a robot arm by hand while its motors supply...",
+      "link": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-09T19:09:32.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-09T15:05:57.000Z"
+    },
+    {
+      "id": "perplexity ai:042d8b73fd8c4f85",
+      "title": "Nov 9, 2026 AI memory: what it is, how it works, and what it stores A guide to AI memory: how AI assistants save and rec",
+      "summary": "Nov 9, 2026 AI memory: what it is, how it works, and what it stores A guide to AI memory: how AI assistants save and rec",
+      "link": "https://www.perplexity.ai/hub/blog/ai-memory",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-09T00:00:00.000Z"
+    },
+    {
       "id": "mistral ai:f7712cd74643fbbd",
       "title": "Mistral Large/",
       "summary": "Mistral Large/",
@@ -1673,133 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:202301d15429884f",
-      "title": "Use Grok in Kilo Code",
-      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
-      "link": "https://x.ai/news/grok-kilocode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9d5659da9528b35d",
-      "title": "Introducing Grok Build",
-      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
-      "link": "https://x.ai/news/grok-build-cli",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fee1e6ce5633dfad",
-      "title": "Use Grok in OpenCode",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:fd568373c89a8554",
-      "title": "Grok Voice 1.0",
-      "summary": "Our most capable voice agent is now available via API.",
-      "link": "https://x.ai/news/grok-voice-think-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/retell-ai",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "link": "https://openai.com/index/retell-ai",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-27T15:00:00.000Z"
-    },
-    {
-      "id": "xai:f48d7b7c6e59faeb",
-      "title": "Use Grok in OpenClaw",
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
-      "link": "https://x.ai/news/grok-openclaw",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a1e6fcd31f7e65d4",
-      "title": "Skills in web, iOS, and Android",
-      "summary": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4de6c4fbb944a39a",
-      "title": "Connect Grok to Hermes Agent",
-      "summary": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
-      "link": "https://x.ai/news/grok-hermes",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2a3af01c46c0903e",
-      "title": "Connectors in web, iOS, and Android",
-      "summary": "Deep integrations that bring the apps you use every day directly into Grok.",
-      "link": "https://x.ai/news/grok-connectors",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:b6d4ab19daa61b89",
-      "title": "Grok Imagine Quality Mode API",
-      "summary": "Higher realism. Stronger text rendering. Better creative control.",
-      "link": "https://x.ai/news/grok-imagine-quality-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:533a462be2cea991",
-      "title": "Grok Speech to Text and Text to Speech APIs",
-      "summary": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
-      "link": "https://x.ai/news/grok-stt-and-tts-apis",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:cf57fe0bf7fb2ed6",
-      "title": "xAI joins SpaceX",
-      "summary": "SpaceX announced today that it has acquired xAI.",
-      "link": "https://x.ai/news/xai-joins-spacex",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6bb0a0c96a2a6ec2",
-      "title": "Grok Imagine API",
-      "summary": "State-of-the-art video generation across quality, cost, and latency.",
-      "link": "https://x.ai/news/grok-imagine-api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:10e73b074ce809ee",
-      "title": "xAI Raises $20B Series E",
-      "summary": "xAI is rapidly accelerating its progress in building advanced AI.",
-      "link": "https://x.ai/news/series-e",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-08T15:45:26.193Z"
+  "updatedAt": "2026-11-10T01:51:42.663Z"
 }
