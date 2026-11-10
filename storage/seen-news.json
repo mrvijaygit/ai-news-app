@@ -34,10 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "9da22a53a45cf214e154c67bafd0a4bd7eefa26b",
-    "4fe7cafaba3f92f547e3e291a89c2e4e2100f953",
-    "1b81a239f751889181ea1d02ab731440b400b140",
-    "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "https://openai.com/index/cognition-devin-testing-with-astra",
     "perplexity ai:b7f4432f5259c0b5",
@@ -650,13 +646,14 @@
     "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
     "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
     "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "https://huggingface.co/blog/decision"
+    "https://huggingface.co/blog/decision",
+    "8ef082e0d287956d1e252b1606af8d42f4e11b1e",
+    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "090c81c3e9be757b6ab9880edbbf523fcf740c59",
+    "https://openai.com/index/introducing-businesses-chatgpt",
+    "cohere:29120f7dc0f80bf0"
   ],
   "seenAt": {
-    "9da22a53a45cf214e154c67bafd0a4bd7eefa26b": "2026-09-11T19:25:57.137Z",
-    "4fe7cafaba3f92f547e3e291a89c2e4e2100f953": "2026-09-11T19:25:57.137Z",
-    "1b81a239f751889181ea1d02ab731440b400b140": "2026-09-11T19:25:57.137Z",
-    "https://openai.com/index/scaling-storage-one-billion-users-part-one": "2026-09-11T19:25:57.137Z",
     "https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:52:44.830Z",
     "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z",
     "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
@@ -1269,7 +1266,12 @@
     "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": "2026-11-10T17:27:08.111Z",
     "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": "2026-11-10T17:27:08.111Z",
     "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": "2026-11-10T17:27:08.111Z",
-    "https://huggingface.co/blog/decision": "2026-11-10T17:27:08.111Z"
+    "https://huggingface.co/blog/decision": "2026-11-10T17:27:08.111Z",
+    "8ef082e0d287956d1e252b1606af8d42f4e11b1e": "2026-11-10T22:47:12.834Z",
+    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": "2026-11-10T22:47:12.834Z",
+    "090c81c3e9be757b6ab9880edbbf523fcf740c59": "2026-11-10T22:47:12.834Z",
+    "https://openai.com/index/introducing-businesses-chatgpt": "2026-11-10T22:47:12.834Z",
+    "cohere:29120f7dc0f80bf0": "2026-11-10T22:47:12.834Z"
   },
-  "updatedAt": "2026-11-10T17:27:08.111Z"
+  "updatedAt": "2026-11-10T22:47:12.834Z"
 }
