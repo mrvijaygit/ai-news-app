@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "https://openai.com/index/cognition-devin-testing-with-astra",
     "perplexity ai:b7f4432f5259c0b5",
     "perplexity ai:d1af1c75a51e9301",
     "xai:61a45589bea1e81d",
@@ -651,11 +649,11 @@
     "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
     "090c81c3e9be757b6ab9880edbbf523fcf740c59",
     "https://openai.com/index/introducing-businesses-chatgpt",
-    "cohere:29120f7dc0f80bf0"
+    "cohere:29120f7dc0f80bf0",
+    "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064",
+    "e67f3a0f38da6d5f16c13370534db7c14abe780a"
   ],
   "seenAt": {
-    "https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:52:44.830Z",
-    "https://openai.com/index/cognition-devin-testing-with-astra": "2026-09-12T00:52:44.830Z",
     "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
     "perplexity ai:d1af1c75a51e9301": "2026-09-13T02:58:35.342Z",
     "xai:61a45589bea1e81d": "2026-09-13T22:50:10.389Z",
@@ -1271,7 +1269,9 @@
     "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": "2026-11-10T22:47:12.834Z",
     "090c81c3e9be757b6ab9880edbbf523fcf740c59": "2026-11-10T22:47:12.834Z",
     "https://openai.com/index/introducing-businesses-chatgpt": "2026-11-10T22:47:12.834Z",
-    "cohere:29120f7dc0f80bf0": "2026-11-10T22:47:12.834Z"
+    "cohere:29120f7dc0f80bf0": "2026-11-10T22:47:12.834Z",
+    "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064": "2026-11-11T02:29:44.111Z",
+    "e67f3a0f38da6d5f16c13370534db7c14abe780a": "2026-11-11T02:29:44.111Z"
   },
-  "updatedAt": "2026-11-10T22:47:12.834Z"
+  "updatedAt": "2026-11-11T02:29:44.111Z"
 }
