@@ -655,7 +655,15 @@
     "https://openai.com/index/chatgpt-plus-for-veterans",
     "https://huggingface.co/blog/qvac/botpsy",
     "https://openai.com/index/singapore-airlines-travel-work",
-    "https://openai.com/index/cogent-security"
+    "https://openai.com/index/cogent-security",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "nvidia ai:5c2e2be5341c68fa",
+    "ca32afd4562f4691a5e0c8183feb87808df97a2a",
+    "7134bb29ee133c2d22189c4c963a132a593c00aa",
+    "09f20b599e1ea4e477b4979d15326bbd992cf96d",
+    "https://huggingface.co/blog/token-pooling",
+    "xai:f699e03b20cea950",
+    "perplexity ai:d71c9748073c8807"
   ],
   "seenAt": {
     "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
@@ -1279,7 +1287,15 @@
     "https://openai.com/index/chatgpt-plus-for-veterans": "2026-11-11T10:15:40.130Z",
     "https://huggingface.co/blog/qvac/botpsy": "2026-11-11T10:15:40.130Z",
     "https://openai.com/index/singapore-airlines-travel-work": "2026-11-11T10:15:40.130Z",
-    "https://openai.com/index/cogent-security": "2026-11-11T10:15:40.130Z"
+    "https://openai.com/index/cogent-security": "2026-11-11T10:15:40.130Z",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": "2026-11-11T18:19:55.102Z",
+    "nvidia ai:5c2e2be5341c68fa": "2026-11-11T18:19:55.102Z",
+    "ca32afd4562f4691a5e0c8183feb87808df97a2a": "2026-11-11T18:19:55.102Z",
+    "7134bb29ee133c2d22189c4c963a132a593c00aa": "2026-11-11T18:19:55.102Z",
+    "09f20b599e1ea4e477b4979d15326bbd992cf96d": "2026-11-11T18:19:55.102Z",
+    "https://huggingface.co/blog/token-pooling": "2026-11-11T18:19:55.102Z",
+    "xai:f699e03b20cea950": "2026-11-11T18:19:55.102Z",
+    "perplexity ai:d71c9748073c8807": "2026-11-11T18:19:55.102Z"
   },
-  "updatedAt": "2026-11-11T10:15:40.130Z"
+  "updatedAt": "2026-11-11T18:19:55.102Z"
 }

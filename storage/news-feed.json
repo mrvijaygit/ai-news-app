@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-11T18:00:00.000Z"
+    },
+    {
+      "id": "xai:f699e03b20cea950",
+      "title": "Introducing Grok Bot 1.0",
+      "summary": "Nov 2, 2026",
+      "link": "https://x.ai/news/grok-bot-1-0",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "ca32afd4562f4691a5e0c8183feb87808df97a2a",
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "summary": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-11T16:05:33.000Z"
+    },
+    {
+      "id": "7134bb29ee133c2d22189c4c963a132a593c00aa",
+      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "summary": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-11T15:50:55.000Z"
+    },
+    {
+      "id": "09f20b599e1ea4e477b4979d15326bbd992cf96d",
+      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-11T15:10:23.000Z"
+    },
+    {
+      "id": "nvidia ai:5c2e2be5341c68fa",
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform... As teams deploy and scale AI workloads using NVIDIA Dynamo,...",
+      "link": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-11T17:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/token-pooling",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "link": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:d71c9748073c8807",
+      "title": "Research Nov 11, 2026 Escaping SPACE: Part II Model behavior in red-teaming experiments.",
+      "summary": "Research Nov 11, 2026 Escaping SPACE: Part II Model behavior in red-teaming experiments.",
+      "link": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/chatgpt-plus-for-veterans",
       "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
@@ -1727,79 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-11-02T17:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:6e852cf0d0e62048",
-      "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
-      "summary": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,... NVIDIA DSX AI Factory Platform brings together...",
-      "link": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-02T16:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:6e61efac6f701ae6",
-      "title": "Nov 2, 2026 BrowseSafe++: Building stronger defenses against real-world prompt injection An open benchmark and two light",
-      "summary": "Nov 2, 2026 BrowseSafe++: Building stronger defenses against real-world prompt injection An open benchmark and two light",
-      "link": "https://www.perplexity.ai/hub/blog/browsesafe-plus-plus",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:936c01a58376ecc1",
-      "title": "Nov 2, 2026 AI agent memory: How to build AI agents with persistent context This guide explains what AI agent memory is,",
-      "summary": "Nov 2, 2026 AI agent memory: How to build AI agents with persistent context This guide explains what AI agent memory is,",
-      "link": "https://www.perplexity.ai/hub/blog/ai-agent-memory",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/fair-use-benefits-everyone",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "id": "5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3",
-      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-30T22:42:24.000Z"
-    },
-    {
-      "id": "f7fa53db3341459d6a27841fb8632835488a9c38",
-      "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
-      "summary": "Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-30T21:40:03.000Z"
-    },
-    {
-      "id": "nvidia ai:e5ef900021e6c6ef",
-      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
-      "summary": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference... Teams building AI applications need a repeatable path from a...",
-      "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-30T21:35:31.000Z"
-    },
-    {
-      "id": "nvidia ai:d256a8f4795c2f03",
-      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
-      "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,... AI is expanding beyond the data center as developers build a...",
-      "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-10-30T20:33:18.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T10:15:40.132Z"
+  "updatedAt": "2026-11-11T18:19:55.105Z"
 }
