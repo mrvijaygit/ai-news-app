@@ -651,7 +651,11 @@
     "https://openai.com/index/introducing-businesses-chatgpt",
     "cohere:29120f7dc0f80bf0",
     "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064",
-    "e67f3a0f38da6d5f16c13370534db7c14abe780a"
+    "e67f3a0f38da6d5f16c13370534db7c14abe780a",
+    "https://openai.com/index/chatgpt-plus-for-veterans",
+    "https://huggingface.co/blog/qvac/botpsy",
+    "https://openai.com/index/singapore-airlines-travel-work",
+    "https://openai.com/index/cogent-security"
   ],
   "seenAt": {
     "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
@@ -1271,7 +1275,11 @@
     "https://openai.com/index/introducing-businesses-chatgpt": "2026-11-10T22:47:12.834Z",
     "cohere:29120f7dc0f80bf0": "2026-11-10T22:47:12.834Z",
     "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064": "2026-11-11T02:29:44.111Z",
-    "e67f3a0f38da6d5f16c13370534db7c14abe780a": "2026-11-11T02:29:44.111Z"
+    "e67f3a0f38da6d5f16c13370534db7c14abe780a": "2026-11-11T02:29:44.111Z",
+    "https://openai.com/index/chatgpt-plus-for-veterans": "2026-11-11T10:15:40.130Z",
+    "https://huggingface.co/blog/qvac/botpsy": "2026-11-11T10:15:40.130Z",
+    "https://openai.com/index/singapore-airlines-travel-work": "2026-11-11T10:15:40.130Z",
+    "https://openai.com/index/cogent-security": "2026-11-11T10:15:40.130Z"
   },
-  "updatedAt": "2026-11-11T02:29:44.111Z"
+  "updatedAt": "2026-11-11T10:15:40.130Z"
 }

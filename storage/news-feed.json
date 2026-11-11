@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-11T08:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/singapore-airlines-travel-work",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "link": "https://openai.com/index/singapore-airlines-travel-work",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-10T08:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/cogent-security",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "link": "https://openai.com/index/cogent-security",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/qvac/botpsy",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-11T05:01:16.000Z"
+    },
+    {
       "id": "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064",
       "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
       "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching,...",
@@ -1763,43 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-10-30T20:33:18.000Z"
-    },
-    {
-      "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/credit-saison",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "link": "https://openai.com/index/credit-saison",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "41aec09d2cbe015b77317f1301154eea531d9cf8",
-      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
-      "summary": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-30T17:32:20.000Z"
-    },
-    {
-      "id": "698175f4da06f51671986617198b154f2e828670",
-      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
-      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-10-30T17:27:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T02:29:44.112Z"
+  "updatedAt": "2026-11-11T10:15:40.132Z"
 }
