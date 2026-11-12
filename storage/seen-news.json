@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:61a45589bea1e81d",
     "nvidia ai:2b215ee9931c7d37",
     "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
     "6306dc0dce0a1d4340a5b1693847b5829a3e5c97",
@@ -676,10 +675,22 @@
     "2144423e5e4caeacf910447d8e0923290056c400",
     "9c61b6431ee0e0a8743834695f2eba45b64d7ee3",
     "https://huggingface.co/blog/3d-lora-finetuning",
-    "perplexity ai:6833ed54fc3f211d"
+    "perplexity ai:6833ed54fc3f211d",
+    "d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
+    "787b1b13cc7c9546be4afedb6d427a9b0c7e6990",
+    "ced40265f1aaea8576eb1b20e2dbe39d4314107f",
+    "https://openai.com/index/amplitude",
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "8db53e7d13c7fb7eb110840d4bdf22942b447b95",
+    "f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba",
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "5460e26111aeb2444e58fb192084957f53ebb300",
+    "cohere:7d1eaa89f55122de",
+    "perplexity ai:ecd25ef2dd0ab70c",
+    "xai:61a45589bea1e81d",
+    "perplexity ai:351e806dc0d0dd0f"
   ],
   "seenAt": {
-    "xai:61a45589bea1e81d": "2026-09-13T22:50:10.389Z",
     "nvidia ai:2b215ee9931c7d37": "2026-09-14T17:36:25.836Z",
     "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": "2026-09-14T17:36:25.836Z",
     "6306dc0dce0a1d4340a5b1693847b5829a3e5c97": "2026-09-14T17:36:25.836Z",
@@ -1321,7 +1332,20 @@
     "2144423e5e4caeacf910447d8e0923290056c400": "2026-11-12T17:53:45.987Z",
     "9c61b6431ee0e0a8743834695f2eba45b64d7ee3": "2026-11-12T17:53:45.987Z",
     "https://huggingface.co/blog/3d-lora-finetuning": "2026-11-12T17:53:45.987Z",
-    "perplexity ai:6833ed54fc3f211d": "2026-11-12T17:53:45.987Z"
+    "perplexity ai:6833ed54fc3f211d": "2026-11-12T17:53:45.987Z",
+    "d27fba94181475674c8d9e0d16f89e5b62d0fc4a": "2026-11-12T23:10:06.263Z",
+    "787b1b13cc7c9546be4afedb6d427a9b0c7e6990": "2026-11-12T23:10:06.263Z",
+    "ced40265f1aaea8576eb1b20e2dbe39d4314107f": "2026-11-12T23:10:06.263Z",
+    "https://openai.com/index/amplitude": "2026-11-12T23:10:06.263Z",
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": "2026-11-12T23:10:06.263Z",
+    "8db53e7d13c7fb7eb110840d4bdf22942b447b95": "2026-11-12T23:10:06.263Z",
+    "f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba": "2026-11-12T23:10:06.263Z",
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": "2026-11-12T23:10:06.263Z",
+    "5460e26111aeb2444e58fb192084957f53ebb300": "2026-11-12T23:10:06.263Z",
+    "cohere:7d1eaa89f55122de": "2026-11-12T23:10:06.263Z",
+    "perplexity ai:ecd25ef2dd0ab70c": "2026-11-12T23:10:06.263Z",
+    "xai:61a45589bea1e81d": "2026-11-12T23:10:06.263Z",
+    "perplexity ai:351e806dc0d0dd0f": "2026-11-12T23:10:06.263Z"
   },
-  "updatedAt": "2026-11-12T17:53:45.987Z"
+  "updatedAt": "2026-11-12T23:10:06.263Z"
 }

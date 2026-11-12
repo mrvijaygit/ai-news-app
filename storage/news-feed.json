@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/amplitude",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "link": "https://openai.com/index/amplitude",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-12T18:00:00.000Z"
+    },
+    {
+      "id": "xai:7f96b684a449083b",
+      "title": "Grok Imagine 1.5 Preview",
+      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+      "link": "https://x.ai/news/grok-imagine-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
+      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "summary": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T22:03:34.000Z"
+    },
+    {
+      "id": "787b1b13cc7c9546be4afedb6d427a9b0c7e6990",
+      "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "summary": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T21:47:07.000Z"
+    },
+    {
+      "id": "ced40265f1aaea8576eb1b20e2dbe39d4314107f",
+      "title": "Four Amazon Bedrock inference choices that affect cost",
+      "summary": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T20:51:55.000Z"
+    },
+    {
+      "id": "8db53e7d13c7fb7eb110840d4bdf22942b447b95",
+      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "summary": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T18:43:19.000Z"
+    },
+    {
+      "id": "f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba",
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T18:41:12.000Z"
+    },
+    {
+      "id": "5460e26111aeb2444e58fb192084957f53ebb300",
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "summary": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T17:59:59.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-12T19:07:35.000Z"
+    },
+    {
+      "id": "cohere:7d1eaa89f55122de",
+      "title": "Cohere Welcomes Jaya Baloo As First Ciso",
+      "summary": "Cohere Welcomes Jaya Baloo As First Ciso",
+      "link": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:351e806dc0d0dd0f",
+      "title": "Research Nov 12, 2026 Perplexity Decider How we train, evaluate, and use it.",
+      "summary": "Research Nov 12, 2026 Perplexity Decider How we train, evaluate, and use it.",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:ecd25ef2dd0ab70c",
+      "title": "Nov 11, 2026 Escaping SPACE: Part II Model behavior in red-teaming experiments. Nov 11, 2026",
+      "summary": "Nov 11, 2026 Escaping SPACE: Part II Model behavior in red-teaming experiments. Nov 11, 2026",
+      "link": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
       "id": "f5ebd53ab35bf68d6ed11c813e9d2869d3c62ad5",
       "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
       "summary": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new...",
@@ -1682,124 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-11-03T16:41:13.000Z"
-    },
-    {
-      "id": "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d",
-      "title": "Building ultra-low-latency voice AI applications on AWS",
-      "summary": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-03T16:40:54.000Z"
-    },
-    {
-      "id": "243ff9e7da7a3c94f7f227ce021754f4345e7b3d",
-      "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
-      "summary": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-03T16:32:54.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/statebench",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "summary": "StateBench: Testing how language models track state changes over long documents",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-03T17:15:21.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "summary": "Palette: teaching a small model to build decks in your design language",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-03T16:35:36.000Z"
-    },
-    {
-      "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "id": "xai:e3a36f0ed959a8ae",
-      "title": "Introducing Grok 4.7",
-      "summary": "SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
-      "link": "https://x.ai/news/grok-4-7",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0d1046969d236781",
-      "title": "Grok Bot for Enterprise",
-      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
-      "link": "https://x.ai/news/grok-bot-for-enterprise",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f4eff736ac48416d",
-      "title": "Biosecurity at the frontier",
-      "summary": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
-      "link": "https://x.ai/news/biosafety-at-the-frontier",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:a12dd6a66dd51433",
-      "title": "Grok 4.6 on Amazon Bedrock",
-      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-4-6-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:95ae173e613df0d0",
-      "title": "Grok Build on web and mobile",
-      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
-      "link": "https://x.ai/news/grok-build-for-everyone",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2dff0f87787443f6",
-      "title": "Imagine Video 1.5 with References",
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "link": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:dc8d8bf3f50d9717",
-      "title": "Automations in Grok",
-      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
-      "link": "https://x.ai/news/grok-automations",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:61a45589bea1e81d",
-      "title": "Grok Build is Now Open Source",
-      "summary": "Explore the harness behind our coding agent and TUI.",
-      "link": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-12T17:53:45.989Z"
+  "updatedAt": "2026-11-12T23:10:06.265Z"
 }
