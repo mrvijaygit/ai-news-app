@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "f5ebd53ab35bf68d6ed11c813e9d2869d3c62ad5",
+      "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "summary": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T16:16:45.000Z"
+    },
+    {
+      "id": "9681452550bf3bb15b0e292427676f986d6d624a",
+      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "summary": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T15:42:21.000Z"
+    },
+    {
+      "id": "2144423e5e4caeacf910447d8e0923290056c400",
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T15:40:24.000Z"
+    },
+    {
+      "id": "9c61b6431ee0e0a8743834695f2eba45b64d7ee3",
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "summary": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T15:38:47.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "link": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:6833ed54fc3f211d",
+      "title": "Nov 12, 2026 Context window: what it is and how it affects everyday AI use A guide to the context window in AI models, c",
+      "summary": "Nov 12, 2026 Context window: what it is and how it affects everyday AI use A guide to the context window in AI models, c",
+      "link": "https://www.perplexity.ai/hub/blog/context-window",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
       "id": "xai:9e2ab772b6096aab",
       "title": "Introducing The X Subscription",
       "summary": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
@@ -1745,61 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://huggingface.co/blog/transformers-mic",
-      "title": "Transformers Model Integration Contracts",
-      "summary": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/grid-protectors-program",
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-02T15:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/lifeval",
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "link": "https://openai.com/index/lifeval",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-02T09:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-11-02T17:45:00.000Z"
-    },
-    {
-      "id": "mistral ai:903820a7bfa2aeaa",
-      "title": "Mistral Large 4 Oss/",
-      "summary": "Mistral Large 4 Oss/",
-      "link": "https://mistral.ai/news/mistral-large-4-oss/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-11-02T15:55:24.869Z"
     }
   ],
-  "updatedAt": "2026-11-12T09:13:57.096Z"
+  "updatedAt": "2026-11-12T17:53:45.989Z"
 }
