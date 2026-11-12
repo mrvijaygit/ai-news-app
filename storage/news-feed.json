@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:9e2ab772b6096aab",
+      "title": "Introducing The X Subscription",
+      "summary": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+      "link": "https://x.ai/news/x-subscription",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "52b0b0c3b44c826025ca35a812f53a3760ac1789",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "summary": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-12T01:18:23.000Z"
+    },
+    {
       "id": "faefdbed0491df7ffbfea5b7e93f3979e26376c0",
       "title": "OpenAI Codex on Amazon Bedrock",
       "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams...",
@@ -1781,25 +1799,7 @@
       "source": "Mistral AI News",
       "company": "Mistral AI",
       "publishedAt": "2026-11-02T15:55:24.869Z"
-    },
-    {
-      "id": "mistral ai:71774decdc05dd6c",
-      "title": "Mistral Ocr/",
-      "summary": "Mistral Ocr/",
-      "link": "https://mistral.ai/news/mistral-ocr/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-11-02T15:23:33.683Z"
-    },
-    {
-      "id": "xai:62a3c4bd334a8a1d",
-      "title": "Giving every team a data scientist with Grok Bot",
-      "summary": "Giving every team a data scientist with Grok Bot",
-      "link": "https://x.ai/news/data-bot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": "2026-11-02T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T01:16:26.968Z"
+  "updatedAt": "2026-11-12T09:13:57.096Z"
 }

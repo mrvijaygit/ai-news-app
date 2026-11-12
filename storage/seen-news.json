@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "perplexity ai:b7f4432f5259c0b5",
-    "perplexity ai:d1af1c75a51e9301",
     "xai:61a45589bea1e81d",
     "nvidia ai:2b215ee9931c7d37",
     "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
@@ -671,11 +669,10 @@
     "b338f8a43166a0bd154498911d8a00e6632a53b4",
     "eee5d43fead189e55bac9d295c979e1d24fbb7ff",
     "0e166aea5fc5e99de63f67eb0887a9fb579fb51f",
-    "942893d15c6ed4a3b822a98a54e996da0a60453b"
+    "942893d15c6ed4a3b822a98a54e996da0a60453b",
+    "52b0b0c3b44c826025ca35a812f53a3760ac1789"
   ],
   "seenAt": {
-    "perplexity ai:b7f4432f5259c0b5": "2026-09-13T02:58:35.342Z",
-    "perplexity ai:d1af1c75a51e9301": "2026-09-13T02:58:35.342Z",
     "xai:61a45589bea1e81d": "2026-09-13T22:50:10.389Z",
     "nvidia ai:2b215ee9931c7d37": "2026-09-14T17:36:25.836Z",
     "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": "2026-09-14T17:36:25.836Z",
@@ -1311,7 +1308,8 @@
     "b338f8a43166a0bd154498911d8a00e6632a53b4": "2026-11-12T01:16:26.965Z",
     "eee5d43fead189e55bac9d295c979e1d24fbb7ff": "2026-11-12T01:16:26.965Z",
     "0e166aea5fc5e99de63f67eb0887a9fb579fb51f": "2026-11-12T01:16:26.965Z",
-    "942893d15c6ed4a3b822a98a54e996da0a60453b": "2026-11-12T01:16:26.965Z"
+    "942893d15c6ed4a3b822a98a54e996da0a60453b": "2026-11-12T01:16:26.965Z",
+    "52b0b0c3b44c826025ca35a812f53a3760ac1789": "2026-11-12T09:13:57.093Z"
   },
-  "updatedAt": "2026-11-12T01:16:26.965Z"
+  "updatedAt": "2026-11-12T09:13:57.093Z"
 }
