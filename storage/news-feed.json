@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "mistral ai:2c2a6f290247da71",
+      "title": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
+      "summary": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
+      "link": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-12T10:01:57.089Z"
+    },
+    {
+      "id": "mistral ai:d37e6be20e44c8ec",
+      "title": "Mistral Ocr/",
+      "summary": "Mistral Ocr/",
+      "link": "https://mistral.ai/news/mistral-ocr/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-12T10:01:49.794Z"
+    },
+    {
+      "id": "mistral ai:634edee4cc2ab650",
+      "title": "Mistral Ai Non Production License Mnpl/",
+      "summary": "Mistral Ai Non Production License Mnpl/",
+      "link": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl/",
+      "source": "Mistral AI News",
+      "company": "Mistral AI",
+      "publishedAt": "2026-11-12T10:01:47.303Z"
+    },
+    {
+      "id": "xai:5fc7a578f53f17f5",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+      "link": "https://x.ai/news/designing-grok-bot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:e15e11a40907b4f4",
+      "title": "Introducing the Voice Agent Builder",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "link": "https://x.ai/news/grok-voice-agent-builder",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:337b3f5c095a2baa",
+      "title": "Grok Build Plugin Marketplace",
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "link": "https://x.ai/news/grok-plugin-marketplace",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/business/customer-stories/amplitude",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
@@ -1745,61 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-11-04T17:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:e1783b129c8a09d0",
-      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
-      "summary": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you... Turn production evidence into prioritized issues and...",
-      "link": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-04T16:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-03T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/cisco-cyber",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "link": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-03T08:00:00.000Z"
-    },
-    {
-      "id": "mistral ai:bd976e85f0fc9395",
-      "title": "Mistral Large 4 Oss/",
-      "summary": "Mistral Large 4 Oss/",
-      "link": "https://mistral.ai/news/mistral-large-4-oss/",
-      "source": "Mistral AI News",
-      "company": "Mistral AI",
-      "publishedAt": "2026-11-03T22:40:12.940Z"
-    },
-    {
-      "id": "xai:9fd7e7592c1ada50",
-      "title": "Grok Bot is now included with more plans",
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
-      "link": "https://x.ai/news/grok-bot-more-plans",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:406de15113b3310a",
-      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
-      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
-      "link": "https://x.ai/news/grok-4-6-vertex-ai",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-13T04:55:17.620Z"
+  "updatedAt": "2026-11-13T12:50:42.257Z"
 }
