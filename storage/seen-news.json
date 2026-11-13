@@ -34,12 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:2b215ee9931c7d37",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "6306dc0dce0a1d4340a5b1693847b5829a3e5c97",
-    "8ccc6396f56013db85944a02959776c99f87290a",
-    "b9380fe5c5bdd3f3c76704d77744859dccb2c43c",
-    "https://openai.com/index/fyxer",
     "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
     "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef",
     "xai:dc8d8bf3f50d9717",
@@ -693,15 +687,15 @@
     "https://openai.com/business/customer-stories/gondola",
     "mistral ai:2c2a6f290247da71",
     "mistral ai:d37e6be20e44c8ec",
-    "mistral ai:634edee4cc2ab650"
+    "mistral ai:634edee4cc2ab650",
+    "nvidia ai:218f304597dd9432",
+    "a1587ec860fedf29e005f9336e493877ba832183",
+    "nvidia ai:fe078b5c46ff1a09",
+    "nvidia ai:296d3f3b5050e17d",
+    "https://openai.com/index/introducing-chatgpt-wallet",
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
   ],
   "seenAt": {
-    "nvidia ai:2b215ee9931c7d37": "2026-09-14T17:36:25.836Z",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": "2026-09-14T17:36:25.836Z",
-    "6306dc0dce0a1d4340a5b1693847b5829a3e5c97": "2026-09-14T17:36:25.836Z",
-    "8ccc6396f56013db85944a02959776c99f87290a": "2026-09-14T17:36:25.836Z",
-    "b9380fe5c5bdd3f3c76704d77744859dccb2c43c": "2026-09-14T17:36:25.836Z",
-    "https://openai.com/index/fyxer": "2026-09-14T17:36:25.836Z",
     "5765f76e7a987692146e6fe2b1eb9962dcd91bac": "2026-09-14T21:24:59.038Z",
     "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef": "2026-09-14T21:24:59.038Z",
     "xai:dc8d8bf3f50d9717": "2026-09-15T00:14:01.681Z",
@@ -1355,7 +1349,13 @@
     "https://openai.com/business/customer-stories/gondola": "2026-11-13T04:55:17.617Z",
     "mistral ai:2c2a6f290247da71": "2026-11-13T12:50:42.256Z",
     "mistral ai:d37e6be20e44c8ec": "2026-11-13T12:50:42.256Z",
-    "mistral ai:634edee4cc2ab650": "2026-11-13T12:50:42.256Z"
+    "mistral ai:634edee4cc2ab650": "2026-11-13T12:50:42.256Z",
+    "nvidia ai:218f304597dd9432": "2026-11-13T20:17:15.222Z",
+    "a1587ec860fedf29e005f9336e493877ba832183": "2026-11-13T20:17:15.222Z",
+    "nvidia ai:fe078b5c46ff1a09": "2026-11-13T20:17:15.222Z",
+    "nvidia ai:296d3f3b5050e17d": "2026-11-13T20:17:15.222Z",
+    "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T20:17:15.222Z",
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-13T20:17:15.222Z"
   },
-  "updatedAt": "2026-11-13T12:50:42.256Z"
+  "updatedAt": "2026-11-13T20:17:15.222Z"
 }

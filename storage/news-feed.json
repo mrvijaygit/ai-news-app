@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-13T15:00:00.000Z"
+    },
+    {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "a1587ec860fedf29e005f9336e493877ba832183",
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-13T18:01:15.000Z"
+    },
+    {
+      "id": "nvidia ai:218f304597dd9432",
+      "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "summary": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)... AI applications at the edge often need to run multiple neural...",
+      "link": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-13T18:57:10.000Z"
+    },
+    {
+      "id": "nvidia ai:fe078b5c46ff1a09",
+      "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+      "summary": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations... Running a frontier-scale model locally means keeping all...",
+      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-13T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:296d3f3b5050e17d",
+      "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "summary": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing... Human motion offers roboticists a great starting point for...",
+      "link": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-13T17:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-13T14:05:22.000Z"
+    },
+    {
       "id": "mistral ai:2c2a6f290247da71",
       "title": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
       "summary": "Mistral Ai Raises 1 7 B To Accelerate Technological Progress With Ai/",
@@ -1727,79 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-11-04T22:00:17.000Z"
-    },
-    {
-      "id": "nvidia ai:f34525991bd1d68b",
-      "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
-      "summary": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock... As artificial intelligence and accelerated computing continue...",
-      "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-04T18:46:07.000Z"
-    },
-    {
-      "id": "perplexity ai:aade58eaa29f52c4",
-      "title": "Nov 4, 2026 Web grounding for the Decisions API Ground decisions in current web facts with Perplexity’s Decisions API. A",
-      "summary": "Nov 4, 2026 Web grounding for the Decisions API Ground decisions in current web facts with Perplexity’s Decisions API. A",
-      "link": "https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-04T07:00:00.000Z"
-    },
-    {
-      "id": "9c5c128f7a31e5e43f3eafba7ef1c3537f53e875",
-      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "summary": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-04T16:33:03.000Z"
-    },
-    {
-      "id": "f002aac1d7eda07b2b65eb10ab1188bfa0625420",
-      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "summary": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-04T16:30:40.000Z"
-    },
-    {
-      "id": "ec8f216d6e33b15ef288b415453d9a3caa46a158",
-      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
-      "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-04T16:25:57.000Z"
-    },
-    {
-      "id": "86f7643574ae8df6cc5e69fb4f2fae28796c9da8",
-      "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-      "summary": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-04T16:23:33.000Z"
-    },
-    {
-      "id": "nvidia ai:96bc7a771273970f",
-      "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
-      "summary": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed... A Siemens report estimates that unplanned downtime costs...",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-04T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-13T12:50:42.257Z"
+  "updatedAt": "2026-11-13T20:17:15.224Z"
 }
