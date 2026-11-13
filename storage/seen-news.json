@@ -688,7 +688,9 @@
     "cohere:7d1eaa89f55122de",
     "perplexity ai:ecd25ef2dd0ab70c",
     "xai:61a45589bea1e81d",
-    "perplexity ai:351e806dc0d0dd0f"
+    "perplexity ai:351e806dc0d0dd0f",
+    "https://openai.com/business/customer-stories/amplitude",
+    "https://openai.com/business/customer-stories/gondola"
   ],
   "seenAt": {
     "nvidia ai:2b215ee9931c7d37": "2026-09-14T17:36:25.836Z",
@@ -1345,7 +1347,9 @@
     "cohere:7d1eaa89f55122de": "2026-11-12T23:10:06.263Z",
     "perplexity ai:ecd25ef2dd0ab70c": "2026-11-12T23:10:06.263Z",
     "xai:61a45589bea1e81d": "2026-11-12T23:10:06.263Z",
-    "perplexity ai:351e806dc0d0dd0f": "2026-11-12T23:10:06.263Z"
+    "perplexity ai:351e806dc0d0dd0f": "2026-11-12T23:10:06.263Z",
+    "https://openai.com/business/customer-stories/amplitude": "2026-11-13T04:55:17.617Z",
+    "https://openai.com/business/customer-stories/gondola": "2026-11-13T04:55:17.617Z"
   },
-  "updatedAt": "2026-11-12T23:10:06.263Z"
+  "updatedAt": "2026-11-13T04:55:17.617Z"
 }
