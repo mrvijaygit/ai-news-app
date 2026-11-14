@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "xai:2517241f707dd2a2",
+      "title": "How SpaceXSI is using Grok Bot to scale customer support",
+      "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
+      "link": "https://x.ai/news/grok-bot-customer-support",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:da595bebdd196f91",
+      "title": "Introducing Grok for Word",
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "link": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:1e12b8abb16a83ce",
+      "title": "Introducing Grok for PowerPoint",
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "link": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9c5cd59fc5d31e7d",
+      "title": "Announcing PromptIDE",
+      "summary": "Integrated development environment for prompt engineering and interpretability research.",
+      "link": "https://x.ai/news/prompt-ide",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/business/customer-stories/shield",
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
@@ -1754,52 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:a1d169f8fe12702e",
-      "title": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
-      "summary": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
-      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:f64ccbdd625e2b2d",
-      "title": "Nov 5, 2026 AI agent orchestration best practices: handling failures, approvals, and retries This guide explains how AI ",
-      "summary": "Nov 5, 2026 AI agent orchestration best practices: handling failures, approvals, and retries This guide explains how AI",
-      "link": "https://www.perplexity.ai/hub/blog/ai-agent-orchestration",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-images-2-6",
-      "title": "Introducing Images 2.6",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "link": "https://openai.com/index/introducing-images-2-6",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "id": "xai:48149f58a03dc5dd",
-      "title": "Introducing Grok for Outlook",
-      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
-      "link": "https://x.ai/news/introducing-outlook-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7b96a44598fc39a3",
-      "title": "Introducing Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-14T01:14:13.132Z"
+  "updatedAt": "2026-11-14T08:32:05.158Z"
 }
