@@ -34,9 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
-    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef",
-    "xai:dc8d8bf3f50d9717",
     "nvidia ai:31d673605de68ba5",
     "nvidia ai:51fe30e45b00981f",
     "nvidia ai:1d02b3abab54dd05",
@@ -693,12 +690,18 @@
     "nvidia ai:fe078b5c46ff1a09",
     "nvidia ai:296d3f3b5050e17d",
     "https://openai.com/index/introducing-chatgpt-wallet",
-    "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "760cbc8b70c56b832a6d83eb6dfab47ce2fe8a3b",
+    "f4831ed5c33ec5088dfe090f067c6a3a1c207b47",
+    "nvidia ai:5315e961d5a80aca",
+    "31a4c32eac66b0c9392f69ee418d5e09aecaf4e5",
+    "4dea8ce77a40d45986adf65199b169c60e84bcc1",
+    "nvidia ai:0340692659977ed9",
+    "https://openai.com/business/customer-stories/shield",
+    "cohere:a6222f4425dbe4eb",
+    "xai:dc8d8bf3f50d9717"
   ],
   "seenAt": {
-    "5765f76e7a987692146e6fe2b1eb9962dcd91bac": "2026-09-14T21:24:59.038Z",
-    "495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef": "2026-09-14T21:24:59.038Z",
-    "xai:dc8d8bf3f50d9717": "2026-09-15T00:14:01.681Z",
     "nvidia ai:31d673605de68ba5": "2026-09-15T15:30:59.961Z",
     "nvidia ai:51fe30e45b00981f": "2026-09-15T19:29:56.334Z",
     "nvidia ai:1d02b3abab54dd05": "2026-09-15T19:29:56.334Z",
@@ -1355,7 +1358,16 @@
     "nvidia ai:fe078b5c46ff1a09": "2026-11-13T20:17:15.222Z",
     "nvidia ai:296d3f3b5050e17d": "2026-11-13T20:17:15.222Z",
     "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T20:17:15.222Z",
-    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-13T20:17:15.222Z"
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-13T20:17:15.222Z",
+    "760cbc8b70c56b832a6d83eb6dfab47ce2fe8a3b": "2026-11-14T01:14:13.131Z",
+    "f4831ed5c33ec5088dfe090f067c6a3a1c207b47": "2026-11-14T01:14:13.131Z",
+    "nvidia ai:5315e961d5a80aca": "2026-11-14T01:14:13.131Z",
+    "31a4c32eac66b0c9392f69ee418d5e09aecaf4e5": "2026-11-14T01:14:13.131Z",
+    "4dea8ce77a40d45986adf65199b169c60e84bcc1": "2026-11-14T01:14:13.131Z",
+    "nvidia ai:0340692659977ed9": "2026-11-14T01:14:13.131Z",
+    "https://openai.com/business/customer-stories/shield": "2026-11-14T01:14:13.131Z",
+    "cohere:a6222f4425dbe4eb": "2026-11-14T01:14:13.131Z",
+    "xai:dc8d8bf3f50d9717": "2026-11-14T01:14:13.131Z"
   },
-  "updatedAt": "2026-11-13T20:17:15.222Z"
+  "updatedAt": "2026-11-14T01:14:13.131Z"
 }

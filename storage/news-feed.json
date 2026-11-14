@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "https://openai.com/business/customer-stories/shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-13T08:00:00.000Z"
+    },
+    {
+      "id": "760cbc8b70c56b832a6d83eb6dfab47ce2fe8a3b",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-13T23:22:09.000Z"
+    },
+    {
+      "id": "f4831ed5c33ec5088dfe090f067c6a3a1c207b47",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-13T22:30:12.000Z"
+    },
+    {
+      "id": "31a4c32eac66b0c9392f69ee418d5e09aecaf4e5",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-13T22:02:39.000Z"
+    },
+    {
+      "id": "4dea8ce77a40d45986adf65199b169c60e84bcc1",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-13T21:53:40.000Z"
+    },
+    {
+      "id": "nvidia ai:5315e961d5a80aca",
+      "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+      "summary": "Many scientific simulations, from molecular chemistry to materials science, spend the majority of their execution time computing high-precision dense general... Many scientific simulations, from molecular chemistry to...",
+      "link": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-13T22:13:51.000Z"
+    },
+    {
+      "id": "nvidia ai:0340692659977ed9",
+      "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+      "summary": "Imaging black holes is challenging because they are distant and appear tiny in the sky—for example, M87*’s observed ring spans just 42 microarcseconds. The... Imaging black holes is challenging because they are distant...",
+      "link": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-13T21:17:17.000Z"
+    },
+    {
+      "id": "cohere:a6222f4425dbe4eb",
+      "title": "Cohere Expands Its Sovereign Ai Platform With Aisle And Cubic",
+      "summary": "Cohere Expands Its Sovereign Ai Platform With Aisle And Cubic",
+      "link": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-chatgpt-wallet",
       "title": "Introducing ChatGPT Wallet",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
@@ -1727,79 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:da595bebdd196f91",
-      "title": "Introducing Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:1e12b8abb16a83ce",
-      "title": "Introducing Grok for PowerPoint",
-      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
-      "link": "https://x.ai/news/introducing-powerpoint-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9c5cd59fc5d31e7d",
-      "title": "Announcing PromptIDE",
-      "summary": "Integrated development environment for prompt engineering and interpretability research.",
-      "link": "https://x.ai/news/prompt-ide",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:4c6b67f60cd9988a",
-      "title": "Announcing Grok",
-      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
-      "link": "https://x.ai/news/grok",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/devrev-enterprise-self-service",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "link": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "id": "xai:2517241f707dd2a2",
-      "title": "How SpaceXSI is using Grok Bot to scale customer support",
-      "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
-      "link": "https://x.ai/news/grok-bot-customer-support",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "af187d4dcc140f40d628b5b7a009df4d46179afa",
-      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-04T18:46:36.000Z"
-    },
-    {
-      "id": "nvidia ai:8fe0682a4c0850c9",
-      "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
-      "summary": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards... As GPU clusters scale, operations span compute, network,...",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-04T22:00:17.000Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:17:15.224Z"
+  "updatedAt": "2026-11-14T01:14:13.132Z"
 }
