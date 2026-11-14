@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "xai:48149f58a03dc5dd",
+      "title": "Introducing Grok for Outlook",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "link": "https://x.ai/news/introducing-outlook-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:7b96a44598fc39a3",
+      "title": "Introducing Grok for Excel",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "link": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "perplexity ai:a1d169f8fe12702e",
+      "title": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
+      "summary": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
+      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:2517241f707dd2a2",
       "title": "How SpaceXSI is using Grok Bot to scale customer support",
       "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
@@ -1772,34 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-11-05T16:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-05T19:35:16.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/phonon-tts",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "link": "https://huggingface.co/blog/phonon-tts",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:dc11ff2c22ad7d30",
-      "title": "News Nov 4, 2026 Teammates are agents for complex, ongoing work Perplexity teammates coordinate AI agents, manage ongoin",
-      "summary": "News Nov 4, 2026 Teammates are agents for complex, ongoing work Perplexity teammates coordinate AI agents, manage ongoin",
-      "link": "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-14T08:32:05.158Z"
+  "updatedAt": "2026-11-14T15:30:51.481Z"
 }
