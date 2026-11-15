@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "perplexity ai:dc11ff2c22ad7d30",
+      "title": "News Nov 4, 2026 Teammates are agents for complex, ongoing work Perplexity teammates coordinate AI agents, manage ongoin",
+      "summary": "News Nov 4, 2026 Teammates are agents for complex, ongoing work Perplexity teammates coordinate AI agents, manage ongoin",
+      "link": "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:48149f58a03dc5dd",
       "title": "Introducing Grok for Outlook",
       "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
@@ -1790,16 +1799,7 @@
       "source": "NVIDIA Technical Blog",
       "company": "NVIDIA AI",
       "publishedAt": "2026-11-05T17:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:c01bc671f3a1da08",
-      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
-      "summary": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an... In an AI factory, high bandwidth memory (HBM)is the...",
-      "link": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-05T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-14T15:30:51.481Z"
+  "updatedAt": "2026-11-15T00:42:00.732Z"
 }
