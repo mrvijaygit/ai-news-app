@@ -34,13 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:b2f58651e9a24a89",
-    "fd565c39336c51430810e927ad66178c9158fbf3",
-    "1e1539eea3be4ce999a3a6472187f690d96aec84",
-    "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "xai:9eeeefc09b0959e7",
-    "nvidia ai:a3845a3ee3dff19c",
-    "https://openai.com/index/model-misalignment-reporting-framework",
     "49c842b44edb1dd5449d9240e495051aa126e2d3",
     "3897ac24762f2462158b7a05b94713494788aa8c",
     "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779",
@@ -684,16 +677,10 @@
     "nvidia ai:0340692659977ed9",
     "https://openai.com/business/customer-stories/shield",
     "cohere:a6222f4425dbe4eb",
-    "xai:dc8d8bf3f50d9717"
+    "xai:dc8d8bf3f50d9717",
+    "https://openai.com/index/step-toward-defining-the-standard-model"
   ],
   "seenAt": {
-    "nvidia ai:b2f58651e9a24a89": "2026-09-16T20:55:34.015Z",
-    "fd565c39336c51430810e927ad66178c9158fbf3": "2026-09-16T20:55:34.015Z",
-    "1e1539eea3be4ce999a3a6472187f690d96aec84": "2026-09-16T20:55:34.015Z",
-    "https://openai.com/index/how-to-connect-ai-usage-to-business-value": "2026-09-16T20:55:34.015Z",
-    "xai:9eeeefc09b0959e7": "2026-09-16T20:55:34.015Z",
-    "nvidia ai:a3845a3ee3dff19c": "2026-09-16T23:31:50.208Z",
-    "https://openai.com/index/model-misalignment-reporting-framework": "2026-09-16T23:31:50.208Z",
     "49c842b44edb1dd5449d9240e495051aa126e2d3": "2026-09-17T18:47:00.752Z",
     "3897ac24762f2462158b7a05b94713494788aa8c": "2026-09-17T18:47:00.752Z",
     "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779": "2026-09-17T18:47:00.752Z",
@@ -1337,7 +1324,8 @@
     "nvidia ai:0340692659977ed9": "2026-11-14T01:14:13.131Z",
     "https://openai.com/business/customer-stories/shield": "2026-11-14T01:14:13.131Z",
     "cohere:a6222f4425dbe4eb": "2026-11-14T01:14:13.131Z",
-    "xai:dc8d8bf3f50d9717": "2026-11-14T01:14:13.131Z"
+    "xai:dc8d8bf3f50d9717": "2026-11-14T01:14:13.131Z",
+    "https://openai.com/index/step-toward-defining-the-standard-model": "2026-11-16T00:42:08.980Z"
   },
-  "updatedAt": "2026-11-14T01:14:13.131Z"
+  "updatedAt": "2026-11-16T00:42:08.980Z"
 }
