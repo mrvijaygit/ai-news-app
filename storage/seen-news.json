@@ -678,7 +678,23 @@
     "https://openai.com/business/customer-stories/shield",
     "cohere:a6222f4425dbe4eb",
     "xai:dc8d8bf3f50d9717",
-    "https://openai.com/index/step-toward-defining-the-standard-model"
+    "https://openai.com/index/step-toward-defining-the-standard-model",
+    "8d03145658ec1cdef2b0aca5628c08dfaffefb5a",
+    "9189364d4fda8ced7c7c27d0b70ec7adb9ac5ce3",
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "3813dbf1ca3824362df03525d76f7db4f5be7fd5",
+    "nvidia ai:eff6d1509f9c8315",
+    "nvidia ai:6fb2350a4505b395",
+    "nvidia ai:970bfb49a1275587",
+    "c3944f2d5e23bb6c54eabc4231344977ea98e1f9",
+    "https://openai.com/index/science-at-the-frontier",
+    "https://openai.com/index/lvmh-media-division-partnership",
+    "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "https://openai.com/index/the-kings-trust-and-openai",
+    "https://huggingface.co/blog/openrouter",
+    "perplexity ai:ddfb224fe8a17336"
   ],
   "seenAt": {
     "49c842b44edb1dd5449d9240e495051aa126e2d3": "2026-09-17T18:47:00.752Z",
@@ -1325,7 +1341,23 @@
     "https://openai.com/business/customer-stories/shield": "2026-11-14T01:14:13.131Z",
     "cohere:a6222f4425dbe4eb": "2026-11-14T01:14:13.131Z",
     "xai:dc8d8bf3f50d9717": "2026-11-14T01:14:13.131Z",
-    "https://openai.com/index/step-toward-defining-the-standard-model": "2026-11-16T00:42:08.980Z"
+    "https://openai.com/index/step-toward-defining-the-standard-model": "2026-11-16T00:42:08.980Z",
+    "8d03145658ec1cdef2b0aca5628c08dfaffefb5a": "2026-11-16T17:53:03.570Z",
+    "9189364d4fda8ced7c7c27d0b70ec7adb9ac5ce3": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers": "2026-11-16T17:53:03.570Z",
+    "3813dbf1ca3824362df03525d76f7db4f5be7fd5": "2026-11-16T17:53:03.570Z",
+    "nvidia ai:eff6d1509f9c8315": "2026-11-16T17:53:03.570Z",
+    "nvidia ai:6fb2350a4505b395": "2026-11-16T17:53:03.570Z",
+    "nvidia ai:970bfb49a1275587": "2026-11-16T17:53:03.570Z",
+    "c3944f2d5e23bb6c54eabc4231344977ea98e1f9": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/science-at-the-frontier": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/lvmh-media-division-partnership": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/our-first-phase-of-embedded-assessments": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/advancing-computer-use-for-healthcare-teams": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": "2026-11-16T17:53:03.570Z",
+    "https://openai.com/index/the-kings-trust-and-openai": "2026-11-16T17:53:03.570Z",
+    "https://huggingface.co/blog/openrouter": "2026-11-16T17:53:03.570Z",
+    "perplexity ai:ddfb224fe8a17336": "2026-11-16T17:53:03.570Z"
   },
-  "updatedAt": "2026-11-16T00:42:08.980Z"
+  "updatedAt": "2026-11-16T17:53:03.570Z"
 }
