@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/cooley-gopublic",
     "f7030591b5a0a92a50f229929b93194a36691b5e",
     "1470b50c6e37b81faa5a5f15f79660ea3af81564",
     "aa8456e8d8a89d6dee5077d18ffb4cde8af31d89",
@@ -695,10 +694,10 @@
     "2915fd77bac534686e62cc7588876a9c0f53a15a",
     "https://openai.com/business/customer-stories/holiday-extras-dots",
     "perplexity ai:03b8569833e0d5dc",
-    "perplexity ai:e17d680441148600"
+    "perplexity ai:e17d680441148600",
+    "https://openai.com/business/customer-stories/revolut"
   ],
   "seenAt": {
-    "https://openai.com/index/cooley-gopublic": "2026-09-18T03:02:10.576Z",
     "f7030591b5a0a92a50f229929b93194a36691b5e": "2026-09-18T13:21:38.188Z",
     "1470b50c6e37b81faa5a5f15f79660ea3af81564": "2026-09-18T17:27:32.594Z",
     "aa8456e8d8a89d6dee5077d18ffb4cde8af31d89": "2026-09-18T17:27:32.594Z",
@@ -1359,7 +1358,8 @@
     "2915fd77bac534686e62cc7588876a9c0f53a15a": "2026-11-17T01:30:59.135Z",
     "https://openai.com/business/customer-stories/holiday-extras-dots": "2026-11-17T01:30:59.135Z",
     "perplexity ai:03b8569833e0d5dc": "2026-11-17T01:30:59.135Z",
-    "perplexity ai:e17d680441148600": "2026-11-17T01:30:59.135Z"
+    "perplexity ai:e17d680441148600": "2026-11-17T01:30:59.135Z",
+    "https://openai.com/business/customer-stories/revolut": "2026-11-17T10:06:36.027Z"
   },
-  "updatedAt": "2026-11-17T01:30:59.135Z"
+  "updatedAt": "2026-11-17T10:06:36.027Z"
 }
