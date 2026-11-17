@@ -34,13 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "49c842b44edb1dd5449d9240e495051aa126e2d3",
-    "3897ac24762f2462158b7a05b94713494788aa8c",
-    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779",
-    "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "https://openai.com/index/astra-for-law",
-    "cohere:99f2dee5a43332af",
-    "cohere:0d758ae28485e5ae",
     "https://openai.com/index/cooley-gopublic",
     "f7030591b5a0a92a50f229929b93194a36691b5e",
     "1470b50c6e37b81faa5a5f15f79660ea3af81564",
@@ -694,16 +687,17 @@
     "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "https://openai.com/index/the-kings-trust-and-openai",
     "https://huggingface.co/blog/openrouter",
-    "perplexity ai:ddfb224fe8a17336"
+    "perplexity ai:ddfb224fe8a17336",
+    "6d1ff2e4339ff5c12febb03d6586784822aa87ad",
+    "nvidia ai:0f9c2ab0ea5ed5d3",
+    "4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
+    "6fae81f2f51c263e67f03ac10a33149b6fedcdd0",
+    "2915fd77bac534686e62cc7588876a9c0f53a15a",
+    "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "perplexity ai:03b8569833e0d5dc",
+    "perplexity ai:e17d680441148600"
   ],
   "seenAt": {
-    "49c842b44edb1dd5449d9240e495051aa126e2d3": "2026-09-17T18:47:00.752Z",
-    "3897ac24762f2462158b7a05b94713494788aa8c": "2026-09-17T18:47:00.752Z",
-    "6fcd0dc6eafcc2f00a69ff34bf749a0218ac4779": "2026-09-17T18:47:00.752Z",
-    "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/": "2026-09-17T21:53:53.645Z",
-    "https://openai.com/index/astra-for-law": "2026-09-17T21:53:53.645Z",
-    "cohere:99f2dee5a43332af": "2026-09-17T21:53:53.645Z",
-    "cohere:0d758ae28485e5ae": "2026-09-17T21:53:53.645Z",
     "https://openai.com/index/cooley-gopublic": "2026-09-18T03:02:10.576Z",
     "f7030591b5a0a92a50f229929b93194a36691b5e": "2026-09-18T13:21:38.188Z",
     "1470b50c6e37b81faa5a5f15f79660ea3af81564": "2026-09-18T17:27:32.594Z",
@@ -1357,7 +1351,15 @@
     "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": "2026-11-16T17:53:03.570Z",
     "https://openai.com/index/the-kings-trust-and-openai": "2026-11-16T17:53:03.570Z",
     "https://huggingface.co/blog/openrouter": "2026-11-16T17:53:03.570Z",
-    "perplexity ai:ddfb224fe8a17336": "2026-11-16T17:53:03.570Z"
+    "perplexity ai:ddfb224fe8a17336": "2026-11-16T17:53:03.570Z",
+    "6d1ff2e4339ff5c12febb03d6586784822aa87ad": "2026-11-17T01:30:59.135Z",
+    "nvidia ai:0f9c2ab0ea5ed5d3": "2026-11-17T01:30:59.135Z",
+    "4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef": "2026-11-17T01:30:59.135Z",
+    "6fae81f2f51c263e67f03ac10a33149b6fedcdd0": "2026-11-17T01:30:59.135Z",
+    "2915fd77bac534686e62cc7588876a9c0f53a15a": "2026-11-17T01:30:59.135Z",
+    "https://openai.com/business/customer-stories/holiday-extras-dots": "2026-11-17T01:30:59.135Z",
+    "perplexity ai:03b8569833e0d5dc": "2026-11-17T01:30:59.135Z",
+    "perplexity ai:e17d680441148600": "2026-11-17T01:30:59.135Z"
   },
-  "updatedAt": "2026-11-16T17:53:03.570Z"
+  "updatedAt": "2026-11-17T01:30:59.135Z"
 }
