@@ -34,7 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:ddc384453fa5c02a",
     "3e72f6421874630d0f6484fc3707a6d7794a7bcf",
     "f12234cf73981f2490e4c489bbcca4d6e19975e0",
     "43a40d8ac294a3b8cb40d4d820e61fb2a2f1dfb6",
@@ -711,10 +710,21 @@
     "xai:6e55d5bdb3ee3ce4",
     "xai:f4eff736ac48416d",
     "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "perplexity ai:4b7bfce4dceee9f1"
+    "perplexity ai:4b7bfce4dceee9f1",
+    "193eac1997a095a08f8e818e6f6e83666eaf07b1",
+    "b9c76438d6c86c4efceca2a1dafb6b469e7f3d82",
+    "d5eea00aea29a85eff0d9de8f93855cb71eff5af",
+    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "nvidia ai:0d36bb3df32af08b",
+    "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "https://openai.com/index/advancing-chip-design-with-our-models",
+    "https://huggingface.co/blog/moe-expert-streaming",
+    "https://huggingface.co/blog/rumble-2-flash",
+    "perplexity ai:0593f195fbea6c86",
+    "perplexity ai:557eff77c7852c6d"
   ],
   "seenAt": {
-    "xai:ddc384453fa5c02a": "2026-09-19T18:23:20.698Z",
     "3e72f6421874630d0f6484fc3707a6d7794a7bcf": "2026-09-21T17:49:05.812Z",
     "f12234cf73981f2490e4c489bbcca4d6e19975e0": "2026-09-21T17:49:05.812Z",
     "43a40d8ac294a3b8cb40d4d820e61fb2a2f1dfb6": "2026-09-21T17:49:05.812Z",
@@ -1391,7 +1401,19 @@
     "xai:6e55d5bdb3ee3ce4": "2026-11-18T02:03:30.567Z",
     "xai:f4eff736ac48416d": "2026-11-18T02:03:30.567Z",
     "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": "2026-11-18T11:03:35.263Z",
-    "perplexity ai:4b7bfce4dceee9f1": "2026-11-18T11:03:35.263Z"
+    "perplexity ai:4b7bfce4dceee9f1": "2026-11-18T11:03:35.263Z",
+    "193eac1997a095a08f8e818e6f6e83666eaf07b1": "2026-11-18T19:55:28.009Z",
+    "b9c76438d6c86c4efceca2a1dafb6b469e7f3d82": "2026-11-18T19:55:28.009Z",
+    "d5eea00aea29a85eff0d9de8f93855cb71eff5af": "2026-11-18T19:55:28.009Z",
+    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": "2026-11-18T19:55:28.009Z",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": "2026-11-18T19:55:28.009Z",
+    "nvidia ai:0d36bb3df32af08b": "2026-11-18T19:55:28.009Z",
+    "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": "2026-11-18T19:55:28.009Z",
+    "https://openai.com/index/advancing-chip-design-with-our-models": "2026-11-18T19:55:28.009Z",
+    "https://huggingface.co/blog/moe-expert-streaming": "2026-11-18T19:55:28.009Z",
+    "https://huggingface.co/blog/rumble-2-flash": "2026-11-18T19:55:28.009Z",
+    "perplexity ai:0593f195fbea6c86": "2026-11-18T19:55:28.009Z",
+    "perplexity ai:557eff77c7852c6d": "2026-11-18T19:55:28.009Z"
   },
-  "updatedAt": "2026-11-18T11:03:35.263Z"
+  "updatedAt": "2026-11-18T19:55:28.009Z"
 }

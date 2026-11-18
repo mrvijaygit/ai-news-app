@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-18T17:00:00.000Z"
+    },
+    {
+      "id": "xai:764b42fb7740a988",
+      "title": "Introducing Grok 4.5",
+      "summary": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
+      "link": "https://x.ai/news/grok-4-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ab219090a4ec5ef2",
+      "title": "Grok Imagine Video 1.5",
+      "summary": "Improved quality at even faster speeds.",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4126c5521b9e1336",
+      "title": "Composer 2.5",
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "link": "https://x.ai/news/composer-2-5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ae67cdc2e5ac21a4",
+      "title": "Grok Build 0.1 on API",
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "link": "https://x.ai/news/grok-build-0-1",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:202301d15429884f",
+      "title": "Use Grok in Kilo Code",
+      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
+      "link": "https://x.ai/news/grok-kilocode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9d5659da9528b35d",
+      "title": "Introducing Grok Build",
+      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
+      "link": "https://x.ai/news/grok-build-cli",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "193eac1997a095a08f8e818e6f6e83666eaf07b1",
+      "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "summary": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T19:05:45.000Z"
+    },
+    {
+      "id": "b9c76438d6c86c4efceca2a1dafb6b469e7f3d82",
+      "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+      "summary": "Stretto replaced its web-form lead capture with Tara, an AI voice agent built on Amazon Nova 2 Sonic that conducts bankruptcy intake interviews by phone and qualifies leads. See how Stretto, the AWS Generative AI...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T18:58:42.000Z"
+    },
+    {
+      "id": "d5eea00aea29a85eff0d9de8f93855cb71eff5af",
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "summary": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T18:54:08.000Z"
+    },
+    {
+      "id": "nvidia ai:0d36bb3df32af08b",
+      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+      "summary": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is... World model accuracy starts with high-quality, diverse...",
+      "link": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-18T17:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "Why your fine-tuning job takes longer than the FLOPs say",
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-18T18:53:43.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-18T15:00:23.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/moe-expert-streaming",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/rumble-2-flash",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:0593f195fbea6c86",
+      "title": "Nov 18, 2026 Context rot in AI agents: why long tasks lose accuracy and how to prevent it A guide to what builds up in a",
+      "summary": "Nov 18, 2026 Context rot in AI agents: why long tasks lose accuracy and how to prevent it A guide to what builds up in a",
+      "link": "https://www.perplexity.ai/hub/blog/context-rot",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:557eff77c7852c6d",
+      "title": "Nov 18, 2026 Self-improving skills How Perplexity Brain learns recurring procedures from experience and keeps them curre",
+      "summary": "Nov 18, 2026 Self-improving skills How Perplexity Brain learns recurring procedures from experience and keeps them curre",
+      "link": "https://www.perplexity.ai/hub/blog/self-improving-skills",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
@@ -1637,169 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:4ea5ad07a0d56f40",
-      "title": "Introducing Grok 4.6",
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
-      "link": "https://x.ai/news/grok-4-6",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:392dca10a759ab7c",
-      "title": "Introducing Build Mode",
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
-      "link": "https://x.ai/news/grok-build-mode",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:aeb52aceb6679ea3",
-      "title": "Grok 4.5 in GitHub Copilot",
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:ea7ad631cd2df309",
-      "title": "Introducing /goal",
-      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
-      "link": "https://x.ai/news/introducing-goal",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:950769d2f630ca6f",
-      "title": "Grok on Databricks",
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "link": "https://x.ai/news/grok-databricks",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:000376eced0f7685",
-      "title": "Grok on Amazon Bedrock",
-      "summary": "Grok models are now available via Amazon Bedrock.",
-      "link": "https://x.ai/news/grok-amazon-bedrock",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "8ef082e0d287956d1e252b1606af8d42f4e11b1e",
-      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
-      "summary": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-10T22:35:03.000Z"
-    },
-    {
-      "id": "090c81c3e9be757b6ab9880edbbf523fcf740c59",
-      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
-      "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-10T18:11:08.000Z"
-    },
-    {
-      "id": "cohere:29120f7dc0f80bf0",
-      "title": "Open Source Model Vault",
-      "summary": "Open Source Model Vault",
-      "link": "https://cohere.com/blog/open-source-model-vault",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-10T12:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-11-10T13:00:00.000Z"
-    },
-    {
-      "id": "xai:d14f086860d8757d",
-      "title": "Introducing Grok Voice 3.0",
-      "summary": "Oct 14, 2026",
-      "link": "https://x.ai/news/grok-voice-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6e55d5bdb3ee3ce4",
-      "title": "Introducing Grok Voice Transcribe 2.0",
-      "summary": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
-      "link": "https://x.ai/news/grok-voice-transcribe-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:16c4cffc8f18376e",
-      "title": "Grok Bot now works with X",
-      "summary": "Grok Bot now has a tighter integration with X.",
-      "link": "https://x.ai/news/grok-bot-and-x",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f4eca61a7bbcb22c",
-      "title": "Introducing Grok Voice 2.0",
-      "summary": "Introducing our most capable speech-to-speech voice model.",
-      "link": "https://x.ai/news/grok-voice-think-fast-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5814f5ea763c956b",
-      "title": "Grok in Google Workspace",
-      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
-      "link": "https://x.ai/news/introducing-google-workspace-addon",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:24ade0b14d4bf922",
-      "title": "Workflows in Grok Build",
-      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
-      "link": "https://x.ai/news/workflows",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-18T11:03:35.265Z"
+  "updatedAt": "2026-11-18T19:55:28.012Z"
 }
