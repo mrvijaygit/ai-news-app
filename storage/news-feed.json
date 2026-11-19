@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:f699e03b20cea950",
+      "title": "Introducing Grok Bot 1.0",
+      "summary": "Nov 11, 2026",
+      "link": "https://x.ai/news/grok-bot-1-0",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:56410469519f91d2",
+      "title": "Grok 4.6 in GitHub Copilot",
+      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-4-6-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "https://openai.com/index/research-acceleration-jagged-frontier",
       "title": "Research acceleration: The jagged frontier",
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
@@ -1781,25 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "52b0b0c3b44c826025ca35a812f53a3760ac1789",
-      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-      "summary": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T01:18:23.000Z"
-    },
-    {
-      "id": "faefdbed0491df7ffbfea5b7e93f3979e26376c0",
-      "title": "OpenAI Codex on Amazon Bedrock",
-      "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T23:35:47.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T01:41:10.286Z"
+  "updatedAt": "2026-11-19T09:49:50.438Z"
 }
