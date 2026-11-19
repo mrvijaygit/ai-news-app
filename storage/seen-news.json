@@ -734,7 +734,16 @@
     "https://openai.com/index/research-acceleration-jagged-frontier",
     "https://openai.com/business/customer-stories/sumitomo-life",
     "https://openai.com/index/managing-frontier-ai-risk",
-    "perplexity ai:7ef68f6c6f3383f1"
+    "perplexity ai:7ef68f6c6f3383f1",
+    "f3760d486fc3a253f618f5aadd62c89dc2633b7d",
+    "64eb7c5f6286bb53ae673651e85ab1d1e8321eda",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "4afdc62a132ff7a5a863c90bf1e3a0498e43a530",
+    "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "08fb4e238d4eba4747871a78311b05e8f79a2286",
+    "nvidia ai:abf7ce0a7d700611",
+    "7ff456a5559d031d63256bbaa7bf27e4940bf666",
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   ],
   "seenAt": {
     "3e72f6421874630d0f6484fc3707a6d7794a7bcf": "2026-09-21T17:49:05.812Z",
@@ -1437,7 +1446,16 @@
     "https://openai.com/index/research-acceleration-jagged-frontier": "2026-11-19T01:41:10.284Z",
     "https://openai.com/business/customer-stories/sumitomo-life": "2026-11-19T01:41:10.284Z",
     "https://openai.com/index/managing-frontier-ai-risk": "2026-11-19T01:41:10.284Z",
-    "perplexity ai:7ef68f6c6f3383f1": "2026-11-19T01:41:10.284Z"
+    "perplexity ai:7ef68f6c6f3383f1": "2026-11-19T01:41:10.284Z",
+    "f3760d486fc3a253f618f5aadd62c89dc2633b7d": "2026-11-19T18:49:51.863Z",
+    "64eb7c5f6286bb53ae673651e85ab1d1e8321eda": "2026-11-19T18:49:51.863Z",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/": "2026-11-19T18:49:51.863Z",
+    "4afdc62a132ff7a5a863c90bf1e3a0498e43a530": "2026-11-19T18:49:51.863Z",
+    "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/": "2026-11-19T18:49:51.863Z",
+    "08fb4e238d4eba4747871a78311b05e8f79a2286": "2026-11-19T18:49:51.863Z",
+    "nvidia ai:abf7ce0a7d700611": "2026-11-19T18:49:51.863Z",
+    "7ff456a5559d031d63256bbaa7bf27e4940bf666": "2026-11-19T18:49:51.863Z",
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": "2026-11-19T18:49:51.863Z"
   },
-  "updatedAt": "2026-11-19T01:41:10.284Z"
+  "updatedAt": "2026-11-19T18:49:51.863Z"
 }
