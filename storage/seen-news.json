@@ -722,7 +722,19 @@
     "https://huggingface.co/blog/moe-expert-streaming",
     "https://huggingface.co/blog/rumble-2-flash",
     "perplexity ai:0593f195fbea6c86",
-    "perplexity ai:557eff77c7852c6d"
+    "perplexity ai:557eff77c7852c6d",
+    "bc37888f62d641a4c4d60233598cdb1fdb44d420",
+    "7561fc3d330a372ef121d07f7930d0f64fd7d3eb",
+    "f425cf3fa0c23388415ee5b2e7e465135fd29761",
+    "179a030b28535518f068b87e596fbaedc2dd8926",
+    "894cf5f974d052ae129273f3503e15ca222b6c15",
+    "d20511fee78e1f57a74037658f9e257e5926dda8",
+    "8ef977d6239789a84140a268afc45f39deb45964",
+    "7e7d4a1108fa4b94b6ebe717fe2571f43d60e459",
+    "https://openai.com/index/research-acceleration-jagged-frontier",
+    "https://openai.com/business/customer-stories/sumitomo-life",
+    "https://openai.com/index/managing-frontier-ai-risk",
+    "perplexity ai:7ef68f6c6f3383f1"
   ],
   "seenAt": {
     "3e72f6421874630d0f6484fc3707a6d7794a7bcf": "2026-09-21T17:49:05.812Z",
@@ -1413,7 +1425,19 @@
     "https://huggingface.co/blog/moe-expert-streaming": "2026-11-18T19:55:28.009Z",
     "https://huggingface.co/blog/rumble-2-flash": "2026-11-18T19:55:28.009Z",
     "perplexity ai:0593f195fbea6c86": "2026-11-18T19:55:28.009Z",
-    "perplexity ai:557eff77c7852c6d": "2026-11-18T19:55:28.009Z"
+    "perplexity ai:557eff77c7852c6d": "2026-11-18T19:55:28.009Z",
+    "bc37888f62d641a4c4d60233598cdb1fdb44d420": "2026-11-19T01:41:10.284Z",
+    "7561fc3d330a372ef121d07f7930d0f64fd7d3eb": "2026-11-19T01:41:10.284Z",
+    "f425cf3fa0c23388415ee5b2e7e465135fd29761": "2026-11-19T01:41:10.284Z",
+    "179a030b28535518f068b87e596fbaedc2dd8926": "2026-11-19T01:41:10.284Z",
+    "894cf5f974d052ae129273f3503e15ca222b6c15": "2026-11-19T01:41:10.284Z",
+    "d20511fee78e1f57a74037658f9e257e5926dda8": "2026-11-19T01:41:10.284Z",
+    "8ef977d6239789a84140a268afc45f39deb45964": "2026-11-19T01:41:10.284Z",
+    "7e7d4a1108fa4b94b6ebe717fe2571f43d60e459": "2026-11-19T01:41:10.284Z",
+    "https://openai.com/index/research-acceleration-jagged-frontier": "2026-11-19T01:41:10.284Z",
+    "https://openai.com/business/customer-stories/sumitomo-life": "2026-11-19T01:41:10.284Z",
+    "https://openai.com/index/managing-frontier-ai-risk": "2026-11-19T01:41:10.284Z",
+    "perplexity ai:7ef68f6c6f3383f1": "2026-11-19T01:41:10.284Z"
   },
-  "updatedAt": "2026-11-18T19:55:28.009Z"
+  "updatedAt": "2026-11-19T01:41:10.284Z"
 }

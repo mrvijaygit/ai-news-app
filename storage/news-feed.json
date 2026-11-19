@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/sumitomo-life",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/index/managing-frontier-ai-risk",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "xai:d14f086860d8757d",
+      "title": "Introducing Grok Voice 3.0",
+      "summary": "The world’s most intelligent voice model.",
+      "link": "https://x.ai/news/grok-voice-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6e55d5bdb3ee3ce4",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "summary": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+      "link": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:16c4cffc8f18376e",
+      "title": "Grok Bot now works with X",
+      "summary": "Grok Bot now has a tighter integration with X.",
+      "link": "https://x.ai/news/grok-bot-and-x",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4ea5ad07a0d56f40",
+      "title": "Introducing Grok 4.6",
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "link": "https://x.ai/news/grok-4-6",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f4eca61a7bbcb22c",
+      "title": "Introducing Grok Voice 2.0",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "link": "https://x.ai/news/grok-voice-think-fast-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:392dca10a759ab7c",
+      "title": "Introducing Build Mode",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "link": "https://x.ai/news/grok-build-mode",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:aeb52aceb6679ea3",
+      "title": "Grok 4.5 in GitHub Copilot",
+      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
+      "link": "https://x.ai/news/grok-github-copilot",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5814f5ea763c956b",
+      "title": "Grok in Google Workspace",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "link": "https://x.ai/news/introducing-google-workspace-addon",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:24ade0b14d4bf922",
+      "title": "Workflows in Grok Build",
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+      "link": "https://x.ai/news/workflows",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:ea7ad631cd2df309",
+      "title": "Introducing /goal",
+      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
+      "link": "https://x.ai/news/introducing-goal",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:950769d2f630ca6f",
+      "title": "Grok on Databricks",
+      "summary": "Grok models are now available on Databricks Agent Bricks.",
+      "link": "https://x.ai/news/grok-databricks",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:000376eced0f7685",
+      "title": "Grok on Amazon Bedrock",
+      "summary": "Grok models are now available via Amazon Bedrock.",
+      "link": "https://x.ai/news/grok-amazon-bedrock",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "bc37888f62d641a4c4d60233598cdb1fdb44d420",
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "summary": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-19T00:15:58.000Z"
+    },
+    {
+      "id": "7561fc3d330a372ef121d07f7930d0f64fd7d3eb",
+      "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      "summary": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T23:58:22.000Z"
+    },
+    {
+      "id": "f425cf3fa0c23388415ee5b2e7e465135fd29761",
+      "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+      "summary": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T23:03:29.000Z"
+    },
+    {
+      "id": "179a030b28535518f068b87e596fbaedc2dd8926",
+      "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+      "summary": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T22:31:04.000Z"
+    },
+    {
+      "id": "894cf5f974d052ae129273f3503e15ca222b6c15",
+      "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+      "summary": "Airbnb runs evals on real engineering tasks and uses Amazon Bedrock observability to choose models for its coding agents and control production costs. This post shows how cost per task guides model selection, why...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T21:48:19.000Z"
+    },
+    {
+      "id": "d20511fee78e1f57a74037658f9e257e5926dda8",
+      "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
+      "summary": "Learn how to make RAG chatbot answers traceable with Amazon Aurora PostgreSQL, pgvector, and Amazon Bedrock Guardrails, logging sources, scores, and guardrail traces in SQL.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T21:38:22.000Z"
+    },
+    {
+      "id": "8ef977d6239789a84140a268afc45f39deb45964",
+      "title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
+      "summary": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs), so your agents can connect to self-hosted identity providers that use a private CA. This post shows how to issue an IdP certificate...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T20:53:41.000Z"
+    },
+    {
+      "id": "7e7d4a1108fa4b94b6ebe717fe2571f43d60e459",
+      "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "summary": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving. Salesforce adds capacity securely across Regions and accounts while...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-18T20:13:18.000Z"
+    },
+    {
+      "id": "perplexity ai:7ef68f6c6f3383f1",
+      "title": "Nov 18, 2026 Work with teammates on mobile with voice mode Perplexity Max subscribers can call teammates to assign tasks",
+      "summary": "Nov 18, 2026 Work with teammates on mobile with voice mode Perplexity Max subscribers can call teammates to assign tasks",
+      "link": "https://www.perplexity.ai/hub/blog/work-with-teammates-on-mobile-with-voice-mode",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/advancing-chip-design-with-our-models",
       "title": "Advancing chip design with OpenAI models",
       "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
@@ -1583,223 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-11-11T23:35:47.000Z"
-    },
-    {
-      "id": "e385fb30922b28f568762a23f0c6b0abe2c192d9",
-      "title": "Semantic diffing of formal policies with anti-unification",
-      "summary": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T23:33:03.000Z"
-    },
-    {
-      "id": "811b8dfa171613df698db45e0ea693304815500b",
-      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
-      "summary": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T23:13:16.000Z"
-    },
-    {
-      "id": "3f4d5141e9f40cbc6421464d50f65cb07b20edb9",
-      "title": "ICYMI: What landed for AI builders in October 2026",
-      "summary": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T22:26:40.000Z"
-    },
-    {
-      "id": "b338f8a43166a0bd154498911d8a00e6632a53b4",
-      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
-      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T21:05:59.000Z"
-    },
-    {
-      "id": "eee5d43fead189e55bac9d295c979e1d24fbb7ff",
-      "title": "Automating AWS Agent Registry updates with push-based architecture",
-      "summary": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T20:52:48.000Z"
-    },
-    {
-      "id": "0e166aea5fc5e99de63f67eb0887a9fb579fb51f",
-      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
-      "summary": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T20:45:45.000Z"
-    },
-    {
-      "id": "942893d15c6ed4a3b822a98a54e996da0a60453b",
-      "title": "Accelerating generative AI delivery with reusable assets",
-      "summary": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T19:19:21.000Z"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-11-11T18:00:00.000Z"
-    },
-    {
-      "id": "xai:f699e03b20cea950",
-      "title": "Introducing Grok Bot 1.0",
-      "summary": "Nov 2, 2026",
-      "link": "https://x.ai/news/grok-bot-1-0",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "ca32afd4562f4691a5e0c8183feb87808df97a2a",
-      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
-      "summary": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T16:05:33.000Z"
-    },
-    {
-      "id": "7134bb29ee133c2d22189c4c963a132a593c00aa",
-      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
-      "summary": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T15:50:55.000Z"
-    },
-    {
-      "id": "09f20b599e1ea4e477b4979d15326bbd992cf96d",
-      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
-      "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T15:10:23.000Z"
-    },
-    {
-      "id": "nvidia ai:5c2e2be5341c68fa",
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
-      "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform... As teams deploy and scale AI workloads using NVIDIA Dynamo,...",
-      "link": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-11T17:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/token-pooling",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "link": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:d71c9748073c8807",
-      "title": "Research Nov 11, 2026 Escaping SPACE: Part II Model behavior in red-teaming experiments.",
-      "summary": "Research Nov 11, 2026 Escaping SPACE: Part II Model behavior in red-teaming experiments.",
-      "link": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-11T08:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/singapore-airlines-travel-work",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "link": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-10T08:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/cogent-security",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "link": "https://openai.com/index/cogent-security",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/qvac/botpsy",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "link": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-11T05:01:16.000Z"
-    },
-    {
-      "id": "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064",
-      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-11T01:07:19.000Z"
-    },
-    {
-      "id": "e67f3a0f38da6d5f16c13370534db7c14abe780a",
-      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
-      "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-10T23:34:05.000Z"
-    },
-    {
-      "id": "https://openai.com/index/introducing-businesses-chatgpt",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-10T10:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "id": "xai:56410469519f91d2",
-      "title": "Grok 4.6 in GitHub Copilot",
-      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
-      "link": "https://x.ai/news/grok-4-6-github-copilot",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-18T19:55:28.012Z"
+  "updatedAt": "2026-11-19T01:41:10.286Z"
 }
