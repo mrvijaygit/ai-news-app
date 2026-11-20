@@ -34,14 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "3e72f6421874630d0f6484fc3707a6d7794a7bcf",
-    "f12234cf73981f2490e4c489bbcca4d6e19975e0",
-    "43a40d8ac294a3b8cb40d4d820e61fb2a2f1dfb6",
-    "nvidia ai:3794eeb4c20b2c3a",
-    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "https://openai.com/index/v7",
-    "xai:e3a36f0ed959a8ae",
-    "xai:13a5a3be6d8e7c4c",
     "nvidia ai:d8d788176e3d409e",
     "56dfeac3bfef33ff7b19f174cf3e455627c66990",
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
@@ -752,17 +744,12 @@
     "nvidia ai:c54c30d9cee1a07b",
     "83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5",
     "0284d123338e8b4392bdbafcf50be65e5c2ba081",
-    "https://openai.com/business/learn/pr-scans-demo"
+    "https://openai.com/business/learn/pr-scans-demo",
+    "https://huggingface.co/blog/harness-adapters-at-scale",
+    "xai:e3a36f0ed959a8ae",
+    "xai:13a5a3be6d8e7c4c"
   ],
   "seenAt": {
-    "3e72f6421874630d0f6484fc3707a6d7794a7bcf": "2026-09-21T17:49:05.812Z",
-    "f12234cf73981f2490e4c489bbcca4d6e19975e0": "2026-09-21T17:49:05.812Z",
-    "43a40d8ac294a3b8cb40d4d820e61fb2a2f1dfb6": "2026-09-21T17:49:05.812Z",
-    "nvidia ai:3794eeb4c20b2c3a": "2026-09-21T17:49:05.812Z",
-    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": "2026-09-21T17:49:05.812Z",
-    "https://openai.com/index/v7": "2026-09-21T17:49:05.812Z",
-    "xai:e3a36f0ed959a8ae": "2026-09-21T17:49:05.812Z",
-    "xai:13a5a3be6d8e7c4c": "2026-09-21T17:49:05.812Z",
     "nvidia ai:d8d788176e3d409e": "2026-09-21T21:40:16.536Z",
     "56dfeac3bfef33ff7b19f174cf3e455627c66990": "2026-09-21T21:40:16.536Z",
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": "2026-09-21T21:40:16.536Z",
@@ -1473,7 +1460,10 @@
     "nvidia ai:c54c30d9cee1a07b": "2026-11-20T01:00:23.805Z",
     "83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5": "2026-11-20T01:00:23.805Z",
     "0284d123338e8b4392bdbafcf50be65e5c2ba081": "2026-11-20T01:00:23.805Z",
-    "https://openai.com/business/learn/pr-scans-demo": "2026-11-20T01:00:23.805Z"
+    "https://openai.com/business/learn/pr-scans-demo": "2026-11-20T01:00:23.805Z",
+    "https://huggingface.co/blog/harness-adapters-at-scale": "2026-11-20T18:15:37.850Z",
+    "xai:e3a36f0ed959a8ae": "2026-11-20T18:15:37.850Z",
+    "xai:13a5a3be6d8e7c4c": "2026-11-20T18:15:37.850Z"
   },
-  "updatedAt": "2026-11-20T01:00:23.805Z"
+  "updatedAt": "2026-11-20T18:15:37.850Z"
 }

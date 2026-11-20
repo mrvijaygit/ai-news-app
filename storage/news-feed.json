@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
       "id": "xai:7f96b684a449083b",
       "title": "Grok Imagine 1.5 Preview",
       "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
@@ -1790,16 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:61a45589bea1e81d",
-      "title": "Grok Build is Now Open Source",
-      "summary": "Explore the harness behind our coding agent and TUI.",
-      "link": "https://x.ai/news/grok-build-open-source",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-20T09:36:51.810Z"
+  "updatedAt": "2026-11-20T18:15:37.852Z"
 }
