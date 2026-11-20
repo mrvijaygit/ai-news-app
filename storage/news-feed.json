@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "https://openai.com/business/learn/pr-scans-demo",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "xai:9e2ab772b6096aab",
+      "title": "Introducing The X Subscription",
+      "summary": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+      "link": "https://x.ai/news/x-subscription",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "19955f2885c60f352884dbb3fc318cc9afbc5339",
+      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "summary": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance,...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-20T00:34:07.000Z"
+    },
+    {
+      "id": "71f08435a376a063de0a38fc52648940b0309672",
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "summary": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-20T00:33:30.000Z"
+    },
+    {
+      "id": "1b0652cc95393da48c861946cd586856ffb3f573",
+      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "summary": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-19T23:02:16.000Z"
+    },
+    {
+      "id": "1330a64685170b909926b2b4b2a02424e8e39834",
+      "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+      "summary": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-19T22:20:23.000Z"
+    },
+    {
+      "id": "e173d85d5b258de98c02cefa501644ec74000613",
+      "title": "Inside Amazon Connect Talent: The science of structured AI interviews ",
+      "summary": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-19T21:23:20.000Z"
+    },
+    {
+      "id": "83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5",
+      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-19T20:01:06.000Z"
+    },
+    {
+      "id": "0284d123338e8b4392bdbafcf50be65e5c2ba081",
+      "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+      "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-19T19:53:32.000Z"
+    },
+    {
+      "id": "nvidia ai:c54c30d9cee1a07b",
+      "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+      "summary": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate... Reinforcement learning (RL) uses rewards to train...",
+      "link": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-19T20:28:13.000Z"
+    },
+    {
       "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -1709,97 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-11-12T20:00:00.000Z"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "company": "Google AI / Gemini",
-      "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "id": "xai:7f96b684a449083b",
-      "title": "Grok Imagine 1.5 Preview",
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "link": "https://x.ai/news/grok-imagine-1-5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
-      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-      "summary": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T22:03:34.000Z"
-    },
-    {
-      "id": "787b1b13cc7c9546be4afedb6d427a9b0c7e6990",
-      "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
-      "summary": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T21:47:07.000Z"
-    },
-    {
-      "id": "ced40265f1aaea8576eb1b20e2dbe39d4314107f",
-      "title": "Four Amazon Bedrock inference choices that affect cost",
-      "summary": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T20:51:55.000Z"
-    },
-    {
-      "id": "8db53e7d13c7fb7eb110840d4bdf22942b447b95",
-      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
-      "summary": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T18:43:19.000Z"
-    },
-    {
-      "id": "f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba",
-      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
-      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T18:41:12.000Z"
-    },
-    {
-      "id": "5460e26111aeb2444e58fb192084957f53ebb300",
-      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
-      "summary": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-12T17:59:59.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-12T19:07:35.000Z"
-    },
-    {
-      "id": "cohere:7d1eaa89f55122de",
-      "title": "Cohere Welcomes Jaya Baloo As First Ciso",
-      "summary": "Cohere Welcomes Jaya Baloo As First Ciso",
-      "link": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
-      "source": "Cohere Blog",
-      "company": "Cohere",
-      "publishedAt": "2026-11-12T00:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T18:49:51.866Z"
+  "updatedAt": "2026-11-20T01:00:23.808Z"
 }
