@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "xai:9fd7e7592c1ada50",
+      "title": "Grok Bot is now included with more plans",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "link": "https://x.ai/news/grok-bot-more-plans",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:406de15113b3310a",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "link": "https://x.ai/news/grok-4-6-vertex-ai",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "xai:e3a36f0ed959a8ae",
       "title": "Introducing Grok 4.7",
       "summary": "SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
@@ -1781,25 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-11-13T22:02:39.000Z"
-    },
-    {
-      "id": "4dea8ce77a40d45986adf65199b169c60e84bcc1",
-      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
-      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism,...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-13T21:53:40.000Z"
-    },
-    {
-      "id": "nvidia ai:5315e961d5a80aca",
-      "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
-      "summary": "Many scientific simulations, from molecular chemistry to materials science, spend the majority of their execution time computing high-precision dense general... Many scientific simulations, from molecular chemistry to...",
-      "link": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-13T22:13:51.000Z"
     }
   ],
-  "updatedAt": "2026-11-21T07:56:52.248Z"
+  "updatedAt": "2026-11-21T15:56:12.983Z"
 }
