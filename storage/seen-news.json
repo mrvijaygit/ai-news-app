@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "nvidia ai:9af63b13d38be52d",
-    "xai:24ade0b14d4bf922",
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "bc39639b8f4e4cc7c356256fa699e460f9a01fa5",
     "5066ec9c015f24d80bf639cd7289221c5f05bc08",
@@ -757,11 +755,11 @@
     "cohere:68c8f9805a2aecfe",
     "cohere:993260b73653039b",
     "cohere:3b0b7128bff25f35",
-    "cohere:b768f6f56558f014"
+    "cohere:b768f6f56558f014",
+    "02c52259bc83b8aa57b8410eb8c813a22ed5fd28",
+    "xai:24ade0b14d4bf922"
   ],
   "seenAt": {
-    "nvidia ai:9af63b13d38be52d": "2026-09-22T00:33:52.160Z",
-    "xai:24ade0b14d4bf922": "2026-09-22T00:33:52.160Z",
     "https://huggingface.co/blog/transformers-llama-cpp-quants": "2026-09-22T10:54:44.158Z",
     "bc39639b8f4e4cc7c356256fa699e460f9a01fa5": "2026-09-22T15:24:11.169Z",
     "5066ec9c015f24d80bf639cd7289221c5f05bc08": "2026-09-22T15:24:11.169Z",
@@ -1483,7 +1481,9 @@
     "cohere:68c8f9805a2aecfe": "2026-11-21T00:33:33.810Z",
     "cohere:993260b73653039b": "2026-11-21T00:33:33.810Z",
     "cohere:3b0b7128bff25f35": "2026-11-21T00:33:33.810Z",
-    "cohere:b768f6f56558f014": "2026-11-21T00:33:33.810Z"
+    "cohere:b768f6f56558f014": "2026-11-21T00:33:33.810Z",
+    "02c52259bc83b8aa57b8410eb8c813a22ed5fd28": "2026-11-21T07:56:52.246Z",
+    "xai:24ade0b14d4bf922": "2026-11-21T07:56:52.246Z"
   },
-  "updatedAt": "2026-11-21T00:33:33.810Z"
+  "updatedAt": "2026-11-21T07:56:52.246Z"
 }
