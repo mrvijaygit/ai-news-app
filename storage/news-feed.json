@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-22T00:00:00.000Z"
+    },
+    {
       "id": "2f499b0fad46f2d46fc1c337c454cd6adc7edd47",
       "title": "Meta ads is now available in AWS Quick",
       "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data...",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-11-13T23:22:09.000Z"
-    },
-    {
-      "id": "f4831ed5c33ec5088dfe090f067c6a3a1c207b47",
-      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-13T22:30:12.000Z"
     }
   ],
-  "updatedAt": "2026-11-22T09:17:11.760Z"
+  "updatedAt": "2026-11-22T23:10:48.094Z"
 }
