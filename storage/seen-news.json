@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "xai:202301d15429884f",
     "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb",
     "427cff8805a421ac08f11c5e6f8349509b2ca46f",
     "nvidia ai:769dd955f0bfdd07",
@@ -724,11 +722,12 @@
     "xai:4c6b67f60cd9988a",
     "xai:5814f5ea763c956b",
     "2f499b0fad46f2d46fc1c337c454cd6adc7edd47",
-    "https://openai.com/index/perplexity-and-intelligence"
+    "https://openai.com/index/perplexity-and-intelligence",
+    "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "https://huggingface.co/blog/agentic-evals",
+    "xai:202301d15429884f"
   ],
   "seenAt": {
-    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": "2026-09-24T13:08:40.767Z",
-    "xai:202301d15429884f": "2026-09-24T13:08:40.767Z",
     "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb": "2026-09-24T18:08:32.822Z",
     "427cff8805a421ac08f11c5e6f8349509b2ca46f": "2026-09-24T18:08:32.822Z",
     "nvidia ai:769dd955f0bfdd07": "2026-09-24T18:08:32.822Z",
@@ -1417,7 +1416,10 @@
     "xai:4c6b67f60cd9988a": "2026-11-21T15:56:12.981Z",
     "xai:5814f5ea763c956b": "2026-11-21T21:26:54.264Z",
     "2f499b0fad46f2d46fc1c337c454cd6adc7edd47": "2026-11-22T09:17:11.758Z",
-    "https://openai.com/index/perplexity-and-intelligence": "2026-11-22T23:10:48.092Z"
+    "https://openai.com/index/perplexity-and-intelligence": "2026-11-22T23:10:48.092Z",
+    "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/": "2026-11-23T17:17:18.057Z",
+    "https://huggingface.co/blog/agentic-evals": "2026-11-23T17:17:18.057Z",
+    "xai:202301d15429884f": "2026-11-23T17:17:18.057Z"
   },
-  "updatedAt": "2026-11-22T23:10:48.092Z"
+  "updatedAt": "2026-11-23T17:17:18.057Z"
 }
