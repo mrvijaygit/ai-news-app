@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-24T13:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/ifood",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "publishedAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
+      "company": "Google AI / Gemini",
+      "publishedAt": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "id": "xai:1e12b8abb16a83ce",
+      "title": "Introducing Grok for PowerPoint",
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "link": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9c5cd59fc5d31e7d",
+      "title": "Announcing PromptIDE",
+      "summary": "Integrated development environment for prompt engineering and interpretability research.",
+      "link": "https://x.ai/news/prompt-ide",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:4c6b67f60cd9988a",
+      "title": "Announcing Grok",
+      "summary": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+      "link": "https://x.ai/news/grok",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "76b2285b501c3518d9f413fc227aa9b97a5e6b72",
+      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
+      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards...",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "source": "AWS Machine Learning Blog",
+      "company": "AWS AI",
+      "publishedAt": "2026-11-24T05:01:14.000Z"
+    },
+    {
+      "id": "nvidia ai:83557b740f215c24",
+      "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "summary": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world... Running video generation models locally can be...",
+      "link": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-24T18:44:05.000Z"
+    },
+    {
+      "id": "nvidia ai:f23a75cbc48f8b57",
+      "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+      "summary": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microsecond. Preparing this data for AI-based market... Market data arrives as a stream of trades and quotes: every...",
+      "link": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-24T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:5ff6479391aa6936",
+      "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+      "summary": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image... This month’s NVIDIA game development updates help teams bring...",
+      "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-24T17:00:00.000Z"
+    },
+    {
+      "id": "nvidia ai:ca20ab6bf2b6cece",
+      "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "summary": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more... Where Winds Meet moves between distant mountain landscapes,...",
+      "link": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-24T14:00:00.000Z"
+    },
+    {
       "id": "https://openai.com/index/introducing-shirudo",
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
@@ -1691,115 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-11-16T15:42:41.000Z"
-    },
-    {
-      "id": "nvidia ai:eff6d1509f9c8315",
-      "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
-      "summary": "Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents... Agentic AI is reshaping scientific research and...",
-      "link": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-16T16:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:6fb2350a4505b395",
-      "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
-      "summary": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool... Agentic workloads are demanding more from inference...",
-      "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-16T16:00:00.000Z"
-    },
-    {
-      "id": "nvidia ai:970bfb49a1275587",
-      "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
-      "summary": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf... As AI agents tackle increasingly complex workflows,...",
-      "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-16T16:00:00.000Z"
-    },
-    {
-      "id": "https://huggingface.co/blog/openrouter",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "summary": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "link": "https://huggingface.co/blog/openrouter",
-      "source": "Hugging Face Blog",
-      "company": "Hugging Face",
-      "publishedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "perplexity ai:ddfb224fe8a17336",
-      "title": "Nov 16, 2026 Introducing Perplexity Frontier Research Our mission and research agenda in advancing autonomous discovery ",
-      "summary": "Nov 16, 2026 Introducing Perplexity Frontier Research Our mission and research agenda in advancing autonomous discovery",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-15T22:00:01.000Z"
-    },
-    {
-      "id": "perplexity ai:dc11ff2c22ad7d30",
-      "title": "News Nov 4, 2026 Teammates are agents for complex, ongoing work Perplexity teammates coordinate AI agents, manage ongoin",
-      "summary": "News Nov 4, 2026 Teammates are agents for complex, ongoing work Perplexity teammates coordinate AI agents, manage ongoin",
-      "link": "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:48149f58a03dc5dd",
-      "title": "Introducing Grok for Outlook",
-      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
-      "link": "https://x.ai/news/introducing-outlook-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:7b96a44598fc39a3",
-      "title": "Introducing Grok for Excel",
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "link": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:a1d169f8fe12702e",
-      "title": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
-      "summary": "Developers Sep 28, 2026 Agent API now supports reusable agents Teams create reusable agents with versioned Profiles, Ski",
-      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2517241f707dd2a2",
-      "title": "How SpaceXSI is using Grok Bot to scale customer support",
-      "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
-      "link": "https://x.ai/news/grok-bot-customer-support",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:da595bebdd196f91",
-      "title": "Introducing Grok for Word",
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
-      "link": "https://x.ai/news/introducing-word-addin",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-24T03:45:25.758Z"
+  "updatedAt": "2026-11-24T23:43:37.819Z"
 }

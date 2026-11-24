@@ -34,12 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "https://openai.com/index/proaction",
-    "b119ac0e22c146d6b8a4049102737ff963987138",
-    "d32b748fe9d6f6dd6643926259f6ad08cf697479",
-    "3b00dd9f3c6b3b5dda58a9808f9dba8711724685",
-    "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd",
-    "ea9c3794156b7050a4cb777dc63887c488fc15b1",
     "xai:ae67cdc2e5ac21a4",
     "xai:a1e6fcd31f7e65d4",
     "xai:392dca10a759ab7c",
@@ -724,15 +718,18 @@
     "xai:202301d15429884f",
     "https://openai.com/index/introducing-shirudo",
     "nvidia ai:f3523b67d317f4f7",
-    "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "nvidia ai:83557b740f215c24",
+    "nvidia ai:f23a75cbc48f8b57",
+    "nvidia ai:5ff6479391aa6936",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "nvidia ai:ca20ab6bf2b6cece",
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "76b2285b501c3518d9f413fc227aa9b97a5e6b72",
+    "https://openai.com/business/customer-stories/ifood",
+    "https://openai.com/business/customer-stories/clay-plugins-openai"
   ],
   "seenAt": {
-    "https://openai.com/index/proaction": "2026-09-25T16:27:05.742Z",
-    "b119ac0e22c146d6b8a4049102737ff963987138": "2026-09-25T16:27:05.742Z",
-    "d32b748fe9d6f6dd6643926259f6ad08cf697479": "2026-09-25T16:27:05.742Z",
-    "3b00dd9f3c6b3b5dda58a9808f9dba8711724685": "2026-09-25T16:27:05.742Z",
-    "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd": "2026-09-25T16:27:05.742Z",
-    "ea9c3794156b7050a4cb777dc63887c488fc15b1": "2026-09-25T20:13:05.054Z",
     "xai:ae67cdc2e5ac21a4": "2026-09-25T23:46:36.166Z",
     "xai:a1e6fcd31f7e65d4": "2026-09-25T23:46:36.166Z",
     "xai:392dca10a759ab7c": "2026-09-26T18:16:40.530Z",
@@ -1417,7 +1414,16 @@
     "xai:202301d15429884f": "2026-11-23T17:17:18.057Z",
     "https://openai.com/index/introducing-shirudo": "2026-11-24T03:45:25.756Z",
     "nvidia ai:f3523b67d317f4f7": "2026-11-24T03:45:25.756Z",
-    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": "2026-11-24T03:45:25.756Z"
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": "2026-11-24T03:45:25.756Z",
+    "nvidia ai:83557b740f215c24": "2026-11-24T23:43:37.817Z",
+    "nvidia ai:f23a75cbc48f8b57": "2026-11-24T23:43:37.817Z",
+    "nvidia ai:5ff6479391aa6936": "2026-11-24T23:43:37.817Z",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/": "2026-11-24T23:43:37.817Z",
+    "nvidia ai:ca20ab6bf2b6cece": "2026-11-24T23:43:37.817Z",
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": "2026-11-24T23:43:37.817Z",
+    "76b2285b501c3518d9f413fc227aa9b97a5e6b72": "2026-11-24T23:43:37.817Z",
+    "https://openai.com/business/customer-stories/ifood": "2026-11-24T23:43:37.817Z",
+    "https://openai.com/business/customer-stories/clay-plugins-openai": "2026-11-24T23:43:37.817Z"
   },
-  "updatedAt": "2026-11-24T03:45:25.756Z"
+  "updatedAt": "2026-11-24T23:43:37.817Z"
 }
