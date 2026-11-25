@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "An Indic Voice Agent with CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-25T10:22:09.000Z"
+    },
+    {
       "id": "xai:2517241f707dd2a2",
       "title": "How SpaceXSI is using Grok Bot to scale customer support",
       "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
@@ -1790,16 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-11-16T06:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T06:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T06:51:28.798Z"
+  "updatedAt": "2026-11-25T17:46:16.863Z"
 }

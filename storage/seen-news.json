@@ -727,7 +727,8 @@
     "https://openai.com/business/customer-stories/ifood",
     "https://openai.com/business/customer-stories/clay-plugins-openai",
     "xai:ae67cdc2e5ac21a4",
-    "xai:a1e6fcd31f7e65d4"
+    "xai:a1e6fcd31f7e65d4",
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
   ],
   "seenAt": {
     "xai:392dca10a759ab7c": "2026-09-26T18:16:40.530Z",
@@ -1423,7 +1424,8 @@
     "https://openai.com/business/customer-stories/ifood": "2026-11-24T23:43:37.817Z",
     "https://openai.com/business/customer-stories/clay-plugins-openai": "2026-11-24T23:43:37.817Z",
     "xai:ae67cdc2e5ac21a4": "2026-11-25T06:51:28.796Z",
-    "xai:a1e6fcd31f7e65d4": "2026-11-25T06:51:28.796Z"
+    "xai:a1e6fcd31f7e65d4": "2026-11-25T06:51:28.796Z",
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T17:46:16.860Z"
   },
-  "updatedAt": "2026-11-25T06:51:28.796Z"
+  "updatedAt": "2026-11-25T17:46:16.860Z"
 }
