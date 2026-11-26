@@ -733,7 +733,12 @@
     "perplexity ai:df5b76c78529df91",
     "xai:392dca10a759ab7c",
     "xai:aeb52aceb6679ea3",
-    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "https://huggingface.co/blog/training-swarms",
+    "perplexity ai:2bb49d4defd5507d",
+    "perplexity ai:69a1c78b7cb54b87",
+    "perplexity ai:b2dfb9c5c2f58d85"
   ],
   "seenAt": {
     "be959add1e3f236c1c0a04b0919aa38f042b4622": "2026-09-28T18:24:07.453Z",
@@ -1435,7 +1440,12 @@
     "perplexity ai:df5b76c78529df91": "2026-11-26T01:29:59.595Z",
     "xai:392dca10a759ab7c": "2026-11-26T01:29:59.595Z",
     "xai:aeb52aceb6679ea3": "2026-11-26T01:29:59.595Z",
-    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T10:24:01.486Z"
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T10:24:01.486Z",
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": "2026-11-26T19:57:38.608Z",
+    "https://huggingface.co/blog/training-swarms": "2026-11-26T19:57:38.608Z",
+    "perplexity ai:2bb49d4defd5507d": "2026-11-26T19:57:38.608Z",
+    "perplexity ai:69a1c78b7cb54b87": "2026-11-26T19:57:38.608Z",
+    "perplexity ai:b2dfb9c5c2f58d85": "2026-11-26T19:57:38.608Z"
   },
-  "updatedAt": "2026-11-26T10:24:01.486Z"
+  "updatedAt": "2026-11-26T19:57:38.608Z"
 }
