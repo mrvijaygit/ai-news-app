@@ -34,8 +34,6 @@
     "366a5ccf11f5d57208fe454dcf8742287be296fe",
     "dfb8726af7d2549b3342f1b74cbc185b02fb8fc3",
     "nvidia ai:41d79a3d93d014c5",
-    "xai:392dca10a759ab7c",
-    "xai:aeb52aceb6679ea3",
     "be959add1e3f236c1c0a04b0919aa38f042b4622",
     "aec2d25cc981395a6fa5ae4a221b4e0ba14ccbf2",
     "6122eefc7690836dc43c93a6f5a9bd795f679f12",
@@ -728,11 +726,15 @@
     "https://openai.com/business/customer-stories/clay-plugins-openai",
     "xai:ae67cdc2e5ac21a4",
     "xai:a1e6fcd31f7e65d4",
-    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "nvidia ai:cd1dc94bd3c131b3",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "perplexity ai:0f9e945b3bf5379f",
+    "perplexity ai:df5b76c78529df91",
+    "xai:392dca10a759ab7c",
+    "xai:aeb52aceb6679ea3"
   ],
   "seenAt": {
-    "xai:392dca10a759ab7c": "2026-09-26T18:16:40.530Z",
-    "xai:aeb52aceb6679ea3": "2026-09-27T00:11:24.134Z",
     "be959add1e3f236c1c0a04b0919aa38f042b4622": "2026-09-28T18:24:07.453Z",
     "aec2d25cc981395a6fa5ae4a221b4e0ba14ccbf2": "2026-09-28T18:24:07.453Z",
     "6122eefc7690836dc43c93a6f5a9bd795f679f12": "2026-09-28T18:24:07.453Z",
@@ -1425,7 +1427,13 @@
     "https://openai.com/business/customer-stories/clay-plugins-openai": "2026-11-24T23:43:37.817Z",
     "xai:ae67cdc2e5ac21a4": "2026-11-25T06:51:28.796Z",
     "xai:a1e6fcd31f7e65d4": "2026-11-25T06:51:28.796Z",
-    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T17:46:16.860Z"
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T17:46:16.860Z",
+    "nvidia ai:cd1dc94bd3c131b3": "2026-11-26T01:29:59.595Z",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": "2026-11-26T01:29:59.595Z",
+    "perplexity ai:0f9e945b3bf5379f": "2026-11-26T01:29:59.595Z",
+    "perplexity ai:df5b76c78529df91": "2026-11-26T01:29:59.595Z",
+    "xai:392dca10a759ab7c": "2026-11-26T01:29:59.595Z",
+    "xai:aeb52aceb6679ea3": "2026-11-26T01:29:59.595Z"
   },
-  "updatedAt": "2026-11-25T17:46:16.860Z"
+  "updatedAt": "2026-11-26T01:29:59.595Z"
 }

@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "nvidia ai:cd1dc94bd3c131b3",
+      "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "summary": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and... Attention can be a major bottleneck when serving world...",
+      "link": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+      "source": "NVIDIA Technical Blog",
+      "company": "NVIDIA AI",
+      "publishedAt": "2026-11-25T19:30:00.000Z"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-25T18:52:55.000Z"
+    },
+    {
+      "id": "perplexity ai:0f9e945b3bf5379f",
+      "title": "Nov 25, 2026 Freeze the web with Perplexity Time Machine Time Machine adds a date cutoff to the Search API and Context A",
+      "summary": "Nov 25, 2026 Freeze the web with Perplexity Time Machine Time Machine adds a date cutoff to the Search API and Context A",
+      "link": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "id": "perplexity ai:df5b76c78529df91",
+      "title": "Nov 25, 2026 Perplexity Pro now includes weekly Computer usage Run Computer tasks on desktop and mobile with a weekly us",
+      "summary": "Nov 25, 2026 Perplexity Pro now includes weekly Computer usage Run Computer tasks on desktop and mobile with a weekly us",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-pro-now-includes-weekly-computer-usage",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": "2026-11-25T00:00:00.000Z"
+    },
+    {
       "id": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
       "title": "An Indic Voice Agent with CUGA",
       "summary": "An Indic Voice Agent with CUGA",
@@ -1763,43 +1799,7 @@
       "source": "OpenAI News",
       "company": "OpenAI",
       "publishedAt": "2026-11-16T17:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/science-at-the-frontier",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/lvmh-media-division-partnership",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T09:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T08:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T06:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:46:16.863Z"
+  "updatedAt": "2026-11-26T01:29:59.598Z"
 }
