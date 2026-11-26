@@ -732,7 +732,8 @@
     "perplexity ai:0f9e945b3bf5379f",
     "perplexity ai:df5b76c78529df91",
     "xai:392dca10a759ab7c",
-    "xai:aeb52aceb6679ea3"
+    "xai:aeb52aceb6679ea3",
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
   ],
   "seenAt": {
     "be959add1e3f236c1c0a04b0919aa38f042b4622": "2026-09-28T18:24:07.453Z",
@@ -1433,7 +1434,8 @@
     "perplexity ai:0f9e945b3bf5379f": "2026-11-26T01:29:59.595Z",
     "perplexity ai:df5b76c78529df91": "2026-11-26T01:29:59.595Z",
     "xai:392dca10a759ab7c": "2026-11-26T01:29:59.595Z",
-    "xai:aeb52aceb6679ea3": "2026-11-26T01:29:59.595Z"
+    "xai:aeb52aceb6679ea3": "2026-11-26T01:29:59.595Z",
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T10:24:01.486Z"
   },
-  "updatedAt": "2026-11-26T01:29:59.595Z"
+  "updatedAt": "2026-11-26T10:24:01.486Z"
 }

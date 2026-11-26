@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "publishedAt": "2026-11-26T05:05:36.000Z"
+    },
+    {
       "id": "nvidia ai:cd1dc94bd3c131b3",
       "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
       "summary": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and... Attention can be a major bottleneck when serving world...",
@@ -1790,16 +1799,7 @@
       "source": "Perplexity Blog",
       "company": "Perplexity AI",
       "publishedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T01:29:59.598Z"
+  "updatedAt": "2026-11-26T10:24:01.489Z"
 }
