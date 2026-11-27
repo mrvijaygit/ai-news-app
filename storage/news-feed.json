@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "perplexity ai:e17d680441148600",
+      "title": "Research Nov 16, 2026 Introducing Perplexity Frontier Research Our mission and research agenda in advancing autonomous d",
+      "summary": "Research Nov 16, 2026 Introducing Perplexity Frontier Research Our mission and research agenda in advancing autonomous d",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research",
+      "source": "Perplexity Blog",
+      "company": "Perplexity AI",
+      "publishedAt": null
+    },
+    {
       "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -1790,16 +1799,7 @@
       "source": "AWS Machine Learning Blog",
       "company": "AWS AI",
       "publishedAt": "2026-11-16T22:43:30.000Z"
-    },
-    {
-      "id": "4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
-      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "summary": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-16T22:06:08.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T19:57:38.611Z"
+  "updatedAt": "2026-11-27T02:41:33.862Z"
 }
