@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "xai:0df93d3f276c36ce",
+      "title": "Setting Grok Bot loose on procurement",
+      "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
+      "link": "https://x.ai/news/grok-bot-procurement",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:a795c67928ea0c3a",
+      "title": "21 New Flagship Grok Voices",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:6dad33007ff48b3f",
+      "title": "Agent Dashboard in Grok Build",
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "link": "https://x.ai/news/agent-dashboard",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:11603bc1501a6e92",
+      "title": "Custom Voices",
+      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Speech to Speech APIs.",
+      "link": "https://x.ai/news/grok-custom-voices",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:01e3b8304d8cac5f",
+      "title": "Announcing xAI for Government",
+      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+      "link": "https://x.ai/news/government",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:0b42cd3858907903",
+      "title": "Grok 4",
+      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
+      "link": "https://x.ai/news/grok-4",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5a8f9dcef91affc",
+      "title": "Grok 3 Beta — The Age of Reasoning Agents",
+      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+      "link": "https://x.ai/news/grok-3",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:2eb1be0eab97116d",
+      "title": "xAI raises $6B Series C",
+      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+      "link": "https://x.ai/news/series-c",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:8ed876cc63c6ba10",
+      "title": "Bringing Grok to Everyone",
+      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-1212",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:5423ee5e4457fb03",
+      "title": "Grok Image Generation Release",
+      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
+      "link": "https://x.ai/news/grok-image-generation-release",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:653374155ddf34e4",
+      "title": "API Public Beta",
+      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+      "link": "https://x.ai/news/api",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:3e11ccf07939781a",
+      "title": "Grok-2 Beta Release",
+      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
+      "link": "https://x.ai/news/grok-2",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f5eec09fcb832980",
+      "title": "Series B funding round",
+      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
+      "link": "https://x.ai/news/series-b",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:9689f95a1df38884",
+      "title": "Grok-1.5 Vision Preview",
+      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
+      "link": "https://x.ai/news/grok-1.5v",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:f58ce5a98926f521",
+      "title": "Announcing Grok-1.5",
+      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
+      "link": "https://x.ai/news/grok-1.5",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
+      "id": "xai:eb3235d954e50c16",
+      "title": "Open Release of Grok-1",
+      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
+      "link": "https://x.ai/news/grok-os",
+      "source": "xAI Blog",
+      "company": "xAI",
+      "publishedAt": null
+    },
+    {
       "id": "cohere:aaefb6cd4779b84f",
       "title": "Video Intelligence Preview",
       "summary": "Video Intelligence Preview",
@@ -1655,151 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:03b62e9ad296bc89",
-      "title": "Grok goes Global with KSA",
-      "summary": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
-      "link": "https://x.ai/news/grok-goes-global",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:cb89379e9df365fb",
-      "title": "Grok 4.1",
-      "summary": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
-      "link": "https://x.ai/news/grok-4-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:792ef6ba62d36e10",
-      "title": "Expanding xAI for Government with GSA OneGov",
-      "summary": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
-      "link": "https://x.ai/news/onegov",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:349feed19ac68219",
-      "title": "Grok 4 Fast",
-      "summary": "Pushing the Frontier of Cost-Efficient Intelligence",
-      "link": "https://x.ai/news/grok-4-fast",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:07bfdcfb3e2da3ae",
-      "title": "Grok Code Fast 1",
-      "summary": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
-      "link": "https://x.ai/news/grok-code-fast-1",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "ee885e976078b822d4c433d3bc4bee17caaff98f",
-      "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
-      "summary": "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-17T18:48:50.000Z"
-    },
-    {
-      "id": "55fd3d9060dc84442ff007934ddf9a781e246ca4",
-      "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
-      "summary": "OpenTSLM, an open source family of time-series language models, is now available in Amazon SageMaker JumpStart. See how Nexthink and Aionic Labs apply it to proactive IT support, then deploy OpenTSLM to a real-time...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-17T18:06:44.000Z"
-    },
-    {
-      "id": "869be9515dd4a9d6d29ada060383aebbdf19f1d9",
-      "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
-      "summary": "LoanPro worked with AWS Partner AllCloud and the AWS Generative AI Innovation Center to build a multi-agent AI assistant on Amazon Bedrock and Amazon Bedrock AgentCore. It gives loan servicing agents instant borrower...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-17T17:01:08.000Z"
-    },
-    {
-      "id": "880ddd5d6ca4ac6c3010cbbe57b7883439fc2199",
-      "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
-      "summary": "Enterprises adopting agentic AI at scale need platforms that embed responsible AI from the start. This post gives platform and application teams a three-phase roadmap (governance foundation, pilot deployment, and...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-17T16:56:31.000Z"
-    },
-    {
-      "id": "nvidia ai:ec5d3482281f698d",
-      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
-      "summary": "Agentic workloads, long documents, and large codebases are pushing context lengths from tens of thousands of tokens to hundreds of thousands. At those lengths,... Agentic workloads, long documents, and large codebases...",
-      "link": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
-      "source": "NVIDIA Technical Blog",
-      "company": "NVIDIA AI",
-      "publishedAt": "2026-11-17T17:30:00.000Z"
-    },
-    {
-      "id": "perplexity ai:04a4fea0b5212bd3",
-      "title": "Ideas Nov 9, 2026 AI memory: what it is, how it works, and what it stores A guide to AI memory: how AI assistants save a",
-      "summary": "Ideas Nov 9, 2026 AI memory: what it is, how it works, and what it stores A guide to AI memory: how AI assistants save a",
-      "link": "https://www.perplexity.ai/hub/blog/ai-memory",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:1472f5d186fbca74",
-      "title": "News Nov 17, 2026 Introducing Multiagent for the most complex work Perplexity Computer’s Multiagent effort level coordin",
-      "summary": "News Nov 17, 2026 Introducing Multiagent for the most complex work Perplexity Computer’s Multiagent effort level coordin",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:119c28a1fa13799f",
-      "title": "Developers Nov 17, 2026 Orchestrator: One API for reliable inference Connect to open-weight and proprietary AI models th",
-      "summary": "Developers Nov 17, 2026 Orchestrator: One API for reliable inference Connect to open-weight and proprietary AI models th",
-      "link": "https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": null
-    },
-    {
-      "id": "perplexity ai:6aa730c0545e593a",
-      "title": "Nov 17, 2026 Introducing Orchestrator: One API for frontier and open-weight models Perplexity Orchestrator provides acce",
-      "summary": "Nov 17, 2026 Introducing Orchestrator: One API for frontier and open-weight models Perplexity Orchestrator provides acce",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-orchestrator",
-      "source": "Perplexity Blog",
-      "company": "Perplexity AI",
-      "publishedAt": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "id": "https://openai.com/business/customer-stories/revolut",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T09:30:00.000Z"
-    },
-    {
-      "id": "xai:f71d88029bf9681b",
-      "title": "Memory in Grok Build",
-      "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
-      "link": "https://x.ai/news/grok-build-memory",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
     }
   ],
-  "updatedAt": "2026-11-28T03:03:04.026Z"
+  "updatedAt": "2026-11-28T12:40:10.502Z"
 }
