@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "cohere:aaefb6cd4779b84f",
+      "title": "Video Intelligence Preview",
+      "summary": "Video Intelligence Preview",
+      "link": "https://cohere.com/blog/video-intelligence-preview",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:2e0c617606b57c53",
+      "title": "The Cohere Platform Is Now Publicly Available 2",
+      "summary": "The Cohere Platform Is Now Publicly Available 2",
+      "link": "https://cohere.com/blog/the-cohere-platform-is-now-publicly-available-2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:4a7ff2f77ebe1c4f",
+      "title": "Llm Use Cases P2",
+      "summary": "Llm Use Cases P2",
+      "link": "https://cohere.com/blog/llm-use-cases-p2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:27f76db407dd1b89",
+      "title": "Generative Ai Future Or Present",
+      "summary": "Generative Ai Future Or Present",
+      "link": "https://cohere.com/blog/generative-ai-future-or-present",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:20b84252dcdbddb3",
+      "title": "Search Cohere Langchain",
+      "summary": "Search Cohere Langchain",
+      "link": "https://cohere.com/blog/search-cohere-langchain",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:c255ebdfef0fbd16",
+      "title": "Llm University Deployment",
+      "summary": "Llm University Deployment",
+      "link": "https://cohere.com/blog/llm-university-deployment",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:7621be8b3e739da1",
+      "title": "Llm University New Modules",
+      "summary": "Llm University New Modules",
+      "link": "https://cohere.com/blog/llm-university-new-modules",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:d62db86721b096e5",
+      "title": "How To Choose The Right Ai Model For Your Enterprise",
+      "summary": "How To Choose The Right Ai Model For Your Enterprise",
+      "link": "https://cohere.com/blog/how-to-choose-the-right-ai-model-for-your-enterprise",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:5ce607b6a6e34359",
+      "title": "Behind The Scenes Of Enterprise Ai Powering Ai Assistants",
+      "summary": "Behind The Scenes Of Enterprise Ai Powering Ai Assistants",
+      "link": "https://cohere.com/blog/behind-the-scenes-of-enterprise-ai-powering-ai-assistants",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:d7fc28b1952f51e0",
+      "title": "Struggling To Pick The Right Ai Model Lets Break It Down",
+      "summary": "Struggling To Pick The Right Ai Model Lets Break It Down",
+      "link": "https://cohere.com/blog/struggling-to-pick-the-right-ai-model-lets-break-it-down",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:9c628eb164220558",
+      "title": "Commonly Asked Questions About Search From Coheres Enterprise Customers",
+      "summary": "Commonly Asked Questions About Search From Coheres Enterprise Customers",
+      "link": "https://cohere.com/blog/commonly-asked-questions-about-search-from-coheres-enterprise-customers",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:471549d53996c861",
+      "title": "How Llms Can Boost Legal Productivity With Accuracy And Privacy",
+      "summary": "How Llms Can Boost Legal Productivity With Accuracy And Privacy",
+      "link": "https://cohere.com/blog/how-llms-can-boost-legal-productivity-with-accuracy-and-privacy",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:494d16bf63c3b15f",
+      "title": "Mastering Language Model Adoption Five Key Areas For Enterprise Success",
+      "summary": "Mastering Language Model Adoption Five Key Areas For Enterprise Success",
+      "link": "https://cohere.com/blog/mastering-language-model-adoption-five-key-areas-for-enterprise-success",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:1d4a9bd7b4062f67",
+      "title": "Co Aws Llmu",
+      "summary": "Co Aws Llmu",
+      "link": "https://cohere.com/blog/co-aws-llmu",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:4c285f0ff1d50ab9",
+      "title": "How Enterprises Can Start Building Agentic Ai",
+      "summary": "How Enterprises Can Start Building Agentic Ai",
+      "link": "https://cohere.com/blog/how-enterprises-can-start-building-agentic-ai",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:57b3f4d7cdea6e8d",
+      "title": "Embeddings",
+      "summary": "Embeddings",
+      "link": "https://cohere.com/blog/embeddings",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:653382129d3951f7",
+      "title": "Embedding Models",
+      "summary": "Embedding Models",
+      "link": "https://cohere.com/blog/embedding-models",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "cohere:82d1ca26320f413a",
+      "title": "The Promise Of Secure Ai Agents 2",
+      "summary": "The Promise Of Secure Ai Agents 2",
+      "link": "https://cohere.com/blog/the-promise-of-secure-ai-agents-2",
+      "source": "Cohere Blog",
+      "company": "Cohere",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
       "id": "perplexity ai:e17d680441148600",
       "title": "Research Nov 16, 2026 Introducing Perplexity Frontier Research Our mission and research agenda in advancing autonomous d",
       "summary": "Research Nov 16, 2026 Introducing Perplexity Frontier Research Our mission and research agenda in advancing autonomous d",
@@ -1637,169 +1799,7 @@
       "source": "xAI Blog",
       "company": "xAI",
       "publishedAt": null
-    },
-    {
-      "id": "xai:a795c67928ea0c3a",
-      "title": "21 New Flagship Grok Voices",
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
-      "link": "https://x.ai/news/new-flagship-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:6dad33007ff48b3f",
-      "title": "Agent Dashboard in Grok Build",
-      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
-      "link": "https://x.ai/news/agent-dashboard",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:11603bc1501a6e92",
-      "title": "Custom Voices",
-      "summary": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Speech to Speech APIs.",
-      "link": "https://x.ai/news/grok-custom-voices",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:01e3b8304d8cac5f",
-      "title": "Announcing xAI for Government",
-      "summary": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
-      "link": "https://x.ai/news/government",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:0b42cd3858907903",
-      "title": "Grok 4",
-      "summary": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also...",
-      "link": "https://x.ai/news/grok-4",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5a8f9dcef91affc",
-      "title": "Grok 3 Beta — The Age of Reasoning Agents",
-      "summary": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
-      "link": "https://x.ai/news/grok-3",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:2eb1be0eab97116d",
-      "title": "xAI raises $6B Series C",
-      "summary": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
-      "link": "https://x.ai/news/series-c",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "source": "OpenAI News",
-      "company": "OpenAI",
-      "publishedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "xai:0df93d3f276c36ce",
-      "title": "Setting Grok Bot loose on procurement",
-      "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
-      "link": "https://x.ai/news/grok-bot-procurement",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:8ed876cc63c6ba10",
-      "title": "Bringing Grok to Everyone",
-      "summary": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-1212",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:5423ee5e4457fb03",
-      "title": "Grok Image Generation Release",
-      "summary": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
-      "link": "https://x.ai/news/grok-image-generation-release",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:653374155ddf34e4",
-      "title": "API Public Beta",
-      "summary": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
-      "link": "https://x.ai/news/api",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:3e11ccf07939781a",
-      "title": "Grok-2 Beta Release",
-      "summary": "We announce our new Grok-2 and Grok-2 mini models.",
-      "link": "https://x.ai/news/grok-2",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f5eec09fcb832980",
-      "title": "Series B funding round",
-      "summary": "xAI is pleased to announce our series B funding round of $6 billion.",
-      "link": "https://x.ai/news/series-b",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:9689f95a1df38884",
-      "title": "Grok-1.5 Vision Preview",
-      "summary": "Connecting the digital and physical worlds with our first multimodal model.",
-      "link": "https://x.ai/news/grok-1.5v",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:f58ce5a98926f521",
-      "title": "Announcing Grok-1.5",
-      "summary": "Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.",
-      "link": "https://x.ai/news/grok-1.5",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "xai:eb3235d954e50c16",
-      "title": "Open Release of Grok-1",
-      "summary": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
-      "link": "https://x.ai/news/grok-os",
-      "source": "xAI Blog",
-      "company": "xAI",
-      "publishedAt": null
-    },
-    {
-      "id": "6d1ff2e4339ff5c12febb03d6586784822aa87ad",
-      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-      "summary": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a...",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-      "source": "AWS Machine Learning Blog",
-      "company": "AWS AI",
-      "publishedAt": "2026-11-16T22:43:30.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T02:41:33.862Z"
+  "updatedAt": "2026-11-28T03:03:04.026Z"
 }
